@@ -1,0 +1,36 @@
+# 演者リスト（このファイルに行を追加するだけで新演者が運用に乗る）
+#
+# 各フィールド:
+#   name           : 演者名（accounts/{name}/ ディレクトリ名と一致）
+#   token_env      : threads-auto-af tokenを格納する環境変数名（routine側に設定）
+#   master         : 100本の予想ランク付きJSON（routineから見たrelative path）
+#   account_setting: アカウント設定md（演者キャラ・固定CTA等）
+#   start_date     : 投稿開始日（YYYY-MM-DD JST）
+#   end_date       : 投稿完走日（この日以降にanalyzeフェーズが動く）
+#   enabled        : true=cron対象 / false=無効
+#   notes          : 自由メモ
+
+accounts:
+  - name: ハクオウ
+    token_env: HAKUOO_TOKEN
+    master: accounts/ハクオウ/master_100posts_ranked.json
+    account_setting: accounts/ハクオウ/アカウント設定.md
+    start_date: 2026-05-04
+    end_date: 2026-05-13
+    enabled: true
+    notes: 1日10本×10日 = 100本セット（5/4-5/13）
+
+  # 演者追加例（コピペで増やす）:
+  # - name: あや
+  #   token_env: AYA_TOKEN
+  #   master: accounts/あや/master_*.json
+  #   account_setting: accounts/あや/アカウント設定.md
+  #   start_date: 2026-05-XX
+  #   end_date: 2026-05-XX
+  #   enabled: false
+  #   notes: 立ち上げ準備中
+
+# routine 動作:
+#   3日に1回（月曜・木曜・日曜の09:00 JST）にこのファイルを読んで、
+#   enabled: true の各演者について fetch→analyze→generate→post を実行。
+#   詳細は note_tools/run_3day_cycle.py を参照。
