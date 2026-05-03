@@ -79,8 +79,9 @@ def run_analyze(account):
 
 
 def is_completed(account):
-    """end_dateを過ぎているか"""
-    end_date = datetime.fromisoformat(account["end_date"]).replace(tzinfo=JST)
+    """end_dateを過ぎているか（YAMLが date 型を返すケースに対応）"""
+    end_date_str = str(account["end_date"])
+    end_date = datetime.fromisoformat(end_date_str).replace(tzinfo=JST)
     return datetime.now(tz=JST) > end_date
 
 
