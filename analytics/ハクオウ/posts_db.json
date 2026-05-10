@@ -99,94 +99,19 @@
       "period_days": 7,
       "total_posts": 61,
       "avg_impressions": 620
+    },
+    {
+      "fetched_at": "2026-05-10T02:44:54+09:00",
+      "period_days": 7,
+      "total_posts": 0,
+      "avg_impressions": null
     }
   ],
   "latest_summary": {
-    "fetched_at": "2026-05-07T02:40:26+09:00",
-    "time_analysis": {
-      "best_hours": [
-        5,
-        19,
-        20
-      ],
-      "worst_hours": [
-        13,
-        12
-      ],
-      "hour_breakdown": {
-        "0": {
-          "count": 3,
-          "avg_views": 687
-        },
-        "5": {
-          "count": 1,
-          "avg_views": 1040
-        },
-        "7": {
-          "count": 1,
-          "avg_views": 741
-        },
-        "11": {
-          "count": 5,
-          "avg_views": 508
-        },
-        "12": {
-          "count": 3,
-          "avg_views": 353
-        },
-        "13": {
-          "count": 3,
-          "avg_views": 250
-        },
-        "14": {
-          "count": 6,
-          "avg_views": 472
-        },
-        "18": {
-          "count": 6,
-          "avg_views": 668
-        },
-        "19": {
-          "count": 6,
-          "avg_views": 895
-        },
-        "20": {
-          "count": 6,
-          "avg_views": 887
-        },
-        "21": {
-          "count": 6,
-          "avg_views": 484
-        },
-        "22": {
-          "count": 9,
-          "avg_views": 641
-        },
-        "23": {
-          "count": 6,
-          "avg_views": 570
-        }
-      }
-    },
-    "type_analysis": {
-      "normal_count": 2,
-      "normal_avg_views": 891,
-      "thread_count": 59,
-      "thread_avg_views": 611,
-      "winner": "normal"
-    },
-    "hooks_analysis": {
-      "worked": [
-        "別れた男の半数以上は、別れて2〜4週間で『連絡したい』が一度はピークに来てる。でも自分から連絡することは絶対にない。男のプライドは、振った側であっても自分から動くのを拒否する。だから待ってるだけだと、",
-        "「友達からやり直すのが安全」は嘘。",
-        "男は、「好きだった相手」と簡単に友達みたいな関係には戻れない"
-      ],
-      "failed": [
-        "男性って別れてから少し経つと急に「戻りたい、元カノ懐かしい」ってなるらしい",
-        "断言するけど、振った側も、あとから『失った』って実感する瞬間はあるぞ。",
-        "復縁できないLINEには、共通の地雷がある。長すぎる文／謝罪が含まれる／質問が複数／感情の言葉が3個以上。これが1通に2つ以上重なると、彼の脳は読み終わる前に『重い』と処理して、その印象が固定化される。"
-      ]
-    },
-    "ai_summary": "直近7日間で61本のポストが分析されました。投稿形式は通常ポスト（normal）の方が連投型（thread）よりも平均インプが約1.5倍高く、単発での訴求がウケています。投稿時間帯としては 5時台, 19時台, 20時台が特にパフォーマンスが高く狙い目です。逆に 13時台, 12時台の反応は比較的鈍いため避けるのが無難です。"
+    "fetched_at": "2026-05-10T02:44:54+09:00",
+    "time_analysis": null,
+    "type_analysis": null,
+    "hooks_analysis": null,
+    "ai_summary": null
   }
 }
