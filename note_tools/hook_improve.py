@@ -276,18 +276,21 @@ def run(actor):
 
     client = anthropic.Anthropic(api_key=api_key)
 
-    print(f"  Claude API 呼び出し中（claude-sonnet-4-6）...")
-    response = client.messages.create(
+    print(f"  Claude API 呼び出し中（claude-sonnet-4-6、ストリーミング）...")
+    raw_text = ""
+    with client.messages.stream(
         model="claude-sonnet-4-6",
         max_tokens=32000,
         system=system,
         messages=messages,
-    )
+    ) as stream:
+        for text in stream.text_stream:
+            raw_text += text
+        final_message = stream.get_final_message()
 
-    raw_text = response.content[0].text
     print(f"  レスポンス受信: {len(raw_text)}文字")
 
-    usage = response.usage
+    usage = final_message.usage
     print(f"  トークン: input={usage.input_tokens}, output={usage.output_tokens}")
     if hasattr(usage, 'cache_creation_input_tokens'):
         print(f"  キャッシュ: creation={usage.cache_creation_input_tokens}, read={usage.cache_read_input_tokens}")
