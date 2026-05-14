@@ -40,19 +40,36 @@ def load_json(path):
         return json.load(f)
 
 
-def find_next_start_date(posts_db):
-    """起点：『最新投稿日の翌日』と『明日』のうち、より未来のほう。
-    過去日時を生成して threads-auto-af 側で弾かれるのを防ぐ。"""
+def find_next_start_date(posts_db, prev_batch_path=None):
+    """起点候補（最も未来のものを採用）:
+    1. 明日（過去日時を生成しないため）
+    2. 過去投稿の最新日 + 1（posts_db.json）
+    3. 前回バッチの最終スケジュール日 + 1（next_batch.json、3日サイクル累積防止）"""
     tomorrow = datetime.now(tz=JST).replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(days=1)
-    latest = None
+    candidates = [tomorrow]
+
+    latest_posted = None
     for p in posts_db.get("posts", {}).values():
         dt = datetime.fromisoformat(p["posted_at"]).astimezone(JST)
-        if latest is None or dt > latest:
-            latest = dt
-    if latest is None:
-        return tomorrow
-    next_after_latest = (latest + timedelta(days=1)).replace(hour=0, minute=0, second=0, microsecond=0)
-    return max(next_after_latest, tomorrow)
+        if latest_posted is None or dt > latest_posted:
+            latest_posted = dt
+    if latest_posted:
+        candidates.append((latest_posted + timedelta(days=1)).replace(hour=0, minute=0, second=0, microsecond=0))
+
+    if prev_batch_path and os.path.exists(prev_batch_path):
+        with open(prev_batch_path, encoding='utf-8') as f:
+            prev = json.load(f)
+        latest_scheduled = None
+        for p in prev.get("posts", []):
+            if not p.get("scheduled_at"):
+                continue
+            dt = datetime.fromisoformat(p["scheduled_at"]).astimezone(JST)
+            if latest_scheduled is None or dt > latest_scheduled:
+                latest_scheduled = dt
+        if latest_scheduled:
+            candidates.append((latest_scheduled + timedelta(days=1)).replace(hour=0, minute=0, second=0, microsecond=0))
+
+    return max(candidates)
 
 
 def generate_schedule(start_date, days=3, per_day=10):
@@ -268,7 +285,8 @@ def run(actor):
     performance_summary = extract_performance_summary(posts_db)
     print(f"  実績サマリー抽出完了（{len(posts_db.get('posts', {}))}本）")
 
-    start_date = find_next_start_date(posts_db)
+    prev_batch_path = os.path.join(analytics_dir, "next_batch.json")
+    start_date = find_next_start_date(posts_db, prev_batch_path)
     schedule_slots = generate_schedule(start_date)
     print(f"  スケジュール生成: {start_date.strftime('%Y-%m-%d')} 〜 {(start_date + timedelta(days=2)).strftime('%Y-%m-%d')}")
 
