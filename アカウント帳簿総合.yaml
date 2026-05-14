@@ -1,4 +1,4 @@
-# 演者リスト（このファイルに行を追加するだけで新演者が運用に乗る）
+# アカウント帳簿総合（このファイルに行を追加するだけで新演者が運用に乗る）
 #
 # 各フィールド:
 #   name           : 演者名（accounts/{name}/ ディレクトリ名と一致）
@@ -14,7 +14,7 @@ accounts:
   - name: ハクオウ
     token_env: HAKUOO_TOKEN
     master: accounts/ハクオウ/master_100posts_ranked.json
-    account_setting: accounts/ハクオウ/アカウント設定.md
+    account_setting: accounts/ハクオウ/アカウント情報総合管理.md
     start_date: 2026-05-04
     end_date: 2026-05-13
     enabled: true
@@ -24,7 +24,7 @@ accounts:
   # - name: あや
   #   token_env: AYA_TOKEN
   #   master: accounts/あや/master_*.json
-  #   account_setting: accounts/あや/アカウント設定.md
+  #   account_setting: accounts/あや/アカウント情報総合管理.md
   #   start_date: 2026-05-XX
   #   end_date: 2026-05-XX
   #   enabled: false
@@ -32,5 +32,14 @@ accounts:
 
 # routine 動作:
 #   3日に1回（月曜・木曜・日曜の09:00 JST）にこのファイルを読んで、
-#   enabled: true の各演者について fetch→analyze→generate→post を実行。
+#   enabled: true の各演者について fetch→analyze→hook_improve→post を実行。
 #   詳細は note_tools/run_3day_cycle.py を参照。
+#
+# 新演者の追加手順:
+#   1. このファイルにアカウント追加
+#   2. accounts/{name}/アカウント情報総合管理.md を作成（キャラ・商品・CTA・API・ループ設定すべて）
+#   3. GitHub Secrets に TOKEN 環境変数を追加
+#   4. enabled: true にする
+#   ※ evaluation_criteria.md / target_research.md は knowledge/shared/ を全演者で共有
+#     （ターゲットは共通＝復縁したい女性。違うのはキャラと商品だけ）
+#     アカウント固有版が必要な場合のみ knowledge/{name}/ に置けば優先される

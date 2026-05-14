@@ -2,7 +2,7 @@
 """
 3日サイクル run（routineエントリポイント）
 ==========================================
-accounts.yaml を読んで、enabled: true の全演者について以下を実行：
+アカウント帳簿総合.yaml を読んで、enabled: true の全演者について以下を実行：
 
 1. fetch: threads-auto-af の ai-report 取得 → posts_db.json 蓄積
 2. analyze: 仮説 vs 実績の照合分析 → analysis_{日付}.md 出力
@@ -31,7 +31,7 @@ from datetime import datetime, timezone, timedelta
 sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-ACCOUNTS_YAML = os.path.join(ROOT, "accounts.yaml")
+ACCOUNTS_YAML = os.path.join(ROOT, "アカウント帳簿総合.yaml")
 JST = timezone(timedelta(hours=9))
 
 
@@ -85,18 +85,43 @@ def is_completed(account):
     return datetime.now(tz=JST) > end_date
 
 
-def write_generation_marker(account):
-    """次サイクルの生成タスクが必要なことを示すマーカーを残す"""
+def run_hook_improve(account):
+    """フック分析＋次バッチ自動生成（Claude API）"""
     name = account["name"]
-    marker_dir = os.path.join(ROOT, f"accounts/{name}")
-    os.makedirs(marker_dir, exist_ok=True)
-    marker_path = os.path.join(marker_dir, "next_generation_needed.txt")
-    with open(marker_path, 'w', encoding='utf-8') as f:
-        f.write(f"投稿完走済（{account['end_date']}）。\n")
-        f.write(f"次の30本（or 100本）生成タスクが必要。\n")
-        f.write(f"routine 側で恋愛系AIポスト作成 Skill を呼び出して新規生成→threads-auto-af 投稿。\n")
-        f.write(f"\nmarker出力日時: {datetime.now(tz=JST).isoformat()}\n")
-    print(f"  📌 next_generation_needed.txt 出力")
+    if not os.environ.get("ANTHROPIC_API_KEY"):
+        print(f"  ⚠ ANTHROPIC_API_KEY 未設定 → hook_improve スキップ")
+        return False
+    cmd = ["python", os.path.join(ROOT, "note_tools/hook_improve.py"), name]
+    print(f"  [hook_improve] {' '.join(cmd)}")
+    result = subprocess.run(cmd, capture_output=True, text=True, cwd=ROOT)
+    if result.returncode != 0:
+        print(f"  ✗ hook_improve失敗: {result.stderr[:500]}")
+        return False
+    if result.stdout:
+        for line in result.stdout.strip().split('\n'):
+            print(f"    {line}")
+    print(f"  ✓ hook_improve完了")
+    return True
+
+
+def run_schedule(account, token):
+    """生成したバッチを threads-auto-af に予約投稿"""
+    name = account["name"]
+    batch_path = os.path.join(ROOT, f"analytics/{name}/next_batch.json")
+    if not os.path.exists(batch_path):
+        print(f"  ⚠ next_batch.json なし → schedule スキップ")
+        return False
+    cmd = ["python", os.path.join(ROOT, "note_tools/schedule_posts.py"), name, token]
+    print(f"  [schedule] {name}: 予約投稿中...")
+    result = subprocess.run(cmd, capture_output=True, text=True, cwd=ROOT)
+    if result.returncode != 0:
+        print(f"  ✗ schedule失敗: {result.stderr[:500]}")
+        return False
+    if result.stdout:
+        for line in result.stdout.strip().split('\n'):
+            print(f"    {line}")
+    print(f"  ✓ schedule完了")
+    return True
 
 
 def main():
@@ -123,11 +148,10 @@ def main():
         # 2. analyze
         run_analyze(account)
 
-        # 3. 完走判定 → 次サイクル生成タスクのマーカー
-        if is_completed(account):
-            write_generation_marker(account)
-        else:
-            print(f"  ⏳ まだ投稿期間中（end={account['end_date']}）")
+        # 3. hook_improve（フック分析＋次バッチ生成）
+        if run_hook_improve(account):
+            # 4. schedule（生成したバッチを予約投稿）
+            run_schedule(account, token)
 
         print()
 

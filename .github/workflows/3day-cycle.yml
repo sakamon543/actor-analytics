@@ -27,6 +27,7 @@ jobs:
       - name: Run 3day cycle
         env:
           HAKUOO_TOKEN: ${{ secrets.HAKUOO_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python note_tools/run_3day_cycle.py
 
       - name: Commit and push results
