@@ -95,7 +95,8 @@ def run_hook_improve(account):
     print(f"  [hook_improve] {' '.join(cmd)}")
     result = subprocess.run(cmd, capture_output=True, text=True, cwd=ROOT)
     if result.returncode != 0:
-        print(f"  ✗ hook_improve失敗: {result.stderr[:500]}")
+        print(f"  ✗ hook_improve失敗:")
+        print(result.stderr)
         return False
     if result.stdout:
         for line in result.stdout.strip().split('\n'):
@@ -115,7 +116,8 @@ def run_schedule(account, token):
     print(f"  [schedule] {name}: 予約投稿中...")
     result = subprocess.run(cmd, capture_output=True, text=True, cwd=ROOT)
     if result.returncode != 0:
-        print(f"  ✗ schedule失敗: {result.stderr[:500]}")
+        print(f"  ✗ schedule失敗:")
+        print(result.stderr)
         return False
     if result.stdout:
         for line in result.stdout.strip().split('\n'):
