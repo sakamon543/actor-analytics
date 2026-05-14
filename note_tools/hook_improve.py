@@ -41,15 +41,18 @@ def load_json(path):
 
 
 def find_next_start_date(posts_db):
-    """posts_db の最新投稿日の翌日を起点にする"""
+    """起点：『最新投稿日の翌日』と『明日』のうち、より未来のほう。
+    過去日時を生成して threads-auto-af 側で弾かれるのを防ぐ。"""
+    tomorrow = datetime.now(tz=JST).replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(days=1)
     latest = None
     for p in posts_db.get("posts", {}).values():
         dt = datetime.fromisoformat(p["posted_at"]).astimezone(JST)
         if latest is None or dt > latest:
             latest = dt
     if latest is None:
-        return datetime.now(tz=JST).replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(days=1)
-    return (latest + timedelta(days=1)).replace(hour=0, minute=0, second=0, microsecond=0)
+        return tomorrow
+    next_after_latest = (latest + timedelta(days=1)).replace(hour=0, minute=0, second=0, microsecond=0)
+    return max(next_after_latest, tomorrow)
 
 
 def generate_schedule(start_date, days=3, per_day=10):

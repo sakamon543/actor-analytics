@@ -79,7 +79,13 @@ def main():
     if status == 200 or status == 201:
         print(f"  ✓ 予約完了 (HTTP {status})")
         if isinstance(result, dict):
-            print(f"  レスポンス: {json.dumps(result, ensure_ascii=False)[:300]}")
+            added = result.get("added", "?")
+            print(f"  追加: {added}本 / 送信: {n_posts}本")
+            skipped = result.get("skipped") or []
+            if skipped:
+                print(f"  スキップ理由（{len(skipped)}件）:")
+                for s in skipped:
+                    print(f"    - {s}")
     else:
         print(f"  ✗ 予約失敗 (HTTP {status})")
         print(f"  エラー: {result}")
