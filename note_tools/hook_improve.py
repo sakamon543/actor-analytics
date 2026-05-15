@@ -205,7 +205,7 @@ def build_messages(actor, eval_criteria, target_research, account_setting, perfo
       "hook_structure": "セクション7のパターン名",
       "scheduled_at": "ISO8601",
       "text": "フック＋本文（100〜150字）",
-      "thread": ["ぶら下げ本文（3〜4段落）＋固定CTA"],
+      "thread": ["1要素のみ。3〜4段落（\\n\\nで段落区切り）の本文の最後に固定CTAを付けた1つの文字列。配列に複数要素を入れないこと（複数入れると別リプライとして連鎖投稿される）"],
       "evaluation": {{
         "q1": "どの会話に入るか（1文）",
         "q2": "前提知識の確認（1文）",
@@ -326,7 +326,17 @@ def run(actor):
         print(f"  生レスポンスを {error_path} に保存")
         sys.exit(1)
 
-    n_posts = len(result.get("posts", []))
+    posts = result.get("posts", [])
+    merged_count = 0
+    for p in posts:
+        thread = p.get("thread")
+        if isinstance(thread, list) and len(thread) > 1:
+            p["thread"] = ["\n\n".join(t for t in thread if isinstance(t, str) and t.strip())]
+            merged_count += 1
+    if merged_count > 0:
+        print(f"  ⚠ {merged_count}本のthreadを複数要素→1要素に正規化（2連型固定）")
+
+    n_posts = len(posts)
     print(f"  生成完了: {n_posts}本")
 
     output = {
