@@ -85,12 +85,51 @@ def is_completed(account):
     return datetime.now(tz=JST) > end_date
 
 
+def cycle_state_path(actor):
+    return os.path.join(ROOT, f"analytics/{actor}/cycle_state.json")
+
+
+def load_cycle_state(actor):
+    p = cycle_state_path(actor)
+    if not os.path.exists(p):
+        return {}
+    try:
+        with open(p, encoding='utf-8') as f:
+            return json.load(f)
+    except json.JSONDecodeError:
+        return {}
+
+
+def save_cycle_state(actor, state):
+    p = cycle_state_path(actor)
+    os.makedirs(os.path.dirname(p), exist_ok=True)
+    with open(p, 'w', encoding='utf-8') as f:
+        json.dump(state, f, ensure_ascii=False, indent=2)
+
+
+def should_run_today(account, today):
+    """このアカウントを今日サイクル実行すべきか判定。
+    - last_cycle_at が記録あり: today - last_cycle_at >= 3日
+    - 初回（記録なし）: today - start_date >= 3日（最初の3日分のデータが溜まったタイミング）"""
+    state = load_cycle_state(account["name"])
+    last_cycle = state.get("last_cycle_at")
+    if last_cycle:
+        last_date = datetime.fromisoformat(str(last_cycle)).date()
+        return (today - last_date).days >= 3, f"前回サイクル {last_date} から{(today - last_date).days}日経過"
+    start_date = datetime.fromisoformat(str(account["start_date"])).date()
+    diff = (today - start_date).days
+    return diff >= 3, f"初回サイクル候補: start_date {start_date} から {diff}日経過"
+
+
+def mark_cycle_completed(actor, today):
+    state = load_cycle_state(actor)
+    state["last_cycle_at"] = today.isoformat()
+    save_cycle_state(actor, state)
+
+
 def run_hook_improve(account):
-    """フック分析＋次バッチ自動生成（Claude API）"""
+    """フック分析＋次バッチ自動生成（Claude Code経由）"""
     name = account["name"]
-    if not os.environ.get("ANTHROPIC_API_KEY"):
-        print(f"  ⚠ ANTHROPIC_API_KEY 未設定 → hook_improve スキップ")
-        return False
     cmd = ["python", os.path.join(ROOT, "note_tools/hook_improve.py"), name]
     print(f"  [hook_improve] {' '.join(cmd)}")
     result = subprocess.run(cmd, capture_output=True, text=True, cwd=ROOT)
@@ -127,18 +166,32 @@ def run_schedule(account, token):
 
 
 def main():
-    print(f"=== 3日サイクル開始: {datetime.now(tz=JST).isoformat()} ===\n")
+    now = datetime.now(tz=JST)
+    today = now.date()
+    print(f"=== 3日サイクル開始: {now.isoformat()} ===\n")
 
     if not os.path.exists(ACCOUNTS_YAML):
         print(f"ERROR: {ACCOUNTS_YAML} が見つかりません")
         sys.exit(1)
 
     accounts = load_accounts()
-    print(f"対象演者: {len(accounts)}件\n")
+    print(f"enabled演者: {len(accounts)}件\n")
+
+    ran_count = 0
+    skipped_count = 0
 
     for account in accounts:
         name = account["name"]
-        print(f"--- {name} ---")
+        should_run, reason = should_run_today(account, today)
+        if not should_run:
+            print(f"--- {name} スキップ ---")
+            print(f"  理由: {reason}（3日未満なのでサイクル不要）")
+            print()
+            skipped_count += 1
+            continue
+
+        print(f"--- {name} 実行 ---")
+        print(f"  判定: {reason}")
         token = get_token(account)
         if not token:
             continue
@@ -155,9 +208,13 @@ def main():
             # 4. schedule（生成したバッチを予約投稿）
             run_schedule(account, token)
 
+        # 完了マーキング（途中で fetch 等失敗しても今日走ったとする＝3日空けて再試行）
+        mark_cycle_completed(name, today)
+        ran_count += 1
         print()
 
     print(f"=== 3日サイクル完了: {datetime.now(tz=JST).isoformat()} ===")
+    print(f"  実行: {ran_count}件 / スキップ: {skipped_count}件")
 
 
 if __name__ == "__main__":
