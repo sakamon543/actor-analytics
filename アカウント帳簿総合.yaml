@@ -20,6 +20,15 @@ accounts:
     enabled: true
     notes: 1日10本×10日 = 100本セット（5/4-5/13）
 
+  - name: うみこ
+    token_env: UMIKO_TOKEN
+    master: accounts/うみこ/master_100posts_ranked.json
+    account_setting: accounts/うみこ/アカウント情報総合管理.md
+    start_date: 2026-05-16
+    end_date: 2026-06-15
+    enabled: true
+    notes: 既存運用中アカウントを取り込み（2026-05-16）。1日10本×30日（3周ローテ）。商品=回避型男の脳取扱説明書¥2,980
+
   # 演者追加例（コピペで増やす）:
   # - name: あや
   #   token_env: AYA_TOKEN
