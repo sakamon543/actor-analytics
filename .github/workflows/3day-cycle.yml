@@ -1,13 +1,10 @@
 name: 3day-cycle
 
 on:
-  schedule:
-    # UTC 月木日 00:00 = JST 月木日 09:00（≒3日サイクル）
-    - cron: '0 0 * * 1,4,0'
-  workflow_dispatch:  # 手動実行可（GitHub Actions タブから）
-  push:
-    paths:
-      - '.trigger'    # `.trigger` ファイルの内容変更をpushすると即時実行（CLIから起動するため）
+  # cron は VPS（さくらVPS）に移行済み（2026-05-16）。GitHub Actions は手動実行のみのバックアップ経路として残す。
+  # schedule:
+  #   - cron: '0 0 * * 1,4,0'
+  workflow_dispatch:  # 手動実行可（GitHub Actions タブから・緊急バックアップ用）
 
 permissions:
   contents: write  # git push に必要
