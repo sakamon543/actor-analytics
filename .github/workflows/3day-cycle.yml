@@ -26,7 +26,8 @@ jobs:
 
       - name: Run 3day cycle
         env:
-          HAKUOO_TOKEN: ${{ secrets.HAKUOO_TOKEN }}
+          # 全Secretsを1つのJSONで渡す（新アカウント追加時にworkflow YAML編集不要）
+          ALL_SECRETS_JSON: ${{ toJSON(secrets) }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python note_tools/run_3day_cycle.py
 

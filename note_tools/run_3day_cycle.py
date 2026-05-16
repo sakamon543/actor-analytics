@@ -42,13 +42,26 @@ def load_accounts():
 
 
 def get_token(account):
-    """環境変数から token 取得"""
+    """環境変数から token 取得。
+    優先順: (1) 直接env var、(2) ALL_SECRETS_JSON 内のキー。
+    GitHub Actions では toJSON(secrets) で全Secretsを1変数に流せるので、
+    新アカウントを追加してもワークフローYAMLの編集が要らない。
+    """
     token_env = account["token_env"]
     token = os.environ.get(token_env)
-    if not token:
-        print(f"  ⚠ 環境変数 {token_env} 未設定 → スキップ")
-        return None
-    return token
+    if token:
+        return token
+    all_secrets_raw = os.environ.get("ALL_SECRETS_JSON")
+    if all_secrets_raw:
+        try:
+            all_secrets = json.loads(all_secrets_raw)
+            token = all_secrets.get(token_env)
+            if token:
+                return token
+        except json.JSONDecodeError:
+            pass
+    print(f"  ⚠ 環境変数 {token_env} 未設定（ALL_SECRETS_JSON にも無し） → スキップ")
+    return None
 
 
 def run_fetch(account, token):
@@ -110,7 +123,7 @@ def save_cycle_state(actor, state):
 def should_run_today(account, today):
     """このアカウントを今日サイクル実行すべきか判定。
     - last_cycle_at が記録あり: today - last_cycle_at >= 3日
-    - 初回（記録なし）: today - start_date >= 3日（最初の3日分のデータが溜まったタイミング）"""
+    - 初回（記録なし）: today >= start_date（当日から即起動。ドロップイン即運用を可能にする）"""
     state = load_cycle_state(account["name"])
     last_cycle = state.get("last_cycle_at")
     if last_cycle:
@@ -118,7 +131,7 @@ def should_run_today(account, today):
         return (today - last_date).days >= 3, f"前回サイクル {last_date} から{(today - last_date).days}日経過"
     start_date = datetime.fromisoformat(str(account["start_date"])).date()
     diff = (today - start_date).days
-    return diff >= 3, f"初回サイクル候補: start_date {start_date} から {diff}日経過"
+    return today >= start_date, f"初回サイクル: start_date {start_date} から {diff}日経過"
 
 
 def mark_cycle_completed(actor, today):
