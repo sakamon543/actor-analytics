@@ -4,18 +4,19 @@
 フック分析＋次バッチ自動生成
 ============================
 3日サイクルの analyze 後に実行。
-posts_db.json の実績を Claude API で分析し、次の3日分（30本）を生成する。
+posts_db.json の実績を Claude Code（Maxサブスク経由）で分析し、次の3日分（30本）を生成する。
 
 使い方:
     python note_tools/hook_improve.py <演者名>
 
-環境変数:
-    ANTHROPIC_API_KEY: Claude API キー
+前提:
+    claude CLI（@anthropic-ai/claude-code）がインストール済み・認証済みであること。
 """
 import os
 import sys
 import json
 import re
+import subprocess
 from datetime import datetime, timezone, timedelta
 
 sys.stdout.reconfigure(encoding='utf-8', errors='replace')
@@ -243,17 +244,6 @@ def extract_json_from_response(text):
 
 
 def run(actor):
-    try:
-        import anthropic
-    except ImportError:
-        print("ERROR: anthropic パッケージが必要です。pip install anthropic")
-        sys.exit(1)
-
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
-    if not api_key:
-        print("ERROR: ANTHROPIC_API_KEY 環境変数が未設定")
-        sys.exit(1)
-
     knowledge_dir = os.path.join(ROOT, f"knowledge/{actor}")
     shared_dir = os.path.join(ROOT, "knowledge/shared")
     account_dir = os.path.join(ROOT, f"accounts/{actor}")
@@ -295,26 +285,49 @@ def run(actor):
         performance_summary, schedule_slots
     )
 
-    client = anthropic.Anthropic(api_key=api_key)
+    # system はリスト形式（複数ブロック）。1つのテキストに結合してプロンプトに含める
+    system_text = "\n\n".join(
+        block["text"] for block in system if isinstance(block, dict) and block.get("text")
+    )
+    user_text = messages[0]["content"]
+    full_prompt = f"{system_text}\n\n---\n\n{user_text}"
 
-    print(f"  Claude API 呼び出し中（claude-sonnet-4-6、ストリーミング）...")
-    raw_text = ""
-    with client.messages.stream(
-        model="claude-sonnet-4-6",
-        max_tokens=32000,
-        system=system,
-        messages=messages,
-    ) as stream:
-        for text in stream.text_stream:
-            raw_text += text
-        final_message = stream.get_final_message()
+    print(f"  Claude Code 呼び出し中（Maxサブスク経由）...")
+    process = subprocess.run(
+        ["claude", "-p", "--output-format", "json"],
+        input=full_prompt,
+        capture_output=True,
+        text=True,
+        encoding='utf-8',
+        timeout=900,  # 15分タイムアウト
+    )
 
+    if process.returncode != 0:
+        print(f"  ✗ Claude Code 失敗 (returncode={process.returncode})")
+        print(f"  stderr: {process.stderr[:2000]}")
+        sys.exit(1)
+
+    try:
+        cc_output = json.loads(process.stdout)
+    except json.JSONDecodeError as e:
+        print(f"  ✗ Claude Code 出力のJSON解析失敗: {e}")
+        print(f"  stdout先頭: {process.stdout[:500]}")
+        sys.exit(1)
+
+    if cc_output.get("is_error"):
+        print(f"  ✗ Claude Code エラー: {cc_output.get('result', '')[:500]}")
+        sys.exit(1)
+
+    raw_text = cc_output.get("result", "")
     print(f"  レスポンス受信: {len(raw_text)}文字")
 
-    usage = final_message.usage
-    print(f"  トークン: input={usage.input_tokens}, output={usage.output_tokens}")
-    if hasattr(usage, 'cache_creation_input_tokens'):
-        print(f"  キャッシュ: creation={usage.cache_creation_input_tokens}, read={usage.cache_read_input_tokens}")
+    usage = cc_output.get("usage", {})
+    if usage:
+        print(f"  トークン: input={usage.get('input_tokens', 0)}, output={usage.get('output_tokens', 0)}, "
+              f"cache_creation={usage.get('cache_creation_input_tokens', 0)}, "
+              f"cache_read={usage.get('cache_read_input_tokens', 0)}")
+    if "total_cost_usd" in cc_output:
+        print(f"  コスト換算: ${cc_output['total_cost_usd']:.4f}（Maxサブスク実費は固定）")
 
     try:
         result = extract_json_from_response(raw_text)
