@@ -71,7 +71,8 @@ def run_fetch(account, token):
     print(f"  [fetch] {' '.join(cmd[:3])} <token> 7")
     result = subprocess.run(cmd, capture_output=True, text=True, cwd=ROOT)
     if result.returncode != 0:
-        print(f"  ✗ fetch失敗: {result.stderr[:300]}")
+        print(f"  ✗ fetch失敗:")
+        print(result.stderr)
         return False
     print(f"  ✓ fetch完了")
     return True
@@ -85,7 +86,8 @@ def run_analyze(account):
     print(f"  [analyze] {' '.join(cmd)}")
     result = subprocess.run(cmd, capture_output=True, text=True, cwd=ROOT)
     if result.returncode != 0:
-        print(f"  ✗ analyze失敗: {result.stderr[:300]}")
+        print(f"  ✗ analyze失敗:")
+        print(result.stderr)
         return False
     print(f"  ✓ analyze完了")
     return True
