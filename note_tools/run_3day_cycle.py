@@ -66,7 +66,7 @@ def get_token(account):
 
 def run_fetch(account, token):
     name = account["name"]
-    cmd = ["python", os.path.join(ROOT, "note_tools/fetch_threads_analytics.py"),
+    cmd = [sys.executable, os.path.join(ROOT, "note_tools/fetch_threads_analytics.py"),
            name, token, "7"]
     print(f"  [fetch] {' '.join(cmd[:3])} <token> 7")
     result = subprocess.run(cmd, capture_output=True, text=True, cwd=ROOT)
@@ -80,7 +80,7 @@ def run_fetch(account, token):
 def run_analyze(account):
     name = account["name"]
     master = account["master"]
-    cmd = ["python", os.path.join(ROOT, "note_tools/analyze_post_performance.py"),
+    cmd = [sys.executable, os.path.join(ROOT, "note_tools/analyze_post_performance.py"),
            name, master]
     print(f"  [analyze] {' '.join(cmd)}")
     result = subprocess.run(cmd, capture_output=True, text=True, cwd=ROOT)
@@ -143,7 +143,7 @@ def mark_cycle_completed(actor, today):
 def run_hook_improve(account):
     """フック分析＋次バッチ自動生成（Claude Code経由）"""
     name = account["name"]
-    cmd = ["python", os.path.join(ROOT, "note_tools/hook_improve.py"), name]
+    cmd = [sys.executable, os.path.join(ROOT, "note_tools/hook_improve.py"), name]
     print(f"  [hook_improve] {' '.join(cmd)}")
     result = subprocess.run(cmd, capture_output=True, text=True, cwd=ROOT)
     if result.returncode != 0:
@@ -164,7 +164,7 @@ def run_schedule(account, token):
     if not os.path.exists(batch_path):
         print(f"  ⚠ next_batch.json なし → schedule スキップ")
         return False
-    cmd = ["python", os.path.join(ROOT, "note_tools/schedule_posts.py"), name, token]
+    cmd = [sys.executable, os.path.join(ROOT, "note_tools/schedule_posts.py"), name, token]
     print(f"  [schedule] {name}: 予約投稿中...")
     result = subprocess.run(cmd, capture_output=True, text=True, cwd=ROOT)
     if result.returncode != 0:
