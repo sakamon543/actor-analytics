@@ -1,0 +1,18 @@
+{
+  "posts": {},
+  "history": [
+    {
+      "fetched_at": "2026-05-17T10:18:48+09:00",
+      "period_days": 7,
+      "total_posts": 0,
+      "avg_impressions": null
+    }
+  ],
+  "latest_summary": {
+    "fetched_at": "2026-05-17T10:18:48+09:00",
+    "time_analysis": null,
+    "type_analysis": null,
+    "hooks_analysis": null,
+    "ai_summary": null
+  }
+}
