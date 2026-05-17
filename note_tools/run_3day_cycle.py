@@ -80,7 +80,7 @@ def run_fetch(account, token):
 
 def run_analyze(account):
     name = account["name"]
-    master = account["master"]
+    master = account.get("master") or "none"
     cmd = [sys.executable, os.path.join(ROOT, "note_tools/analyze_post_performance.py"),
            name, master]
     print(f"  [analyze] {' '.join(cmd)}")

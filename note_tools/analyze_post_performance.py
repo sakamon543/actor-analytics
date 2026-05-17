@@ -189,7 +189,18 @@ def main():
         print(f"DB未存在: {db_path} ← 先に fetch_threads_analytics.py を実行してください")
         sys.exit(1)
 
-    planned = json.load(open(ranked_path, encoding='utf-8'))["posts"]
+    if ranked_path in ("", "none", "null", "None") or not os.path.exists(ranked_path):
+        print(f"master 未指定または未存在（{ranked_path}）→ 照合分析スキップ")
+        sys.exit(0)
+    try:
+        master_data = json.load(open(ranked_path, encoding='utf-8'))
+    except Exception as e:
+        print(f"⚠ master 読み込み失敗: {e} → 照合分析スキップ")
+        sys.exit(0)
+    planned = master_data.get("posts")
+    if not planned:
+        print(f"⚠ master に posts キー無し（フォーマット不一致）→ 照合分析スキップ")
+        sys.exit(0)
     db = json.load(open(db_path, encoding='utf-8'))
 
     matched, unmatched = match_posts(planned, db["posts"])
