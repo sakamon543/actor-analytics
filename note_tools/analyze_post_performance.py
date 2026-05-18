@@ -176,6 +176,89 @@ def build_report(actor, matched, unmatched, planned_total, db, latest_summary):
     return "\n".join(lines)
 
 
+def append_prediction_history(actor, matched, db, latest_summary):
+    """予想と実績のペアを prediction_history.json に追記する。
+
+    詳細な蓄積方針は knowledge/shared/データ蓄積方法論.md を参照。
+    ベイズ更新の発想（過去のペアを次の予想の事前知識として使う）／
+    calibration（予想精度の時系列記録）／失敗予想の蓄積を実装する。
+    """
+    history_path = f"analytics/{actor}/prediction_history.json"
+    if os.path.exists(history_path):
+        try:
+            history = json.load(open(history_path, encoding='utf-8'))
+        except json.JSONDecodeError:
+            history = {"history": []}
+    else:
+        history = {"history": []}
+
+    # サイクルの calibration 指標を算出
+    # 予想ランク別の実績中央値（S>A>B>C なら予想ロジックが機能している）
+    rank_medians = {}
+    for rank in ("S", "A", "B", "C"):
+        vs = [m["actual_views"] for m in matched if m["prediction"]["predicted_rank"] == rank]
+        if vs:
+            rank_medians[rank] = statistics.median(vs)
+
+    # 失敗予想（学習素材として最重要）の抽出
+    # 弱い予想（C/B）なのに伸びた／強い予想（S/A）なのに伸びなかったポスト
+    misses = []
+    if matched:
+        sorted_actual = sorted(matched, key=lambda p: p["actual_views"], reverse=True)
+        if len(sorted_actual) >= 5:
+            top_threshold = sorted_actual[len(sorted_actual) // 5]["actual_views"]
+            bottom_threshold = sorted_actual[-len(sorted_actual) // 5]["actual_views"]
+            for m in matched:
+                rank = m["prediction"]["predicted_rank"]
+                v = m["actual_views"]
+                if rank in ("C", "B") and v >= top_threshold:
+                    misses.append({"type": "weak_predicted_but_high", "rank": rank, "views": v, "text_head": m["text"][:80], "tags": m["prediction"]["tags"]})
+                elif rank in ("S", "A") and v <= bottom_threshold:
+                    misses.append({"type": "strong_predicted_but_low", "rank": rank, "views": v, "text_head": m["text"][:80], "tags": m["prediction"]["tags"]})
+
+    today = datetime.now().strftime("%Y-%m-%d")
+    entry = {
+        "cycle_date": today,
+        "fetched_at": (db.get("history", [{}])[-1].get("fetched_at") if db.get("history") else None),
+        "matched_count": len(matched),
+        "rank_medians": rank_medians,
+        "misses": misses,
+        "pairs": [
+            {
+                "predicted_rank": m["prediction"]["predicted_rank"],
+                "predicted_score": m["prediction"]["predicted_score"],
+                "tags": m["prediction"]["tags"],
+                "actual_views": m["actual_views"],
+                "text_head": m["text"][:80],
+            }
+            for m in matched
+        ],
+    }
+    # 同じcycle_dateのエントリがあれば置き換える（重複追記を防ぐ）。なければ新規追加
+    replaced = False
+    for i, h in enumerate(history["history"]):
+        if h.get("cycle_date") == today:
+            history["history"][i] = entry
+            replaced = True
+            break
+    if not replaced:
+        history["history"].append(entry)
+
+    # 蓄積方法論メタ情報も保存
+    history["_methodology_ref"] = "knowledge/shared/データ蓄積方法論.md"
+    history["_last_updated"] = datetime.now().strftime("%Y-%m-%d %H:%M")
+
+    with open(history_path, 'w', encoding='utf-8') as f:
+        json.dump(history, f, ensure_ascii=False, indent=2)
+
+    cumulative_pairs = sum(len(h.get("pairs", [])) for h in history["history"])
+    cumulative_misses = sum(len(h.get("misses", [])) for h in history["history"])
+    print(f"prediction_history 追記: {history_path}")
+    print(f"  累計サイクル数: {len(history['history'])}")
+    print(f"  累計マッチペア数: {cumulative_pairs}")
+    print(f"  累計失敗予想数: {cumulative_misses}")
+
+
 def main():
     if len(sys.argv) < 3:
         print("usage: python analyze_post_performance.py <演者名> <ranked_master.json>")
@@ -222,6 +305,11 @@ def main():
     print(f"レポート: {report_path}")
     print()
     print(report[:1500])
+
+    # 蓄積処理：予想と実績のペアを prediction_history.json に追記
+    # 蓄積方針は knowledge/shared/データ蓄積方法論.md を参照
+    if matched:
+        append_prediction_history(actor, matched, db, db.get("latest_summary"))
 
 
 if __name__ == "__main__":
