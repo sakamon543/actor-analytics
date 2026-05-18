@@ -34,6 +34,16 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ACCOUNTS_YAML = os.path.join(ROOT, "アカウント帳簿総合.yaml")
 JST = timezone(timedelta(hours=9))
 
+# LINE 通知（失敗しても本処理を止めない）
+try:
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from notify_line import send_text as _line_send, send_error as _line_send_error
+except Exception:
+    def _line_send(text):
+        return False
+    def _line_send_error(actor, where, detail):
+        return False
+
 
 def load_accounts():
     with open(ACCOUNTS_YAML, encoding='utf-8') as f:
@@ -73,6 +83,12 @@ def run_fetch(account, token):
     if result.returncode != 0:
         print(f"  ✗ fetch失敗:")
         print(result.stderr)
+        # 401 / トークン期限切れ等は即時アラート
+        combined = (result.stdout or "") + (result.stderr or "")
+        if "HTTP 401" in combined or "HTTP 403" in combined:
+            _line_send_error(name, "fetch_threads_analytics.py", "HTTP 401/403 → token期限切れの可能性。GitHub Secretsの " + account.get("token_env", "?") + " を確認。")
+        else:
+            _line_send_error(name, "fetch_threads_analytics.py", (result.stderr or "")[:300])
         return False
     print(f"  ✓ fetch完了")
     return True
@@ -88,6 +104,7 @@ def run_analyze(account):
     if result.returncode != 0:
         print(f"  ✗ analyze失敗:")
         print(result.stderr)
+        _line_send_error(name, "analyze_post_performance.py", (result.stderr or "")[:300])
         return False
     print(f"  ✓ analyze完了")
     return True
@@ -149,8 +166,10 @@ def run_hook_improve(account):
     print(f"  [hook_improve] {' '.join(cmd)}")
     result = subprocess.run(cmd, capture_output=True, text=True, cwd=ROOT)
     if result.returncode != 0:
+        err = (result.stderr or "")[:500]
         print(f"  ✗ hook_improve失敗:")
         print(result.stderr)
+        _line_send_error(name, "hook_improve.py", err)
         return False
     if result.stdout:
         for line in result.stdout.strip().split('\n'):
@@ -165,13 +184,20 @@ def run_schedule(account, token):
     batch_path = os.path.join(ROOT, f"analytics/{name}/next_batch.json")
     if not os.path.exists(batch_path):
         print(f"  ⚠ next_batch.json なし → schedule スキップ")
+        _line_send_error(name, "schedule_posts.py", "next_batch.json なし。hook_improve が生成失敗してる可能性。")
         return False
     cmd = [sys.executable, os.path.join(ROOT, "note_tools/schedule_posts.py"), name, token]
     print(f"  [schedule] {name}: 予約投稿中...")
     result = subprocess.run(cmd, capture_output=True, text=True, cwd=ROOT)
     if result.returncode != 0:
+        err = (result.stderr or "")[:500]
         print(f"  ✗ schedule失敗:")
         print(result.stderr)
+        combined = (result.stdout or "") + (result.stderr or "")
+        if "HTTP 401" in combined or "HTTP 403" in combined:
+            _line_send_error(name, "schedule_posts.py", "HTTP 401/403 → token期限切れの可能性。")
+        else:
+            _line_send_error(name, "schedule_posts.py", err)
         return False
     if result.stdout:
         for line in result.stdout.strip().split('\n'):
@@ -187,6 +213,7 @@ def main():
 
     if not os.path.exists(ACCOUNTS_YAML):
         print(f"ERROR: {ACCOUNTS_YAML} が見つかりません")
+        _line_send_error("system", "run_3day_cycle.py", f"{ACCOUNTS_YAML} が見つかりません")
         sys.exit(1)
 
     accounts = load_accounts()
@@ -194,6 +221,7 @@ def main():
 
     ran_count = 0
     skipped_count = 0
+    cycle_results = []  # 演者別 [(name, status_text)]
 
     for account in accounts:
         name = account["name"]
@@ -209,27 +237,50 @@ def main():
         print(f"  判定: {reason}")
         token = get_token(account)
         if not token:
+            cycle_results.append((name, "TOKEN_MISSING"))
+            _line_send_error(name, "run_3day_cycle.py", f"環境変数 {account.get('token_env')} 未設定")
             continue
 
+        steps = []
         # 1. fetch
-        if not run_fetch(account, token):
+        ok_fetch = run_fetch(account, token)
+        steps.append("fetch:" + ("OK" if ok_fetch else "NG"))
+        if not ok_fetch:
+            cycle_results.append((name, " / ".join(steps)))
             continue
 
         # 2. analyze
-        run_analyze(account)
+        ok_analyze = run_analyze(account)
+        steps.append("analyze:" + ("OK" if ok_analyze else "NG"))
 
         # 3. hook_improve（フック分析＋次バッチ生成）
-        if run_hook_improve(account):
+        ok_hook = run_hook_improve(account)
+        steps.append("hook:" + ("OK" if ok_hook else "NG"))
+        if ok_hook:
             # 4. schedule（生成したバッチを予約投稿）
-            run_schedule(account, token)
+            ok_sched = run_schedule(account, token)
+            steps.append("sched:" + ("OK" if ok_sched else "NG"))
 
         # 完了マーキング（途中で fetch 等失敗しても今日走ったとする＝3日空けて再試行）
         mark_cycle_completed(name, today)
         ran_count += 1
+        cycle_results.append((name, " / ".join(steps)))
         print()
 
-    print(f"=== 3日サイクル完了: {datetime.now(tz=JST).isoformat()} ===")
+    end_ts = datetime.now(tz=JST)
+    print(f"=== 3日サイクル完了: {end_ts.isoformat()} ===")
     print(f"  実行: {ran_count}件 / スキップ: {skipped_count}件")
+
+    # サイクル完了の集約通知（実行0件の日は送らない）
+    if ran_count > 0:
+        ng_count = sum(1 for _, s in cycle_results if "NG" in s or "TOKEN_MISSING" in s)
+        lines = [
+            f"[Cycle {today.isoformat()}] 実行{ran_count}件 / スキップ{skipped_count}件 / 異常{ng_count}件",
+        ]
+        for name, status in cycle_results:
+            mark = "■" if "NG" not in status and "TOKEN_MISSING" not in status else "✗"
+            lines.append(f"{mark}{name} : {status}")
+        _line_send("\n".join(lines))
 
 
 if __name__ == "__main__":
