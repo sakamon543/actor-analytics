@@ -105,7 +105,7 @@ def main():
     accounts = load_accounts()
 
     if not accounts:
-        send_text(f"[Health {today.isoformat()}] enabled 演者なし。帳簿確認を。")
+        send_text("enabledアカなし。帳簿確認を。")
         return
 
     abnormal = []  # [(name, [msg, ...])]
@@ -135,26 +135,24 @@ def main():
             normal.append(name)
 
     total = len(accounts)
-    header = f"[Health {today.isoformat()}] {total}演者中 異常{len(abnormal)} / 警告{len(warning)} / 正常{len(normal)}"
-    lines = [header]
 
-    if abnormal:
-        lines.append("")
-        lines.append("■異常（即対応）")
-        for name, msgs in abnormal:
-            lines.append(f" {name} : {', '.join(msgs)}")
-
-    if warning:
-        lines.append("")
-        lines.append("■警告（要確認）")
-        for name, msgs in warning:
-            lines.append(f" {name} : {', '.join(msgs)}")
-
+    # 全部正常なら1行で終わり
     if not abnormal and not warning:
-        lines.append("")
-        lines.append("全演者 正常稼働中")
+        text = f"{total}アカ 正常稼働中"
+    else:
+        lines = [f"異常{len(abnormal)} 警告{len(warning)} 正常{len(normal)}（{total}アカ）"]
+        if abnormal:
+            lines.append("")
+            lines.append("■異常")
+            for name, msgs in abnormal:
+                lines.append(f" {name} {' '.join(msgs)}")
+        if warning:
+            lines.append("")
+            lines.append("■警告")
+            for name, msgs in warning:
+                lines.append(f" {name} {' '.join(msgs)}")
+        text = "\n".join(lines)
 
-    text = "\n".join(lines)
     ok = send_text(text)
     print(text)
     print("LINE送信:", "OK" if ok else "FAIL")

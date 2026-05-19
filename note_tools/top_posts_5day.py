@@ -98,7 +98,7 @@ def main():
         print("enabled演者なし → 何もしない")
         return
 
-    lines = [f"[Top Posts {today.isoformat()}] {INTERVAL_DAYS}日集計"]
+    lines = [f"{INTERVAL_DAYS}日のTop3"]
     # 演者の最高インプ降順で並べ替え（伸びてる演者から上に来る）
     actor_blocks = []
     for a in accounts:

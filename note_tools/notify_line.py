@@ -93,10 +93,7 @@ def send_text(text, user_id=None, token=None):
 
 def send_error(actor, where, detail):
     """異常即時アラート用の整形ヘルパー。"""
-    from datetime import datetime, timezone, timedelta
-    JST = timezone(timedelta(hours=9))
-    now = datetime.now(tz=JST).strftime("%Y-%m-%d %H:%M")
-    text = f"[ERROR] {actor} {now}\n{where}\n{detail[:1500]}"
+    text = f"エラー {actor}\n{where}\n{detail[:1500]}"
     return send_text(text)
 
 

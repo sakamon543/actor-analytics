@@ -274,13 +274,15 @@ def main():
     # サイクル完了の集約通知（実行0件の日は送らない）
     if ran_count > 0:
         ng_count = sum(1 for _, s in cycle_results if "NG" in s or "TOKEN_MISSING" in s)
-        lines = [
-            f"[Cycle {today.isoformat()}] 実行{ran_count}件 / スキップ{skipped_count}件 / 異常{ng_count}件",
-        ]
-        for name, status in cycle_results:
-            mark = "■" if "NG" not in status and "TOKEN_MISSING" not in status else "✗"
-            lines.append(f"{mark}{name} : {status}")
-        _line_send("\n".join(lines))
+        if ng_count == 0:
+            text = f"{ran_count}アカのサイクル完了 全工程OK"
+        else:
+            lines = [f"{ran_count}アカのサイクル完了 異常{ng_count}"]
+            for name, status in cycle_results:
+                mark = "■" if "NG" not in status and "TOKEN_MISSING" not in status else "✗"
+                lines.append(f"{mark}{name} {status}")
+            text = "\n".join(lines)
+        _line_send(text)
 
 
 if __name__ == "__main__":
