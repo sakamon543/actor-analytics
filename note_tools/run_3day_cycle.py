@@ -169,7 +169,18 @@ def run_hook_improve(account):
         err = (result.stderr or "")[:500]
         print(f"  ✗ hook_improve失敗:")
         print(result.stderr)
-        _line_send_error(name, "hook_improve.py", err)
+        # Claude Code の認証期限切れ検知（stdoutのJSONに認証エラーが入る）
+        combined = (result.stdout or "") + (result.stderr or "")
+        if ("401" in combined and ("authenticate" in combined.lower() or "credential" in combined.lower())) \
+                or "Invalid authentication credentials" in combined \
+                or "Failed to authenticate" in combined:
+            _line_send_error(
+                name,
+                "hook_improve.py (Claude Code 401)",
+                "VPS の Claude Code credentials が期限切れ。Claude Code に「VPS復旧して」と言ってください。"
+            )
+        else:
+            _line_send_error(name, "hook_improve.py", err or (result.stdout or "")[:500])
         return False
     if result.stdout:
         for line in result.stdout.strip().split('\n'):
