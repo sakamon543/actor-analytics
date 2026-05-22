@@ -1,0 +1,724 @@
+{
+  "hooks": {
+    "fookid_7219dda946": {
+      "text": "回避型の「別れよう」は本気の決意じゃなくて、ただの『一時避難』",
+      "structure_label": "命題型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-22T11:08:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_17835885b3": {
+      "text": "「友達からやり直すのが安全」は嘘。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-22T13:17:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cf624d2519": {
+      "text": "男は、「好きだった相手」と簡単に友達みたいな関係には戻れない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-22T14:42:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_24eb408818": {
+      "text": "復縁した彼に「もし私が連絡してなかったらどうしてた？」って聞いてみた。",
+      "structure_label": "セリフ引用型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-22T18:03:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a42dc46789": {
+      "text": "男は別れの瞬間、自分が言ってる言葉の半分以上を本気にしてない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-22T19:17:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a6cb004f01": {
+      "text": "実は、男の8割は別れて1ヶ月後に揺らぐ",
+      "structure_label": "常識破壊型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-22T19:52:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7a9e1021c8": {
+      "text": "意外かもだけど、男は『彼女ができても元カノと比べ続ける』生き物",
+      "structure_label": "常識破壊型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-22T20:28:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c1140bfab7": {
+      "text": "男って自分から振った相手でも「今どうしてるんだろう」って気になってる",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-22T21:03:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6805fe3926": {
+      "text": "回避型の男って冷めたから離れるんじゃなくて、好きになりすぎて動けなくなる",
+      "structure_label": "常識破壊型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-22T22:17:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_25ee403e7c": {
+      "text": "「男は本当に好きなら手放さない」はウソ",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-22T22:48:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bc6f22ab54": {
+      "text": "意外かもだけど、男は『元カノへの未練が強すぎると沈黙する』生き物",
+      "structure_label": "常識破壊型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-23T11:08:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_73bc06ea6a": {
+      "text": "男が別れを決めるとき「冷めた」より圧倒的に多いのが『愛が強くなりすぎた』",
+      "structure_label": "常識破壊型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-23T13:17:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fadb1e3e8f": {
+      "text": "男の別れ際の冷たさは、嫌いになった証拠じゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-23T14:42:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_21f8082ff7": {
+      "text": "男は、「連絡が続いている＝関係が進んでいる」とは思っていない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-23T18:03:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_782e7dec88": {
+      "text": "男の本音を言うと、追われてる間は復縁を考えない",
+      "structure_label": "男性当事者本音型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-23T19:17:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_713899d103": {
+      "text": "経験談ですが、振った側って「相手は自分を忘れない」と思い込んでいます",
+      "structure_label": "経験者暴露型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-23T19:52:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_464cc153da": {
+      "text": "元彼に追いLINEして関係壊れたと思ってても挽回はできるよ",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-23T20:28:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9f9f0a51bd": {
+      "text": "これ女性は恐らく知りませんが、男性って実は「別れた直後よりも時間が経ってから未練が強くなる」ことが多い",
+      "structure_label": "常識破壊型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-23T21:03:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9395006bd3": {
+      "text": "これあんまり言いたくないんだけど、裏で「元カノと復縁したい」って言ってる男ってめっちゃいる",
+      "structure_label": "男性当事者本音型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-23T22:17:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_147eb265c6": {
+      "text": "『元彼は死んだ』と思うと復縁に近づきます",
+      "structure_label": "命題型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-23T22:48:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_265bfde42b": {
+      "text": "男性は1度冷めても惚れ直すから全国の復縁を目指す女子は諦めなくていいよ",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-24T11:08:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c40d24fda7": {
+      "text": "復縁した彼が言ってたけど『男は好きすぎて別れる』ということをしちゃうらしい",
+      "structure_label": "セリフ引用型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-24T13:17:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f48bf3242f": {
+      "text": "私の経験上、復縁で1番多いのは『男が振って男が復縁を迫る』っていうパターン",
+      "structure_label": "経験者暴露型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-24T14:42:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_04ecf1e007": {
+      "text": "復縁が出来ない理由って「可愛くないから」とか「今カノの方が可愛いから」みたいな理由じゃないの",
+      "structure_label": "常識破壊型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-24T18:03:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_598c28fa17": {
+      "text": "回避型の男ほど元カノを忘れられない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-24T19:17:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_841efa31d2": {
+      "text": "私の彼氏は今でこそ毎日「愛してる」って言ってくれるけど、別れた後は「は？復縁とか無理」って冷めきった態度してた",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-24T19:52:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2541853d05": {
+      "text": "「この人と結婚する」って本気で思ってた相手に振られて1人になるって本当辛いことだよね",
+      "structure_label": "共感型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-24T20:28:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_93f271db7a": {
+      "text": "男が別れた後に沈黙するとき「どうでもよくなった」より多いのが『連絡したら全部崩れそうで動けない』",
+      "structure_label": "常識破壊型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-24T21:03:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_63fb3d6a5d": {
+      "text": "結局、復縁出来る女性って『復縁に期待し過ぎず元彼と話せる人』なんです",
+      "structure_label": "命題型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-24T22:17:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_df0950a9a0": {
+      "text": "復縁して分かったんだけど、「未練が残るのは男」って話は本当",
+      "structure_label": "経験者暴露型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-24T22:48:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_649a710eb5": {
+      "text": "振った男の半数以上は、別れて1ヶ月以内に元カノの写真を見返してる。でも絶対に誰にも言わない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-22T11:08:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ef30d65303": {
+      "text": "復縁した彼に「別れてた間、私のこと考えてた？」って聞いたら「毎日」って",
+      "structure_label": "セリフ引用型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-22T13:17:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a90e4a15c3": {
+      "text": "一度別れても『本当に縁がある相手』なら絶対に戻れるよ",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-22T14:42:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_16c65a84e8": {
+      "text": "ぶっちゃけ、振った男が1番後悔する別れって『一途に尽くしてくれた子を手放した別れ』",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-22T18:03:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d58d66f31f": {
+      "text": "今、冷却期間中で毎日LINEを開いては閉じてを繰り返してるなら、それ正常だから",
+      "structure_label": "読者直撃型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-22T19:17:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4cf7cf11b4": {
+      "text": "回避型が「もう会わない」って言い切るのは、会いたい気持ちに耐えられないから",
+      "structure_label": "常識破壊型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-22T19:52:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_97395e9a2a": {
+      "text": "冷却期間中に「何もしない」を「ただ待つ」と勘違いしてると、復縁は遠ざかる",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-22T20:28:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_91523e8cb7": {
+      "text": "復縁した回避型の彼いわく『男は未練がない方が普通に返信できるし会える』らしい",
+      "structure_label": "セリフ引用型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-22T21:03:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e4c7fe3f4b": {
+      "text": "元彼を待ち続けて3ヶ月以上経ってるなら、彼の中であなたの印象は今が一番いい",
+      "structure_label": "命題型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-22T22:17:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7e5a5e5777": {
+      "text": "回避型と復縁して一番驚いたのは、既読無視が当たり前だった彼が既読即返信になったこと",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-22T22:48:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2efcd6bb99": {
+      "text": "「冷却期間3ヶ月」って常識、嘘です",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-23T11:08:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ba30ff3eae": {
+      "text": "振った男ほど元カノに未練たらたらになる",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-23T13:17:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_df8c9adf95": {
+      "text": "今、「もう完全に終わった」って自分に言い聞かせてるなら、それ多分まだ終わってない",
+      "structure_label": "読者直撃型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-23T14:42:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2749e68303": {
+      "text": "「ブロックされたらもう終わり」って思ってるなら早すぎる。ブロックから復縁した相談者は普通にいる",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-23T18:03:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7cc503f00e": {
+      "text": "追いLINEで元彼に距離を取られた女性に共通してるのは、内容じゃなくてタイミングのミス",
+      "structure_label": "失敗分析型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-23T19:17:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f2aa9868d4": {
+      "text": "意外かもですが、男にとって元カノはタイプど真ん中だから別れても普通に可愛いと思ってる",
+      "structure_label": "常識破壊型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-23T19:52:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1cf9ad9f37": {
+      "text": "僕の経験上、復縁成功するのは「外見を磨いた女性」でも「内面を磨いた女性」でもなくて「今の自分を受け入れてる女性」",
+      "structure_label": "経験者暴露型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-23T20:28:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_68ff9e4356": {
+      "text": "「復縁したい」って友達にもう言えなくなったなら、それは普通のことだから",
+      "structure_label": "読者直撃型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-23T21:03:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6adbe9a796": {
+      "text": "ちょっと本音を言うと「好きだけど一緒にいられない」とか「俺じゃ幸せにできない」って振った男は、回避型だった可能性がかなり高い",
+      "structure_label": "男性当事者本音型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-23T22:17:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_485d47efe4": {
+      "text": "「彼はもう私のこと忘れてる」は9割思い込み",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-23T22:48:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_20a3b968eb": {
+      "text": "復縁できる女性って、元彼に「失った」と思わせてる",
+      "structure_label": "命題型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-24T11:08:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cdb1469fce": {
+      "text": "新しい彼女がいても、男が元カノを完全に消すまで1年はかかる",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-24T13:17:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1a79ae81ba": {
+      "text": "「もう連絡してこないで」って言った元彼が半年後に自分から連絡してきた。珍しい話じゃない",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-24T14:42:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_52b1e023bc": {
+      "text": "回避型って返信しなくても、送られてきたLINEの内容は全部読んでる",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-24T18:03:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_15712e7459": {
+      "text": "「冷却期間を取ったのに連絡が来ない」って焦ってるなら、その焦りが一番の敵",
+      "structure_label": "失敗分析型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-24T19:17:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_52c443d457": {
+      "text": "別れを経験したカップルの方が結局長続きする",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-24T19:52:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bd8c055b15": {
+      "text": "振った側の男目線でいうと、復縁は「追い続ける」だけでも「放置」だけでもうまくいかない",
+      "structure_label": "男性当事者本音型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-24T20:28:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fa2e29847c": {
+      "text": "元彼があなたのストーリーだけ毎回見てるなら、それは『話しかけたいけどできない』の裏返し",
+      "structure_label": "読者直撃型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-24T21:03:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6f4379dbc2": {
+      "text": "男が復縁を決意する時、「気持ち」より圧倒的に動かすのが『罪悪感』",
+      "structure_label": "常識破壊型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-24T22:17:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e6f5630a72": {
+      "text": "振られた理由が「何となく冷めた」なら、復縁の可能性は高い",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-05-21",
+      "history": [
+        {
+          "scheduled_at": "2026-05-24T22:48:00+09:00",
+          "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    }
+  }
+}

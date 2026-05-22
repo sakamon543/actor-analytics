@@ -1,0 +1,265 @@
+{
+  "演者": "ハクオウ",
+  "generated_at": "2026-05-21T16:37:07.086120+09:00",
+  "analysis": {
+    "top_patterns": [
+      "短い命題型断言が最強（4156v「一時避難」＝行動を1語で再定義）",
+      "具体的な数字×男性心理暴露×時間軸の組み合わせ（2300v「半数以上は2〜4週間」、1796v「1〜2ヶ月後の懐古期」）",
+      "読者の最大恐怖を名指しして即座に希望を示す（2141v「新しい彼女がいても忘れられない」）",
+      "セリフ引用＋サスペンス構造（1938v「もし連絡してなかったら？」→答えを次文に持ち越す）",
+      "読者が今まさにやってる具体行動に言及（1343v「ストーリーを毎回見てるなら脈あり」）",
+      "常識否定は短文×断言で効く（1805v「友達からやり直すのが安全は嘘」＝16字）"
+    ],
+    "bottom_failures": [
+      "「らしい」「あるぞ」等の弱い語尾で断言力が死ぬ（36v、42v）",
+      "1行目に情報を詰め込みすぎて1.5秒で処理不能（44v「長すぎる文／謝罪が含まれる／質問が複数」）",
+      "「相談者で」「僕の経験上」の第三者語り開始で読者が観客化（30v、31v）",
+      "通説否定しても代替の答えを示唆しないと宙ぶらりん（36v「雑すぎる」、29v「9割は早すぎる」）",
+      "抽象的な分析トーン＋パターン命名で感情が動かない（31v「感情で読む」）",
+      "既知の情報を断言しただけで意外性がない（35v「心の中では叫んでる」、36v「戻りたいってなるらしい」）"
+    ]
+  },
+  "hooks_count": 30,
+  "hooks": [
+    {
+      "id": "ハクオウ_20260522_01",
+      "hook_text": "振った男の半数以上は、別れて1ヶ月以内に元カノの写真を見返してる。でも絶対に誰にも言わない",
+      "structure_label": "男性心理暴露型",
+      "body_pattern": "mechanism_first",
+      "based_on": "variation",
+      "scheduled_at": "2026-05-22T11:08:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260522_02",
+      "hook_text": "復縁した彼に「別れてた間、私のこと考えてた？」って聞いたら「毎日」って",
+      "structure_label": "セリフ引用型",
+      "body_pattern": "mens_voice_quote",
+      "based_on": "variation",
+      "scheduled_at": "2026-05-22T13:17:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260522_03",
+      "hook_text": "一度別れても『本当に縁がある相手』なら絶対に戻れるよ",
+      "structure_label": "反転希望型",
+      "body_pattern": "reverse_hope",
+      "based_on": "new",
+      "scheduled_at": "2026-05-22T14:42:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260522_04",
+      "hook_text": "ぶっちゃけ、振った男が1番後悔する別れって『一途に尽くしてくれた子を手放した別れ』",
+      "structure_label": "男性心理暴露型",
+      "body_pattern": "case_success",
+      "based_on": "new",
+      "scheduled_at": "2026-05-22T18:03:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260522_05",
+      "hook_text": "今、冷却期間中で毎日LINEを開いては閉じてを繰り返してるなら、それ正常だから",
+      "structure_label": "読者直撃型",
+      "body_pattern": "reader_now",
+      "based_on": "new",
+      "scheduled_at": "2026-05-22T19:17:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260522_06",
+      "hook_text": "回避型が「もう会わない」って言い切るのは、会いたい気持ちに耐えられないから",
+      "structure_label": "常識破壊型",
+      "body_pattern": "mechanism_first",
+      "based_on": "variation",
+      "scheduled_at": "2026-05-22T19:52:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260522_07",
+      "hook_text": "冷却期間中に「何もしない」を「ただ待つ」と勘違いしてると、復縁は遠ざかる",
+      "structure_label": "常識否定型",
+      "body_pattern": "case_failure",
+      "based_on": "new",
+      "scheduled_at": "2026-05-22T20:28:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260522_08",
+      "hook_text": "復縁した回避型の彼いわく『男は未練がない方が普通に返信できるし会える』らしい",
+      "structure_label": "セリフ引用型",
+      "body_pattern": "mens_voice_quote",
+      "based_on": "new",
+      "scheduled_at": "2026-05-22T21:03:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260522_09",
+      "hook_text": "元彼を待ち続けて3ヶ月以上経ってるなら、彼の中であなたの印象は今が一番いい",
+      "structure_label": "命題型",
+      "body_pattern": "reader_now",
+      "based_on": "new",
+      "scheduled_at": "2026-05-22T22:17:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260522_10",
+      "hook_text": "回避型と復縁して一番驚いたのは、既読無視が当たり前だった彼が既読即返信になったこと",
+      "structure_label": "落差ストーリー型",
+      "body_pattern": "case_success",
+      "based_on": "new",
+      "scheduled_at": "2026-05-22T22:48:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260523_01",
+      "hook_text": "「冷却期間3ヶ月」って常識、嘘です",
+      "structure_label": "常識否定型",
+      "body_pattern": "mechanism_first",
+      "based_on": "new",
+      "scheduled_at": "2026-05-23T11:08:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260523_02",
+      "hook_text": "振った男ほど元カノに未練たらたらになる",
+      "structure_label": "男性心理暴露型",
+      "body_pattern": "mechanism_first",
+      "based_on": "new",
+      "scheduled_at": "2026-05-23T13:17:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260523_03",
+      "hook_text": "今、「もう完全に終わった」って自分に言い聞かせてるなら、それ多分まだ終わってない",
+      "structure_label": "読者直撃型",
+      "body_pattern": "reader_now",
+      "based_on": "new",
+      "scheduled_at": "2026-05-23T14:42:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260523_04",
+      "hook_text": "「ブロックされたらもう終わり」って思ってるなら早すぎる。ブロックから復縁した相談者は普通にいる",
+      "structure_label": "反転希望型",
+      "body_pattern": "reverse_hope",
+      "based_on": "new",
+      "scheduled_at": "2026-05-23T18:03:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260523_05",
+      "hook_text": "追いLINEで元彼に距離を取られた女性に共通してるのは、内容じゃなくてタイミングのミス",
+      "structure_label": "失敗分析型",
+      "body_pattern": "case_failure",
+      "based_on": "new",
+      "scheduled_at": "2026-05-23T19:17:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260523_06",
+      "hook_text": "意外かもですが、男にとって元カノはタイプど真ん中だから別れても普通に可愛いと思ってる",
+      "structure_label": "常識破壊型",
+      "body_pattern": "mens_voice_quote",
+      "based_on": "new",
+      "scheduled_at": "2026-05-23T19:52:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260523_07",
+      "hook_text": "僕の経験上、復縁成功するのは「外見を磨いた女性」でも「内面を磨いた女性」でもなくて「今の自分を受け入れてる女性」",
+      "structure_label": "経験者暴露型",
+      "body_pattern": "case_success",
+      "based_on": "new",
+      "scheduled_at": "2026-05-23T20:28:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260523_08",
+      "hook_text": "「復縁したい」って友達にもう言えなくなったなら、それは普通のことだから",
+      "structure_label": "読者直撃型",
+      "body_pattern": "reader_now",
+      "based_on": "new",
+      "scheduled_at": "2026-05-23T21:03:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260523_09",
+      "hook_text": "ちょっと本音を言うと「好きだけど一緒にいられない」とか「俺じゃ幸せにできない」って振った男は、回避型だった可能性がかなり高い",
+      "structure_label": "男性当事者本音型",
+      "body_pattern": "mechanism_first",
+      "based_on": "new",
+      "scheduled_at": "2026-05-23T22:17:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260523_10",
+      "hook_text": "「彼はもう私のこと忘れてる」は9割思い込み",
+      "structure_label": "反転希望型",
+      "body_pattern": "reverse_hope",
+      "based_on": "new",
+      "scheduled_at": "2026-05-23T22:48:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260524_01",
+      "hook_text": "復縁できる女性って、元彼に「失った」と思わせてる",
+      "structure_label": "命題型",
+      "body_pattern": "case_success",
+      "based_on": "new",
+      "scheduled_at": "2026-05-24T11:08:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260524_02",
+      "hook_text": "新しい彼女がいても、男が元カノを完全に消すまで1年はかかる",
+      "structure_label": "男性心理暴露型",
+      "body_pattern": "mechanism_first",
+      "based_on": "variation",
+      "scheduled_at": "2026-05-24T13:17:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260524_03",
+      "hook_text": "「もう連絡してこないで」って言った元彼が半年後に自分から連絡してきた。珍しい話じゃない",
+      "structure_label": "落差ストーリー型",
+      "body_pattern": "case_success",
+      "based_on": "new",
+      "scheduled_at": "2026-05-24T14:42:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260524_04",
+      "hook_text": "回避型って返信しなくても、送られてきたLINEの内容は全部読んでる",
+      "structure_label": "男性心理暴露型",
+      "body_pattern": "mens_voice_quote",
+      "based_on": "new",
+      "scheduled_at": "2026-05-24T18:03:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260524_05",
+      "hook_text": "「冷却期間を取ったのに連絡が来ない」って焦ってるなら、その焦りが一番の敵",
+      "structure_label": "失敗分析型",
+      "body_pattern": "case_failure",
+      "based_on": "new",
+      "scheduled_at": "2026-05-24T19:17:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260524_06",
+      "hook_text": "別れを経験したカップルの方が結局長続きする",
+      "structure_label": "反転希望型",
+      "body_pattern": "reverse_hope",
+      "based_on": "new",
+      "scheduled_at": "2026-05-24T19:52:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260524_07",
+      "hook_text": "振った側の男目線でいうと、復縁は「追い続ける」だけでも「放置」だけでもうまくいかない",
+      "structure_label": "男性当事者本音型",
+      "body_pattern": "mechanism_first",
+      "based_on": "new",
+      "scheduled_at": "2026-05-24T20:28:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260524_08",
+      "hook_text": "元彼があなたのストーリーだけ毎回見てるなら、それは『話しかけたいけどできない』の裏返し",
+      "structure_label": "読者直撃型",
+      "body_pattern": "reader_now",
+      "based_on": "variation",
+      "scheduled_at": "2026-05-24T21:03:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260524_09",
+      "hook_text": "男が復縁を決意する時、「気持ち」より圧倒的に動かすのが『罪悪感』",
+      "structure_label": "常識破壊型",
+      "body_pattern": "mechanism_first",
+      "based_on": "new",
+      "scheduled_at": "2026-05-24T22:17:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260524_10",
+      "hook_text": "振られた理由が「何となく冷めた」なら、復縁の可能性は高い",
+      "structure_label": "反転希望型",
+      "body_pattern": "case_success",
+      "based_on": "new",
+      "scheduled_at": "2026-05-24T22:48:00+09:00"
+    }
+  ]
+}
