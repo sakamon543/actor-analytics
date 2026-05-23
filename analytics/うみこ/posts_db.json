@@ -12,10 +12,16 @@
       "period_days": 7,
       "total_posts": 0,
       "avg_impressions": null
+    },
+    {
+      "fetched_at": "2026-05-23T09:00:13+09:00",
+      "period_days": 7,
+      "total_posts": 0,
+      "avg_impressions": null
     }
   ],
   "latest_summary": {
-    "fetched_at": "2026-05-20T09:00:28+09:00",
+    "fetched_at": "2026-05-23T09:00:13+09:00",
     "time_analysis": null,
     "type_analysis": null,
     "hooks_analysis": null,
