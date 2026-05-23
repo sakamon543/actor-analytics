@@ -43,6 +43,49 @@ def fetch_ai_report(token, days):
         return None
 
 
+def fetch_performance(token, days, limit=50):
+    """ai-report がデータ無しを返す演者向けのフォールバック。
+    出力を ai-report 互換形式に整形して返す。bottom_posts は performance API から得られないため空。"""
+    url = f"{API_BASE}/performance?days={days}&limit={limit}"
+    req = Request(url, headers={"Authorization": f"Bearer {token}"})
+    try:
+        with urlopen(req, timeout=30) as res:
+            raw = json.loads(res.read().decode('utf-8'))
+    except HTTPError as e:
+        print(f"HTTP {e.code} (performance): {e.read().decode('utf-8')[:300]}")
+        return None
+
+    # ai-report 互換に整形
+    summary = raw.get("summary", {}) or {}
+    return {
+        "account_name": raw.get("account"),
+        "period_days": days,
+        "total_posts": raw.get("total_posts", 0),
+        "avg_impressions": summary.get("avg_views"),
+        "top_posts": raw.get("top_posts", []),
+        "bottom_posts": [],  # performance API には無い
+        "time_analysis": None,
+        "type_analysis": None,
+        "hooks_analysis": None,
+        "ai_summary": None,
+        "_source": "performance",
+    }
+
+
+def fetch_with_fallback(token, days):
+    """ai-report を優先、total_posts=0 だったら performance にフォールバック"""
+    data = fetch_ai_report(token, days)
+    if data is None:
+        return None
+    total = data.get("total_posts", 0)
+    if total == 0:
+        print(f"  ai-report が total_posts=0 → performance API にフォールバック")
+        fallback = fetch_performance(token, days)
+        if fallback and fallback.get("total_posts", 0) > 0:
+            return fallback
+    return data
+
+
 def save_raw(data, actor, days):
     out_dir = f"analytics/{actor}/raw"
     os.makedirs(out_dir, exist_ok=True)
@@ -180,7 +223,7 @@ def main():
     days = int(sys.argv[3]) if len(sys.argv) > 3 else 7
 
     print(f"=== {actor} 成績取得 (days={days}) ===")
-    data = fetch_ai_report(token, days)
+    data = fetch_with_fallback(token, days)
     if data is None:
         print("API取得失敗")
         sys.exit(1)
