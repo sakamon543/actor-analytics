@@ -29,7 +29,7 @@ JST = timezone(timedelta(hours=9))
 ACCOUNTS_YAML = os.path.join(ROOT, "アカウント帳簿総合.yaml")
 
 # 閾値
-STALE_DAYS = 5         # 3日サイクル+2日猶予。これ以上更新が無ければ異常
+STALE_DAYS = 3         # 3日サイクル + 0日猶予。3日サイクルなので3日経過で異常検知（5/24-26 cron停止事故で5→3に短縮）
 DROP_RATIO = 0.30      # 直近平均が前期平均から -30% 以下なら警告
 WINDOW = 10            # 比較ウィンドウ（直近10ポスト vs その前10ポスト）
 
