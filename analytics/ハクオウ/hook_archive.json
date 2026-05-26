@@ -9,6 +9,11 @@
           "scheduled_at": "2026-05-22T11:08:00+09:00",
           "registered_at": "2026-05-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-05-27T11:08:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
         }
       ]
     },
@@ -20,6 +25,11 @@
         {
           "scheduled_at": "2026-05-22T13:17:00+09:00",
           "registered_at": "2026-05-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-05-27T14:42:00+09:00",
+          "registered_at": "2026-05-26",
           "views": null
         }
       ]
@@ -33,6 +43,11 @@
           "scheduled_at": "2026-05-22T14:42:00+09:00",
           "registered_at": "2026-05-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-05-27T13:17:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
         }
       ]
     },
@@ -44,7 +59,8 @@
         {
           "scheduled_at": "2026-05-22T18:03:00+09:00",
           "registered_at": "2026-05-21",
-          "views": null
+          "views": 685,
+          "posted_at": "2026-05-23T12:55:13.34+00:00"
         }
       ]
     },
@@ -392,7 +408,8 @@
         {
           "scheduled_at": "2026-05-22T14:42:00+09:00",
           "registered_at": "2026-05-21",
-          "views": null
+          "views": 56,
+          "posted_at": "2026-05-22T05:46:08.871+00:00"
         }
       ]
     },
@@ -404,7 +421,8 @@
         {
           "scheduled_at": "2026-05-22T18:03:00+09:00",
           "registered_at": "2026-05-21",
-          "views": null
+          "views": 71,
+          "posted_at": "2026-05-22T09:08:13.824+00:00"
         }
       ]
     },
@@ -416,7 +434,8 @@
         {
           "scheduled_at": "2026-05-22T19:17:00+09:00",
           "registered_at": "2026-05-21",
-          "views": null
+          "views": 298,
+          "posted_at": "2026-05-22T10:22:57.301+00:00"
         }
       ]
     },
@@ -440,7 +459,8 @@
         {
           "scheduled_at": "2026-05-22T20:28:00+09:00",
           "registered_at": "2026-05-21",
-          "views": null
+          "views": 49,
+          "posted_at": "2026-05-22T11:31:21.791+00:00"
         }
       ]
     },
@@ -452,7 +472,8 @@
         {
           "scheduled_at": "2026-05-22T21:03:00+09:00",
           "registered_at": "2026-05-21",
-          "views": null
+          "views": 76,
+          "posted_at": "2026-05-22T12:06:25.155+00:00"
         }
       ]
     },
@@ -476,7 +497,8 @@
         {
           "scheduled_at": "2026-05-22T22:48:00+09:00",
           "registered_at": "2026-05-21",
-          "views": null
+          "views": 40,
+          "posted_at": "2026-05-22T13:52:50.242+00:00"
         }
       ]
     },
@@ -488,7 +510,8 @@
         {
           "scheduled_at": "2026-05-23T11:08:00+09:00",
           "registered_at": "2026-05-21",
-          "views": null
+          "views": 728,
+          "posted_at": "2026-05-23T02:13:00.06+00:00"
         }
       ]
     },
@@ -500,7 +523,8 @@
         {
           "scheduled_at": "2026-05-23T13:17:00+09:00",
           "registered_at": "2026-05-21",
-          "views": null
+          "views": 365,
+          "posted_at": "2026-05-23T04:21:52.639+00:00"
         }
       ]
     },
@@ -512,7 +536,8 @@
         {
           "scheduled_at": "2026-05-23T14:42:00+09:00",
           "registered_at": "2026-05-21",
-          "views": null
+          "views": 111,
+          "posted_at": "2026-05-23T05:45:50.406+00:00"
         }
       ]
     },
@@ -524,7 +549,8 @@
         {
           "scheduled_at": "2026-05-23T18:03:00+09:00",
           "registered_at": "2026-05-21",
-          "views": null
+          "views": 446,
+          "posted_at": "2026-05-23T09:07:16.371+00:00"
         }
       ]
     },
@@ -548,7 +574,8 @@
         {
           "scheduled_at": "2026-05-23T19:52:00+09:00",
           "registered_at": "2026-05-21",
-          "views": null
+          "views": 82,
+          "posted_at": "2026-05-23T10:56:02.741+00:00"
         }
       ]
     },
@@ -560,7 +587,8 @@
         {
           "scheduled_at": "2026-05-23T20:28:00+09:00",
           "registered_at": "2026-05-21",
-          "views": null
+          "views": 88,
+          "posted_at": "2026-05-23T11:31:05.632+00:00"
         }
       ]
     },
@@ -572,7 +600,8 @@
         {
           "scheduled_at": "2026-05-23T21:03:00+09:00",
           "registered_at": "2026-05-21",
-          "views": null
+          "views": 176,
+          "posted_at": "2026-05-23T12:05:59.057+00:00"
         }
       ]
     },
@@ -608,7 +637,8 @@
         {
           "scheduled_at": "2026-05-24T11:08:00+09:00",
           "registered_at": "2026-05-21",
-          "views": null
+          "views": 39,
+          "posted_at": "2026-05-24T02:14:12.642+00:00"
         }
       ]
     },
@@ -620,7 +650,8 @@
         {
           "scheduled_at": "2026-05-24T13:17:00+09:00",
           "registered_at": "2026-05-21",
-          "views": null
+          "views": 19,
+          "posted_at": "2026-05-24T04:22:09.028+00:00"
         }
       ]
     },
@@ -668,6 +699,12 @@
         {
           "scheduled_at": "2026-05-24T19:52:00+09:00",
           "registered_at": "2026-05-21",
+          "views": 1277,
+          "posted_at": "2026-05-24T10:56:19.02+00:00"
+        },
+        {
+          "scheduled_at": "2026-05-27T18:03:00+09:00",
+          "registered_at": "2026-05-26",
           "views": null
         }
       ]
@@ -680,7 +717,8 @@
         {
           "scheduled_at": "2026-05-24T20:28:00+09:00",
           "registered_at": "2026-05-21",
-          "views": null
+          "views": 40,
+          "posted_at": "2026-05-24T11:31:15.295+00:00"
         }
       ]
     },
@@ -692,7 +730,8 @@
         {
           "scheduled_at": "2026-05-24T21:03:00+09:00",
           "registered_at": "2026-05-21",
-          "views": null
+          "views": 64,
+          "posted_at": "2026-05-24T12:06:06.468+00:00"
         }
       ]
     },
@@ -704,6 +743,12 @@
         {
           "scheduled_at": "2026-05-24T22:17:00+09:00",
           "registered_at": "2026-05-21",
+          "views": 1206,
+          "posted_at": "2026-05-24T13:21:21.471+00:00"
+        },
+        {
+          "scheduled_at": "2026-05-27T19:17:00+09:00",
+          "registered_at": "2026-05-26",
           "views": null
         }
       ]
@@ -716,6 +761,306 @@
         {
           "scheduled_at": "2026-05-24T22:48:00+09:00",
           "registered_at": "2026-05-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2fe97ecb29": {
+      "text": "男の8割は、別れて2〜4週間目に「連絡したい」が一度だけピークに来てる",
+      "structure_label": "数字型／男性心理暴露",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-27T19:52:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0d6f771d55": {
+      "text": "男は新しい彼女ができても、本命の元カノを完全に忘れるまで半年〜1年はかかる",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-27T20:28:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_55c08baf82": {
+      "text": "プライドが高い元彼があなたのSNSストーリーを毎回見てるなら、それは未練が残ってる証拠",
+      "structure_label": "サイン暴露型",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-27T21:03:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7d8d89f4bf": {
+      "text": "男が別れた元カノを思い出す瞬間は、季節の変わり目と眠る前の30分に集中する",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-27T22:17:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b1047ae30f": {
+      "text": "男は別れを切り出す瞬間、自分が言ってる別れ理由の半分は本気で言ってない",
+      "structure_label": "本音暴露型",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-27T22:48:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6441d81627": {
+      "text": "男が既読無視する時の9割は「返したくない」じゃなくて「3日考えても返事が浮かばない」",
+      "structure_label": "比較構造／本音暴露",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-28T11:08:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d358edad9f": {
+      "text": "今、彼のインスタを開いて閉じてを繰り返してるなら、まだ手遅れじゃない",
+      "structure_label": "読者直接呼びかけ型／反転希望",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-28T13:17:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ec5f6823a3": {
+      "text": "復縁できた女性がやめた行動は「夜中の長文LINE」じゃなくて「朝起きてすぐスマホを見ること」",
+      "structure_label": "意外性／成功事例の共通点",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-28T14:42:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8c0eaec552": {
+      "text": "復縁した彼に「あの沈黙の間、何してた？」って聞いたら「お前の写真フォルダを毎晩開いてた」って",
+      "structure_label": "セリフ引用型",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-28T18:03:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c15d058888": {
+      "text": "別れて3ヶ月、彼に「最近どうしてる？」って送って既読無視された人の8割は、その次の動きで本当に終わる",
+      "structure_label": "失敗警告型／数字型",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-28T19:17:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_917ae038bb": {
+      "text": "彼にブロックされてるなら、復縁の確率はむしろ上がってる",
+      "structure_label": "反転希望型／常識否定",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-28T19:52:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ff66b1669d": {
+      "text": "復縁できた女性の8割は、彼にブロックされてから3ヶ月、SNSに何も投稿してない",
+      "structure_label": "数字型／成功事例の共通行動",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-28T20:28:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7b3fa65e45": {
+      "text": "「もう完全に終わった」って思いながらこれを読んでるなら、それはまだ終わってない",
+      "structure_label": "読者直接呼びかけ型",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-28T21:03:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8443f814aa": {
+      "text": "復縁した女性が共通してやめたのは、毎朝起きた瞬間に彼のSNSを確認すること",
+      "structure_label": "成功事例の共通行動",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-28T22:17:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c286cde35c": {
+      "text": "振った彼が居酒屋で漏らす本音は「あいつ今どうしてるんだろう」が圧倒的に多い",
+      "structure_label": "本音暴露型",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-28T22:48:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_808f90b35e": {
+      "text": "男は別れた直後より、別れて60日前後で「俺、間違ったかも」が急に襲ってくる",
+      "structure_label": "男性心理暴露／時期具体",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-29T11:08:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c4fcf037e4": {
+      "text": "自分磨きしてキレイになっても復縁できない女性は、全員『キレイになった自分を彼に見せたい』が顔に出てる",
+      "structure_label": "失敗警告型／意外性",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-29T13:17:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b6984448e0": {
+      "text": "彼のLINEトーク履歴を開いて、自分が最後に送った文を読み返してるなら、今日はもう閉じていい",
+      "structure_label": "読者直接呼びかけ型",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-29T14:42:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3b014196bc": {
+      "text": "復縁できた女性のほぼ全員が、最初の再連絡で「久しぶり」を使ってない",
+      "structure_label": "成功事例の共通行動／意外性",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-29T18:03:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_87acbaf85c": {
+      "text": "男が冷却期間中に元カノを思い出す時間帯は、深夜2〜4時と日曜の夕方に集中してる",
+      "structure_label": "男性心理暴露／時期具体",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-29T19:17:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e41b9e442d": {
+      "text": "別れて1年以上経ってても、男にとって元カノは『タイプど真ん中』のまま",
+      "structure_label": "反転希望型／男性心理暴露",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-29T19:52:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2d948a12d2": {
+      "text": "別れた直後に共通の友達経由で彼の様子を探った人は、9割の確率で復縁が半年遅れる",
+      "structure_label": "失敗警告型／数字型",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-29T20:28:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2b6e8f3f5f": {
+      "text": "彼に新しい彼女ができたって聞いてから眠れない夜が続いてるなら、まだ勝負はついてない",
+      "structure_label": "読者直接呼びかけ型／反転希望",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-29T21:03:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fd98956978": {
+      "text": "復縁した彼に「別れて一番きつかった瞬間は？」って聞いたら「お前と過ごす未来が全部消えた瞬間」って",
+      "structure_label": "セリフ引用型",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-29T22:17:00+09:00",
+          "registered_at": "2026-05-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c0d19d7169": {
+      "text": "男が「ごめん、今は連絡返せない」って言う本当の意味は、感情処理に2週間欲しいって告白",
+      "structure_label": "本音暴露／比較構造",
+      "first_used_at": "2026-05-26",
+      "history": [
+        {
+          "scheduled_at": "2026-05-29T22:48:00+09:00",
+          "registered_at": "2026-05-26",
           "views": null
         }
       ]
