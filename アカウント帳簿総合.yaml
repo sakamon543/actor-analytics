@@ -45,6 +45,14 @@ accounts:
     enabled: true
     notes: 既存運用マシン登録済み・運用先=bd4a「みさき｜追わせる復縁①」（投稿0本・仕切り直し）を取り込み（2026-06-03）。商品=追わせる復縁（復縁メソッド/全5章）。ターゲットは共通target（復縁女性）とドンピシャ。過去実績は別アカ40ec（173本/thread5.4倍）にあり学習参照のみ→管理md参照。masterは未生成（next_batch.jsonで初回シード投入、analyzeはmaster=none扱いでスキップ）
 
+  - name: りお
+    token_env: RIO_TOKEN
+    account_setting: accounts/りお/アカウント情報総合管理.md
+    start_date: 2026-06-04
+    end_date: 2026-07-03
+    enabled: true
+    notes: 既存運用マシン登録済み・運用先=ab2a「りお│正しい「尽くし」①」（投稿0本・仕切り直し）を取り込み（2026-06-03）。商品=正しい尽くし術（溺愛系/全5章）。ターゲットは現役カップル×尽くしすぎ→溺愛で共通target（復縁女性）と一部ズレ＆復縁ネタ禁止→管理md参照。過去実績は別アカdcab（140本/thread1.5倍）にあり学習参照のみ。masterは未生成（next_batch.jsonで初回シード投入、analyzeはmaster=none扱いでスキップ）
+
   # 演者追加例（コピペで増やす）:
   # - name: あや
   #   token_env: AYA_TOKEN
