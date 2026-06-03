@@ -19,6 +19,16 @@
           "scheduled_at": "2026-06-01T19:17:00+09:00",
           "registered_at": "2026-05-30",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-04T11:08:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-05T20:28:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
         }
       ]
     },
@@ -54,6 +64,16 @@
           "scheduled_at": "2026-06-02T20:28:00+09:00",
           "registered_at": "2026-05-30",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-04T20:28:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-05T22:48:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
         }
       ]
     },
@@ -77,6 +97,11 @@
         {
           "scheduled_at": "2026-05-22T19:17:00+09:00",
           "registered_at": "2026-05-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-05T11:08:00+09:00",
+          "registered_at": "2026-06-03",
           "views": null
         }
       ]
@@ -510,6 +535,11 @@
           "scheduled_at": "2026-05-23T11:08:00+09:00",
           "registered_at": "2026-05-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-04T21:03:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
         }
       ]
     },
@@ -690,6 +720,11 @@
           "scheduled_at": "2026-05-24T19:52:00+09:00",
           "registered_at": "2026-05-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-04T14:42:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
         }
       ]
     },
@@ -725,6 +760,11 @@
         {
           "scheduled_at": "2026-05-24T22:17:00+09:00",
           "registered_at": "2026-05-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-05T13:17:00+09:00",
+          "registered_at": "2026-06-03",
           "views": null
         }
       ]
@@ -1238,7 +1278,7 @@
         {
           "scheduled_at": "2026-06-01T21:03:00+09:00",
           "registered_at": "2026-05-31",
-          "views": 10,
+          "views": 13,
           "posted_at": "2026-06-01T12:07:01.71+00:00"
         }
       ]
@@ -1287,7 +1327,7 @@
         {
           "scheduled_at": "2026-06-02T13:17:00+09:00",
           "registered_at": "2026-05-31",
-          "views": 6,
+          "views": 15,
           "posted_at": "2026-06-02T04:22:25.504+00:00"
         }
       ]
@@ -1337,7 +1377,8 @@
         {
           "scheduled_at": "2026-06-02T19:52:00+09:00",
           "registered_at": "2026-05-31",
-          "views": null
+          "views": 15,
+          "posted_at": "2026-06-02T10:56:24.307+00:00"
         }
       ]
     },
@@ -1385,6 +1426,256 @@
         {
           "scheduled_at": "2026-06-02T22:48:00+09:00",
           "registered_at": "2026-05-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_04b23f1900": {
+      "text": "別れた男の半数以上は、別れて2〜4週間で『連絡したい』が一度はピークに来てる。でも自分から連絡することは絶対にない",
+      "structure_label": "数字×男性心理暴露型",
+      "first_used_at": "2026-06-03",
+      "history": [
+        {
+          "scheduled_at": "2026-06-04T13:17:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-06T14:42:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ac14ad1d5a": {
+      "text": "復縁した彼に「もし私が連絡してなかったらどうしてた？」って聞いてみた",
+      "structure_label": "セリフ引用型",
+      "first_used_at": "2026-06-03",
+      "history": [
+        {
+          "scheduled_at": "2026-06-04T18:03:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-06T20:28:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_02697155ee": {
+      "text": "「友達からやり直すのが安全」は嘘",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-03",
+      "history": [
+        {
+          "scheduled_at": "2026-06-04T19:17:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_26859064d1": {
+      "text": "男は新しい彼女と付き合っても、別れた本命を完全に忘れられない期間が半年〜1年続く",
+      "structure_label": "男性心理暴露型（時間軸）",
+      "first_used_at": "2026-06-03",
+      "history": [
+        {
+          "scheduled_at": "2026-06-04T19:52:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_081bb3fcf5": {
+      "text": "男は1〜2ヶ月後の懐古期に、ほぼ全員一度はSNSや写真で元カノを確認してる",
+      "structure_label": "男性心理暴露型（時間軸×割合）",
+      "first_used_at": "2026-06-03",
+      "history": [
+        {
+          "scheduled_at": "2026-06-04T22:17:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d03b88788e": {
+      "text": "プライドが高い元彼がSNSのストーリーを毎回見てるなら、それは脈ありのサインだ",
+      "structure_label": "反転希望型（行動の意味再定義）",
+      "first_used_at": "2026-06-03",
+      "history": [
+        {
+          "scheduled_at": "2026-06-04T22:48:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_55c08baf82": {
+      "text": "プライドが高い元彼があなたのSNSストーリーを毎回見てるなら、それは未練が残ってる証拠",
+      "structure_label": "反転希望型（行動の意味再定義）",
+      "first_used_at": "2026-06-03",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T14:42:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f99b7bc3b6": {
+      "text": "男は別れの瞬間に言ってる「冷めた」「他に好きな人がいる」「合わない」、あの半分以上は本気じゃない",
+      "structure_label": "男性心理暴露型（具体セリフ列挙）",
+      "first_used_at": "2026-06-03",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T18:03:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b4348f8bc6": {
+      "text": "振った側の男ほど、後悔の沼にハマる",
+      "structure_label": "命題型（男性心理）",
+      "first_used_at": "2026-06-03",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T19:17:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0f06c9faa2": {
+      "text": "「友達からやり直そう」は男にとっていちばん都合のいい逃げだ",
+      "structure_label": "常識否定型（角度変更）",
+      "first_used_at": "2026-06-03",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T19:52:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_33847d6cd1": {
+      "text": "復縁した彼に「私が連絡しなかったらどうしてた？」って聞いた答えがガチでヤバかった",
+      "structure_label": "セリフ引用型（フック側に好奇心ギャップ）",
+      "first_used_at": "2026-06-03",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T21:03:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6e5ea7b6e6": {
+      "text": "別れた男の8割は、2〜4週間で『連絡したい』ピークが一度は来てる",
+      "structure_label": "数字×男性心理暴露型",
+      "first_used_at": "2026-06-03",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T22:17:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_61743db45d": {
+      "text": "別れたカップルの方が、復縁後はむしろ長続きするって本当",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-03",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T11:08:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fcb390154b": {
+      "text": "男って自分から振った相手でも「今どんなふうに変わったんだろう」って気になってる",
+      "structure_label": "男性心理暴露型（振った側の本音）",
+      "first_used_at": "2026-06-03",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T13:17:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_42a62a5334": {
+      "text": "男が新しい彼女と付き合っても、元カノを完全に忘れられない期間って半年〜1年続く",
+      "structure_label": "男性心理暴露型（時間軸）",
+      "first_used_at": "2026-06-03",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T18:03:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b02f416aae": {
+      "text": "男が復縁を決める時、「好きだから」より圧倒的に動かすのが『罪悪感』",
+      "structure_label": "対比型（本当の動機暴露）",
+      "first_used_at": "2026-06-03",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T19:17:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_62661c4f49": {
+      "text": "結局、復縁できる女性って『復縁に期待し過ぎず元彼と話せる人』なんだよね",
+      "structure_label": "反転希望型（成功者の共通点）",
+      "first_used_at": "2026-06-03",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T19:52:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6c85f81a5e": {
+      "text": "回避型の「別れよう」は決意じゃなくて、ただの『一時避難』だから諦めなくていい",
+      "structure_label": "命題型＋励まし",
+      "first_used_at": "2026-06-03",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T21:03:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_61bdeb6c44": {
+      "text": "男は1度冷めても惚れ直す生き物だから、振られても諦めなくていいよ",
+      "structure_label": "反転希望型（男性心理）",
+      "first_used_at": "2026-06-03",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T22:17:00+09:00",
+          "registered_at": "2026-06-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_be06afad74": {
+      "text": "男は1〜2ヶ月後の懐古期に、ほぼ全員元カノのSNSを確認してる",
+      "structure_label": "男性心理暴露型（時間軸×割合）",
+      "first_used_at": "2026-06-03",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T22:48:00+09:00",
+          "registered_at": "2026-06-03",
           "views": null
         }
       ]
