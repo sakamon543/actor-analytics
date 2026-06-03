@@ -29,6 +29,14 @@ accounts:
     enabled: true
     notes: 既存運用中アカウントを取り込み（2026-05-16）。1日10本×30日（3周ローテ）。商品=回避型男の脳取扱説明書¥2,980
 
+  - name: リクオウ
+    token_env: RIKUOU_TOKEN
+    account_setting: accounts/リクオウ/アカウント情報総合管理.md
+    start_date: 2026-06-04
+    end_date: 2026-07-03
+    enabled: true
+    notes: 既存運用マシン登録済み・投稿0本のフレッシュ状態を取り込み（2026-06-03）。商品=男の本能スイッチ（沼らせ系・約2万字/全7章）。ターゲットは現役カップル×都合のいい女で共通target（復縁女性）と一部ズレ→管理md参照。masterは未生成（next_batch.jsonで初回シード投入、analyzeはmaster=none扱いでスキップ）
+
   # 演者追加例（コピペで増やす）:
   # - name: あや
   #   token_env: AYA_TOKEN
