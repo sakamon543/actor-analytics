@@ -37,6 +37,14 @@ accounts:
     enabled: true
     notes: 既存運用マシン登録済み・投稿0本のフレッシュ状態を取り込み（2026-06-03）。商品=男の本能スイッチ（沼らせ系・約2万字/全7章）。ターゲットは現役カップル×都合のいい女で共通target（復縁女性）と一部ズレ→管理md参照。masterは未生成（next_batch.jsonで初回シード投入、analyzeはmaster=none扱いでスキップ）
 
+  - name: みさき
+    token_env: MISAKI_TOKEN
+    account_setting: accounts/みさき/アカウント情報総合管理.md
+    start_date: 2026-06-04
+    end_date: 2026-07-03
+    enabled: true
+    notes: 既存運用マシン登録済み・運用先=bd4a「みさき｜追わせる復縁①」（投稿0本・仕切り直し）を取り込み（2026-06-03）。商品=追わせる復縁（復縁メソッド/全5章）。ターゲットは共通target（復縁女性）とドンピシャ。過去実績は別アカ40ec（173本/thread5.4倍）にあり学習参照のみ→管理md参照。masterは未生成（next_batch.jsonで初回シード投入、analyzeはmaster=none扱いでスキップ）
+
   # 演者追加例（コピペで増やす）:
   # - name: あや
   #   token_env: AYA_TOKEN
