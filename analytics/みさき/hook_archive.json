@@ -1,0 +1,280 @@
+{
+  "hooks": {
+    "fookid_e37a3df66c": {
+      "text": "別れて3日目の彼と、3ヶ月目の彼は、別人だと思った方がいい。",
+      "structure_label": "時系列対比型（命題）",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T11:08:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-05T21:03:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-06T19:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-07T11:08:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-07T20:28:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5552d5fcf9": {
+      "text": "夜中の2時に元彼のストーリー何回も見返して、「また見ちゃった」って布団かぶってる人。",
+      "structure_label": "読者行動描写型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T13:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_efe25761c8": {
+      "text": "別れた後、深夜に元彼のインスタ開いて、新しい投稿チェックして、いいね欄見て、新しい彼女のアカウント特定して比較してる人。",
+      "structure_label": "読者行動描写型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T14:42:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-06T14:42:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-07T14:42:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-07T19:52:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-07T22:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e73561894a": {
+      "text": "男が別れを決めるとき「冷めた」より圧倒的に多いのが『愛が大きくなりすぎてしんどい』なんだよね。",
+      "structure_label": "男性心理暴露型（対比）",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T18:03:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a3b4493692": {
+      "text": "別れて1週間目の彼と、1ヶ月後の彼は、別人だと思っていいよ。",
+      "structure_label": "時系列対比型（命題）",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T19:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e75273cd30": {
+      "text": "深夜に元彼のSNS見て、いいね欄チェックして、「また見ちゃった」って自己嫌悪で眠れない人。",
+      "structure_label": "読者行動描写型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T19:52:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-06T11:08:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-06T21:03:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-07T19:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-07T21:03:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_947d6f458e": {
+      "text": "別れ際の彼の冷たい態度って、嫌いになった証拠じゃないよ。",
+      "structure_label": "常識破壊型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T20:28:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cd4e6ce30a": {
+      "text": "別れてから毎日、元彼のフォロー欄チェックして、新しく増えた女の子のアカウント特定してる人。",
+      "structure_label": "読者行動描写型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T22:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_23dea95058": {
+      "text": "回避型の元彼の「もう連絡しないで」は、本気の決意じゃなくてただの『一時避難』。",
+      "structure_label": "命題型（セリフの本当の意味）",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T22:48:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ae31820082": {
+      "text": "別れた直後の彼の態度と、2ヶ月後の彼の態度は、別人レベルで違うよ。",
+      "structure_label": "時系列対比型（命題）",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T13:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_83c517926a": {
+      "text": "寝る前に元彼のインスタ開いて、最後のストーリーから何分経ったかチェックしてる人。",
+      "structure_label": "読者行動描写型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T18:03:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3f3fa86f1b": {
+      "text": "男は「追いLINEしてくる元カノ＝まだ俺のこと好き」とは思ってないよ。",
+      "structure_label": "男性心理暴露型（等式否定）",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T19:52:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_08add3c602": {
+      "text": "深夜に元彼の新しい彼女らしき子のアカウント見つけて、自分と比較して落ち込んでる人。",
+      "structure_label": "読者行動描写型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T20:28:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_89714a7bdf": {
+      "text": "別れて2週間の彼と、3ヶ月後の彼は、まったく別の人だと思って関わった方がいい。",
+      "structure_label": "時系列対比型（命題）",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T22:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7dde66b800": {
+      "text": "振った側の男ほど、別れて1ヶ月後に未練たらたらになるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T22:48:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_84137e4631": {
+      "text": "深夜にスマホ持ったまま元彼のSNS開いて、いいね欄スクロールして、自分が嫌になって寝れない人。",
+      "structure_label": "読者行動描写型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T13:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_33a753b79b": {
+      "text": "別れて1ヶ月の彼と、半年後の彼は、心の中で全然違う場所にいるよ。",
+      "structure_label": "時系列対比型（命題）",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T18:03:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f4ab222ffd": {
+      "text": "別れて10日目の彼と、3ヶ月後の彼は、別人だと思った方が動きやすいよ。",
+      "structure_label": "時系列対比型（命題）",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T22:48:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    }
+  }
+}

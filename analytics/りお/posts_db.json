@@ -17,10 +17,16 @@
       "period_days": 7,
       "total_posts": 1,
       "avg_impressions": 2
+    },
+    {
+      "fetched_at": "2026-06-04T17:42:35+09:00",
+      "period_days": 7,
+      "total_posts": 1,
+      "avg_impressions": 2
     }
   ],
   "latest_summary": {
-    "fetched_at": "2026-06-04T16:41:31+09:00",
+    "fetched_at": "2026-06-04T17:42:35+09:00",
     "time_analysis": {
       "best_hours": [
         8

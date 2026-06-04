@@ -1,0 +1,364 @@
+{
+  "hooks": {
+    "fookid_b1362aad90": {
+      "text": "彼の「空いてる日」にいつも自分の予定を全部合わせてる女。",
+      "structure_label": "読者行動指摘型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T11:08:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_32f60448c5": {
+      "text": "尽くしてるのに不安なのは、あなたの愛情が足りないからじゃない。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T13:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2cbeb05136": {
+      "text": "「尽くせば愛される」はウソ。男の脳は本能で動く生き物だからな。",
+      "structure_label": "常識破壊型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T14:42:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dc470bd875": {
+      "text": "断言するけど、追いかけてくる女ほど男は本気にならない。",
+      "structure_label": "男の本音断言型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T18:03:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b72842acef": {
+      "text": "男が彼女に冷める時、「嫌いになった」より圧倒的に多いのが『俺がいなくても困らなさそう』。",
+      "structure_label": "命題対比型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T19:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_788b49b6c1": {
+      "text": "彼の予定に毎回合わせてる女ほど、彼の予定表に「優先枠」を持ってない。",
+      "structure_label": "読者行動指摘型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T19:52:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_128e23c1a9": {
+      "text": "男は、「即レス＝好かれてる証拠」とは思っていない。",
+      "structure_label": "男の心理断言型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T20:28:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3e7cc5ac17": {
+      "text": "意外かもだけど、男は『追いかける余白がない相手』には飽きる生き物。",
+      "structure_label": "常識破壊型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T21:03:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c92f799a12": {
+      "text": "男の本音を言うと、即レス来ても何も嬉しくない。",
+      "structure_label": "男の本音暴露型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T22:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5e0e1c4911": {
+      "text": "男の冷たさは、嫌いになった証拠じゃない。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T22:48:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3793841802": {
+      "text": "返信が「おけ」「うん」の2文字なのに、あなたは毎回スタンプ付きの長文で返してる女。",
+      "structure_label": "読者行動指摘型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T11:08:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_75d3c44ada": {
+      "text": "男は「すぐ手に入る女」と簡単に本気で恋にハマれない。",
+      "structure_label": "男の心理断言型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T13:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3c5e527b57": {
+      "text": "彼が冷たいのは、あなたが至らないからじゃない。むしろ全部やりすぎてる。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T14:42:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7d1ed68b22": {
+      "text": "「重い女が嫌われる」は嘘。本当は「動きが読める女が飽きられる」。",
+      "structure_label": "常識破壊型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T18:03:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ffe9d3eb1c": {
+      "text": "一日中スマホ握って彼の返信を待ってる女。",
+      "structure_label": "読者行動指摘型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T19:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_52422dcc4b": {
+      "text": "男って、自分が動かなくても会える相手のことを「本命」とは数えてない。",
+      "structure_label": "男の心理断言型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T19:52:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ced39cb4f8": {
+      "text": "彼の機嫌伺いを一日10回はしてる女。",
+      "structure_label": "読者行動指摘型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T20:28:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_72eb37ad03": {
+      "text": "「私ばっかり好き」で泣いてる夜があるのは、あなたが愛されてないからじゃない。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T21:03:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5fdd31c73b": {
+      "text": "既読ついた瞬間に長文で返してる女。",
+      "structure_label": "読者行動指摘型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T22:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_306a40459e": {
+      "text": "意外かもだけど、男は『余裕がない女』に一番先に冷める生き物。",
+      "structure_label": "常識破壊型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T22:48:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7b5d4be60e": {
+      "text": "デートの行き先、彼の希望しか提案してない女。",
+      "structure_label": "読者行動指摘型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T11:08:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3df4c01b37": {
+      "text": "「えー♡なんでも好き！」が口癖になってる女。",
+      "structure_label": "読者行動指摘型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T13:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f993b64e90": {
+      "text": "男の本音を言うと、即レスより既読放置の方が気になる。",
+      "structure_label": "男の本音暴露型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T14:42:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f1609edfda": {
+      "text": "彼の連絡頻度に合わせて自分の感情を上下させてる女。",
+      "structure_label": "読者行動指摘型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T18:03:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d6fb6744b4": {
+      "text": "男は、「尽くしてくれる女＝大事な相手」とは思っていない。",
+      "structure_label": "男の心理断言型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T19:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e8b2edd724": {
+      "text": "彼に「忙しい？」って毎回気を遣ってる女。",
+      "structure_label": "読者行動指摘型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T19:52:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d9ba6faec6": {
+      "text": "男は『手に入れた瞬間に興味が薄れる』だけだから、追われない女は諦めなくていい。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T20:28:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c2f42d139c": {
+      "text": "男が本気になる時、「気持ち」より動かすのが『失う恐怖』。",
+      "structure_label": "命題対比型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T21:03:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4292a67e55": {
+      "text": "「LINE何回送ったか」を数えるのが日課になってる女。",
+      "structure_label": "読者行動指摘型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T22:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5608998c5b": {
+      "text": "男の既読放置は、興味がない証拠じゃない。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T22:48:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "hooks": {
+    "fookid_3507de1cb8": {
+      "text": "「彼がLINEで冷たい」って悩んでる人の大半は、彼が冷たいんじゃなくて自分の期待値が高すぎるだけ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T11:08:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-05T19:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-05T22:48:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-06T18:03:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-06T22:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-07T18:03:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-07T20:28:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-07T22:48:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ae0cb7b3e1": {
+      "text": "「お母さん」みたいって言われたことない？それ、最も危険なサインだよ。",
+      "structure_label": "警告サイン型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T13:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-05T20:28:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-06T13:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-06T20:28:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-07T11:08:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-07T19:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-07T22:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_81e93740db": {
+      "text": "「彼が素っ気ない」って悩んでる人の大半は、彼が素っ気ないんじゃなくて自分が尽くしすぎてるだけ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T14:42:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f6baecdf13": {
+      "text": "「尽くせば尽くすほど愛される」って常識、嘘です",
+      "structure_label": "常識破壊型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T18:03:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_66d305b7ce": {
+      "text": "「彼女っていうより家政婦みたい」って思われたことない？それ、最も危険なサインだよ。",
+      "structure_label": "警告サイン型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T19:52:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_90003776ef": {
+      "text": "男は、「ご飯作ってくれる＝愛してる相手」とは思っていない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T21:03:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fd748b42fb": {
+      "text": "「最近の彼が冷たい」って感じてる人の大半は、彼が冷たいんじゃなくて自分が求めすぎてるだけ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-05T22:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_29002e42e9": {
+      "text": "実は、男は『いいよ』しか言わない女性を大切にできない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T11:08:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e35f9ac0b2": {
+      "text": "「LINEが続かない」って悩んでる人の大半は、彼が興味ないんじゃなくて自分が前のめりすぎるだけ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T14:42:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_94b75b47dd": {
+      "text": "「一緒にいると落ち着く」って言われたことない？それ、母親に格下げされたサインだよ。",
+      "structure_label": "警告サイン型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T19:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_31d52649ec": {
+      "text": "男の「ありがとう」だけの返信は、冷めたサインじゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T19:52:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d213db176b": {
+      "text": "「彼の態度が変わった」って思ってる人の大半は、彼が変わったんじゃなくて自分が変わってないだけ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T21:03:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7e1818c8a5": {
+      "text": "「いつもありがとう」しか言われなくなってない？それ、一番危ない兆候だよ。",
+      "structure_label": "警告サイン型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T22:48:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_465867ffbe": {
+      "text": "男は、「予定全部合わせてくれる女性」と対等な関係を作れない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T13:17:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d59a7c5830": {
+      "text": "「会う頻度が減った」って不安な人の大半は、彼が冷めたんじゃなくて自分が重くなってるだけ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T14:42:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4ed1b550bd": {
+      "text": "「重い」って一回でも言われたことない？それ、彼の心が離れ始めてる確実なサイン。",
+      "structure_label": "警告サイン型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T19:52:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0e7048c84f": {
+      "text": "「一緒にいると息苦しい」って言葉が出るとき、男の中で別れはもう決まってる",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-06-04",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T21:03:00+09:00",
+          "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    }
+  }
+}

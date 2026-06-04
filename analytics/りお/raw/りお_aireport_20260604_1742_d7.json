@@ -1,0 +1,52 @@
+{
+  "account_name": "りお│正しい「尽くし」①",
+  "period_days": 7,
+  "total_posts": 1,
+  "avg_impressions": 2,
+  "top_posts": [
+    {
+      "text": "ご飯作って、予定全部合わせて、LINEも5秒で既読つけて10回推敲して返してる人。残念だけど、その「尽くす」が彼の気持ちをどんどん遠ざけてるよ。",
+      "views": 2,
+      "type": "thread",
+      "posted_at": "2026-06-03T23:16:08.701+00:00"
+    }
+  ],
+  "bottom_posts": [
+    {
+      "text": "ご飯作って、予定全部合わせて、LINEも5秒で既読つけて10回推敲して返してる人。残念だけど、その「尽くす」が彼の気持ちをどんどん遠ざけてるよ。",
+      "views": 2,
+      "type": "thread",
+      "posted_at": "2026-06-03T23:16:08.701+00:00"
+    }
+  ],
+  "time_analysis": {
+    "best_hours": [
+      8
+    ],
+    "worst_hours": [
+      8
+    ],
+    "hour_breakdown": {
+      "8": {
+        "count": 1,
+        "avg_views": 2
+      }
+    }
+  },
+  "type_analysis": {
+    "normal_count": 0,
+    "normal_avg_views": 0,
+    "thread_count": 1,
+    "thread_avg_views": 2,
+    "winner": "thread"
+  },
+  "hooks_analysis": {
+    "worked": [
+      "ご飯作って、予定全部合わせて、LINEも5秒で既読つけて10回推敲して返してる人。残念だけど、その「尽くす」が彼の気持ちをどんどん遠ざけてるよ。"
+    ],
+    "failed": [
+      "ご飯作って、予定全部合わせて、LINEも5秒で既読つけて10回推敲して返してる人。残念だけど、その「尽くす」が彼の気持ちをどんどん遠ざけてるよ。"
+    ]
+  },
+  "ai_summary": "直近7日間で1本のポストが分析されました。投稿時間帯としては 8時台が特にパフォーマンスが高く狙い目です。逆に 8時台の反応は比較的鈍いため避けるのが無難です。"
+}
