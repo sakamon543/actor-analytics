@@ -328,7 +328,7 @@
     },
     {
       "cycle_date": "2026-06-05",
-      "fetched_at": "2026-06-05T09:00:09+09:00",
+      "fetched_at": "2026-06-05T12:59:19+09:00",
       "matched_count": 5,
       "rank_medians": {
         "B": 266,
@@ -453,5 +453,5 @@
     }
   ],
   "_methodology_ref": "knowledge/shared/データ蓄積方法論.md",
-  "_last_updated": "2026-06-05 09:00"
+  "_last_updated": "2026-06-05 12:59"
 }

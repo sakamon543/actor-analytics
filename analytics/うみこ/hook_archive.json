@@ -511,6 +511,11 @@
           "registered_at": "2026-06-02",
           "views": 4428,
           "posted_at": "2026-06-03T13:51:10.344+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-06T13:17:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
         }
       ]
     },
@@ -667,6 +672,326 @@
         {
           "scheduled_at": "2026-06-05T22:48:00+09:00",
           "registered_at": "2026-06-02",
+          "views": null
+        }
+      ]
+    },
+    "fookid_91cc2cb66f": {
+      "text": "回避型の男って嫌いだから離れるんじゃなくて、気持ちが大きいほど動けなくなる。",
+      "structure_label": "常識否定型（F-8-a・気持ちの方向反転）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T11:08:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-07T13:17:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6ddaf55b0a": {
+      "text": "回避型の男は時間経つほど後悔するから、音信不通でも諦めなくていいよ。",
+      "structure_label": "反転希望型（E-1-a）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T14:42:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-07T14:42:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d73235f5bd": {
+      "text": "回避型の男たちと話して分かったことは、彼らが手放さない女には共通点があるということ。",
+      "structure_label": "経験者の暴露系（A-2 派生・共通点開示）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T18:03:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-07T19:17:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_61eb09cdee": {
+      "text": "振った側の男ね、別れて1ヶ月くらいで『あれ、本当に振ってよかったのか』が一度は来る。",
+      "structure_label": "男性心理暴露型（F-1-b 派生・タイミング系）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T19:17:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2acb275c89": {
+      "text": "回避型の『久しぶり、元気？』は脈ありの確認じゃなくて、ただの『反応テスト』なのよ。",
+      "structure_label": "セリフ意味暴露型（D-3-a）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T19:52:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cf13976bcf": {
+      "text": "回避型の『別れよう』は本気の決意じゃなくて、ただの『一時避難』なのよ。",
+      "structure_label": "セリフ意味暴露型（D-3-a・CSV直接実例）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T20:28:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-07T18:03:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3ccef6bc42": {
+      "text": "回避型の男はホッとした分後で罪悪感が来るから、別れ宣言された子も諦めなくていいよ。",
+      "structure_label": "反転希望型（E-1-a）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T21:03:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_86d922d648": {
+      "text": "実は、回避型の男は本気で好きな女ほど自分から手放す。",
+      "structure_label": "常識否定型（F-1-c）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T22:17:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_56f8fb8b36": {
+      "text": "完全に音信不通だった元彼から半年〜1年後に突然連絡が来た、ってパターン。",
+      "structure_label": "成功事例提示型（A-2-b 派生）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-06T22:48:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6cc8c900de": {
+      "text": "回避型の『もう連絡しないでほしい』は本気の決別じゃなくて、ただの『今は処理しきれない』なのよ。",
+      "structure_label": "セリフ意味暴露型（D-3-a）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T11:08:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f3e4ed9d50": {
+      "text": "回避型の男って気持ちが薄れたから離れるんじゃなくて、気持ちが大きくなった瞬間に動けなくなる。",
+      "structure_label": "常識否定型（F-8-a 派生・主張維持＋表現微修正）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T19:52:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2429f1e555": {
+      "text": "男が別れて2〜3週間で新しい彼女できた、ってパターン、女から見ると『早すぎ』に映るけど、実はあれ元カノを忘れたサインじゃなくて、上書きで消そうとしてる段階。",
+      "structure_label": "常識否定型（女側の解釈反転・派生）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T20:28:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_17957e4c38": {
+      "text": "回避型の男って別れた直後は元気でも、2〜3ヶ月後には『あの判断、本当に正しかったか』が必ず来る。",
+      "structure_label": "反転希望型（時系列描写・派生）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T21:03:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b738b020e3": {
+      "text": "回避型の男が手元から離さない女には、ほぼ全員に共通する1つの特徴があって、それが『俺のペースを脅かさない』ってこと。",
+      "structure_label": "経験者の暴露系（A-2-b 派生・1点に絞る）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T22:17:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9add91c3c2": {
+      "text": "振った側の男ね、1ヶ月経った頃に『あの別れ、本当に正解だったのか』って自問が必ず1回は来る。",
+      "structure_label": "男性心理暴露型（F-1-b 派生・タイミング）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T22:48:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b2d037ab0c": {
+      "text": "回避型の『最近どうしてる？』は懐かしさじゃなくて、ただの『今のあなたの様子見』なのよ。",
+      "structure_label": "セリフ意味暴露型（D-3-a 派生）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T11:08:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6d8e410804": {
+      "text": "回避型の『距離置こう』は終わりの合図じゃなくて、ただの『脳の緊急シャットダウン』なのよ。",
+      "structure_label": "セリフ意味暴露型（D-3-a 派生）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T13:17:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9a4b8a940b": {
+      "text": "回避型の男って振った直後はスッキリしてるように見えても、2ヶ月もすれば『俺、何やってんだろう』に変わる。",
+      "structure_label": "反転希望型（E-1-a 派生・時系列）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T14:42:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_75e20fbd06": {
+      "text": "回避型の男ほど、本命の女に対して『俺じゃ幸せにできない』って先に自分から終わらせる。",
+      "structure_label": "男性心理暴露型（F-1-c 派生）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T18:03:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9531d3301a": {
+      "text": "沈黙が半年以上続いた元彼から急に連絡来た、ってパターン、うちの相談者で実際に起きてるのは『あなたが一度も追わなかった子』だけ。",
+      "structure_label": "成功事例提示型（A-2-b 派生・条件付き）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T19:17:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_38d799b7d3": {
+      "text": "男は、「振った女のことを忘れる」とは思っていない。",
+      "structure_label": "男性心理断言系（G-1-a）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T19:52:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e33544f0b8": {
+      "text": "復縁して分かったんだけど、「振った側の方が長く引きずる」って話は本当。",
+      "structure_label": "経験者の暴露系（A-3-a）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T20:28:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bf2e8c9de5": {
+      "text": "「冷却期間3ヶ月置けば男は戻ってくる」って常識、嘘です。",
+      "structure_label": "常識破壊系（F-3-a）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T21:03:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_74787d1a47": {
+      "text": "男が別れを決めるとき「冷めた」より圧倒的に多いのが『好きすぎて怖くなった』。",
+      "structure_label": "常識破壊系（F-4-a）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T22:17:00+09:00",
+          "registered_at": "2026-06-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8c2533237f": {
+      "text": "男の別れ際の冷たさって、嫌いになった証拠じゃなくて、ただの『感情封印』なのよ。",
+      "structure_label": "常識破壊系（F-7-a）",
+      "first_used_at": "2026-06-05",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T22:48:00+09:00",
+          "registered_at": "2026-06-05",
           "views": null
         }
       ]

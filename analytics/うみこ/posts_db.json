@@ -853,10 +853,16 @@
       "period_days": 7,
       "total_posts": 96,
       "avg_impressions": 283
+    },
+    {
+      "fetched_at": "2026-06-05T12:59:19+09:00",
+      "period_days": 7,
+      "total_posts": 94,
+      "avg_impressions": 277
     }
   ],
   "latest_summary": {
-    "fetched_at": "2026-06-05T09:00:09+09:00",
+    "fetched_at": "2026-06-05T12:59:19+09:00",
     "time_analysis": {
       "best_hours": [
         13,
@@ -864,8 +870,8 @@
         22
       ],
       "worst_hours": [
-        17,
-        20
+        9,
+        17
       ],
       "hour_breakdown": {
         "7": {
@@ -873,16 +879,16 @@
           "avg_views": 18
         },
         "9": {
-          "count": 4,
-          "avg_views": 304
+          "count": 3,
+          "avg_views": 11
         },
         "11": {
           "count": 5,
-          "avg_views": 198
+          "avg_views": 245
         },
         "12": {
-          "count": 4,
-          "avg_views": 70
+          "count": 3,
+          "avg_views": 19
         },
         "13": {
           "count": 6,
@@ -925,8 +931,8 @@
     "type_analysis": {
       "normal_count": 0,
       "normal_avg_views": 0,
-      "thread_count": 96,
-      "thread_avg_views": 283,
+      "thread_count": 94,
+      "thread_avg_views": 277,
       "winner": "thread"
     },
     "hooks_analysis": {
@@ -941,6 +947,6 @@
         "経験談ですが、『怒ってる？』を彼に送る子って『これで彼の気持ちが分かる』と思い込んでます。でも回避型の彼の頭では『催促されてる、めんどくさい』に変換される。気持ちの確認LINEは、ほぼ全部のケースで逆効果なのよね↓"
       ]
     },
-    "ai_summary": "直近7日間で96本のポストが分析されました。投稿時間帯としては 13時台, 14時台, 22時台が特にパフォーマンスが高く狙い目です。逆に 17時台, 20時台の反応は比較的鈍いため避けるのが無難です。"
+    "ai_summary": "直近7日間で94本のポストが分析されました。投稿時間帯としては 13時台, 14時台, 22時台が特にパフォーマンスが高く狙い目です。逆に 9時台, 17時台の反応は比較的鈍いため避けるのが無難です。"
   }
 }
