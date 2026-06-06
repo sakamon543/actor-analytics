@@ -1032,12 +1032,12 @@
     },
     {
       "cycle_date": "2026-06-06",
-      "fetched_at": "2026-06-06T09:00:08+09:00",
+      "fetched_at": "2026-06-06T16:18:19+09:00",
       "matched_count": 9,
       "rank_medians": {
         "A": 29,
         "B": 36,
-        "C": 1151
+        "C": 1174
       },
       "misses": [
         {
@@ -1103,7 +1103,7 @@
             "hook_length": 39,
             "main_length": 100
           },
-          "actual_views": 1151,
+          "actual_views": 1174,
           "text_head": "別れた男の半数以上は、別れて2〜4週間で『連絡したい』が一度はピークに来てる。でも自分から連絡することは絶対にない。男のプライドは、振った側であっても自分から動"
         },
         {
@@ -1238,5 +1238,5 @@
     }
   ],
   "_methodology_ref": "knowledge/shared/データ蓄積方法論.md",
-  "_last_updated": "2026-06-06 09:00"
+  "_last_updated": "2026-06-06 16:18"
 }

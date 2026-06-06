@@ -41,6 +41,16 @@
           "scheduled_at": "2026-05-22T13:17:00+09:00",
           "registered_at": "2026-05-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-07T11:08:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-08T19:17:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
         }
       ]
     },
@@ -85,6 +95,11 @@
         {
           "scheduled_at": "2026-05-22T18:03:00+09:00",
           "registered_at": "2026-05-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-07T22:17:00+09:00",
+          "registered_at": "2026-06-06",
           "views": null
         }
       ]
@@ -1446,7 +1461,8 @@
         {
           "scheduled_at": "2026-06-06T14:42:00+09:00",
           "registered_at": "2026-06-03",
-          "views": null
+          "views": 1174,
+          "posted_at": "2026-06-04T04:21:47.62+00:00"
         }
       ]
     },
@@ -1583,7 +1599,8 @@
         {
           "scheduled_at": "2026-06-05T22:17:00+09:00",
           "registered_at": "2026-06-03",
-          "views": null
+          "views": 958,
+          "posted_at": "2026-06-05T13:21:17.224+00:00"
         }
       ]
     },
@@ -1607,7 +1624,8 @@
         {
           "scheduled_at": "2026-06-06T13:17:00+09:00",
           "registered_at": "2026-06-03",
-          "views": null
+          "views": 1,
+          "posted_at": "2026-06-06T04:21:25.053+00:00"
         }
       ]
     },
@@ -1679,6 +1697,309 @@
         {
           "scheduled_at": "2026-06-06T22:48:00+09:00",
           "registered_at": "2026-06-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9fce2ab309": {
+      "text": "回避型の「別れよう」は本気の決意じゃなくて、ただの『一時避難』。",
+      "structure_label": "命題型（D-3）",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T13:17:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-09T20:28:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_22dc2a6637": {
+      "text": "男は、「好きだった相手」と簡単に友達みたいな関係には戻れない。",
+      "structure_label": "男の本音断言型（G-2）",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T14:42:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-08T14:42:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_25ac2cf090": {
+      "text": "男が復縁を決意する時、「気持ち」より圧倒的に動かすのが『罪悪感』。",
+      "structure_label": "対比命題型（F-4）",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T18:03:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4bf7081f18": {
+      "text": "プライドが高い元彼がSNSのストーリーを毎回見てるなら、それは脈ありのサインだ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T19:17:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b3a0a8153a": {
+      "text": "別れた男の半数以上は、別れて2〜4週間で『連絡したい』が一度はピークに来てる。",
+      "structure_label": "統計暴露型",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T19:52:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-09T19:17:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4b6aea7083": {
+      "text": "「冷却期間3ヶ月」って常識、嘘です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T20:28:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a5b10b0495": {
+      "text": "男は1〜2ヶ月後の懐古期に、ほぼ全員一度はSNSや写真で元カノを確認してる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T21:03:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a3d166f5f8": {
+      "text": "男は、「連絡が続いている＝関係が進んでいる」とは思っていない。",
+      "structure_label": "男の本音断言型（G-1）",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-07T22:48:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3180e1a2f9": {
+      "text": "男が別れを決めるとき「冷めた」より圧倒的に多いのが『愛が強くなりすぎた』。",
+      "structure_label": "対比命題型（F-4）",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T11:08:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ee6fa22445": {
+      "text": "別れを経験したカップルの方が結局長続きする。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T13:17:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dd1cb8a829": {
+      "text": "男は新しい彼女と付き合っても、別れた本命を完全に忘れられない期間が半年〜1年続く。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T18:03:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1898defe0d": {
+      "text": "男の別れ際の冷たさは、嫌いになった証拠じゃない。",
+      "structure_label": "現象解釈否定型（F-7）",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T19:52:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9db248565c": {
+      "text": "振った側の男は、自分から「戻りたい」と言えない。",
+      "structure_label": "男の本音断言型（G-2）",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T20:28:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_81305427ee": {
+      "text": "男性って元カノを絶対忘れないからね。",
+      "structure_label": "男性心理断言型（G-4）",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T21:03:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3db4a5b860": {
+      "text": "プライドが高い元彼ほど、心の中では『戻りたい』って思ってる。",
+      "structure_label": "男性心理暴露型（G-5）",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T22:17:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d3044a91f7": {
+      "text": "復縁して分かったんだけど、「未練が残るのは男」って話は本当。",
+      "structure_label": "経験者暴露型（A-3）",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T22:48:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8dd7e7dcc5": {
+      "text": "男って自分から振った相手でも「今どんなふうに変わったんだろう」って気になってる。",
+      "structure_label": "男性心理暴露型（G-3）",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T11:08:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_186f5d7919": {
+      "text": "意外かもだけど、男は『元カノへの未練が強すぎると沈黙する』生き物。",
+      "structure_label": "意外性断言型（F-2）",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T13:17:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8dc87b4f89": {
+      "text": "元彼の沈黙は『気持ちがない証拠』じゃない。",
+      "structure_label": "現象解釈否定型（F-7）",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T14:42:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ad78a83bfa": {
+      "text": "男は別れの瞬間、自分が言ってる言葉の半分以上を本気にしてない。",
+      "structure_label": "男性心理暴露型（B-3）",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T18:03:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0675899a81": {
+      "text": "男性は1度冷めても惚れ直すから諦めなくていいよ。",
+      "structure_label": "励まし断言型（E-1）",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T19:52:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_da4b11cfd2": {
+      "text": "実は、男は本気で好きな相手に自分から戻れない。",
+      "structure_label": "常識破壊型（F-1）",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T21:03:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2ba8a16f29": {
+      "text": "振った男ほど元カノに未練たらたらになる。",
+      "structure_label": "男性心理暴露型（G-5）",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T22:17:00+09:00",
+          "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b04b0eabf4": {
+      "text": "男の本音を言うと、追われてる間は復縁を考えない。",
+      "structure_label": "男の本音暴露型（B-3）",
+      "first_used_at": "2026-06-06",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T22:48:00+09:00",
+          "registered_at": "2026-06-06",
           "views": null
         }
       ]
