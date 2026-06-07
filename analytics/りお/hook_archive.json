@@ -45,6 +45,16 @@
           "scheduled_at": "2026-06-07T22:48:00+09:00",
           "registered_at": "2026-06-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-09T22:48:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T20:28:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
         }
       ]
     },
@@ -148,6 +158,21 @@
           "registered_at": "2026-06-04",
           "views": 136,
           "posted_at": "2026-06-05T13:22:10.136+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-08T13:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-08T21:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-09T21:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
         }
       ]
     },
@@ -209,6 +234,16 @@
           "registered_at": "2026-06-04",
           "views": 3,
           "posted_at": "2026-06-06T12:06:59.459+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-09T19:52:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T18:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
         }
       ]
     },
@@ -268,6 +303,247 @@
         {
           "scheduled_at": "2026-06-07T21:03:00+09:00",
           "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4c441acf85": {
+      "text": "彼の身の回りの世話、全部焼いてあげてる人。",
+      "structure_label": "読者描写型（お母さん警告）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T11:08:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-08T19:52:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-09T18:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_deddc180bb": {
+      "text": "「尽くせば尽くすほど愛される」って思ってるなら、一回止まってほしい。",
+      "structure_label": "常識否定型（尽くす＝愛される神話）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T14:42:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-09T11:08:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T22:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d6f6f4248b": {
+      "text": "「彼の返信が遅い」って不満に思ってる人の大半は、彼が冷めたんじゃなくて自分が即レスしすぎてるだけ。",
+      "structure_label": "常識否定型（〜じゃなくて自分の問題）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T18:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b482750be7": {
+      "text": "男は、「尽くしてくれる女＝手放したくない女」とは思っていない。",
+      "structure_label": "男性心理断言型（等式の否定）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T19:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_065adb1285": {
+      "text": "朝のお弁当作って、彼のシフト全部把握して、欲しいもの先回りで買ってあげてる人。",
+      "structure_label": "読者描写型（具体行動の列挙）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T20:28:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_568f0e4597": {
+      "text": "「彼が忙しくて会えない」って悩んでる人の大半は、彼が逃げてるんじゃなくて自分の予定を全部空けすぎてるだけ。",
+      "structure_label": "常識否定型（〜じゃなくて自分の問題）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T22:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a67e195c40": {
+      "text": "ご飯作って、予定全部合わせて、LINEも5秒で既読つけて10回推敲して返してる人。",
+      "structure_label": "読者描写型（具体行動の列挙）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T22:48:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T13:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_165c9eb319": {
+      "text": "「彼が連絡くれない」って寂しがってる人の大半は、彼に気持ちがないんじゃなくて自分が連絡しすぎてるだけ。",
+      "structure_label": "常識否定型（〜じゃなくて自分の問題）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T13:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_76a862047f": {
+      "text": "男の「重い」は、本当に気持ちが冷めたサインじゃない。",
+      "structure_label": "現象解釈否定型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T14:42:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6785987f77": {
+      "text": "「私が我慢すればうまくいく」って思ってるなら、一回止まってほしい。",
+      "structure_label": "常識否定型（我慢＝関係維持の神話）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T19:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1815031820": {
+      "text": "「私のこと好きじゃないのかも」って不安になってる人の大半は、彼の気持ちが冷めたんじゃなくて自分が尽くしすぎてるだけ。",
+      "structure_label": "常識否定型（〜じゃなくて自分の問題）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T20:28:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4e4e577dcc": {
+      "text": "彼の予定管理、洗濯物の心配、ご飯の用意、全部やってあげてる人。",
+      "structure_label": "読者描写型（具体行動の列挙）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T22:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_62cf8a0908": {
+      "text": "意外かもだけど、男は「いつでも会える女」ほど興味を失う生き物。",
+      "structure_label": "男性心理断言型（属性×特性）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T11:08:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2f96bc5705": {
+      "text": "「彼との温度差が辛い」って悩んでる人の大半は、彼が冷たいんじゃなくて自分が熱量出しすぎてるだけ。",
+      "structure_label": "常識否定型（〜じゃなくて自分の問題）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T14:42:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_47d53df59d": {
+      "text": "男って、彼女に尽くされすぎると「やってあげる隙」がなくて気持ちが育たないんだよね。",
+      "structure_label": "男性心理メカニズム型（隙＝彼の好意育成）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T19:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f46cecaf23": {
+      "text": "「彼から誘ってこない」って拗ねてる人の大半は、彼の興味が薄れたんじゃなくて自分から誘いすぎてるだけ。",
+      "structure_label": "常識否定型（〜じゃなくて自分の問題）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T19:52:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_11643a1d60": {
+      "text": "「重いって思われたくない」って我慢してる人の大半は、彼に嫌われるんじゃなくて自分の本音を出せてないだけ。",
+      "structure_label": "常識否定型（〜じゃなくて自分の問題）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T21:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e29d2af8a7": {
+      "text": "「彼に尽くせば愛される」はウソ。",
+      "structure_label": "常識否定型（俗説はウソ）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T22:48:00+09:00",
+          "registered_at": "2026-06-07",
           "views": null
         }
       ]

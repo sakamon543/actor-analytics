@@ -1,0 +1,301 @@
+{
+  "hooks": {
+    "fookid_5d16266202": {
+      "text": "僕、元カノに4ヶ月目で連絡したんですよね。",
+      "structure_label": "男性当事者一次情報型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T11:08:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-09T11:08:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T14:42:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0e982f33c7": {
+      "text": "回避型彼氏が別れた直後に感じる「解放感」、3週間しか続かないんですよね。",
+      "structure_label": "男性心理暴露型（期間限定）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T13:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-09T14:42:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T21:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5e160853c0": {
+      "text": "回避型彼氏の言葉の表面と本音、ほぼ全部真逆になるんですよね。",
+      "structure_label": "常識破壊型（真逆命題）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T14:42:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-09T19:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T22:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_206679e81c": {
+      "text": "意外かもだけど、回避型は『重いと感じた相手ほど沈黙する』生き物。",
+      "structure_label": "常識破壊型（F-2-a派生）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T18:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_aae9dc6276": {
+      "text": "僕、元超回避型だったんですけど、6歳年上の彼女を好きだったのに「重い」と感じてしまってた。",
+      "structure_label": "男性当事者一次情報型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T19:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-09T21:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_67c77e453e": {
+      "text": "僕が4ヶ月目に自分から元カノに連絡したきっかけ、「彼女が完全に消えなかったから」でした。",
+      "structure_label": "男性当事者一次情報型（メソッド核心）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T19:52:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T11:08:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7cf91d87f0": {
+      "text": "回避型の「俺じゃ無理」は本気の決意じゃなくて、ただの『自信のなさからの逃げ』。",
+      "structure_label": "命題型（D-3-a派生）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T20:28:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_055c7c8bd1": {
+      "text": "回避型の彼へのLINE 3流→1流（3流「会いたいな」／1流「あの店行ってきた、美味しかったよ」）",
+      "structure_label": "ランク対比型（具体LINEワード）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T21:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T19:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_677b861113": {
+      "text": "僕、振った直後の自由は3週間で消えました。",
+      "structure_label": "男性当事者一次情報型（期間具体）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T22:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3d337a76f4": {
+      "text": "回避型が別れを決めるとき「冷めた」より圧倒的に多いのが『重いと感じてしまった』。",
+      "structure_label": "比較型（F-4-a派生）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T22:48:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_00f510f037": {
+      "text": "僕が元カノに連絡できなかった3ヶ月、彼女のことは1日も忘れてなかったんですよね。",
+      "structure_label": "男性当事者一次情報型（沈黙の中身）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T13:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fcd9771749": {
+      "text": "回避型彼氏の「もう連絡しないで」、半年後に自分から連絡してくる確率がめっちゃ高いんですよね。",
+      "structure_label": "男性心理暴露型（時間反転）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T18:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b671bcf504": {
+      "text": "回避型の彼への返信に困るLINE 3流→1流（3流「最近どう？」／1流「あの曲ふと思い出して連絡しちゃった」）",
+      "structure_label": "ランク対比型（具体LINEワード）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T19:52:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2c34ba89b5": {
+      "text": "回避型の別れ際の冷たさは、嫌いになったサインじゃない。",
+      "structure_label": "常識否定型（F-7-c派生）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T20:28:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c0e04cee9c": {
+      "text": "回避型の「重い」は、嫌いになったサインじゃないんですよね。",
+      "structure_label": "常識否定型（F-7-c派生）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T22:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5e16e4231a": {
+      "text": "僕、振った側だったのに3ヶ月目で「あの判断は本当に正しかったのか」って毎日考えてた。",
+      "structure_label": "男性当事者一次情報型（振った側の後悔）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T22:48:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_98dd25e97e": {
+      "text": "回避型彼氏のブロック、解除されるまでの平均期間って意外と短いんですよね。",
+      "structure_label": "男性心理暴露型（数字示唆）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T13:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_34590317a5": {
+      "text": "僕、別れた元カノのインスタを毎日見てたんですよね、振った側なのに。",
+      "structure_label": "男性当事者一次情報型（振った側の監視）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T18:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a4d12abf62": {
+      "text": "男の本音を言うと、回避型ほど振った元カノを後悔させたい気持ちが残ってる。",
+      "structure_label": "男性本音断言型（B-3-a派生）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T19:52:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1a474c35a6": {
+      "text": "回避型彼氏の沈黙が続く時、彼の頭の中で起きてること、実は全部「未練の整理」だったりするんですよね。",
+      "structure_label": "男性心理暴露型（沈黙の中身）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T20:28:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e682a6b4fd": {
+      "text": "僕、5歳年上の彼女に「嫌いになった訳じゃない」って言って別れたんですよね。",
+      "structure_label": "男性当事者一次情報型（別れ際のセリフ）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T22:48:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    }
+  }
+}

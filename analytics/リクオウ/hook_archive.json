@@ -129,6 +129,11 @@
           "scheduled_at": "2026-06-06T11:08:00+09:00",
           "registered_at": "2026-06-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-08T22:48:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
         }
       ]
     },
@@ -356,6 +361,291 @@
         {
           "scheduled_at": "2026-06-07T22:48:00+09:00",
           "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_441143678c": {
+      "text": "「好きだから尽くす」「彼のために何でもする」をやればやるほど、彼の気持ちは離れていく。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T11:08:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-09T11:08:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T11:08:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2f98bbc060": {
+      "text": "彼の「空いてる日」にいつも自分の予定を全部合わせてる女、彼の中で「いつ誘ってもOKな人」で確定してる。",
+      "structure_label": "読者状態指摘型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T13:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-09T18:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T20:28:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1784b88159": {
+      "text": "尽くしてるのに不安なのは、あなたの愛情が足りないからじゃない。むしろ逆だ。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T14:42:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-09T20:28:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T19:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_48de07ee5b": {
+      "text": "「彼のために」って思ってやることが増えるほど、彼の中であなたの存在感は薄くなっていく。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T18:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3553125731": {
+      "text": "彼にLINE即レスして、しかも長文で返してる女、それ彼の中で「いつでも返ってくる人」で確定してる。",
+      "structure_label": "読者状態指摘型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T19:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T14:42:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7b2fd564be": {
+      "text": "男の本音を言うと、自分の予定に全部合わせてくれる女は「追わなくていい人」に勝手に分類してる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T19:52:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4ff7eb9665": {
+      "text": "デートの帰り際に自分から「次いつ会える?」って聞いてる女、その時点で次のデートを「あなたが欲しがってるもの」にしちゃってる。",
+      "structure_label": "読者状態指摘型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T20:28:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-09T22:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T21:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_437ee0809f": {
+      "text": "尽くしてるのに彼から愛情を感じないのは、量の問題じゃなくて、彼に「あなたへ何かしてあげる」隙間が無くなってるからだ。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T21:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3ef3939fca": {
+      "text": "男の本音を言うと、追ってくる女ほど男の中で熱は冷めていく一方なんだよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T22:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_89239bf26f": {
+      "text": "「好きなら尽くすのが当たり前」って思ってるなら、半分間違ってる。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T13:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ccd98d7449": {
+      "text": "男の本音を言うと、「おけ」の2文字に長文で返してくる女は、立場が完全に下に見えてる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T14:42:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0ef5b02c1c": {
+      "text": "即レス長文で返してる時点で立場負けは確定。でも明日からそっけなく返すだけで彼の反応はあっさり変わる。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T19:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5b4b40a452": {
+      "text": "男は、「即レスしてくれる女＝俺を好きな女」とは思っていない。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T19:52:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ca973ad184": {
+      "text": "「次いつ会える?」を毎回自分から聞いてる女、彼は座ってるだけで次のデートが手に入る関係になってる。",
+      "structure_label": "読者状態指摘型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T21:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c633cb3e94": {
+      "text": "「彼のために」って優しさが多いほど、彼の中で「やってもらって当然」の感覚が育つだけ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T22:48:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_930c6e98a4": {
+      "text": "彼の予定にあなたが合わせるのは普通でも、あなたの予定に彼が合わせてきた回数、ちゃんと数えたことある?",
+      "structure_label": "読者状態指摘型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T13:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_84906e2d55": {
+      "text": "短文で返してくる彼に長文で返し続けてるなら、その温度差がそのまま2人の立場の差になっていく。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T18:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ab4ec2c9d7": {
+      "text": "男が冷めるとき「他に好きな子ができた」より圧倒的に多いのが『彼女が空気みたいに当たり前になった』だ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T19:52:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cede6ba607": {
+      "text": "彼に好かれたくて全部やってあげてるのに不安なら、愛情の量じゃなくて渡し方を1ミリ変えるだけで彼は動く。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T22:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cd51ab66d9": {
+      "text": "意外かもだけど、男は『何でもしてくれる女』にはむしろ興味を失う生き物。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T22:48:00+09:00",
+          "registered_at": "2026-06-07",
           "views": null
         }
       ]

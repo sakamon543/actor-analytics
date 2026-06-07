@@ -30,6 +30,21 @@
           "scheduled_at": "2026-06-07T20:28:00+09:00",
           "registered_at": "2026-06-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-08T11:08:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-09T11:08:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T11:08:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
         }
       ]
     },
@@ -73,6 +88,21 @@
         {
           "scheduled_at": "2026-06-07T22:17:00+09:00",
           "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-08T19:52:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T13:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T22:17:00+09:00",
+          "registered_at": "2026-06-07",
           "views": null
         }
       ]
@@ -130,6 +160,21 @@
         {
           "scheduled_at": "2026-06-07T21:03:00+09:00",
           "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-08T13:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-09T13:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T20:28:00+09:00",
+          "registered_at": "2026-06-07",
           "views": null
         }
       ]
@@ -274,6 +319,230 @@
         {
           "scheduled_at": "2026-06-07T22:48:00+09:00",
           "registered_at": "2026-06-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f93281d416": {
+      "text": "別れて1週間目の彼と、3ヶ月目の彼は、もう別人だよ。",
+      "structure_label": "時間軸対比型・命題型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T14:42:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e008ad6278": {
+      "text": "「自分から連絡しないと何も変わらない」って思ってるなら、一回手を止めてほしい。男は追われると逃げて、追うのをやめた瞬間に気になり出す生き物だから。",
+      "structure_label": "男心理逆説断言型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T18:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-09T19:52:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T19:52:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5bd86518aa": {
+      "text": "男の別れ際の冷たさは、「嫌いになった証拠」じゃないんだよね。",
+      "structure_label": "常識否定型（F-7）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T19:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_22d12a3143": {
+      "text": "別れた直後の彼と、半年後の彼は、感情の温度がまるで違う。今の冷たさだけで彼を判断しちゃダメだよ。",
+      "structure_label": "時間軸対比型・命題型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T20:28:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_55f7cd664b": {
+      "text": "深夜2時に元彼のインスタ開いて、ストーリー見て、新しい女のいいねチェックして寝れなくなってる人。",
+      "structure_label": "読者行動描写型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T21:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_514ab9fa46": {
+      "text": "男って『元カノへの未練が強すぎると沈黙する』生き物だよ。",
+      "structure_label": "意外な男心理型（F-2）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T22:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bc4cac3cd1": {
+      "text": "「私から動かないと何も変わらない」って焦ってる人、一回手を止めて。男って追えば追うほど逃げて、引いた瞬間に追いかけたくなる生き物だから。",
+      "structure_label": "男心理逆説断言型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T22:48:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f0a78009db": {
+      "text": "別れた日から3ヶ月、彼の頭の中はもう全然違う景色になってる。今あなたが見てる「冷たい彼」は、別れた瞬間の彼の写真でしかないよ。",
+      "structure_label": "時間軸対比型・命題型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T14:42:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_47142db4cf": {
+      "text": "元彼のSNSを毎日チェックして、新しい彼女のアカウントまで特定して比較してる人。",
+      "structure_label": "読者行動描写型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T18:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_69ab73a05c": {
+      "text": "男は『好きだった相手』と、そう簡単に友達みたいな関係には戻れないんだよね。",
+      "structure_label": "男心理断言型（G-2）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T19:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_89fde6d34f": {
+      "text": "元彼のいいね欄を毎日チェックして、新しい女の影を探して、自分を削ってる人。",
+      "structure_label": "読者行動描写型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T20:28:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_43bfe04097": {
+      "text": "別れて3日目の彼と、3ヶ月目の彼は、別人だと思った方がいい。今あなたが見てる「冷たい彼」は、別れた直後の彼でしかないよ。",
+      "structure_label": "時間軸対比型・命題型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T21:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T21:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T22:48:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cc49fcb2d8": {
+      "text": "追いLINEを止めた瞬間に、男はやっと「あれ？」って気付く生き物。あなたが静かになった時間が、彼の中で一番響いてるんだよね。",
+      "structure_label": "男心理逆説断言型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T22:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_41754fb827": {
+      "text": "復縁して分かったんだけど、「未練が残るのは男」ってマジで本当だよ。",
+      "structure_label": "経験者の暴露型（A-3）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T22:48:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8887d69bf1": {
+      "text": "別れた直後の冷たい彼と、3ヶ月後の彼は、本当に別人。今の彼の態度を「永遠」だと思い込まないで。",
+      "structure_label": "時間軸対比型・命題型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T14:42:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_52906489e3": {
+      "text": "深夜に元彼のSNS開いて、過去の投稿まで遡って、「また見ちゃった」って自己嫌悪で眠れない人。",
+      "structure_label": "読者行動描写型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T18:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_988312ce01": {
+      "text": "復縁した彼が言ってたんだけど、追われてる間は復縁を1ミリも考えなかったらしい。",
+      "structure_label": "セリフ引用型（C-1）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T19:17:00+09:00",
+          "registered_at": "2026-06-07",
           "views": null
         }
       ]

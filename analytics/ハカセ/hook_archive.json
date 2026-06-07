@@ -1,0 +1,301 @@
+{
+  "hooks": {
+    "fookid_5145c1f059": {
+      "text": "これあんまり言いたくないんだけど、裏で「元カノと復縁したい」って言ってる男ってめっちゃいる。",
+      "structure_label": "男性当事者暴露型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T11:08:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-09T19:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T11:08:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1f0566078e": {
+      "text": "「彼を変えれば復縁できる」って思想、220件で完全に逆なんだよね。",
+      "structure_label": "常識否定型＋数字権威",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T13:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-09T13:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T19:52:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_559464e33e": {
+      "text": "男の別れ際の冷たさは、嫌いになった証拠じゃないからな。",
+      "structure_label": "命題否定型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T14:42:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8e992f82db": {
+      "text": "復縁した彼に「もしあのとき元カノから連絡来てなかったら？」→「自分から動くことは絶対なかった」って言ってた。",
+      "structure_label": "男性インタビュー型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T18:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8cb4d17c1f": {
+      "text": "復縁の正解は「3週間動かない」、例外なく効いた。動かない3週間が「重い女」ラベルを書き換える唯一の方法。",
+      "structure_label": "商品コア提示型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T19:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-09T22:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T22:48:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_03bcc6b31d": {
+      "text": "復縁後の相談者で、2年続いてる子の関係維持テクニック、共有する。",
+      "structure_label": "成功事例提示型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T19:52:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T14:42:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5feb250cc0": {
+      "text": "振った男が「自分から動こう」と決意するまでの平均日数、聞いてきた中で55日だったんだよね。",
+      "structure_label": "数字暴露型（ぼかし版）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T20:28:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_91dd7a4c89": {
+      "text": "復縁した彼に「もし連絡してなかったら？」→「自分から動くことは絶対なかった」",
+      "structure_label": "男性インタビュー型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T21:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T21:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_def8bdd0c5": {
+      "text": "男は、「LINEが続いてる＝復縁の脈アリ」とは思っていない。",
+      "structure_label": "男性心理断言型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T22:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e7c7bf0b7a": {
+      "text": "振った男が「自分から動こう」と決意するまでの平均日数、220件のデータで55日だったんだよね。",
+      "structure_label": "数字暴露型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-08T22:48:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-09T20:28:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_144021cc35": {
+      "text": "これあんまり言いたくないんだけど、裏で「もう一度元カノとやり直したい」って言ってる男ってめっちゃいる。",
+      "structure_label": "男性当事者暴露型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T11:08:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5e9f3b181e": {
+      "text": "振った男が「自分から動こう」と決意するまで、聞いてきた中で約2ヶ月かかってたんだよね。",
+      "structure_label": "数字暴露型（期間表現変更）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T14:42:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e85e306c85": {
+      "text": "男の本音を言うと、追われてる間は復縁を1ミリも考えない。",
+      "structure_label": "男の本音断言型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T18:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_730c5310d7": {
+      "text": "復縁の正解は「3週間動かない」、これ例外なく効いた。",
+      "structure_label": "商品コア提示型（短縮版）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T19:52:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2bd423aee6": {
+      "text": "「彼を変えなきゃ復縁できない」って思想、聞いてきた本音と完全に逆だったんだよね。",
+      "structure_label": "常識否定型（反転表現）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T21:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1274c8116d": {
+      "text": "振った男ほど元カノに未練たらたらになる、これマジでよく聞く話なんだよね。",
+      "structure_label": "男性属性断言型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-09T22:48:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2aebbfd333": {
+      "text": "「彼を変えれば戻ってくる」って思想、これまで聞いてきた本音と完全に逆。",
+      "structure_label": "常識否定型（言い換え版）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T13:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2c6208673a": {
+      "text": "復縁した彼に「もし元カノから動いてなかったら？」って聞いたら「自分から動くことは絶対なかった」って。",
+      "structure_label": "男性インタビュー型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T18:03:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3324162405": {
+      "text": "男が別れを決めるとき「冷めた」より圧倒的に多いのが『愛が強くなりすぎた』だよ。",
+      "structure_label": "本当の理由対比型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T19:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3c8736af44": {
+      "text": "復縁失敗した相談者の多くが、最初の3週間で「重い女」ラベルを固定させてた。",
+      "structure_label": "失敗事例警告型",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T20:28:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6928174b85": {
+      "text": "振った男が「自分から動こう」って決意するまで、平均55日かかってる。",
+      "structure_label": "数字暴露型（短縮版）",
+      "first_used_at": "2026-06-07",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T22:17:00+09:00",
+          "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    }
+  }
+}
