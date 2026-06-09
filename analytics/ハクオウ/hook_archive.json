@@ -29,6 +29,16 @@
           "scheduled_at": "2026-06-05T20:28:00+09:00",
           "registered_at": "2026-06-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T11:08:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T11:08:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
         }
       ]
     },
@@ -40,12 +50,14 @@
         {
           "scheduled_at": "2026-05-22T13:17:00+09:00",
           "registered_at": "2026-05-21",
-          "views": null
+          "views": 9,
+          "posted_at": "2026-06-08T10:22:20.98+00:00"
         },
         {
           "scheduled_at": "2026-06-07T11:08:00+09:00",
           "registered_at": "2026-06-06",
-          "views": null
+          "views": 19,
+          "posted_at": "2026-06-07T02:11:35.858+00:00"
         },
         {
           "scheduled_at": "2026-06-08T19:17:00+09:00",
@@ -84,6 +96,16 @@
           "scheduled_at": "2026-06-05T22:48:00+09:00",
           "registered_at": "2026-06-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T11:08:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T22:17:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
         }
       ]
     },
@@ -117,6 +139,11 @@
         {
           "scheduled_at": "2026-06-05T11:08:00+09:00",
           "registered_at": "2026-06-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T14:42:00+09:00",
+          "registered_at": "2026-06-09",
           "views": null
         }
       ]
@@ -740,6 +767,11 @@
           "scheduled_at": "2026-06-04T14:42:00+09:00",
           "registered_at": "2026-06-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T20:28:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
         }
       ]
     },
@@ -780,6 +812,11 @@
         {
           "scheduled_at": "2026-06-05T13:17:00+09:00",
           "registered_at": "2026-06-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T22:17:00+09:00",
+          "registered_at": "2026-06-09",
           "views": null
         }
       ]
@@ -1463,6 +1500,16 @@
           "registered_at": "2026-06-03",
           "views": 1174,
           "posted_at": "2026-06-04T04:21:47.62+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-10T13:17:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T14:42:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
         }
       ]
     },
@@ -1480,6 +1527,11 @@
           "scheduled_at": "2026-06-06T20:28:00+09:00",
           "registered_at": "2026-06-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T19:52:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
         }
       ]
     },
@@ -1491,6 +1543,11 @@
         {
           "scheduled_at": "2026-06-04T19:17:00+09:00",
           "registered_at": "2026-06-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T21:03:00+09:00",
+          "registered_at": "2026-06-09",
           "views": null
         }
       ]
@@ -1504,6 +1561,16 @@
           "scheduled_at": "2026-06-04T19:52:00+09:00",
           "registered_at": "2026-06-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T18:03:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T19:17:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
         }
       ]
     },
@@ -1516,6 +1583,16 @@
           "scheduled_at": "2026-06-04T22:17:00+09:00",
           "registered_at": "2026-06-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-10T22:48:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T20:28:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
         }
       ]
     },
@@ -1527,6 +1604,11 @@
         {
           "scheduled_at": "2026-06-04T22:48:00+09:00",
           "registered_at": "2026-06-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T19:17:00+09:00",
+          "registered_at": "2026-06-09",
           "views": null
         }
       ]
@@ -1599,7 +1681,7 @@
         {
           "scheduled_at": "2026-06-05T22:17:00+09:00",
           "registered_at": "2026-06-03",
-          "views": 958,
+          "views": 1032,
           "posted_at": "2026-06-05T13:21:17.224+00:00"
         }
       ]
@@ -1624,7 +1706,7 @@
         {
           "scheduled_at": "2026-06-06T13:17:00+09:00",
           "registered_at": "2026-06-03",
-          "views": 1,
+          "views": 18,
           "posted_at": "2026-06-06T04:21:25.053+00:00"
         }
       ]
@@ -2000,6 +2082,174 @@
         {
           "scheduled_at": "2026-06-09T22:48:00+09:00",
           "registered_at": "2026-06-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3f554b6431": {
+      "text": "「焦って連絡しないで自然消滅させた方が復縁しやすい」は嘘",
+      "structure_label": "常識否定型（F-3-a）",
+      "first_used_at": "2026-06-09",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T14:42:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_438100e618": {
+      "text": "男が別れ際に言う「冷めた」「価値観が合わない」は、本人も本気で言ってない場合がほとんど",
+      "structure_label": "男性心理断言型（F-1-a派生／別れ際のセリフ解読）",
+      "first_used_at": "2026-06-09",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T19:17:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_08f7c83269": {
+      "text": "振った側の男ほど、別れて3ヶ月後から『あいつ元気かな』が頭から離れなくなる",
+      "structure_label": "男性心理断言型（F-1-b／属性×時期×本音セリフ）",
+      "first_used_at": "2026-06-09",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T20:28:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_87e1095ddd": {
+      "text": "男が復縁したくなる時、動かしてるのは「愛情」より圧倒的に『失った後悔』",
+      "structure_label": "F-4-c（一般感情より優位な本音）",
+      "first_used_at": "2026-06-09",
+      "history": [
+        {
+          "scheduled_at": "2026-06-10T22:17:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8d3ad174b8": {
+      "text": "男は「本気で好きだった元カノ」とは絶対に友達にはなれない",
+      "structure_label": "命題型（G-2-a派生／強度上げ）",
+      "first_used_at": "2026-06-09",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T13:17:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7fe2f18974": {
+      "text": "元彼があなたのSNSを毎日チェックしてるなら、未練はまだ消えてない",
+      "structure_label": "サイン解読型（G-5-b派生）",
+      "first_used_at": "2026-06-09",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T18:03:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f62837a95d": {
+      "text": "男が「ごめん、無理」って振るときの本音は「冷めた」じゃなくて『重すぎて応えられない』",
+      "structure_label": "F-4-a（一般理由より圧倒的に多い本音）",
+      "first_used_at": "2026-06-09",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T19:52:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4e4810f8d3": {
+      "text": "一度別れたカップルの方が、別れずに続いたカップルより長続きする確率は高い",
+      "structure_label": "反転希望型（E-1派生／比較強化）",
+      "first_used_at": "2026-06-09",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T21:03:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8761ef94ee": {
+      "text": "男は別れて1ヶ月前後で『元カノに連絡したい』が一気にピークになる",
+      "structure_label": "F-1-e派生（時期×割合）",
+      "first_used_at": "2026-06-09",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T22:48:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ee5a26ac20": {
+      "text": "男が新しい彼女と付き合っても、別れた本命の存在は1年は脳から消えない",
+      "structure_label": "男性心理断言型（F-1-a派生／期間×不変）",
+      "first_used_at": "2026-06-09",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T13:17:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5484551f51": {
+      "text": "男は、「既読がついてる＝気持ちが残ってる」とは思っていない",
+      "structure_label": "命題型（G-1-a）",
+      "first_used_at": "2026-06-09",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T18:03:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_10dab958c2": {
+      "text": "復縁した彼に「あの時もし私が引いてなかったら？」って聞いたら、「絶対戻れなかった」って返ってきた",
+      "structure_label": "セリフ引用型（C-2-a派生）",
+      "first_used_at": "2026-06-09",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T19:52:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8b3de90cc5": {
+      "text": "回避型の「もう連絡しないで」は本気の拒絶じゃなくて、ただの『感情封印』",
+      "structure_label": "命題型（D-3-a派生）",
+      "first_used_at": "2026-06-09",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T21:03:00+09:00",
+          "registered_at": "2026-06-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ed3fe4c6b0": {
+      "text": "結局、復縁できる女性って『元彼に勝ちたい気持ちを完全に手放した人』なんだよね",
+      "structure_label": "D-2-a（結局、〇〇のは〇〇）",
+      "first_used_at": "2026-06-09",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T22:48:00+09:00",
+          "registered_at": "2026-06-09",
           "views": null
         }
       ]
