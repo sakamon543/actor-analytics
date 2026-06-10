@@ -9,6 +9,26 @@
           "scheduled_at": "2026-06-05T11:08:00+09:00",
           "registered_at": "2026-06-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T14:42:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T20:28:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T11:08:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T19:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
         }
       ]
     },
@@ -20,6 +40,26 @@
         {
           "scheduled_at": "2026-06-05T13:17:00+09:00",
           "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T18:03:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T21:03:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T13:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T19:52:00+09:00",
+          "registered_at": "2026-06-10",
           "views": null
         }
       ]
@@ -387,6 +427,26 @@
           "scheduled_at": "2026-06-10T11:08:00+09:00",
           "registered_at": "2026-06-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T13:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T19:52:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T22:48:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T18:03:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
         }
       ]
     },
@@ -473,6 +533,26 @@
           "registered_at": "2026-06-07",
           "views": 556,
           "posted_at": "2026-06-08T10:56:44.924+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-11T11:08:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T19:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T22:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T14:42:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
         }
       ]
     },
@@ -650,6 +730,174 @@
         {
           "scheduled_at": "2026-06-10T22:48:00+09:00",
           "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_533ee7893a": {
+      "text": "男の本音を言うと、デートの行き先を全部決めてくれる女は「考えなくていい相手」に勝手に分類してる。",
+      "structure_label": "男性心理暴露型(B-3-a variation)",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T20:28:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c34bd539f8": {
+      "text": "男の本音を言うと、いつも自分から連絡してくれる女は「動かなくていい人」に勝手に分類してる。",
+      "structure_label": "男性心理暴露型(B-3-a variation)",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T21:03:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f8fb88ff32": {
+      "text": "「彼のために我慢する」「彼のために合わせる」をやればやるほど、彼の気持ちは遠ざかる。",
+      "structure_label": "因果断言型(F-8-a variation)",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T22:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d7ec1d0df6": {
+      "text": "「彼のために頑張る」「彼のために合わせる」をやるほど、彼はあなたを追わなくなる。",
+      "structure_label": "因果断言型(F-8-a variation)",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T22:48:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ccfed9e064": {
+      "text": "彼の「空いてる日」にいつも合わせて自分の予定を後回しにしてる女。",
+      "structure_label": "読者行動の指摘型(D-2-a variation)",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T11:08:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_047c3d56b9": {
+      "text": "彼のLINEの返信ペースに合わせて自分の生活を調整してる女。",
+      "structure_label": "読者行動の指摘型(D-2-a variation)",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T13:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2a2055befb": {
+      "text": "頑張ってるのに虚しいのは、あなたの努力が足りないからじゃない。",
+      "structure_label": "反転希望型(E-3-a variation)",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T14:42:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4e59844ee6": {
+      "text": "尽くしてるのに彼に響かないのは、あなたの量が足りないからじゃない。",
+      "structure_label": "反転希望型(E-3-a variation)",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T18:03:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_10cf9a4e8b": {
+      "text": "男の本音を言うと、即レスで全部返してくれる女は「いつでも繋がる人」に勝手に分類してる。",
+      "structure_label": "男性心理暴露型(B-3-a variation)",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T19:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f9d5621898": {
+      "text": "男の本音を言うと、毎回機嫌取ってくれる女は「気を遣わなくていい相手」に勝手に分類してる。",
+      "structure_label": "男性心理暴露型(B-3-a variation)",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T19:52:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_15d8932ac7": {
+      "text": "彼の素っ気ないLINEは、嫌いになったサインじゃない。",
+      "structure_label": "常識破壊型(F-7-c派生)",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T20:28:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c93d7ab2fa": {
+      "text": "男は、「LINEの即レス＝好きの証拠」とは思っていない。",
+      "structure_label": "男性心理断言型(G-1-a)",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T21:03:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e160401d5b": {
+      "text": "意外かもだけど、男は『手に入った相手から興味を失う』生き物。",
+      "structure_label": "常識破壊型(F-2-a)",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T22:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_19e60407c1": {
+      "text": "男の本音を言うと、追いかけてくれる女より追いかけたい女を選ぶ。",
+      "structure_label": "男性心理暴露型(B-3-a)",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T22:48:00+09:00",
+          "registered_at": "2026-06-10",
           "views": null
         }
       ]

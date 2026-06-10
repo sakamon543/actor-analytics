@@ -46,6 +46,36 @@
           "scheduled_at": "2026-06-10T11:08:00+09:00",
           "registered_at": "2026-06-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T11:08:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T22:48:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T18:03:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T22:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T18:03:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T22:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
         }
       ]
     },
@@ -104,6 +134,16 @@
         {
           "scheduled_at": "2026-06-10T22:17:00+09:00",
           "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T19:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T11:08:00+09:00",
+          "registered_at": "2026-06-10",
           "views": null
         }
       ]
@@ -176,6 +216,16 @@
         {
           "scheduled_at": "2026-06-10T20:28:00+09:00",
           "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T14:42:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T20:28:00+09:00",
+          "registered_at": "2026-06-10",
           "views": null
         }
       ]
@@ -488,6 +538,16 @@
           "scheduled_at": "2026-06-10T22:48:00+09:00",
           "registered_at": "2026-06-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T21:03:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T22:48:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
         }
       ]
     },
@@ -547,6 +607,208 @@
         {
           "scheduled_at": "2026-06-10T19:17:00+09:00",
           "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ecb839f42a": {
+      "text": "「自分から連絡しないと何も変わらない」って思ってるなら、一回手を止めてほしい。",
+      "structure_label": "読者直指し命題型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T13:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T11:08:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T20:28:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a556d02b8c": {
+      "text": "別れて1週間の彼と、1ヶ月後の彼は、別人だと思った方がいい。",
+      "structure_label": "命題型（時系列対比）",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T18:03:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1a7ad41f0e": {
+      "text": "男が別れを決めるとき「冷めた」より圧倒的に多いのが『愛が強くなりすぎた』なんだよね。",
+      "structure_label": "常識否定型（対比）",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T19:52:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fb305b7b5e": {
+      "text": "別れた直後の彼と、半年経った彼は、別人だと思った方がいい。",
+      "structure_label": "命題型（時系列対比）",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T20:28:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e1a18c76b5": {
+      "text": "「連絡しなきゃ彼に忘れられる」って思ってるなら、その焦り全部逆効果だよ。",
+      "structure_label": "読者直指し命題型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T22:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_05dceb8731": {
+      "text": "復縁して分かったんだけど、「未練が残るのは男」って話は本当だった。",
+      "structure_label": "経験者暴露型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T13:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e90ee93cd5": {
+      "text": "寝る前に元彼のストーリー覗いて、新しい彼女のアカ見て泣いてる人。",
+      "structure_label": "読者行動描写型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T14:42:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9f35ef854c": {
+      "text": "別れた後に新しい彼女のアカウント特定して、毎日比較してる人。",
+      "structure_label": "読者行動描写型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T19:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_219af3800f": {
+      "text": "男は、「連絡が続いている＝気持ちがある」とは思っていない。",
+      "structure_label": "男心理断言型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T19:52:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5c66f070d7": {
+      "text": "男って追われてる間は、復縁を1ミリも考えないんだよね。",
+      "structure_label": "男心理暴露型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T21:03:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2f7961b102": {
+      "text": "男って沈黙してる時、嫌いになったから黙ってるんじゃないんだよね。",
+      "structure_label": "常識否定型（現象解釈）",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T22:48:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7788294b7d": {
+      "text": "元彼が連絡しようか迷うときって、結局『忘れようとすればするほど思い出す』って気づいたときなんだよね。",
+      "structure_label": "男心理暴露型（衝撃命題）",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T13:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4b4070125f": {
+      "text": "元彼のインスタを朝晩チェックして、新しい投稿があるたび一喜一憂してる人。",
+      "structure_label": "読者行動描写型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T14:42:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1e45530754": {
+      "text": "「自分から動かなきゃ何も始まらない」って思ってるなら、その手を一回止めて。",
+      "structure_label": "読者直指し命題型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T19:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bed0bd52c8": {
+      "text": "男性は1度冷めても惚れ直すから、復縁を目指す女性は諦めなくていいよ。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T19:52:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_659c9acffc": {
+      "text": "深夜にインスタ開いて、彼のいいね欄チェックして、自己嫌悪で寝れない人。",
+      "structure_label": "読者行動描写型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T21:03:00+09:00",
+          "registered_at": "2026-06-10",
           "views": null
         }
       ]

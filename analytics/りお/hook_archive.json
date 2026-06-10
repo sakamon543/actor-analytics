@@ -55,6 +55,16 @@
           "scheduled_at": "2026-06-10T20:28:00+09:00",
           "registered_at": "2026-06-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T13:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T20:28:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
         }
       ]
     },
@@ -96,6 +106,16 @@
         {
           "scheduled_at": "2026-06-07T22:17:00+09:00",
           "registered_at": "2026-06-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T20:28:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T13:17:00+09:00",
+          "registered_at": "2026-06-10",
           "views": null
         }
       ]
@@ -173,6 +193,16 @@
           "scheduled_at": "2026-06-09T21:03:00+09:00",
           "registered_at": "2026-06-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T21:03:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T22:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
         }
       ]
     },
@@ -243,6 +273,11 @@
         {
           "scheduled_at": "2026-06-10T18:03:00+09:00",
           "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T18:03:00+09:00",
+          "registered_at": "2026-06-10",
           "views": null
         }
       ]
@@ -349,6 +384,16 @@
           "scheduled_at": "2026-06-10T22:17:00+09:00",
           "registered_at": "2026-06-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T19:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T14:42:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
         }
       ]
     },
@@ -451,6 +496,11 @@
           "registered_at": "2026-06-07",
           "views": 1,
           "posted_at": "2026-06-09T10:20:16.236+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-13T19:52:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
         }
       ]
     },
@@ -546,6 +596,225 @@
         {
           "scheduled_at": "2026-06-10T22:48:00+09:00",
           "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f7971aa8c4": {
+      "text": "男は、「予定全部合わせてくれる女性」と対等な関係を作れない。",
+      "structure_label": "男性心理断言型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T11:08:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T14:42:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T19:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b8b66211bb": {
+      "text": "彼の身の回りの世話、全部焼いてあげてる人。優しさなんだけど、その「お母さん」ポジション、一度入ると恋人に戻すのがすごく大変なんだよね。",
+      "structure_label": "行動描写警告型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T14:42:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T22:48:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e7303786d3": {
+      "text": "男は、「連絡まめにくれる女性＝本命」とは思っていない。",
+      "structure_label": "男性心理断言型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T18:03:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_21c34c07dc": {
+      "text": "即レスして、LINEも10回推敲して、誕生日サプライズも2ヶ月前から準備してる人。残念だけど、その「尽くす」が彼の気持ちをどんどん遠ざけてるよ。",
+      "structure_label": "行動描写警告型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T19:52:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2ed2afce3e": {
+      "text": "「重いって思われたくない」って我慢してる人の大半は、彼に嫌われたくないんじゃなくて自分を出すのが怖いだけ。",
+      "structure_label": "常識否定×自分原因転換型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T22:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9e5346807c": {
+      "text": "「尽くせば男は離れない」はウソ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T22:48:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_19e350ada2": {
+      "text": "ご飯作って、予定全部合わせて、LINEも5秒で既読つけて10回推敲して返してる人。残念だけど、その「尽くす」が彼の気持ちをどんどん遠ざけてるよ。",
+      "structure_label": "行動描写警告型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T11:08:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b50a405e7a": {
+      "text": "「彼が忙しいから連絡控えてる」って思ってる人の大半は、彼が忙しいんじゃなくて自分が嫌われたくないだけ。",
+      "structure_label": "常識否定×自分原因転換型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T13:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e6d73eea83": {
+      "text": "「予定全部合わせれば愛される」って思ってるなら、一回止まってほしい。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T19:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a0e6b4101b": {
+      "text": "男の「ありがとう」だけの返事は、冷めたサインじゃない。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T19:52:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a39522d446": {
+      "text": "「ありがとう」だけの返事が増えてるなら、一回止まってほしい。彼が冷めたんじゃなくて、あなたが「いて当たり前」になってるだけ。",
+      "structure_label": "常識否定×自分原因転換型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T21:03:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4a4f882499": {
+      "text": "男は、「何でも『いいよ』って言ってくれる女性」と対等な関係を作れない。",
+      "structure_label": "男性心理断言型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T22:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a5926fff63": {
+      "text": "「サプライズすれば喜んでもらえる」って思ってる人の大半は、彼が喜んでないんじゃなくて自分が手間かけすぎてるだけ。",
+      "structure_label": "常識否定×自分原因転換型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T11:08:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fbfdd11896": {
+      "text": "「私から動かないと進まない」って思ってるなら、一回止まってほしい。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T18:03:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c43c48bb36": {
+      "text": "「彼の予定に全部合わせれば愛される」って思ってる人の大半は、彼が冷めてるんじゃなくて自分の存在を安く見せてるだけ。",
+      "structure_label": "常識否定×自分原因転換型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T20:28:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0afa60cd3c": {
+      "text": "「予定合わせるほど愛される」はウソ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T21:03:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ba07bd5945": {
+      "text": "何でも「いいよ」「大丈夫」って言ってる人。優しさなんだけど、その「都合のいい女」ポジション、一度入ると本命に戻すのがすごく大変なんだよね。",
+      "structure_label": "行動描写警告型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T22:48:00+09:00",
+          "registered_at": "2026-06-10",
           "views": null
         }
       ]

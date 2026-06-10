@@ -42,6 +42,26 @@
           "scheduled_at": "2026-06-10T19:52:00+09:00",
           "registered_at": "2026-06-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T13:17:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T11:08:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-14T13:17:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-14T19:52:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
         }
       ]
     },
@@ -106,6 +126,16 @@
           "scheduled_at": "2026-06-10T14:42:00+09:00",
           "registered_at": "2026-06-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T22:17:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-14T22:17:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
         }
       ]
     },
@@ -163,6 +193,21 @@
         {
           "scheduled_at": "2026-06-09T20:28:00+09:00",
           "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T19:17:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T19:52:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-14T19:17:00+09:00",
+          "registered_at": "2026-06-11",
           "views": null
         }
       ]
@@ -296,6 +341,223 @@
         {
           "scheduled_at": "2026-06-10T22:17:00+09:00",
           "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_668bd8451e": {
+      "text": "「彼が本当に戻りたいなら、向こうから連絡くるはず」って待ってる人。残念だけど、戻りたくても自分からは動けないのが男なんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T11:08:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T20:28:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T14:42:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T21:03:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T22:48:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-14T18:03:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b73aaeecc5": {
+      "text": "復縁後の相談者で、3年続いてる子だけがやってる別れ際の対応、共有する。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T14:42:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6ebaacb054": {
+      "text": "男の別れ際の冷たさは、嫌いになった証拠じゃないんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T18:03:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d0482d353b": {
+      "text": "「沈黙してれば男から連絡くる」って待ってる人。戻りたくてもプライドで動けないのが男なんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T19:52:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1035cba5ee": {
+      "text": "「彼の気持ちを変えれば復縁できる」って思想、相談者220件で完全に逆だったんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T21:03:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ba2c8f9aa8": {
+      "text": "男の本音を言うと、追われてる間は復縁を1ミリも考えないんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T22:48:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a23f695ce3": {
+      "text": "振った男が「元カノに連絡したい」のピークを迎えるタイミング、データで別れて約3週間目なんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T13:17:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a680691d8f": {
+      "text": "「本気の男なら自分から動くはず」って常識、振った側の男には全く当てはまらないんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T18:03:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_01dd387880": {
+      "text": "男は、「LINEが続いてる＝復縁の脈あり」とは思ってないんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T19:17:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b28efded15": {
+      "text": "「自分磨きすれば戻ってくる」って思想、聞いてきた本音と完全に真逆だったんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T20:28:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8ddba5aa43": {
+      "text": "「黙ってれば彼から戻ってくる」って待ってる人。戻りたくてもプライドで言い出せないのが男なんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T22:17:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2d60f903d4": {
+      "text": "「冷却期間さえ取れば戻る」って思想、男の本音を聞いたら全然違ったんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-14T11:08:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f95b51f32e": {
+      "text": "男が振った後に沈黙するとき「冷めた」より圧倒的に多いのが『連絡したら全部崩れそう』なんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-14T14:42:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b6a2af4d65": {
+      "text": "復縁後の相談者で、半年以内に破綻した子の別れ方の共通点、共有する。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-14T20:28:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4c6e6dd246": {
+      "text": "実は、男は本気で好きだった相手と簡単に他人には戻れないんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-14T21:03:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ee36a8bffe": {
+      "text": "「沈黙してれば彼から動く」って待ってる女性。戻りたくても動けない男には永遠に届かないんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-14T22:48:00+09:00",
+          "registered_at": "2026-06-11",
           "views": null
         }
       ]

@@ -24,6 +24,26 @@
           "scheduled_at": "2026-06-10T22:48:00+09:00",
           "registered_at": "2026-06-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T19:52:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T19:52:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T19:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T22:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
         }
       ]
     },
@@ -52,6 +72,26 @@
           "scheduled_at": "2026-06-10T22:17:00+09:00",
           "registered_at": "2026-06-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T11:08:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T11:08:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T11:08:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T20:28:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
         }
       ]
     },
@@ -79,6 +119,26 @@
         {
           "scheduled_at": "2026-06-10T21:03:00+09:00",
           "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T21:03:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T21:03:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T19:52:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T21:03:00+09:00",
+          "registered_at": "2026-06-10",
           "views": null
         }
       ]
@@ -222,6 +282,26 @@
           "scheduled_at": "2026-06-09T21:03:00+09:00",
           "registered_at": "2026-06-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T14:42:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T14:42:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T14:42:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T22:48:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
         }
       ]
     },
@@ -281,6 +361,174 @@
         {
           "scheduled_at": "2026-06-10T20:28:00+09:00",
           "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_169761fa5e": {
+      "text": "職場の年下男性にアプローチされたい30-40代の女性、実は若い子より圧倒的に有利なポジションにいるんだよね。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T13:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bc32159c5a": {
+      "text": "男の素っ気ない態度は、年上女性に興味ないサインじゃない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T18:03:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5a2e514083": {
+      "text": "男が既読つけてくれない時、追いLINEを重ねるのって男目線で完全に逃がす動きなんだよね。",
+      "structure_label": "命題型（常識否定）",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T19:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_470a0be7d3": {
+      "text": "彼に「最近そっけなくない？」って先に言わせる構造、男目線で言うと結構シンプルなんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T20:28:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e8d334c5e0": {
+      "text": "意外かもだけど、男は『年上の余裕がある女性に近づきすぎず引きすぎずで接される』と意識する生き物。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T22:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_97bdba157a": {
+      "text": "男性って職場の年上女性の些細な変化を絶対見逃さないからね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T22:48:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a6b69ccb77": {
+      "text": "30-40代から職場で年下に追いかけられる女性、20代の子より絶対有利な武器を持ってるんだよね。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T13:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_27091fe27a": {
+      "text": "彼に「最近会えてないね」って先に言わせる仕組み、男目線で見るとめちゃくちゃ単純なんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T18:03:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e479846d4d": {
+      "text": "結局、職場で年下男性に告白される女性って『追わずに余裕を見せてる人』なんだよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T19:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_84d638e0c0": {
+      "text": "既読つかない彼に「ねえ何かあった？」って追いかけるLINE、男目線で言うと逃がして終わる動きなんだよね。",
+      "structure_label": "命題型（常識否定）",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T20:28:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_590753cf23": {
+      "text": "意外かもだけど、男は『焦らず追わず淡々と仕事してる年上の女性』に勝手に火がつく生き物。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T22:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_71c9cbd2af": {
+      "text": "「年下男性は若い子しか興味ない」はウソ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T22:48:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5c2e06db5f": {
+      "text": "職場の年下男性に意識されたい30-40代の女性、若い子よりスタートラインが圧倒的に前なんだよね。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T13:17:00+09:00",
+          "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ef007d8ee5": {
+      "text": "意外かもだけど、男は『若い子にはない大人の落ち着きを職場で見せられる』と意識し始める生き物。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-10",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T18:03:00+09:00",
+          "registered_at": "2026-06-10",
           "views": null
         }
       ]

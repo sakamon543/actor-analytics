@@ -20,6 +20,21 @@
           "scheduled_at": "2026-06-10T14:42:00+09:00",
           "registered_at": "2026-06-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T21:03:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T21:03:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T21:03:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
         }
       ]
     },
@@ -42,6 +57,21 @@
           "scheduled_at": "2026-06-10T21:03:00+09:00",
           "registered_at": "2026-06-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T14:42:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T14:42:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T13:17:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
         }
       ]
     },
@@ -63,6 +93,21 @@
         {
           "scheduled_at": "2026-06-10T22:17:00+09:00",
           "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-11T19:52:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T19:52:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T19:52:00+09:00",
+          "registered_at": "2026-06-11",
           "views": null
         }
       ]
@@ -294,6 +339,230 @@
         {
           "scheduled_at": "2026-06-10T22:48:00+09:00",
           "registered_at": "2026-06-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2c1f6e4f81": {
+      "text": "回避型の彼に「最近どうしてる?会いたいな」ってLINE送ろうとしてる人。それ、回避型には一番刺さらないやつです。同じ連絡でも、効くLINEは真逆なんですよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T11:08:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T11:08:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T11:08:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d410a9980b": {
+      "text": "回避型の彼に「久しぶり、元気にしてる?」ってLINE送ろうとしてる人。それ、回避型が一番返しにくいパターンなんですよね。同じ近況LINEでも、効くやつは全然違って。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T13:17:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3b7ad1945d": {
+      "text": "回避型彼氏の「もう連絡しないで」って言葉、本音は『連絡が来ないと自分から動けなくなる』なんですよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T18:03:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_28b68f6da7": {
+      "text": "僕、元超回避型だったんですけど、6歳年上の彼女を好きだったのに「重い」と感じてしまってた。だから僕の相談者さんにも「彼が距離取るのは嫌いだからじゃない」って伝えたんですけど、聞いた瞬間「分かりました」って言ったのに、3週間追いLINE止められなかった子がいて。↓",
+      "structure_label": "経験者の暴露型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T19:17:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-12T19:17:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-13T19:17:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_55b7a5fb56": {
+      "text": "回避型彼氏が振った直後に感じる「俺の判断は正解だった」、長くて3週間で揺らぐんですよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T20:28:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_23ab162c59": {
+      "text": "回避型の彼に「ご飯でも行かない?」って誘うLINE送ろうとしてる人。それ、回避型に一番効かない誘い方なんですよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T22:17:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bb7465d2f4": {
+      "text": "回避型彼氏の「俺じゃ幸せにできない」、表面と本音が真逆になるセリフの代表格なんですよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-11T22:48:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7e10344351": {
+      "text": "回避型の彼に「あの時のこと、ちゃんと話したい」って送ろうとしてる人。それ、回避型を一番遠ざける一言なんですよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T13:17:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_02483beacf": {
+      "text": "回避型彼氏が別れて感じる「やっと自由だ」っていう感覚、長くて1ヶ月もたないんですよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T18:03:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_aebc95b572": {
+      "text": "回避型彼氏の冷たい態度と心の中、ほぼ全部真逆になってるんですよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T20:28:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2ae43692fa": {
+      "text": "回避型彼氏の別れ際の冷たさは、嫌いになった証拠じゃないんですよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T22:17:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_594a7b5ceb": {
+      "text": "回避型の彼に長文で気持ち伝えようとしてる人。それ、回避型を一番黙らせる動きなんですよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-12T22:48:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b9c1c61025": {
+      "text": "回避型の男って、気持ちが冷めたから離れるんじゃなくて、気持ちが大きくなりすぎて動けなくなるんですよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T14:42:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4eb18aeed6": {
+      "text": "回避型彼氏が別れた直後にイキイキしてる「自由になった感」、本人の予想より早く消えるんですよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T18:03:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5acbc5c7e8": {
+      "text": "回避型の「別れよう」は本気の決意じゃなくて、ただの『今は自分を守りたい』なんですよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T20:28:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_da635ccc12": {
+      "text": "回避型の彼は、「自分が冷たくしたら相手は冷める」とは思っていないんですよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T22:17:00+09:00",
+          "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f296abed11": {
+      "text": "意外かもだけど、回避型の男は『元カノに連絡したい気持ちが強い時ほど沈黙する』生き物なんですよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-11",
+      "history": [
+        {
+          "scheduled_at": "2026-06-13T22:48:00+09:00",
+          "registered_at": "2026-06-11",
           "views": null
         }
       ]
