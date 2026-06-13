@@ -28,12 +28,26 @@ def load_batch(actor):
         return json.load(f), path
 
 
+# メイン本文の末尾に付く「続きへの誘導記号」。ぶら下げ(thread)投稿が失敗して
+# メインだけ表示されると、この記号が宙に浮いて「続きがあるのに無い」状態になる。
+# → 投稿直前にメイン末尾からだけ除去する（threadのCTA末尾の↓は別物なので触らない）。
+_DANGLING_TRAIL_CHARS = "↓⬇⇩👇⤵▼▽　 \t\r\n️"
+
+
+def strip_dangling_arrow(text):
+    """メイン末尾の続き誘導記号（↓等）＋末尾空白を落とす。
+    ぶら下げが付かなくても単発で破綻しないようにするための安全網。"""
+    if not isinstance(text, str):
+        return text
+    return text.rstrip(_DANGLING_TRAIL_CHARS)
+
+
 def convert_to_api_format(batch):
     """next_batch.json → threads-auto-af POST形式に変換"""
     api_posts = []
     for p in batch.get("posts", []):
         post = {
-            "text": p["text"],
+            "text": strip_dangling_arrow(p["text"]),
             "scheduled_at": p["scheduled_at"],
         }
         if p.get("thread"):
