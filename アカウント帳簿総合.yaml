@@ -17,7 +17,7 @@ accounts:
     account_setting: accounts/ハクオウ/アカウント情報総合管理.md
     start_date: 2026-05-04
     end_date: 2026-05-13
-    enabled: true
+    enabled: false
     notes: 1日10本×10日 = 100本セット（5/4-5/13）
 
   - name: うみこ
@@ -26,7 +26,7 @@ accounts:
     account_setting: accounts/うみこ/アカウント情報総合管理.md
     start_date: 2026-05-16
     end_date: 2026-06-15
-    enabled: true
+    enabled: false
     notes: 既存運用中アカウントを取り込み（2026-05-16）。1日10本×30日（3周ローテ）。商品=回避型男の脳取扱説明書¥2,980
 
   - name: リクオウ
@@ -74,7 +74,7 @@ accounts:
     account_setting: accounts/ハカセ/アカウント情報総合管理.md
     start_date: 2026-06-07
     end_date: 2026-07-06
-    enabled: true
+    enabled: false
     notes: ウェブフック1本統一＝本体アカウントで運用中（「①」なし）。取り込み時アクティブ投稿中（60日228本）。商品=復縁の最短ルート（心理学3週間プログラム¥1,980）。ターゲットは復縁女性で共通target整合。既存予約ラスト2026-06-06 21:00と重複回避のため初回シードは6/7から。表示名「ハカセ＠元カレ中毒の仕掛け人」。勝ち筋=俺の男本音暴露・元彼インタビュー型・数字権威(220は半分までユーザー指示)・3週間動かない/死に筋=説明完結・抽象上から・占いdisり・専門用語フック。masterは未生成（analyzeはmaster=none扱いでスキップ）
 
   # 演者追加例（コピペで増やす）:
