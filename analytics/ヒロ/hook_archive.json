@@ -35,6 +35,21 @@
           "scheduled_at": "2026-06-13T21:03:00+09:00",
           "registered_at": "2026-06-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-17T18:03:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-18T21:03:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-19T22:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
         }
       ]
     },
@@ -46,7 +61,8 @@
         {
           "scheduled_at": "2026-06-08T13:17:00+09:00",
           "registered_at": "2026-06-07",
-          "views": null
+          "views": 44,
+          "posted_at": "2026-06-13T04:22:12.145+00:00"
         },
         {
           "scheduled_at": "2026-06-09T14:42:00+09:00",
@@ -71,6 +87,21 @@
         {
           "scheduled_at": "2026-06-13T13:17:00+09:00",
           "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-17T20:28:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-18T19:52:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-19T21:03:00+09:00",
+          "registered_at": "2026-06-16",
           "views": null
         }
       ]
@@ -110,6 +141,16 @@
           "scheduled_at": "2026-06-13T19:52:00+09:00",
           "registered_at": "2026-06-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-17T22:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-19T11:08:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
         }
       ]
     },
@@ -138,6 +179,21 @@
         {
           "scheduled_at": "2026-06-09T21:03:00+09:00",
           "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-17T11:08:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-18T13:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-19T19:52:00+09:00",
+          "registered_at": "2026-06-16",
           "views": null
         }
       ]
@@ -434,8 +490,18 @@
         {
           "scheduled_at": "2026-06-11T22:17:00+09:00",
           "registered_at": "2026-06-11",
-          "views": 2785,
+          "views": 2820,
           "posted_at": "2026-06-11T13:22:46.936+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-17T19:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-19T14:42:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
         }
       ]
     },
@@ -567,6 +633,160 @@
         {
           "scheduled_at": "2026-06-13T22:48:00+09:00",
           "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8481426be2": {
+      "text": "回避型の彼に「最近どうしてる?会いたいな」ってLINE送ろうとしてる人。それ、回避型には一番刺さらないやつです。",
+      "structure_label": "常識否定型（読者の今書こうとしてるLINEを否定）",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-17T13:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-18T18:03:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-19T20:28:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_101db42239": {
+      "text": "回避型彼氏の別れ際の言葉、表面と本音がほぼ全部真逆になるんですよね。",
+      "structure_label": "命題型（対比/逆転）",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-17T14:42:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ab105f8f27": {
+      "text": "意外かもだけど、回避型の男は『気持ちが大きくなりすぎると沈黙する』生き物。",
+      "structure_label": "常識否定型（F-2-a派生）",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-17T19:52:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7f35f82e84": {
+      "text": "僕、元超回避型だったんですけど、本気で好きな彼女ほど「重い」と感じてしまってた。",
+      "structure_label": "男性心理暴露型（元当事者視点）",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-17T21:03:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8d9938b719": {
+      "text": "回避型の彼に「久しぶり、元気にしてる?」ってLINE送ろうとしてる人。それ、回避型には一番響かないやつです。",
+      "structure_label": "常識否定型（読者の今書こうとしてるLINEを否定）",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-18T11:08:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_26cc69b597": {
+      "text": "回避型彼氏が別れた直後に感じる「すっきりした」、3週間で消えるんですよね。",
+      "structure_label": "時間軸暴露型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-18T14:42:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_096e45bd6c": {
+      "text": "回避型彼氏の冷たいLINE、表面と本音がほぼ全部真逆になるんですよね。",
+      "structure_label": "命題型（対比/逆転）",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-18T19:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_568b31a03d": {
+      "text": "回避型の男は、「好きだった相手」ほど簡単に連絡できないんですよね。",
+      "structure_label": "男性心理暴露型（G-2-a派生）",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-18T20:28:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_63bfabe3d9": {
+      "text": "回避型の彼に「ちょっと話したいことがある」って送ろうとしてる人。それ、回避型に一番効かない誘い方なんですよね。",
+      "structure_label": "常識否定型（読者の今書こうとしてるLINEを否定）",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-18T22:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ee070f4916": {
+      "text": "僕、元超回避型だったんですけど、彼女の愛が深いほど「応えられない」と感じてしまってた。",
+      "structure_label": "男性心理暴露型（元当事者視点）",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-19T13:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_41136cdf9d": {
+      "text": "回避型の男の本音を言うと、追われてる間は復縁なんて考えない。",
+      "structure_label": "男性本音断言型（B-3-a派生）",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-19T18:03:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dcb18b1497": {
+      "text": "回避型の彼に「ちょっとだけ話せる?」ってLINE送ろうとしてる人。それ、回避型には一番効かないやつです。",
+      "structure_label": "常識否定型（読者の今書こうとしてるLINEを否定）",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-19T19:17:00+09:00",
+          "registered_at": "2026-06-16",
           "views": null
         }
       ]

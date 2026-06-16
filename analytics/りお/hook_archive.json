@@ -182,7 +182,8 @@
         {
           "scheduled_at": "2026-06-08T13:17:00+09:00",
           "registered_at": "2026-06-07",
-          "views": null
+          "views": 341,
+          "posted_at": "2026-06-13T13:23:13.893+00:00"
         },
         {
           "scheduled_at": "2026-06-08T21:03:00+09:00",
@@ -202,6 +203,21 @@
         {
           "scheduled_at": "2026-06-13T22:17:00+09:00",
           "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-17T13:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-18T13:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-19T14:42:00+09:00",
+          "registered_at": "2026-06-16",
           "views": null
         }
       ]
@@ -304,6 +320,21 @@
           "registered_at": "2026-06-04",
           "views": 218,
           "posted_at": "2026-06-07T04:21:33.397+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-17T19:52:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-18T20:28:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-19T20:28:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
         }
       ]
     },
@@ -373,7 +404,8 @@
         {
           "scheduled_at": "2026-06-08T14:42:00+09:00",
           "registered_at": "2026-06-07",
-          "views": null
+          "views": 1,
+          "posted_at": "2026-06-13T05:46:32.666+00:00"
         },
         {
           "scheduled_at": "2026-06-09T11:08:00+09:00",
@@ -393,6 +425,11 @@
         {
           "scheduled_at": "2026-06-13T14:42:00+09:00",
           "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-17T22:17:00+09:00",
+          "registered_at": "2026-06-16",
           "views": null
         }
       ]
@@ -636,6 +673,16 @@
           "scheduled_at": "2026-06-12T22:48:00+09:00",
           "registered_at": "2026-06-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-17T20:28:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-18T22:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
         }
       ]
     },
@@ -683,8 +730,23 @@
         {
           "scheduled_at": "2026-06-11T22:48:00+09:00",
           "registered_at": "2026-06-10",
-          "views": 400,
+          "views": 401,
           "posted_at": "2026-06-11T13:52:44.193+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-17T11:08:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-18T18:03:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-19T11:08:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
         }
       ]
     },
@@ -816,6 +878,172 @@
         {
           "scheduled_at": "2026-06-13T22:48:00+09:00",
           "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_de0748a4d9": {
+      "text": "男は、「何でもしてくれる女性」を本気で愛せない",
+      "structure_label": "男性心理断言型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-17T14:42:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_852395a3f1": {
+      "text": "「お母さん」みたいって言われたことない?それ、最も危険なサインだよ。",
+      "structure_label": "読者経験警告型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-17T18:03:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-18T19:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-19T19:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2a551213d5": {
+      "text": "「尽くす女は愛される」はウソ。",
+      "structure_label": "常識破壊型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-17T19:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_051fa956df": {
+      "text": "「彼が素っ気ない」って悩んでる人の大半は、彼が冷めたんじゃなくて自分の存在が当たり前になってるだけ。",
+      "structure_label": "視点反転型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-17T21:03:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f0ecd32d9e": {
+      "text": "「優しくしてあげれば男は喜ぶ」はウソ。",
+      "structure_label": "常識破壊型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-18T11:08:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7e0ba23fbb": {
+      "text": "男は、「予定を合わせてくれる女性」を運命の相手とは思っていない",
+      "structure_label": "男性心理断言型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-18T14:42:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_af9450f32c": {
+      "text": "「妹みたい」って言われたことない?それ、彼の中であなたが「女」じゃなくなってる証拠だよ。",
+      "structure_label": "読者経験警告型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-18T19:52:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c4a80755f0": {
+      "text": "「予定を合わせてあげる女は大事にされる」はウソ。",
+      "structure_label": "常識破壊型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-18T21:03:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7a353298ee": {
+      "text": "男は、「何でも先回りしてくれる女性」を本気で追いかけられない",
+      "structure_label": "男性心理断言型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-19T13:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_499d17bdc6": {
+      "text": "「何でも合わせる女は愛される」って思ってるなら、一回止まってほしい。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-19T18:03:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_560c89231a": {
+      "text": "男は、「いつでも返信くれる女性」を追いかけられない",
+      "structure_label": "男性心理断言型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-19T19:52:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_08c6a55e27": {
+      "text": "「彼が私を見てくれない」って感じてる人の大半は、彼が冷めたんじゃなくて自分が頑張りすぎてるだけ。",
+      "structure_label": "視点反転型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-19T21:03:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8448d6739d": {
+      "text": "「便利な子」って言われたことない?それ、いつでも手に入る相手にされてるサインだよ。",
+      "structure_label": "読者経験警告型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-19T22:17:00+09:00",
+          "registered_at": "2026-06-16",
           "views": null
         }
       ]

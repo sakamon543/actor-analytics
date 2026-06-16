@@ -8,7 +8,8 @@
         {
           "scheduled_at": "2026-06-05T11:08:00+09:00",
           "registered_at": "2026-06-04",
-          "views": null
+          "views": 358,
+          "posted_at": "2026-06-12T02:11:50.732+00:00"
         },
         {
           "scheduled_at": "2026-06-11T14:42:00+09:00",
@@ -28,6 +29,21 @@
         {
           "scheduled_at": "2026-06-12T19:17:00+09:00",
           "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-17T14:42:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-18T20:28:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-19T19:17:00+09:00",
+          "registered_at": "2026-06-16",
           "views": null
         }
       ]
@@ -447,6 +463,21 @@
           "scheduled_at": "2026-06-12T18:03:00+09:00",
           "registered_at": "2026-06-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-17T18:03:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-18T21:03:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-19T19:52:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
         }
       ]
     },
@@ -490,6 +521,21 @@
         {
           "scheduled_at": "2026-06-10T19:17:00+09:00",
           "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-17T19:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-18T22:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-19T20:28:00+09:00",
+          "registered_at": "2026-06-16",
           "views": null
         }
       ]
@@ -543,7 +589,8 @@
         {
           "scheduled_at": "2026-06-11T19:17:00+09:00",
           "registered_at": "2026-06-10",
-          "views": null
+          "views": 1516,
+          "posted_at": "2026-06-12T05:46:00.609+00:00"
         },
         {
           "scheduled_at": "2026-06-11T22:17:00+09:00",
@@ -553,6 +600,21 @@
         {
           "scheduled_at": "2026-06-12T14:42:00+09:00",
           "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-17T11:08:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-18T19:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-19T22:17:00+09:00",
+          "registered_at": "2026-06-16",
           "views": null
         }
       ]
@@ -647,7 +709,8 @@
         {
           "scheduled_at": "2026-06-09T19:52:00+09:00",
           "registered_at": "2026-06-07",
-          "views": null
+          "views": 1,
+          "posted_at": "2026-06-09T10:56:14.849+00:00"
         }
       ]
     },
@@ -731,6 +794,21 @@
         {
           "scheduled_at": "2026-06-10T22:48:00+09:00",
           "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-17T13:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-18T19:52:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-19T18:03:00+09:00",
+          "registered_at": "2026-06-16",
           "views": null
         }
       ]
@@ -899,6 +977,150 @@
         {
           "scheduled_at": "2026-06-13T22:48:00+09:00",
           "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f757495414": {
+      "text": "男の本音を言うと、即レスで長文を返してくる女は「いつでも捕まる人」に振り分けてる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-17T19:52:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e06ef02fc6": {
+      "text": "意外かもだけど、男は『毎日連絡してくれる女』にはむしろ追いかける気が無くなる生き物。",
+      "structure_label": "常識破壊系",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-17T20:28:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_02b4643555": {
+      "text": "彼の「忙しい」に毎回「分かった、無理しないでね」って返してる女。",
+      "structure_label": "観察・自分事指摘型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-17T21:03:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_92c98f64ee": {
+      "text": "「彼の機嫌を取る」「彼の不満を消す」をやればやるほど、彼の中であなたの価値は薄れていく。",
+      "structure_label": "反転メカニズム型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-17T22:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bd8c962581": {
+      "text": "尽くしてるのに彼が冷たいのは、愛情不足じゃない。むしろ彼が動く理由を全部先に潰してるだけだ。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-18T11:08:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fcac12e967": {
+      "text": "男の本音を言うと、「私のこと好き?」を毎回確認してくる女は『追わなくても残る人』に確定してる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-18T13:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9c0b469084": {
+      "text": "意外かもだけど、男は『俺の気持ちを全部分かってくれる女』にはむしろ努力しなくなる生き物。",
+      "structure_label": "常識破壊系",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-18T14:42:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9e18dd506e": {
+      "text": "彼の予定を聞いてから、自分の予定をその場で空けてる女。",
+      "structure_label": "観察・自分事指摘型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-18T18:03:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8a24d6b13b": {
+      "text": "「重く思われたくない」って我慢してる女ほど、彼にとっては『どうでもいい人』になっていく。",
+      "structure_label": "観察・自分事指摘型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-19T11:08:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1606dc3fcf": {
+      "text": "男は『追わなくても返ってくる女』を本能で大事にできない。理由は、大事にしなくても勝手に残ってくれるから。",
+      "structure_label": "男性本能メカニズム型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-19T13:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_96867378bf": {
+      "text": "男って「いつでも会える女」と「予定を取りに行かないと会えない女」を、頭の中で別物に分けてる。",
+      "structure_label": "男性脳分類暴露型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-19T14:42:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9f0d8bf643": {
+      "text": "デートで彼の好きなものに全部「私もそれ好き」って合わせてる女。",
+      "structure_label": "観察・自分事指摘型",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-19T21:03:00+09:00",
+          "registered_at": "2026-06-16",
           "views": null
         }
       ]

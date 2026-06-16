@@ -76,6 +76,21 @@
           "scheduled_at": "2026-06-13T22:17:00+09:00",
           "registered_at": "2026-06-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-17T11:08:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-18T21:03:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-19T22:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
         }
       ]
     },
@@ -144,6 +159,16 @@
         {
           "scheduled_at": "2026-06-13T11:08:00+09:00",
           "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-17T22:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-19T14:42:00+09:00",
+          "registered_at": "2026-06-16",
           "views": null
         }
       ]
@@ -226,6 +251,16 @@
         {
           "scheduled_at": "2026-06-12T20:28:00+09:00",
           "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-17T13:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-18T19:52:00+09:00",
+          "registered_at": "2026-06-16",
           "views": null
         }
       ]
@@ -371,6 +406,16 @@
           "scheduled_at": "2026-06-07T22:48:00+09:00",
           "registered_at": "2026-06-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-17T19:52:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-19T21:03:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
         }
       ]
     },
@@ -404,6 +449,11 @@
         {
           "scheduled_at": "2026-06-10T19:52:00+09:00",
           "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-19T11:08:00+09:00",
+          "registered_at": "2026-06-16",
           "views": null
         }
       ]
@@ -548,6 +598,11 @@
           "scheduled_at": "2026-06-13T22:48:00+09:00",
           "registered_at": "2026-06-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-17T18:03:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
         }
       ]
     },
@@ -630,6 +685,11 @@
           "scheduled_at": "2026-06-13T20:28:00+09:00",
           "registered_at": "2026-06-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-17T14:42:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
         }
       ]
     },
@@ -677,6 +737,17 @@
         {
           "scheduled_at": "2026-06-11T22:17:00+09:00",
           "registered_at": "2026-06-10",
+          "views": 137,
+          "posted_at": "2026-06-11T13:22:13.362+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-17T21:03:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-19T19:52:00+09:00",
+          "registered_at": "2026-06-16",
           "views": null
         }
       ]
@@ -702,7 +773,7 @@
         {
           "scheduled_at": "2026-06-12T14:42:00+09:00",
           "registered_at": "2026-06-10",
-          "views": 1,
+          "views": 2,
           "posted_at": "2026-06-12T05:46:07.652+00:00"
         }
       ]
@@ -799,7 +870,8 @@
         {
           "scheduled_at": "2026-06-13T19:52:00+09:00",
           "registered_at": "2026-06-10",
-          "views": null
+          "views": 3,
+          "posted_at": "2026-06-13T10:57:01.219+00:00"
         }
       ]
     },
@@ -811,6 +883,162 @@
         {
           "scheduled_at": "2026-06-13T21:03:00+09:00",
           "registered_at": "2026-06-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d9a6a3acd0": {
+      "text": "朝起きて、寝る前に、必ず元彼のストーリーチェックしてる人。それやめないと前に進めないよ。",
+      "structure_label": "reader_now型・行動指摘",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-17T19:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ae9feb842e": {
+      "text": "気づいたら元彼の名前検索して、新しい投稿ないか確認してる人。そのループ抜けないと、彼の中であなたは『重い元カノ』のままだよ。",
+      "structure_label": "reader_now型・行動指摘",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-17T20:28:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3e91854576": {
+      "text": "別れて3日目の彼と、3ヶ月目の彼は、別人だと思った方がいい。3日目はまだ「あの時の怒り」が生々しくて、こっちが何送っても悪い方にしか取られない時期。",
+      "structure_label": "時系列対比型・常識否定",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-18T11:08:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2cdff7bc19": {
+      "text": "「LINE送らなきゃ気持ち伝わらない」って思ってるなら、その焦り全部逆効果だよ。",
+      "structure_label": "通念否定→反転希望",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-18T13:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3bd1e8f9ff": {
+      "text": "別れて1週間目の彼と、3ヶ月目の彼は、別人だと思った方がいい。",
+      "structure_label": "時系列対比型・常識否定",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-18T14:42:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_93df0abb85": {
+      "text": "「私から動かないと何も始まらない」って思ってるなら、一回手を止めてほしい。",
+      "structure_label": "通念否定→反転希望",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-18T18:03:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0215f3b7d4": {
+      "text": "別れて2週間目の彼と、4ヶ月目の彼は、別人だと思った方が動きやすいよ。",
+      "structure_label": "時系列対比型・常識否定",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-18T19:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d459968072": {
+      "text": "「沈黙してたら彼に完全に忘れられる」って思ってる人。実は逆で、追わなくなった瞬間から彼の中で記憶が動き出すよ。",
+      "structure_label": "通念否定→反転希望",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-18T20:28:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b88bf92bc7": {
+      "text": "既読つかないLINEを何度も開いて確認してる人。回数増やしても彼の見方は変わらないよ。",
+      "structure_label": "reader_now型・行動指摘",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-18T22:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1dd6b5ab94": {
+      "text": "別れて1ヶ月の彼と、半年経った彼は、別人だと思った方がいい。",
+      "structure_label": "時系列対比型・常識否定",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-19T13:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_20593d3a3f": {
+      "text": "LINEの返信頻度で彼の気持ちを測ってる人。男は『連絡の量＝好きの量』で考えてないよ。",
+      "structure_label": "reader_now型・男性心理暴露",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-19T18:03:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6e59bdabc2": {
+      "text": "別れて5日目の彼と、半年後の彼は、別人だと思った方がいい。",
+      "structure_label": "時系列対比型・常識否定",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-19T19:17:00+09:00",
+          "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_46c1b11c97": {
+      "text": "別れた彼の沈黙を『もう完全に終わり』のサインだって受け取ってる人。それ、男の中では全然違う意味だよ。",
+      "structure_label": "reader_now型・男性心理暴露",
+      "first_used_at": "2026-06-16",
+      "history": [
+        {
+          "scheduled_at": "2026-06-19T20:28:00+09:00",
+          "registered_at": "2026-06-16",
           "views": null
         }
       ]
