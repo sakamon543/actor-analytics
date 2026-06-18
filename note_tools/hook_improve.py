@@ -438,12 +438,14 @@ def build_phase2_prompt(actor, hook, account_info, body_skill_text):
                       "フック＋根拠や具体で読ませて言い切る。末尾に「↓」や「続き」誘導は付けない（単発で完結）。")
         output_block = '{\n  "text": "180字前後・単発で完結（CTA・↓なし）",\n  "thread": []\n}'
     elif post_type == "thread_cta":
-        task_block = (f"このフックを起点に、**メイン本文(80字前後)** ＋ **thread（ぶら下げ150〜200字）** を書く。"
-                      f"thread末尾のCTAは、プロフ誘導ではなく **次のnote直リンクをそのまま貼って誘導する**：{note_url} 。"
-                      f"CTAの言い回しは本文の中身（指摘した「やっちゃってる」やテーマ）に合わせて毎回変える（URLは固定）。"
-                      f"**メイン本文(text)の末尾には「↓」を付けない**（textは単体で完結させ、万一ぶら下げが投稿失敗してもメインだけで読めるように）。「↓」を使うならthread末尾のCTA直前のみ。")
-        output_block = ('{\n  "text": "メイン80字前後・単体で完結（末尾に↓を付けない）",\n'
-                        f'  "thread": ["ぶら下げ150〜200字＋CTA。CTA末尾に {note_url} を貼る"]\n}}')
+        task_block = (f"このフックを起点に、**メイン本文(80字前後)** と **ぶら下げ(thread)150〜200字** の2部構成で必ず書く。"
+                      f"**threadは絶対に空にしない**（このタイプは必ず「メイン＋ぶら下げ」の2本立て。ぶら下げ無し＝不合格）。"
+                      f"ぶら下げ末尾のCTAは、プロフ誘導ではなく次のnote直リンクをそのまま貼る：{note_url} "
+                      f"（CTAの言い回しは本文の中身＝指摘した「やっちゃってる」やテーマに合わせて毎回変える／URLは固定）。"
+                      f"メイン本文(text)の末尾には「↓」や続き記号を付けない（メインだけ表示されても意味が通る言い切りにする）。"
+                      f"ただし「メインを言い切る」＝「ぶら下げ省略」ではない。**ぶら下げ(thread)は必ず別途150〜200字で出力する**。")
+        output_block = ('{\n  "text": "メイン80字前後・言い切り（末尾に↓なし）",\n'
+                        f'  "thread": ["ぶら下げ150〜200字（必須・空にしない）。末尾CTAに {note_url} を貼る"]\n}}')
     else:
         # 非v2（ハクオウ/うみこ等）：従来どおり メイン100〜150字＋ぶら下げ＋固定CTA
         task_block = "このフックから続く本文（メイン続き）と thread（ぶら下げ）を、上記の body_pattern に従って書く。"
@@ -671,15 +673,42 @@ def run(actor, phase1_only=False, limit=None, reuse_phase1=False):
             print(f"    ✗ JSON抽出失敗: {e}")
             continue
 
-        thread = body.get("thread", [])
-        if isinstance(thread, list) and len(thread) > 1:
-            thread = ["\n\n".join(t for t in thread if isinstance(t, str) and t.strip())]
+        def _norm_thread(th):
+            if isinstance(th, list) and len(th) > 1:
+                return ["\n\n".join(t for t in th if isinstance(t, str) and t.strip())]
+            return th if isinstance(th, list) else []
+
+        def _has_thread(th):
+            return isinstance(th, list) and any((t or "").strip() for t in th)
+
+        thread = _norm_thread(body.get("thread", []))
+
+        # v2 thread_cta なのに ぶら下げが空 → 1回だけ強めに再生成（ぶら下げ付き3本/日を確保）
+        if hook.get("post_type") == "thread_cta" and not _has_thread(thread):
+            retry_prompt = p2_prompt + (
+                "\n\n# 再指示（重要）\n前回の出力は thread が空だった。このポストは必ず「メイン＋ぶら下げ」の2部構成。"
+                "thread を150〜200字で必ず書き、末尾CTAに指定のnote直リンクを貼って、同じJSON形式で出し直すこと。thread を空にしない。"
+            )
+            cc_out2, err2 = call_claude_code(retry_prompt, timeout=300)
+            if not err2:
+                try:
+                    body2 = extract_json_from_text(cc_out2.get("result", ""))
+                    t2 = _norm_thread(body2.get("thread", []))
+                    if _has_thread(t2):
+                        body = body2
+                        thread = t2
+                        print("    ↻ thread空→再生成でぶら下げ復活")
+                except (ValueError, json.JSONDecodeError):
+                    pass
+            if not _has_thread(thread):
+                print("    ⚠ thread_cta だが ぶら下げ生成できず（単発で投入）")
 
         posts.append({
             "id": hook.get("id"),
             "fookid": fookid(hook["hook_text"]),
             "structure_label": hook.get("structure_label"),
             "based_on": hook.get("based_on"),
+            "post_type": hook.get("post_type"),
             "scheduled_at": hook.get("scheduled_at"),
             "text": body.get("text", ""),
             "thread": thread,
