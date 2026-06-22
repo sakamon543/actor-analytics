@@ -62,6 +62,16 @@
           "scheduled_at": "2026-06-14T19:52:00+09:00",
           "registered_at": "2026-06-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T20:28:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T20:28:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
         }
       ]
     },
@@ -136,6 +146,11 @@
           "scheduled_at": "2026-06-14T22:17:00+09:00",
           "registered_at": "2026-06-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T22:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
         }
       ]
     },
@@ -165,6 +180,16 @@
         {
           "scheduled_at": "2026-06-10T21:03:00+09:00",
           "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T14:42:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-25T19:52:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -209,6 +234,11 @@
         {
           "scheduled_at": "2026-06-14T19:17:00+09:00",
           "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T11:08:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -381,6 +411,16 @@
           "scheduled_at": "2026-06-14T18:03:00+09:00",
           "registered_at": "2026-06-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T14:42:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-25T13:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
         }
       ]
     },
@@ -440,6 +480,21 @@
         {
           "scheduled_at": "2026-06-12T22:48:00+09:00",
           "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T13:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T22:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-25T21:03:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -560,6 +615,184 @@
         {
           "scheduled_at": "2026-06-14T22:48:00+09:00",
           "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4421f5b999": {
+      "text": "元カレに「完全に冷めた」って言われた子が、3週間で復縁した。",
+      "structure_label": "経験者の発見・落差型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-23T11:08:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T19:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_df8e21b4a0": {
+      "text": "振った男が「戻りたい」って思うまでの平均日数、相談データで55日だったんだよね。",
+      "structure_label": "数字断言型（F-1-d/e派生）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-23T18:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b50be5b0a6": {
+      "text": "別れを切り出された夜に、絶対やっちゃいけない行動がある。",
+      "structure_label": "禁止断言型（短結論）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-23T19:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-25T18:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c4639fab92": {
+      "text": "復縁した彼に「もし連絡してなかったら？」って聞いたら、「自分から動くことは絶対なかった」って即答だった。",
+      "structure_label": "インタビュー型（C-2-a）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-23T19:52:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_08b362349c": {
+      "text": "元カレに「冷めた」って言われた子でも、3週間で復縁してる人いる。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-23T21:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ddfd1494dd": {
+      "text": "「彼が戻りたいなら向こうから動く」って常識、男側は完全に逆なんだよね。",
+      "structure_label": "常識否定型（F-3-b短縮版）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T13:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8bc60bdbd0": {
+      "text": "男の本音を聞くと、追われてる間は「戻りたい」って選択肢が頭に浮かばないらしい。",
+      "structure_label": "男の本音暴露型（B-3-a変奏）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T18:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_29162cc695": {
+      "text": "別れを切り出された夜にやってしまう1つの行動が、半年後の答えを決めてる。",
+      "structure_label": "読者の今の行動描写型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T19:52:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_65211dfff3": {
+      "text": "振った男ほど元カノに未練たらたらになる、聞いてきた男の半分以上がそうだった。",
+      "structure_label": "属性断言型（G-5-a）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T21:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6528d552cd": {
+      "text": "元カレに「冷めた」って言われた相談者で、3週間動かなかった子だけ復縁してる。",
+      "structure_label": "経験者発見＋条件絞り込み型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T11:08:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6e6cd277d8": {
+      "text": "振った男が「自分から戻りたい」って決意するまで、平均55日かかるんだよね。",
+      "structure_label": "数字断言型（F-1-d圧縮版）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T14:42:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9e3bde51a5": {
+      "text": "男って自分から振った相手でも「今どんなふうに変わったんだろう」って、どこか気になってる。",
+      "structure_label": "男の心理断言型（G-3-a）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T19:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9611a848f4": {
+      "text": "「冷却期間で気持ちが冷める」って思って動けない人、220件で逆だったんだよね。",
+      "structure_label": "常識否定＋数字型（F-3-a変奏）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T20:28:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7a6a2d3c19": {
+      "text": "振った男が動こうと決意するまでの平均、220件で55日だったんだよね。",
+      "structure_label": "数字断言型（F-1-d最短版）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T22:17:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]

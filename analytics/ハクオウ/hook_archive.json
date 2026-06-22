@@ -63,6 +63,16 @@
           "scheduled_at": "2026-06-08T19:17:00+09:00",
           "registered_at": "2026-06-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T19:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T19:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
         }
       ]
     },
@@ -122,6 +132,11 @@
         {
           "scheduled_at": "2026-06-07T22:17:00+09:00",
           "registered_at": "2026-06-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T18:03:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -1797,6 +1812,16 @@
           "scheduled_at": "2026-06-09T20:28:00+09:00",
           "registered_at": "2026-06-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T11:08:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T14:42:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
         }
       ]
     },
@@ -1814,6 +1839,11 @@
         {
           "scheduled_at": "2026-06-08T14:42:00+09:00",
           "registered_at": "2026-06-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T20:28:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -1839,6 +1869,11 @@
           "scheduled_at": "2026-06-07T19:17:00+09:00",
           "registered_at": "2026-06-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T22:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
         }
       ]
     },
@@ -1855,6 +1890,11 @@
         {
           "scheduled_at": "2026-06-09T19:17:00+09:00",
           "registered_at": "2026-06-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T18:03:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -1880,6 +1920,11 @@
         {
           "scheduled_at": "2026-06-07T21:03:00+09:00",
           "registered_at": "2026-06-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T19:52:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -1928,6 +1973,11 @@
         {
           "scheduled_at": "2026-06-08T18:03:00+09:00",
           "registered_at": "2026-06-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T14:42:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -2037,6 +2087,11 @@
         {
           "scheduled_at": "2026-06-09T18:03:00+09:00",
           "registered_at": "2026-06-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T21:03:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -2255,6 +2310,234 @@
         {
           "scheduled_at": "2026-06-12T22:48:00+09:00",
           "registered_at": "2026-06-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2559202d10": {
+      "text": "別れた男の半数以上は、別れて2〜4週間で『連絡したい』が一度はピークに来てる。でも自分から連絡することは絶対にない。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-23T13:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3a3b3fe717": {
+      "text": "男が本気で溺愛する女性って、実は共通点がある。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-23T22:48:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_53197ac1b1": {
+      "text": "溺愛される女性の特徴を分析してたら、ちょっと衝撃の事実が出てきた。",
+      "structure_label": "好奇心ギャップ型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T11:08:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c0832adf90": {
+      "text": "「既読無視された翌日」から、彼の溺愛が始まった子がいる。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T13:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f6c8f6b866": {
+      "text": "男は別れて3週間前後で、必ず一度は『元カノ、今どうしてるかな』が頭をよぎる瞬間がある。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T19:52:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2d6642057a": {
+      "text": "男は新しい彼女ができても、本命と無意識に比較する期間が半年は続く。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T20:28:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_412d063de1": {
+      "text": "男は別れて2ヶ月前後で、ほぼ全員元カノのSNSを一度は覗きに来てる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T21:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3dca5c813e": {
+      "text": "男が別れ際に言う「冷めた」「価値観が違う」「他に好きな人がいる」は、半分以上が取り繕いだ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T22:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4a6c30f9c4": {
+      "text": "プライドが高い元彼ほど、未練がある女のSNSだけは欠かさず見てる。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T22:48:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7e55134c95": {
+      "text": "回避型の「もう無理」は本気の終わりじゃなくて、ただの『気持ちからの逃避』。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T11:08:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e841b36497": {
+      "text": "復縁した彼に「私が黙ってたら、自分から連絡してた？」って聞いたら、衝撃の答えが返ってきた。",
+      "structure_label": "セリフ引用型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T13:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9c083b14cf": {
+      "text": "男は、一度本気で好きだった相手を「ただの友達」として扱うのが一番できない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T14:42:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7c92c20db9": {
+      "text": "「焦らず友達から始めよう」って助言、男目線では1ミリも安全じゃないんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T18:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_901530b96b": {
+      "text": "「既読無視された翌週」から、彼から先に連絡が来るようになった子がいる。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T19:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cd50a82133": {
+      "text": "意外かもだけど、男は『沈黙が長く続くほど元カノが頭から離れなくなる』生き物。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T19:52:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_29420f4ee1": {
+      "text": "男は、「自分から振った相手にはもう未練ない」とは思っていない。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T20:28:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c4dba3eef5": {
+      "text": "男が別れを切り出すとき「飽きた」より圧倒的に多いのが『重く感じてしまった自分が嫌になった』。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T21:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_56a8bc4c98": {
+      "text": "元彼が深夜にSNSを覗きに来るときって、結局『連絡したいけど踏み切れない』が裏側にある。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T22:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d6d9f2e9a2": {
+      "text": "男の本音を言うと、振られる前に自分から振っとくっていう逃げ方はめちゃくちゃある。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T22:48:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
