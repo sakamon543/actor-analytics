@@ -91,6 +91,21 @@
           "scheduled_at": "2026-06-19T22:17:00+09:00",
           "registered_at": "2026-06-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T11:08:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T18:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-25T19:52:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
         }
       ]
     },
@@ -170,6 +185,16 @@
         {
           "scheduled_at": "2026-06-19T14:42:00+09:00",
           "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T14:42:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T20:28:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -262,6 +287,11 @@
         {
           "scheduled_at": "2026-06-18T19:52:00+09:00",
           "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T20:28:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -417,6 +447,16 @@
           "scheduled_at": "2026-06-19T21:03:00+09:00",
           "registered_at": "2026-06-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T18:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T22:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
         }
       ]
     },
@@ -440,7 +480,8 @@
         {
           "scheduled_at": "2026-06-08T18:03:00+09:00",
           "registered_at": "2026-06-07",
-          "views": null
+          "views": 24,
+          "posted_at": "2026-06-19T02:12:15.793+00:00"
         },
         {
           "scheduled_at": "2026-06-09T19:52:00+09:00",
@@ -455,6 +496,16 @@
         {
           "scheduled_at": "2026-06-19T11:08:00+09:00",
           "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T19:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-25T18:03:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -604,6 +655,11 @@
           "scheduled_at": "2026-06-17T18:03:00+09:00",
           "registered_at": "2026-06-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T22:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
         }
       ]
     },
@@ -749,6 +805,11 @@
         {
           "scheduled_at": "2026-06-19T19:52:00+09:00",
           "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T21:03:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -969,8 +1030,13 @@
         {
           "scheduled_at": "2026-06-18T19:17:00+09:00",
           "registered_at": "2026-06-16",
-          "views": 1756,
+          "views": 2607,
           "posted_at": "2026-06-18T10:21:47.84+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-23T19:52:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
         }
       ]
     },
@@ -1018,6 +1084,17 @@
         {
           "scheduled_at": "2026-06-19T18:03:00+09:00",
           "registered_at": "2026-06-16",
+          "views": 1557,
+          "posted_at": "2026-06-19T09:07:55.719+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-23T13:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T14:42:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -1042,6 +1119,151 @@
         {
           "scheduled_at": "2026-06-19T20:28:00+09:00",
           "registered_at": "2026-06-16",
+          "views": 19,
+          "posted_at": "2026-06-19T11:31:04.149+00:00"
+        }
+      ]
+    },
+    "fookid_17b12c575a": {
+      "text": "別れて1週間目の彼と、3ヶ月後の彼は、別人だと思った方が動きやすいよ。",
+      "structure_label": "時間軸対比型・命題型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T11:08:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2207ad970b": {
+      "text": "連絡してくる回数で彼の気持ちを判断してる人。男は『何回連絡したか』じゃなくて『誰のために時間を作りたいか』で気持ち決めてるんだよね。",
+      "structure_label": "読者行動指摘＋男心理断定型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T13:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d1cb6296d1": {
+      "text": "LINEの返信スピードで彼の気持ち測ってる人。男は『返信の早さ＝好きの強さ』で考えてないんだよね。",
+      "structure_label": "読者行動指摘＋男心理断定型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T19:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9bb1f2511f": {
+      "text": "別れた後、寝る前に元彼のインスタ開いて、新しい投稿チェックして、いいね欄見て、新しい彼女のアカウント特定して比較してる人。",
+      "structure_label": "読者シーン描写型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T19:52:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_086c7af9d3": {
+      "text": "別れて4日目の彼と、4ヶ月目の彼は、別人だと思った方がいい。",
+      "structure_label": "時間軸対比型・命題型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T21:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_752c578f7f": {
+      "text": "別れて5日目の彼と、3ヶ月後の彼は、別人だと思った方が動きやすいよ。",
+      "structure_label": "時間軸対比型・命題型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T11:08:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_98609284fe": {
+      "text": "振った側の彼はもう私のこと忘れてる、って思い込んでる人。男って自分から振った相手ほど『今どんなふうに変わったんだろう』ってずっと気になってる生き物だよ。",
+      "structure_label": "読者思い込み反転型＋男心理断定",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T13:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1131ad2d87": {
+      "text": "「私から動かないと終わる」って思ってるなら、一回手を止めてほしい。男は追われると逃げて、追うのをやめた瞬間に気になり出す生き物だから。",
+      "structure_label": "読者思い込み反転型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T14:42:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cde404a633": {
+      "text": "「連絡が途切れたら忘れられる」って思ってるなら、その焦り全部逆効果だよ。",
+      "structure_label": "読者思い込み反転型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T19:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9691af4948": {
+      "text": "朝起きてすぐ元彼のSNS見て、いいね欄チェックして、「また見ちゃった」って自己嫌悪になってる人。",
+      "structure_label": "読者シーン描写型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T20:28:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c41d39093b": {
+      "text": "別れて2週間目の彼と、3ヶ月目の彼は、別人だと思った方が動きやすいよ。",
+      "structure_label": "時間軸対比型・命題型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T21:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1332b3c843": {
+      "text": "別れの理由を「冷められたから」って思い込んでる人。男が別れ決めるときって『冷めた』より『好きすぎて怖くなった』の方が圧倒的に多いんだよね。",
+      "structure_label": "読者思い込み反転型＋男心理断定",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T22:17:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]

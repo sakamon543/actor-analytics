@@ -117,6 +117,21 @@
           "scheduled_at": "2026-06-13T13:17:00+09:00",
           "registered_at": "2026-06-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T14:42:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T13:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-25T14:42:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
         }
       ]
     },
@@ -218,6 +233,16 @@
         {
           "scheduled_at": "2026-06-19T14:42:00+09:00",
           "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T18:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-25T22:17:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -393,6 +418,11 @@
           "scheduled_at": "2026-06-09T18:03:00+09:00",
           "registered_at": "2026-06-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T20:28:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
         }
       ]
     },
@@ -430,6 +460,16 @@
         {
           "scheduled_at": "2026-06-17T22:17:00+09:00",
           "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T19:52:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-25T13:17:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -651,11 +691,27 @@
         {
           "scheduled_at": "2026-06-12T14:42:00+09:00",
           "registered_at": "2026-06-10",
-          "views": null
+          "views": 1679,
+          "posted_at": "2026-06-18T11:32:17.062+00:00"
         },
         {
           "scheduled_at": "2026-06-13T19:17:00+09:00",
           "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T11:08:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T19:52:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-25T21:03:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -747,6 +803,16 @@
         {
           "scheduled_at": "2026-06-19T11:08:00+09:00",
           "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T13:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T22:17:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -903,7 +969,8 @@
         {
           "scheduled_at": "2026-06-17T18:03:00+09:00",
           "registered_at": "2026-06-16",
-          "views": null
+          "views": 88,
+          "posted_at": "2026-06-17T09:06:23.484+00:00"
         },
         {
           "scheduled_at": "2026-06-18T19:17:00+09:00",
@@ -1045,6 +1112,167 @@
         {
           "scheduled_at": "2026-06-19T22:17:00+09:00",
           "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_af419ddb01": {
+      "text": "男は、「何でもしてくれる女性」を本気で愛せない。",
+      "structure_label": "常識否定型（G-2-a派生）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-23T19:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T18:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5e4fd03185": {
+      "text": "男は、「察して全部やってくれる女性」と対等な関係を築けない。",
+      "structure_label": "常識否定型（G-2-a派生）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-23T21:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_738a2419af": {
+      "text": "「自分を後回しにすれば愛される」はウソ。",
+      "structure_label": "常識否定型（F-3-b派生）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-23T22:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c9c69565ed": {
+      "text": "男は、「LINE5秒で返してくれる女性」と対等な関係を作れない。",
+      "structure_label": "常識否定型（G-2-a派生）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T11:08:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e0b79bfb52": {
+      "text": "「もっと尽くせば溺愛される」って思ってるなら、一回止まってほしい。",
+      "structure_label": "反転指摘型（F-3-c派生）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T14:42:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e0405c826b": {
+      "text": "「彼のLINEが素っ気ない」って感じてる人の大半は、彼が冷めたんじゃなくて自分が期待しすぎてるだけ。",
+      "structure_label": "反転指摘型（F-8-b派生）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T19:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1bf1b1cc16": {
+      "text": "男が別れを切り出すとき「冷めた」より圧倒的に多いのが『一緒にいると息苦しい』。",
+      "structure_label": "命題型（F-4-a）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T20:28:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4c9a1aace4": {
+      "text": "男は、「何でも察して先回りする女性」を女として見れない。",
+      "structure_label": "常識否定型（G-2-a派生）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T21:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fe3f3ed856": {
+      "text": "男は、「自分の予定捨てて合わせてくれる女性」を本命にしない。",
+      "structure_label": "常識否定型（G-2-a派生）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T11:08:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2b8b75ef69": {
+      "text": "「最近会えない」って感じてる人の大半は、彼が忙しいんじゃなくて自分が連絡しすぎてるだけ。",
+      "structure_label": "反転指摘型（F-8-b派生）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T18:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_94512dc5e8": {
+      "text": "男は、「先に予定埋めて待ってくれる女性」を本気で追わない。",
+      "structure_label": "常識否定型（G-2-a派生）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T19:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b170ab5803": {
+      "text": "「いい彼女でいれば手放されない」って思ってるなら、一回止まってほしい。",
+      "structure_label": "反転指摘型（F-3-c派生）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T19:52:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_94cc31a238": {
+      "text": "男は、「尽くされてる＝大事にされてる」とは思っていない。",
+      "structure_label": "命題型（G-1-a）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T20:28:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]

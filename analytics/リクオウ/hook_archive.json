@@ -45,6 +45,11 @@
           "scheduled_at": "2026-06-19T19:17:00+09:00",
           "registered_at": "2026-06-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-25T20:28:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
         }
       ]
     },
@@ -432,7 +437,8 @@
         {
           "scheduled_at": "2026-06-08T11:08:00+09:00",
           "registered_at": "2026-06-07",
-          "views": null
+          "views": 19,
+          "posted_at": "2026-06-17T09:06:33.018+00:00"
         },
         {
           "scheduled_at": "2026-06-09T11:08:00+09:00",
@@ -477,6 +483,21 @@
         {
           "scheduled_at": "2026-06-19T19:52:00+09:00",
           "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T19:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T19:52:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-25T19:52:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -536,6 +557,11 @@
         {
           "scheduled_at": "2026-06-19T20:28:00+09:00",
           "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T22:17:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -615,6 +641,16 @@
         {
           "scheduled_at": "2026-06-19T22:17:00+09:00",
           "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T13:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T21:03:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -800,7 +836,8 @@
         {
           "scheduled_at": "2026-06-17T13:17:00+09:00",
           "registered_at": "2026-06-16",
-          "views": null
+          "views": 1168,
+          "posted_at": "2026-06-18T10:57:11.533+00:00"
         },
         {
           "scheduled_at": "2026-06-18T19:52:00+09:00",
@@ -810,6 +847,16 @@
         {
           "scheduled_at": "2026-06-19T18:03:00+09:00",
           "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T20:28:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T18:03:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -1006,6 +1053,21 @@
           "scheduled_at": "2026-06-17T20:28:00+09:00",
           "registered_at": "2026-06-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T11:08:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T11:08:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-25T13:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
         }
       ]
     },
@@ -1125,6 +1187,172 @@
         {
           "scheduled_at": "2026-06-19T21:03:00+09:00",
           "registered_at": "2026-06-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_51aca82ae7": {
+      "text": "意外かもだけど、男は『LINEに即レスしてくれる女』にはむしろ追いかける気が無くなる生き物。",
+      "structure_label": "常識否定型（F-2-a）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-23T14:42:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2353fbcb70": {
+      "text": "デートで彼の好きなものに全部「私もそれ好き」って合わせてる女。それ、好かれてんじゃない。『何でも合わせてくれる楽な女』として記憶されてるだけだ。",
+      "structure_label": "読者行動指摘＋再解釈型（F-7-a派生）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-23T18:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T22:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-25T22:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f24d21662e": {
+      "text": "彼の話に全部「私もそれ好き！」って同調してる女。それ、好かれてんじゃない。『何でも合わせてくれる楽な女』として処理されてるだけだ。",
+      "structure_label": "読者行動指摘＋再解釈型（F-7-a派生）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-23T19:52:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_20fcf0dd64": {
+      "text": "男の素っ気ない返信は、あなたへの愛情が冷めたサインじゃない。",
+      "structure_label": "常識否定型（F-7-a）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-23T21:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8c6a6772cf": {
+      "text": "「彼が好きだから尽くす」「彼のために何でもする」をやり続けるほど、彼の気持ちは離れていく。",
+      "structure_label": "反転命題型（F-8-a派生）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T13:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b789415491": {
+      "text": "彼の「空いてる日」にいつも自分の予定を全部合わせてる女。彼にとってあなたは「いつ誘ってもOKな人」になってて、わざわざ予定を取りに行く価値がなくなってる。",
+      "structure_label": "読者行動指摘＋再解釈型（F-7-a派生）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T14:42:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6f6f7d9e4a": {
+      "text": "彼の「忙しい時期」をいつも黙って待ってあげてる女。彼にとってあなたは「いつでも待ってくれる人」になってて、わざわざ時間を作る理由がなくなってる。",
+      "structure_label": "読者行動指摘＋再解釈型（F-7-a派生）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T19:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_eae71cb16d": {
+      "text": "意外かもだけど、男は『先回りして全部してくれる女』にはむしろ興味を失う生き物。",
+      "structure_label": "常識否定型（F-2-a）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T20:28:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4537fe8236": {
+      "text": "男の本音を言うと、彼の機嫌を取りに行く女は「気を使わなくていい人」に勝手に分類してる。",
+      "structure_label": "男性心理暴露型（B-3-a）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T11:08:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_04839b9dfb": {
+      "text": "男の本音を言うと、自分のペースに全部合わせてくれる女は「動かなくていい人」に勝手に分類してる。",
+      "structure_label": "男性心理暴露型（B-3-a）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T14:42:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ad2a11cdbd": {
+      "text": "尽くしてるのに彼が冷たいのは、あなたの愛情が足りないからじゃない。むしろ逆だ。",
+      "structure_label": "反転希望型（F-7-a派生）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T18:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c84029cc46": {
+      "text": "男は、「尽くしてくれる女＝大事な存在」とは思っていない。",
+      "structure_label": "男性心理断言型（G-1-a）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T19:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d4e10d72e3": {
+      "text": "意外かもだけど、男は『毎日「会いたい」って言ってくる女』にはむしろ追いかける気が無くなる生き物。",
+      "structure_label": "常識否定型（F-2-a）",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T21:03:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
