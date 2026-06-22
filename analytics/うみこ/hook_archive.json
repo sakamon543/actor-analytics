@@ -40,6 +40,16 @@
           "scheduled_at": "2026-06-12T13:17:00+09:00",
           "registered_at": "2026-06-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T19:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T19:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
         }
       ]
     },
@@ -73,6 +83,11 @@
           "scheduled_at": "2026-06-12T20:28:00+09:00",
           "registered_at": "2026-06-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T22:48:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
         }
       ]
     },
@@ -100,6 +115,11 @@
         {
           "scheduled_at": "2026-06-14T14:42:00+09:00",
           "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T11:08:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -487,6 +507,16 @@
           "scheduled_at": "2026-06-13T22:17:00+09:00",
           "registered_at": "2026-06-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T20:28:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T19:52:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
         }
       ]
     },
@@ -628,6 +658,16 @@
           "scheduled_at": "2026-06-12T14:42:00+09:00",
           "registered_at": "2026-06-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T19:52:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T14:42:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
         }
       ]
     },
@@ -715,6 +755,11 @@
         {
           "scheduled_at": "2026-06-13T22:48:00+09:00",
           "registered_at": "2026-06-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T22:17:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
@@ -1208,6 +1253,16 @@
           "scheduled_at": "2026-06-13T18:03:00+09:00",
           "registered_at": "2026-06-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T11:08:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T13:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
         }
       ]
     },
@@ -1365,6 +1420,11 @@
           "scheduled_at": "2026-06-13T11:08:00+09:00",
           "registered_at": "2026-06-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-24T18:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
         }
       ]
     },
@@ -1486,6 +1546,11 @@
           "scheduled_at": "2026-06-14T19:52:00+09:00",
           "registered_at": "2026-06-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-23T21:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
         }
       ]
     },
@@ -1533,6 +1598,210 @@
         {
           "scheduled_at": "2026-06-14T22:48:00+09:00",
           "registered_at": "2026-06-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_170fa67777": {
+      "text": "「モテる女」と「沼らせる女」は、全くの別モノなのよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-23T13:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2dc783baa8": {
+      "text": "回避型ほど、未練たらたらで引きずる男はいないのよ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-23T14:42:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7eaf372a63": {
+      "text": "「駆け引きが上手い子がモテる」って言うけど、",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-23T18:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_450601c7a1": {
+      "text": "男はね、『LINE続いてる＝気持ちある』とは思ってないのよ。あなたが毎日返事もらえることで安心してても、彼の頭の中で『恋愛感情として続いてる』とは全然別の話。男はLINEの頻度と恋愛温度を完全に分けて処理する生き物だから↓",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T20:28:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9b7e4be4b4": {
+      "text": "回避型の男は時間が経つほど後悔が深くなるから、いま音信不通でも本当に諦めなくていいよ。別れて1〜2週間は解放感で消えるけど、1ヶ月を超えた頃から罪悪感が顔を出して、3ヶ月で『あの選択は正しかったのか』って自問が始まる。これ、うちが見てきた回避型男ほぼ全員のルート↓",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T21:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2879b0c2da": {
+      "text": "振った側の男ね、別れて1ヶ月過ぎた頃に『本当にあれでよかったのか』が必ず一度来る。でも自分からは絶対に動かないよ。プライドより、怖さの方が強いから。いまの沈黙は答えじゃなくて、動けないだけ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T22:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_003e997285": {
+      "text": "復縁した子と話してて気づいたけど『本気で好きなら別れない』はウソだよ。男の愛は深いほど、手放すという形を取ることがあるの。特に回避型は『これ以上悲しませたくない』で身を引くタイプ。好きすぎて逃げるって、本人も後で気づくのよね。そういう男は、",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-24T22:48:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6be2d56d91": {
+      "text": "回避型の『最近どう？』『元気？』って軽い連絡、復縁の合図じゃなくて、ただの『反応テスト』なのよ。あなたがどう返すかを試してる段階で、ここで重い返事すると窓が閉まる。軽く返せたら次が来る。うちが見てきた回避型男、ほぼ全員ここで判定してる↓",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T11:08:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_25863e199e": {
+      "text": "男が別れて2〜3週間で新しい彼女作るパターン、女側からは『もう過去にされた』に見えるけど、実は元カノの存在を処理しきれなくて『他の女で上書きしようとしてる』ケースが8割。その新彼女は数ヶ月で別れる、上書きが効かないから↓",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T13:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3503b99bb9": {
+      "text": "回避型の男は嫌いだから離れるんじゃなくて、気持ちが膨らみすぎて動けなくなるの。これネットの恋愛サイトには書いてないけど、5000人の男を見てきて全員同じこと言った真実なのよ。『好きだから別れた』の意味、分からないよね。でも回避型の脳ではそれが起きてる↓",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T14:42:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_46488009a9": {
+      "text": "振った側の男ほど、後から未練でぐちゃぐちゃになるのよ。女は時間で気持ちが薄れるけど、男は罪悪感が遅れて来る。振ったことで余計に元カノが頭から離れない。それが男という生き物。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T18:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d999ea2c7a": {
+      "text": "「モテる女」と「忘れられない女」は、全くの別モノなのよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T19:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cd9d7f5bb6": {
+      "text": "「駆け引きが上手い子が選ばれる」って言うけど、実はそれちょっと違うのよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T19:52:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fb558a5e69": {
+      "text": "復縁して分かったんだけど、『男の方が忘れられない』って話は本当だよ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T20:28:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a0b60fb334": {
+      "text": "元彼が連絡しようか迷うときって、結局『忘れようとすればするほど思い出す』って気づいた瞬間なのよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T21:03:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0fa6653839": {
+      "text": "男って自分から振った相手でも『今どう変わったんだろう』ってどこかでずっと気にしてる生き物なのよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T22:17:00+09:00",
+          "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_af4547d4a5": {
+      "text": "意外かもだけど、男は『元カノへの未練が強いほど沈黙する』生き物なのよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-22",
+      "history": [
+        {
+          "scheduled_at": "2026-06-25T22:48:00+09:00",
+          "registered_at": "2026-06-22",
           "views": null
         }
       ]
