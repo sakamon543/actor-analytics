@@ -50,6 +50,16 @@
           "scheduled_at": "2026-06-25T20:28:00+09:00",
           "registered_at": "2026-06-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T14:42:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T19:52:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
         }
       ]
     },
@@ -81,6 +91,16 @@
         {
           "scheduled_at": "2026-06-12T19:52:00+09:00",
           "registered_at": "2026-06-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T18:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T18:03:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -499,6 +519,11 @@
           "scheduled_at": "2026-06-25T19:52:00+09:00",
           "registered_at": "2026-06-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-27T14:42:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
         }
       ]
     },
@@ -651,6 +676,21 @@
         {
           "scheduled_at": "2026-06-24T21:03:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T20:28:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-27T20:28:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T13:17:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -857,6 +897,16 @@
         {
           "scheduled_at": "2026-06-24T18:03:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T21:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T11:08:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -1069,6 +1119,16 @@
           "scheduled_at": "2026-06-25T13:17:00+09:00",
           "registered_at": "2026-06-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T11:08:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-27T22:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
         }
       ]
     },
@@ -1188,6 +1248,11 @@
         {
           "scheduled_at": "2026-06-19T21:03:00+09:00",
           "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-27T19:17:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -1355,6 +1420,167 @@
         {
           "scheduled_at": "2026-06-25T21:03:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_16b0e34dee": {
+      "text": "男の本音を言うと、即レスし続けてくれる女は「いつ返してもいい人」に勝手に分類してる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-26T13:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0e78375db9": {
+      "text": "「男は手間のかからない女が好き」はウソ。",
+      "structure_label": "常識破壊型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-26T19:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b72fd0e24f": {
+      "text": "LINEで彼の話題に全部「私もそう思う」って同意してる女。",
+      "structure_label": "読者行動指摘型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-26T19:52:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_09cde0a1c3": {
+      "text": "返信が遅くて不安なのは、彼が冷めたからじゃない。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-26T22:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d07a1f04eb": {
+      "text": "男は『追わなくても返ってくる女』を本能で大事にできない。",
+      "structure_label": "男性心理暴露型（命題）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T11:08:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T21:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_19e9bdf14f": {
+      "text": "彼の機嫌に合わせて自分のテンション上げ下げしてる女。",
+      "structure_label": "読者行動指摘型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T13:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_25a46b0694": {
+      "text": "男の本音を言うと、文句一つ言わずに尽くしてくれる女は「気を使わなくていい人」に勝手に分類してる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T18:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4241f09a8b": {
+      "text": "男は「いつでも会える女」と本気で恋に落ちることはできない。",
+      "structure_label": "男性心理暴露型（命題）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T19:52:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e5246bf8cf": {
+      "text": "頑張ってるのに距離を感じるのは、あなたの努力が足りないからじゃない。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T21:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_83b7d0f250": {
+      "text": "彼の返信時間に合わせてスマホ握りしめて待ってる女。",
+      "structure_label": "読者行動指摘型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T14:42:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_19cd3ef6f6": {
+      "text": "男が距離を置くとき「冷めた」より圧倒的に多いのが『追わなくても繋がってる安心感』だよ。",
+      "structure_label": "常識破壊型（〇〇より圧倒的に多いのが〇〇）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T19:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8b116039e2": {
+      "text": "男の本音を言うと、こっちが冷たくしても変わらず優しい女は「雑に扱っていい人」に勝手に分類してる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T20:28:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8dc329e21e": {
+      "text": "愛してるって伝えれば伝えるほど彼との温度差が広がるのは、伝え方が悪いんじゃない。",
+      "structure_label": "反転希望型（やればやるほど逆効果）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T22:17:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]

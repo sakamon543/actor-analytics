@@ -73,6 +73,11 @@
           "scheduled_at": "2026-06-24T19:17:00+09:00",
           "registered_at": "2026-06-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T19:52:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
         }
       ]
     },
@@ -137,6 +142,11 @@
         {
           "scheduled_at": "2026-06-23T18:03:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T20:28:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -1822,6 +1832,16 @@
           "scheduled_at": "2026-06-24T14:42:00+09:00",
           "registered_at": "2026-06-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-27T11:08:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T22:48:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
         }
       ]
     },
@@ -1844,6 +1864,11 @@
         {
           "scheduled_at": "2026-06-23T20:28:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T13:17:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -1926,6 +1951,11 @@
           "scheduled_at": "2026-06-23T19:52:00+09:00",
           "registered_at": "2026-06-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-27T18:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
         }
       ]
     },
@@ -1937,6 +1967,11 @@
         {
           "scheduled_at": "2026-06-07T22:48:00+09:00",
           "registered_at": "2026-06-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T14:42:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -1978,6 +2013,11 @@
         {
           "scheduled_at": "2026-06-23T14:42:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T22:17:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -2093,6 +2133,11 @@
           "scheduled_at": "2026-06-23T21:03:00+09:00",
           "registered_at": "2026-06-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-27T13:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
         }
       ]
     },
@@ -2140,6 +2185,11 @@
         {
           "scheduled_at": "2026-06-09T22:48:00+09:00",
           "registered_at": "2026-06-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-27T14:42:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -2322,8 +2372,18 @@
         {
           "scheduled_at": "2026-06-23T13:17:00+09:00",
           "registered_at": "2026-06-22",
-          "views": 5775,
+          "views": 5822,
           "posted_at": "2026-06-23T04:22:52.441+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-26T18:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T22:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
         }
       ]
     },
@@ -2540,6 +2600,215 @@
         {
           "scheduled_at": "2026-06-25T22:48:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bf8a1fe928": {
+      "text": "男が本気で溺愛する女性って、実は共通点がある。8割の男性が『この子は絶対に離したくない』と感じる瞬間があって、それはお金でもルックスでもないんです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-26T11:08:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T21:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_eb80d6c1ea": {
+      "text": "回避型の「もう無理」って本気の終わりじゃなくて、ただの『一時避難』。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-26T19:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1cece049a6": {
+      "text": "「既読無視された翌日」から、彼の溺愛が始まった子がいる。心理学でいう『逆転依存』って現象なんだよね。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-26T21:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dd4d75e264": {
+      "text": "「振った男ほど元カノに未練たらたらになる」っていうのはマジです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-26T22:48:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1a3c73166d": {
+      "text": "復縁できた子がよく言うのが「復縁したい側から動かないと、何も始まらない」ってこと。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T19:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dbcbb00dd7": {
+      "text": "復縁できた子が口を揃えて言うのは『動かないと何も始まらない』ってこと。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T19:52:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6a28a18a98": {
+      "text": "男は別れて1〜2ヶ月の懐古期に、ほぼ全員が一度は元カノのSNSを確認してる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T20:28:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c8c86671d4": {
+      "text": "男は新しい彼女ができても、別れた本命のことが半年〜1年は頭から消えない。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T21:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1022fccd99": {
+      "text": "復縁した彼に『私が連絡してなかったらどうしてた？』って聞いたら、想像してた答えと全然違った。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T22:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0354f9f55b": {
+      "text": "「友達からやり直そう」って言われて安心するの、めっちゃ危険。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T22:48:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6d28a3e560": {
+      "text": "別れた男のほとんどが、別れて2〜4週間目に『連絡したい』ピークが来る。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T11:08:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7ceaa4bfc8": {
+      "text": "溺愛される女性の特徴を分析してたら、ちょっと衝撃の事実が出てきた。見た目や性格は関係なく、たった1つの行動パターンで決まってた。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T13:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1710982a1b": {
+      "text": "男性は1度冷めても惚れ直すから、復縁を目指す女性は諦めなくていい。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T14:42:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9529080c19": {
+      "text": "溺愛される女性に共通してた行動パターンって、見た目や性格と一切関係なかった。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T18:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3324162405": {
+      "text": "男が別れを決めるとき「冷めた」より圧倒的に多いのが『愛が強くなりすぎた』だよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T19:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e5ece60260": {
+      "text": "「既読無視されたあの夜」から、彼の溺愛が一気に始まった子がいる。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T19:52:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_03e5d3a10c": {
+      "text": "8割の男性が『絶対に離したくない』と感じる瞬間には、共通点がある。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T20:28:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]

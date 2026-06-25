@@ -72,6 +72,11 @@
           "scheduled_at": "2026-06-24T20:28:00+09:00",
           "registered_at": "2026-06-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-27T13:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
         }
       ]
     },
@@ -151,6 +156,11 @@
           "scheduled_at": "2026-06-23T22:17:00+09:00",
           "registered_at": "2026-06-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-27T14:42:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
         }
       ]
     },
@@ -190,6 +200,11 @@
         {
           "scheduled_at": "2026-06-25T19:52:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T21:03:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -239,6 +254,11 @@
         {
           "scheduled_at": "2026-06-24T11:08:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-27T19:52:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -420,6 +440,11 @@
         {
           "scheduled_at": "2026-06-25T13:17:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-27T11:08:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -634,6 +659,16 @@
           "scheduled_at": "2026-06-24T19:17:00+09:00",
           "registered_at": "2026-06-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T11:08:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T11:08:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
         }
       ]
     },
@@ -662,6 +697,16 @@
         {
           "scheduled_at": "2026-06-25T18:03:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T14:42:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T14:42:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -795,6 +840,215 @@
         {
           "scheduled_at": "2026-06-25T22:17:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_66e6839e48": {
+      "text": "結論から言う。",
+      "structure_label": "短い宣言型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-26T13:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T13:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8b1acc52fd": {
+      "text": "元カレとの関係、一度ちゃんとリセットした方がいい場合がある。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-26T18:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_68028e2685": {
+      "text": "元カレと復縁したカップルを追跡してみたら、面白いことが分かった。",
+      "structure_label": "観察結果報告型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-26T19:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bab0e712e3": {
+      "text": "別れを伝えられた時の、男の本心を話す。",
+      "structure_label": "男性心理暴露宣言型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-26T19:52:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_449e420358": {
+      "text": "「気持ちがあるなら向こうから連絡くるはず」って思ってる人。気持ちがあっても、男って罪悪感とプライドで自分からは動けないんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-26T20:28:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c7c03f00b4": {
+      "text": "「彼の気持ちを動かさなきゃ復縁できない」って考えてる女性、220件のデータで全員復縁できてなかった。",
+      "structure_label": "常識否定型＋数字",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-26T22:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4c47d72ea1": {
+      "text": "復縁できた男に「自分から連絡するつもりあった？」って聞いたら「絶対なかった、プライドが邪魔して」って即答だった。",
+      "structure_label": "インタビュー型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T18:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3919725588": {
+      "text": "男の本音を言うと、追われてる間は復縁を1ミリも考えないんだよね。元彼たちに直接聞いたら、だいたい同じこと言ってた。「うざい、早く離れてほしい」って。追われてる間は、戻るって選択肢がそもそも頭に浮かばない。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T19:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9556ef9d4d": {
+      "text": "元カレに「もう連絡しないで」って言われても、3週間で関係が動いた相談者がいる。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T20:28:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ee405271c3": {
+      "text": "振った男が「戻りたい」って自覚するまでの日数、220件のデータで平均6週間だったんだよね。",
+      "structure_label": "数字暴露型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T21:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5030ff885d": {
+      "text": "元彼のLINEの既読をずっと待ってる人。男が返信しない理由、こっちが考えてるのと全然違うんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T22:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5950489b19": {
+      "text": "男って、追われてる間は復縁の「ふ」の字も頭にないんだよね。元彼たちに聞いたら全員同じこと言ってた。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T18:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_879027967c": {
+      "text": "復縁から1年続いてるカップル220組を調べたら、別れる前と変わってる共通点が1つだけあった。",
+      "structure_label": "観察結果報告型＋数字",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T19:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7750047739": {
+      "text": "「もう無理」「諦めて」って彼に言われた人ほど、最初の3週間の動きで半年後の結果が変わるんだよね。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T19:52:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9625d7ed6a": {
+      "text": "男の「もう連絡しないで」って言葉、嫌いになって出てきた言葉じゃないんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T20:28:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d08f5f3f3e": {
+      "text": "男は「一度本気で好きになった相手」と、ただの友達みたいな関係には戻れないんだよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T21:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dc0faab062": {
+      "text": "LINE送ろうか迷って画面消すのを何回も繰り返してる人。その迷いの正体、男側から見ると全然違うんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T22:17:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]

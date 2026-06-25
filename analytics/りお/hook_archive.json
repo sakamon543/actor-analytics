@@ -82,7 +82,8 @@
         {
           "scheduled_at": "2026-06-05T20:28:00+09:00",
           "registered_at": "2026-06-04",
-          "views": null
+          "views": 2,
+          "posted_at": "2026-06-24T04:21:31.212+00:00"
         },
         {
           "scheduled_at": "2026-06-06T13:17:00+09:00",
@@ -132,6 +133,16 @@
         {
           "scheduled_at": "2026-06-25T14:42:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T20:28:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T19:52:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -244,6 +255,16 @@
         {
           "scheduled_at": "2026-06-25T22:17:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T13:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T14:42:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -471,6 +492,16 @@
         {
           "scheduled_at": "2026-06-25T13:17:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T21:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T20:28:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -714,6 +745,21 @@
           "scheduled_at": "2026-06-25T21:03:00+09:00",
           "registered_at": "2026-06-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T11:08:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-27T11:08:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T11:08:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
         }
       ]
     },
@@ -740,6 +786,11 @@
         {
           "scheduled_at": "2026-06-18T22:17:00+09:00",
           "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-27T21:03:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -814,6 +865,16 @@
         {
           "scheduled_at": "2026-06-24T22:17:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T19:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-27T22:17:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -1131,6 +1192,22 @@
         {
           "scheduled_at": "2026-06-24T18:03:00+09:00",
           "registered_at": "2026-06-22",
+          "views": 1903,
+          "posted_at": "2026-06-24T09:05:59.628+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-26T18:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-27T14:42:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T18:03:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -1275,6 +1352,136 @@
         {
           "scheduled_at": "2026-06-25T20:28:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ed3d0f7bea": {
+      "text": "男の本音を言うと、断ってくれる女の方がずっと追いかけたくなる。",
+      "structure_label": "男性当事者本音型（B-3-a）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-26T14:42:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3108bade90": {
+      "text": "男は、「先回りしてくれる女性」を本気で追わない。",
+      "structure_label": "男性心理断言型（G-2-a）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-26T19:52:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T21:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7ad3d93ac0": {
+      "text": "「彼の態度がそっけない」って感じてる人の大半は、彼が冷めたんじゃなくて自分が尽くしすぎてるだけ。",
+      "structure_label": "反転帰属型（F-7-a派生）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-26T22:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d490fc64be": {
+      "text": "「合わせるほど大事にされる」はウソ。",
+      "structure_label": "常識破壊型（F-3-b）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T13:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T22:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f8c515b97d": {
+      "text": "男は、「LINEを5秒で返してくれる女性」と対等な関係を作れない。",
+      "structure_label": "男性心理断言型（G-2-a）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T18:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_262e2e8d6e": {
+      "text": "男は、「断らない女性」を本気で愛せない。",
+      "structure_label": "男性心理断言型（G-2-a）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T19:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c2f5f9832d": {
+      "text": "男は、「予定を合わせる＝愛されてる」とは思っていない。",
+      "structure_label": "男性心理断言型（G-1-a）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T19:52:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f50b0b65e0": {
+      "text": "「重い」って思われるのが怖くて何でも「いいよ」って言ってる人。それ、最も危険なサインだよ。",
+      "structure_label": "警告サイン型（F-7-a派生）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T20:28:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5074753b12": {
+      "text": "「即レスすれば気持ちが伝わる」はウソ。",
+      "structure_label": "常識破壊型（F-3-b）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T13:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1c2236e4da": {
+      "text": "「彼が誘ってくれない」って感じてる人の大半は、彼が興味ないんじゃなくて自分から先に動きすぎてるだけ。",
+      "structure_label": "反転帰属型（F-7-a派生）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T19:17:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]

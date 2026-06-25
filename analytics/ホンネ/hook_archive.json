@@ -45,6 +45,16 @@
           "scheduled_at": "2026-06-13T22:17:00+09:00",
           "registered_at": "2026-06-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T22:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T21:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
         }
       ]
     },
@@ -118,6 +128,16 @@
           "scheduled_at": "2026-06-25T22:17:00+09:00",
           "registered_at": "2026-06-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T19:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T22:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
         }
       ]
     },
@@ -180,6 +200,11 @@
         {
           "scheduled_at": "2026-06-23T21:03:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T19:52:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -368,6 +393,16 @@
           "scheduled_at": "2026-06-25T21:03:00+09:00",
           "registered_at": "2026-06-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T11:08:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T18:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
         }
       ]
     },
@@ -482,6 +517,16 @@
         {
           "scheduled_at": "2026-06-25T18:03:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-26T14:42:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T19:52:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -678,6 +723,11 @@
           "scheduled_at": "2026-06-24T11:08:00+09:00",
           "registered_at": "2026-06-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-27T20:28:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
         }
       ]
     },
@@ -694,6 +744,11 @@
         {
           "scheduled_at": "2026-06-25T11:08:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-27T19:17:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -723,6 +778,11 @@
         {
           "scheduled_at": "2026-06-24T18:03:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-28T13:17:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -758,6 +818,11 @@
         {
           "scheduled_at": "2026-06-24T20:28:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-27T13:17:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -868,6 +933,11 @@
           "registered_at": "2026-06-22",
           "views": 3353,
           "posted_at": "2026-06-23T10:56:01.284+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-26T21:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
         }
       ]
     },
@@ -916,6 +986,12 @@
         {
           "scheduled_at": "2026-06-24T19:52:00+09:00",
           "registered_at": "2026-06-22",
+          "views": 2057,
+          "posted_at": "2026-06-24T10:55:54.251+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-27T22:17:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
@@ -988,6 +1064,150 @@
         {
           "scheduled_at": "2026-06-25T20:28:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_46e52c95a3": {
+      "text": "意外かもだけど、男は『年上の女性に職場で淡々と接される』と意識し始める生き物。",
+      "structure_label": "常識破壊型（F-2-a）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-26T13:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6249277e50": {
+      "text": "男の返事が短いのは、年上女性に飽きたサインじゃない。",
+      "structure_label": "常識否定型（F-7-c）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-26T18:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_458aa20233": {
+      "text": "彼に「最近雰囲気変わった？」って言わせる構造、男目線で言うとシンプルなんだよね。",
+      "structure_label": "男性心理暴露型（G-3-a派生）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-26T20:28:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a410562274": {
+      "text": "意外かもだけど、男は『年上の女性に仕事の話だけで終わらせられる』と意識し始める生き物。",
+      "structure_label": "常識破壊型（F-2-a）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T11:08:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d94496435a": {
+      "text": "男の事務的な会話は、年上女性に興味ないサインじゃない。",
+      "structure_label": "常識否定型（F-7-a）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T14:42:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_503e59aad3": {
+      "text": "男が年上の女性を意識し始める時「外見」より圧倒的に多いのが『焦らなさ』なんだよね。",
+      "structure_label": "常識破壊型（F-4-a派生）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T18:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_83b33c4c26": {
+      "text": "彼に職場でアプローチされる30-40代女性が持ってる武器、男目線で言うと「動じなさ」なんだよね。",
+      "structure_label": "男性心理暴露型（D-2-a派生）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T19:52:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b0c3c44c07": {
+      "text": "意外かもだけど、男は『年上の女性に仕事終わりに先に帰られる』と意識し始める生き物。",
+      "structure_label": "常識破壊型（F-2-a）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-27T21:03:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6549a625eb": {
+      "text": "彼に「あれ、今日いないんだ」って思わせる構造、男目線で言うとシンプルなんだよね。",
+      "structure_label": "男性心理暴露型（G-3-a派生）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T11:08:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6cd7790bf5": {
+      "text": "男のよそよそしい態度は、年上女性に興味ないサインじゃない。",
+      "structure_label": "常識否定型（F-7-a）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T14:42:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fdd74b34f4": {
+      "text": "意外かもだけど、男は『年上の女性に雑談を引き伸ばされない』と意識し始める生き物。",
+      "structure_label": "常識破壊型（F-2-a）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T19:17:00+09:00",
+          "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_93c81d56f4": {
+      "text": "男って自分から避けてる相手でも「あの先輩、今日いないな」って気になってる生き物。",
+      "structure_label": "男性心理暴露型（G-3-a）",
+      "first_used_at": "2026-06-25",
+      "history": [
+        {
+          "scheduled_at": "2026-06-28T20:28:00+09:00",
+          "registered_at": "2026-06-25",
           "views": null
         }
       ]
