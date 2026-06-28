@@ -116,6 +116,11 @@
           "scheduled_at": "2026-06-28T20:28:00+09:00",
           "registered_at": "2026-06-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T11:08:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -472,6 +477,11 @@
           "scheduled_at": "2026-06-24T22:17:00+09:00",
           "registered_at": "2026-06-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-30T19:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -526,6 +536,11 @@
         {
           "scheduled_at": "2026-06-26T19:52:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T18:03:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -685,6 +700,11 @@
           "scheduled_at": "2026-06-26T19:17:00+09:00",
           "registered_at": "2026-06-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-01T11:08:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -771,6 +791,11 @@
         {
           "scheduled_at": "2026-06-17T14:42:00+09:00",
           "registered_at": "2026-06-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-01T22:17:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -1072,6 +1097,16 @@
           "scheduled_at": "2026-06-26T14:42:00+09:00",
           "registered_at": "2026-06-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T14:42:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-30T22:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -1135,6 +1170,11 @@
         {
           "scheduled_at": "2026-06-26T13:17:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T13:17:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -1202,6 +1242,11 @@
           "scheduled_at": "2026-06-27T19:52:00+09:00",
           "registered_at": "2026-06-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T21:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -1238,6 +1283,16 @@
           "scheduled_at": "2026-06-25T11:08:00+09:00",
           "registered_at": "2026-06-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T19:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-01T18:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -1267,7 +1322,8 @@
         {
           "scheduled_at": "2026-06-27T21:03:00+09:00",
           "registered_at": "2026-06-25",
-          "views": null
+          "views": 7,
+          "posted_at": "2026-06-25T05:45:31.836+00:00"
         }
       ]
     },
@@ -1339,6 +1395,12 @@
         {
           "scheduled_at": "2026-06-26T22:17:00+09:00",
           "registered_at": "2026-06-25",
+          "views": 2557,
+          "posted_at": "2026-06-26T13:22:25.126+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-30T11:08:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -1351,7 +1413,8 @@
         {
           "scheduled_at": "2026-06-27T11:08:00+09:00",
           "registered_at": "2026-06-25",
-          "views": null
+          "views": 2490,
+          "posted_at": "2026-06-25T02:10:52.091+00:00"
         }
       ]
     },
@@ -1436,6 +1499,11 @@
           "scheduled_at": "2026-06-28T11:08:00+09:00",
           "registered_at": "2026-06-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T20:28:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -1519,6 +1587,167 @@
         {
           "scheduled_at": "2026-06-28T22:17:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_22b25e1bee": {
+      "text": "LINEが既読のまま返ってこない時間で、彼の気持ちを測ってる人。",
+      "structure_label": "読者行動指名型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-29T19:52:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-01T19:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f92ede3f20": {
+      "text": "別れて1週間目の彼と、2ヶ月目の彼は、別人だと思った方がいい。",
+      "structure_label": "時系列対比型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-29T22:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_38647cf9f9": {
+      "text": "LINEの既読が付かない時間で、彼の気持ちを測ってる人。",
+      "structure_label": "読者行動指名型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T13:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4b92575b8e": {
+      "text": "別れて4日目の彼と、3ヶ月目の彼は、別人だと思った方がいい。",
+      "structure_label": "時系列対比型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T14:42:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0b0d38382e": {
+      "text": "男の別れ際の冷たさは、もう気持ちがない証拠じゃないよ。",
+      "structure_label": "常識否定・命題型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T18:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ad1812ba68": {
+      "text": "既読5時間で「冷められた」って毎日落ち込んでる人。",
+      "structure_label": "読者行動指名型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T19:52:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3d04611637": {
+      "text": "別れて7日目の彼と、3ヶ月後の彼は、別人だと思った方が動きやすいよ。",
+      "structure_label": "時系列対比型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T20:28:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_72d6a54234": {
+      "text": "「もう手遅れかも」って思い込んでる人、一回手を止めてほしい。",
+      "structure_label": "読者思い込み停止→反転希望型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T21:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_33fe90bd57": {
+      "text": "LINEの返信頻度で彼の気持ちを測ってる人。",
+      "structure_label": "読者行動指名型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T13:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a4148e301b": {
+      "text": "実は、振った側の男ほど時間が経つほど未練が強くなるんだよね。",
+      "structure_label": "常識破壊・男心理暴露型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T14:42:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_73b2de5866": {
+      "text": "別れて3週間目の彼と、3ヶ月後の彼は、別人だと思った方が動きやすいよ。",
+      "structure_label": "時系列対比型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T19:52:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_aacf327a49": {
+      "text": "男は『一度本気だった相手』と、簡単に「ただの過去」にはできないよ。",
+      "structure_label": "常識否定・命題型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T20:28:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0806ef0d14": {
+      "text": "別れて2日目の彼と、3ヶ月目の彼は、別人だと思った方がいい。",
+      "structure_label": "時系列対比型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T21:03:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]

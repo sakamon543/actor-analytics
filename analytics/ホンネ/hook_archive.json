@@ -55,6 +55,11 @@
           "scheduled_at": "2026-06-28T21:03:00+09:00",
           "registered_at": "2026-06-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T18:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -138,6 +143,11 @@
           "scheduled_at": "2026-06-28T22:17:00+09:00",
           "registered_at": "2026-06-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T13:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -205,6 +215,11 @@
         {
           "scheduled_at": "2026-06-26T19:52:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T19:17:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -403,6 +418,16 @@
           "scheduled_at": "2026-06-28T18:03:00+09:00",
           "registered_at": "2026-06-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T11:08:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-01T14:42:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -527,6 +552,16 @@
         {
           "scheduled_at": "2026-06-28T19:52:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T19:52:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-01T22:17:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -728,6 +763,11 @@
           "scheduled_at": "2026-06-27T20:28:00+09:00",
           "registered_at": "2026-06-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-30T19:52:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -749,6 +789,11 @@
         {
           "scheduled_at": "2026-06-27T19:17:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-30T18:03:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -783,6 +828,11 @@
         {
           "scheduled_at": "2026-06-28T13:17:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-30T21:03:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -823,6 +873,11 @@
         {
           "scheduled_at": "2026-06-27T13:17:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-30T14:42:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -937,6 +992,12 @@
         {
           "scheduled_at": "2026-06-26T21:03:00+09:00",
           "registered_at": "2026-06-25",
+          "views": 3371,
+          "posted_at": "2026-06-23T10:56:01.284+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-30T13:17:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -992,6 +1053,17 @@
         {
           "scheduled_at": "2026-06-27T22:17:00+09:00",
           "registered_at": "2026-06-25",
+          "views": 5276,
+          "posted_at": "2026-06-27T13:21:54.234+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-29T20:28:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-01T21:03:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -1064,6 +1136,11 @@
         {
           "scheduled_at": "2026-06-25T20:28:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T22:17:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -1148,7 +1225,8 @@
         {
           "scheduled_at": "2026-06-27T19:52:00+09:00",
           "registered_at": "2026-06-25",
-          "views": null
+          "views": 10,
+          "posted_at": "2026-06-27T10:56:22.678+00:00"
         }
       ]
     },
@@ -1208,6 +1286,150 @@
         {
           "scheduled_at": "2026-06-28T20:28:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c5ad88559d": {
+      "text": "男の素っ気ない態度は、年上女性に脈なしサインじゃない。",
+      "structure_label": "常識否定型（F-7-c）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-29T14:42:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ddc7818d48": {
+      "text": "男は、「毎日挨拶してくる年上の女性」を簡単に意識から外せない。",
+      "structure_label": "男性心理断言型（G-2-a）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-29T21:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1e388ebed3": {
+      "text": "意外かもだけど、男は『年上の女性にあえて踏み込まれない』と意識し始める生き物。",
+      "structure_label": "命題型（F-2-a）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T11:08:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_63fe0695b1": {
+      "text": "彼が既読つけない時、女性側が問い詰めLINE送ると、男目線では完全に逃がす動きになるんだよね。",
+      "structure_label": "男性心理暴露型（F-8-a派生）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T19:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6a2f19bdb8": {
+      "text": "男の短いLINEは、年上女性に飽きたサインじゃない。",
+      "structure_label": "常識否定型（F-7-c）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T20:28:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ac37884194": {
+      "text": "これあんまり言いたくないんだけど、裏で「あの年上の先輩、気になる」って言ってる男ってめっちゃいる。",
+      "structure_label": "男性当事者本音系（B-5-a）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T22:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9c2927d320": {
+      "text": "意外かもだけど、男は『年上の女性に淡々と距離を保たれる』と意識し始める生き物。",
+      "structure_label": "命題型（F-2-a）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T11:08:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cbb18d5335": {
+      "text": "彼に「あれ、今日休み？」って先に言わせる構造、男目線で言うとシンプルなんだよね。",
+      "structure_label": "男性心理暴露型（G-3-a派生）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T13:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6d247e9f0c": {
+      "text": "意外かもだけど、男は『年下から急に余裕を見せられる』と意識し始める生き物。",
+      "structure_label": "命題型（F-2-a）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T18:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_106953dc37": {
+      "text": "彼に職場でアプローチされる30-40代女性が使う最強の武器、男目線で言うと「動じなさ」なんだよね。",
+      "structure_label": "男性心理暴露型（B-3-a派生）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T19:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_be2cfaa888": {
+      "text": "男の業務連絡だけのLINEは、年上女性に飽きたサインじゃない。",
+      "structure_label": "常識否定型（F-7-c）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T19:52:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8bda94ba88": {
+      "text": "彼に職場でアプローチされたい30-40代の女性、若い後輩より圧倒的に有利なんだよね。",
+      "structure_label": "反転希望型（E-1-a派生）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T20:28:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]

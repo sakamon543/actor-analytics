@@ -60,6 +60,16 @@
           "scheduled_at": "2026-06-28T19:52:00+09:00",
           "registered_at": "2026-06-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-30T18:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-01T14:42:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -101,6 +111,11 @@
         {
           "scheduled_at": "2026-06-28T18:03:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-30T21:03:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -214,6 +229,11 @@
         {
           "scheduled_at": "2026-06-08T22:48:00+09:00",
           "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-01T21:03:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -524,6 +544,11 @@
           "scheduled_at": "2026-06-27T14:42:00+09:00",
           "registered_at": "2026-06-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T21:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -691,6 +716,16 @@
         {
           "scheduled_at": "2026-06-28T13:17:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T13:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-01T13:17:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -907,6 +942,16 @@
         {
           "scheduled_at": "2026-06-28T11:08:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T19:52:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-01T19:17:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -1129,6 +1174,16 @@
           "scheduled_at": "2026-06-27T22:17:00+09:00",
           "registered_at": "2026-06-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T11:08:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-30T11:08:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -1253,6 +1308,16 @@
         {
           "scheduled_at": "2026-06-27T19:17:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T14:42:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-30T14:42:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -1486,6 +1551,11 @@
           "scheduled_at": "2026-06-28T21:03:00+09:00",
           "registered_at": "2026-06-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-30T19:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -1581,6 +1651,162 @@
         {
           "scheduled_at": "2026-06-28T22:17:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_805b99be89": {
+      "text": "意外かもだけど、男は『LINEを即返してくれる女』にはむしろ追う気が湧かない生き物。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-29T18:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_25f998ee38": {
+      "text": "彼の好きな音楽も映画も全部「私も好き」って合わせてる女。",
+      "structure_label": "観察指摘型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-29T19:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e1f944d291": {
+      "text": "男は、「合わせてくれる女＝大事にしたい女」とは思っていない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-29T20:28:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1b6c9c229d": {
+      "text": "「彼のために我慢する」「彼の機嫌を取る」をやればやるほど、彼の気持ちは離れていく。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-29T22:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_50d3c47e89": {
+      "text": "男の本音を言うと、こっちのペースに全部合わせてくれる女は「追わなくても残る人」に勝手に分類してる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T13:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cb1d3c251b": {
+      "text": "男は『何しても許してくれる女』を本能で大事にできない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T19:52:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f4afff1cdf": {
+      "text": "男の本音を言うと、追わなくても会えてる女に本気にはなれない。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T20:28:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b5278539ae": {
+      "text": "尽くしてるのに彼が遠ざかるのは、あなたの愛情が足りないからじゃない。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T22:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8f5cfbf3b6": {
+      "text": "男の脳は『勝ち取った相手ほど価値がある』って配線になってる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T11:08:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_92751cdc35": {
+      "text": "彼が「いつ空いてる？」って聞いた瞬間、全部の予定をズラして合わせてる女。",
+      "structure_label": "観察指摘型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T18:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ec501de57a": {
+      "text": "男の脳は『手間とコストをかけた相手ほど価値がある』って配線になってる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T19:52:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5b84049fef": {
+      "text": "意外かもだけど、男は『何でも先回りしてくれる女』にはむしろ興味を失う生き物。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T20:28:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5cd6b3f4ba": {
+      "text": "「おけ」「了解」の2文字なのに、こっちは毎回ハート付きの長文で返してる女。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T22:17:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]

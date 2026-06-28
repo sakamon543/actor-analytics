@@ -77,6 +77,11 @@
           "scheduled_at": "2026-06-27T13:17:00+09:00",
           "registered_at": "2026-06-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T19:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -161,6 +166,11 @@
           "scheduled_at": "2026-06-27T14:42:00+09:00",
           "registered_at": "2026-06-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-30T19:52:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -205,6 +215,11 @@
         {
           "scheduled_at": "2026-06-26T21:03:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T18:03:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -259,6 +274,11 @@
         {
           "scheduled_at": "2026-06-27T19:52:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T22:17:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -446,6 +466,11 @@
           "scheduled_at": "2026-06-27T11:08:00+09:00",
           "registered_at": "2026-06-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T21:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -520,6 +545,11 @@
         {
           "scheduled_at": "2026-06-25T21:03:00+09:00",
           "registered_at": "2026-06-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T13:17:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -658,7 +688,8 @@
         {
           "scheduled_at": "2026-06-24T19:17:00+09:00",
           "registered_at": "2026-06-22",
-          "views": null
+          "views": 12,
+          "posted_at": "2026-06-24T10:20:10.611+00:00"
         },
         {
           "scheduled_at": "2026-06-26T11:08:00+09:00",
@@ -668,6 +699,11 @@
         {
           "scheduled_at": "2026-06-28T11:08:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T11:08:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -680,6 +716,12 @@
         {
           "scheduled_at": "2026-06-23T18:03:00+09:00",
           "registered_at": "2026-06-22",
+          "views": 1283,
+          "posted_at": "2026-06-23T09:05:09.282+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-30T18:03:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -707,6 +749,16 @@
         {
           "scheduled_at": "2026-06-28T14:42:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T14:42:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-01T18:03:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -767,7 +819,7 @@
         {
           "scheduled_at": "2026-06-24T19:52:00+09:00",
           "registered_at": "2026-06-22",
-          "views": 4,
+          "views": 7,
           "posted_at": "2026-06-24T10:55:09.596+00:00"
         }
       ]
@@ -858,6 +910,11 @@
           "scheduled_at": "2026-06-28T13:17:00+09:00",
           "registered_at": "2026-06-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-30T13:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -869,6 +926,12 @@
         {
           "scheduled_at": "2026-06-26T18:03:00+09:00",
           "registered_at": "2026-06-25",
+          "views": 5446,
+          "posted_at": "2026-06-21T11:31:27.434+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-30T11:08:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -881,6 +944,17 @@
         {
           "scheduled_at": "2026-06-26T19:17:00+09:00",
           "registered_at": "2026-06-25",
+          "views": 1324,
+          "posted_at": "2026-06-26T10:21:51.354+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-29T19:52:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-01T22:17:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -893,6 +967,11 @@
         {
           "scheduled_at": "2026-06-26T19:52:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T20:28:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -1049,6 +1128,150 @@
         {
           "scheduled_at": "2026-06-28T22:17:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9c0ac5f075": {
+      "text": "別れを切り出された時の、男のリアルな本心、ちゃんと話していい？",
+      "structure_label": "男性心理暴露型（許可型オープナー）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T14:42:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0234d919fa": {
+      "text": "「完全に冷めた」って言われた絶望から、3週間で復縁した相談者がいるんだよね。",
+      "structure_label": "反転希望型（絶望→希望）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T19:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_96c94b5431": {
+      "text": "復縁した男に「LINEしなかったら戻ってきた？」って聞いたら、「絶対動かなかった」って即答だった。",
+      "structure_label": "インタビュー対話引用型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T20:28:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0f76021824": {
+      "text": "「向こうから連絡くるはず」って信じて待ってる子。男は戻りたくても自分からは動けないんだよね。",
+      "structure_label": "読者直接呼びかけ＋反転命題型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T21:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_788dcbbc8c": {
+      "text": "「彼を変えれば復縁できる」って常識、220件のデータで真逆だったんだよね。",
+      "structure_label": "常識反転型＋データ権威",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T22:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c8835c4a15": {
+      "text": "男の本音を言うと、追われてる側は「うざい、早く離れて」しか考えてないんだよね。",
+      "structure_label": "男性心理暴露型＋具体セリフ",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T11:08:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_040c86ff3f": {
+      "text": "「もう連絡来ない」って怯えてる子。振った男が「戻りたい」って動くまでの平均は55日だよ。",
+      "structure_label": "反転希望型＋数字データ",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T13:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fad30b3071": {
+      "text": "復縁失敗した相談者の多くが、最初の3週間で1つの行動を選んでた。",
+      "structure_label": "失敗警告teaser型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T14:42:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2456057051": {
+      "text": "振った男が「戻りたい」って決意するまでの平均、220件で55日だったんだよね。",
+      "structure_label": "数字データ断言型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T19:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_46791de37f": {
+      "text": "元彼たちに直接聞いてきたけど、別れた後に共通して頭に浮かぶ言葉が1つあるんだよね。",
+      "structure_label": "経験者の暴露型＋発見teaser",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T19:52:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ffde133ddf": {
+      "text": "結論から伝える。復縁の正解は『3週間動かない』、これだけ。",
+      "structure_label": "短文断言＋商品コア",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T20:28:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fdd76fcc70": {
+      "text": "「もう戻ってこない」って絶望してる子。復縁した男たちに聞いたら全員『連絡なかったら動かなかった』だった。",
+      "structure_label": "反転希望型＋対話引用",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T21:03:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]

@@ -144,6 +144,16 @@
           "scheduled_at": "2026-06-28T19:52:00+09:00",
           "registered_at": "2026-06-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T19:52:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-01T14:42:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -265,6 +275,16 @@
         {
           "scheduled_at": "2026-06-28T14:42:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T18:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-30T19:52:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -502,6 +522,16 @@
         {
           "scheduled_at": "2026-06-28T20:28:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T22:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-01T20:28:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -760,6 +790,16 @@
           "scheduled_at": "2026-06-28T11:08:00+09:00",
           "registered_at": "2026-06-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T20:28:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-01T11:08:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -791,6 +831,11 @@
         {
           "scheduled_at": "2026-06-27T21:03:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-30T22:17:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -875,6 +920,11 @@
         {
           "scheduled_at": "2026-06-27T22:17:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-30T14:42:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -1198,7 +1248,8 @@
         {
           "scheduled_at": "2026-06-26T18:03:00+09:00",
           "registered_at": "2026-06-25",
-          "views": null
+          "views": 1913,
+          "posted_at": "2026-06-24T09:05:59.628+00:00"
         },
         {
           "scheduled_at": "2026-06-27T14:42:00+09:00",
@@ -1208,6 +1259,16 @@
         {
           "scheduled_at": "2026-06-28T18:03:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T14:42:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-30T19:17:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -1376,11 +1437,27 @@
         {
           "scheduled_at": "2026-06-26T19:52:00+09:00",
           "registered_at": "2026-06-25",
-          "views": null
+          "views": 2354,
+          "posted_at": "2026-06-26T10:55:55.287+00:00"
         },
         {
           "scheduled_at": "2026-06-28T21:03:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T11:08:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-30T11:08:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-01T19:17:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -1482,6 +1559,150 @@
         {
           "scheduled_at": "2026-06-28T19:17:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b32068d1ea": {
+      "text": "男は、「即レスする女性」を本気で追えない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-29T13:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_55ba13b5c7": {
+      "text": "男は、「サプライズしてくれる女性」を本気で大事にできない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-29T19:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9cee3f5cbb": {
+      "text": "「彼の反応が薄い」って感じてる人の大半は、彼が変わったんじゃなくて自分が頑張りすぎてるだけ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-29T21:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_37d4f26608": {
+      "text": "男は、「気を遣いすぎる女性」を本気で愛せない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T13:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7e750d6a3f": {
+      "text": "男は、「全部察してくれる女性」を本気で追えない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T18:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_183601c5cc": {
+      "text": "男の素っ気なさは、嫌いになった証拠じゃない。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T20:28:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a401043539": {
+      "text": "男は、「お弁当まで作ってくれる女性」を本気で追えない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T21:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_63048dd430": {
+      "text": "男は、「何でも『いいよ』って言ってくれる女性」と本気の関係を作れない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T13:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_12ab194ba4": {
+      "text": "実は、男は「いつでも手に入る女」を本気で追えない。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T18:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_42e6b4d44b": {
+      "text": "「彼の優しさが減った」って感じてる人の大半は、彼が変わったんじゃなくて、あなたが「いて当たり前」になってるだけ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T19:52:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_719e66399f": {
+      "text": "男は、「献身的に支えてくれる女性」を本気で追えない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T21:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5db084a5b8": {
+      "text": "男は、「文句一つ言わない女性」を本気で愛せない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T22:17:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]

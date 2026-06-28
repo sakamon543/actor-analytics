@@ -698,6 +698,11 @@
           "scheduled_at": "2026-06-28T18:03:00+09:00",
           "registered_at": "2026-06-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T18:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -898,6 +903,11 @@
           "scheduled_at": "2026-06-07T13:17:00+09:00",
           "registered_at": "2026-06-05",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T13:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -916,6 +926,11 @@
           "scheduled_at": "2026-06-07T14:42:00+09:00",
           "registered_at": "2026-06-05",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T21:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -932,6 +947,11 @@
         {
           "scheduled_at": "2026-06-07T19:17:00+09:00",
           "registered_at": "2026-06-05",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T22:48:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -973,6 +993,11 @@
         {
           "scheduled_at": "2026-06-07T18:03:00+09:00",
           "registered_at": "2026-06-05",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-01T22:48:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -1667,6 +1692,11 @@
           "scheduled_at": "2026-06-26T19:17:00+09:00",
           "registered_at": "2026-06-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T20:28:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
         }
       ]
     },
@@ -1683,6 +1713,16 @@
         {
           "scheduled_at": "2026-06-26T13:17:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-29T14:42:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-01T21:03:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -1718,7 +1758,8 @@
         {
           "scheduled_at": "2026-06-26T19:52:00+09:00",
           "registered_at": "2026-06-25",
-          "views": null
+          "views": 10036,
+          "posted_at": "2026-06-24T11:30:57.302+00:00"
         }
       ]
     },
@@ -1778,7 +1819,7 @@
         {
           "scheduled_at": "2026-06-25T13:17:00+09:00",
           "registered_at": "2026-06-22",
-          "views": 10,
+          "views": 34,
           "posted_at": "2026-06-25T04:20:16.504+00:00"
         }
       ]
@@ -1887,6 +1928,17 @@
         {
           "scheduled_at": "2026-06-26T14:42:00+09:00",
           "registered_at": "2026-06-25",
+          "views": 9090,
+          "posted_at": "2026-06-21T12:07:30.163+00:00"
+        },
+        {
+          "scheduled_at": "2026-06-29T19:52:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-01T19:17:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
@@ -1947,7 +1999,8 @@
         {
           "scheduled_at": "2026-06-27T20:28:00+09:00",
           "registered_at": "2026-06-25",
-          "views": null
+          "views": 19,
+          "posted_at": "2026-06-27T11:30:24.982+00:00"
         }
       ]
     },
@@ -2067,6 +2120,232 @@
         {
           "scheduled_at": "2026-06-28T22:48:00+09:00",
           "registered_at": "2026-06-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_967b7d4325": {
+      "text": "男はね、『連絡続いてる＝関係進んでる』とは思ってないのよ。",
+      "structure_label": "男性心理暴露型（命題否定）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-29T11:08:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-06-30T14:42:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-01T11:08:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_feb38a9aad": {
+      "text": "男はね、『毎日返事が来てる＝気持ち続いてる』とは思ってないのよ。",
+      "structure_label": "男性心理暴露型（命題否定）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-29T19:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_69e9466687": {
+      "text": "復縁できた子と話してて気づいたけど『男は本当に好きなら手放さない』はウソだよ。",
+      "structure_label": "常識否定型（F-3-b系・俗説否定）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-29T22:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b06b245229": {
+      "text": "「駆け引きが上手い子がモテる」って言うけど、それ違うのよ。",
+      "structure_label": "常識否定型（F-3-c系）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T11:08:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_65970d7195": {
+      "text": "回避型ほど未練たらたらで引きずる男はいないよ。",
+      "structure_label": "命題型（G-5系）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T13:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b56e114f0d": {
+      "text": "回避型の男って『冷めた』から離れるんじゃないのよ、『好きすぎて』動けなくなるだけ。",
+      "structure_label": "常識否定型（F-8系）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T18:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_64153ca7da": {
+      "text": "振った側の男ほど、元カノを引きずるのよ。",
+      "structure_label": "命題型（G-5系）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T19:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_117822f591": {
+      "text": "回避型と話して分かったのは、彼らが手放さない女には3つ共通点があるってこと。",
+      "structure_label": "経験者の暴露系（A-4系）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T19:52:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f5748680fc": {
+      "text": "『男は気持ちが冷めたら一気に離れる』はウソよ。回避型こそ、好きだからこそ離れる。",
+      "structure_label": "常識否定型（F-3-b系）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T20:28:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6da4e98d07": {
+      "text": "男はね、『LINEの頻度＝愛情の濃さ』とは思ってないのよ。",
+      "structure_label": "男性心理暴露型（命題否定）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T21:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9b78887c14": {
+      "text": "回避型の男ほど、別れて時間が経つほど後悔が深くなるよ。",
+      "structure_label": "反転希望型（E-1系）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T22:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_247fe53444": {
+      "text": "『友達からやり直すのが安全』はウソよ。回避型はそのルートで完全に消える。",
+      "structure_label": "常識否定型（F-3-a系）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-06-30T22:48:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_19329f310f": {
+      "text": "男が別れた直後に新しい彼女作るのって、元カノを忘れたサインじゃなくて『他の女で上書きしてる』証拠なのよ。",
+      "structure_label": "反転希望型（F-4系）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T13:17:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3fefe132ad": {
+      "text": "男はね、『好きだった相手』と簡単に友達には戻れない生き物なのよ。",
+      "structure_label": "男性心理暴露型（G-2系）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T14:42:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_97c6f0c553": {
+      "text": "復縁して分かったのよ、『未練が残るのは男』って話、ほんとに本当だった。",
+      "structure_label": "経験者の暴露系（A-3系）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T18:03:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9183268562": {
+      "text": "意外かもだけど、男にとって元カノって別れてもタイプど真ん中のままなのよ。",
+      "structure_label": "常識否定型（F-2-c系）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T19:52:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0e15f0838b": {
+      "text": "回避型って音信不通でも諦めなくていいよ。3ヶ月後に『あの判断、間違ってたかも』って必ず自問が始まるから。",
+      "structure_label": "反転希望型（E-1系）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T20:28:00+09:00",
+          "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_03a76e640c": {
+      "text": "男の本音を言うと、追われてる間は復縁を1ミリも考えないのよ。",
+      "structure_label": "男性心理暴露型（B-3系）",
+      "first_used_at": "2026-06-28",
+      "history": [
+        {
+          "scheduled_at": "2026-07-01T22:17:00+09:00",
+          "registered_at": "2026-06-28",
           "views": null
         }
       ]
