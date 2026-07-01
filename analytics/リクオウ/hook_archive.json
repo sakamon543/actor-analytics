@@ -70,6 +70,16 @@
           "scheduled_at": "2026-07-01T14:42:00+09:00",
           "registered_at": "2026-06-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-03T19:17:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-04T13:17:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
         }
       ]
     },
@@ -549,6 +559,11 @@
           "scheduled_at": "2026-06-29T21:03:00+09:00",
           "registered_at": "2026-06-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-02T22:17:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
         }
       ]
     },
@@ -726,6 +741,16 @@
         {
           "scheduled_at": "2026-07-01T13:17:00+09:00",
           "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-03T14:42:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-04T20:28:00+09:00",
+          "registered_at": "2026-07-01",
           "views": null
         }
       ]
@@ -952,6 +977,16 @@
         {
           "scheduled_at": "2026-07-01T19:17:00+09:00",
           "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-02T19:52:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-04T22:17:00+09:00",
+          "registered_at": "2026-07-01",
           "views": null
         }
       ]
@@ -1184,6 +1219,16 @@
           "scheduled_at": "2026-06-30T11:08:00+09:00",
           "registered_at": "2026-06-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-03T11:08:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-04T19:17:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
         }
       ]
     },
@@ -1318,6 +1363,11 @@
         {
           "scheduled_at": "2026-06-30T14:42:00+09:00",
           "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-02T19:17:00+09:00",
+          "registered_at": "2026-07-01",
           "views": null
         }
       ]
@@ -1556,6 +1606,16 @@
           "scheduled_at": "2026-06-30T19:17:00+09:00",
           "registered_at": "2026-06-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-02T14:42:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-04T14:42:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
         }
       ]
     },
@@ -1700,6 +1760,16 @@
           "scheduled_at": "2026-06-29T22:17:00+09:00",
           "registered_at": "2026-06-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-02T11:08:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-04T11:08:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
         }
       ]
     },
@@ -1760,6 +1830,11 @@
           "scheduled_at": "2026-07-01T11:08:00+09:00",
           "registered_at": "2026-06-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-03T20:28:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
         }
       ]
     },
@@ -1807,6 +1882,150 @@
         {
           "scheduled_at": "2026-07-01T22:17:00+09:00",
           "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e7ee66c03e": {
+      "text": "意外かもだけど、男は『即レスしてくれる女』にはむしろ追いかける気が無くなる生き物。",
+      "structure_label": "常識破壊型",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-02T13:17:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9adc43abee": {
+      "text": "男の本音を言うと、悩みを全部聞いてくれる女は「便利な相談相手」に勝手に分類してる。",
+      "structure_label": "男本音暴露型",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-02T18:03:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7fdab4b981": {
+      "text": "男は、「即レス＝俺のこと好きな証拠」とは思っていない。",
+      "structure_label": "男心理断言型",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-02T20:28:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_662707b3fb": {
+      "text": "男の脳は『追いかけた相手ほど手放せない』って配線になってる。",
+      "structure_label": "メカニズム断言型",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-02T21:03:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_88eb2eb1d1": {
+      "text": "男は『雑に扱っても消えない女』を本能で大事にできない。",
+      "structure_label": "男心理断言型",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-03T13:17:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f87016ad38": {
+      "text": "デートで彼の趣味の話に全部「詳しく教えて」って合わせてる女。",
+      "structure_label": "読者行動指摘型",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-03T18:03:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d2129f73f8": {
+      "text": "男は『機嫌を先読みして動く女』を、大切な存在として認識できない。",
+      "structure_label": "男心理断言型",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-03T19:52:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ff9b3035e6": {
+      "text": "男の「疲れてる」は、あなたに冷めた証拠じゃない。",
+      "structure_label": "常識否定希望型",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-03T21:03:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_24e675eaee": {
+      "text": "「彼のために服装を変える」「彼の好きな料理を覚える」をやればやるほど、彼の気持ちは離れていく。",
+      "structure_label": "逆転指摘型",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-03T22:17:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e52b886dee": {
+      "text": "断言するけど、頑張って気を使ってくれる女ほど男は早く飽きる。",
+      "structure_label": "男本音断言型",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-04T18:03:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6e11c15f09": {
+      "text": "彼のスケジュールに全部合わせて自分の予定を後回しにしてる女。",
+      "structure_label": "読者行動指摘型",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-04T19:52:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a06504bb81": {
+      "text": "男は、「尽くしてくれる女＝離れない女」とは思っていない。",
+      "structure_label": "男心理断言型",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-04T21:03:00+09:00",
+          "registered_at": "2026-07-01",
           "views": null
         }
       ]

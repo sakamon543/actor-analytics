@@ -49,6 +49,16 @@
           "scheduled_at": "2026-07-01T21:03:00+09:00",
           "registered_at": "2026-06-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-02T14:42:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-04T11:08:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
         }
       ]
     },
@@ -93,6 +103,16 @@
         {
           "scheduled_at": "2026-06-29T20:28:00+09:00",
           "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-02T19:52:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-04T14:42:00+09:00",
+          "registered_at": "2026-07-01",
           "views": null
         }
       ]
@@ -173,6 +193,11 @@
         {
           "scheduled_at": "2026-06-29T21:03:00+09:00",
           "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-02T22:17:00+09:00",
+          "registered_at": "2026-07-01",
           "views": null
         }
       ]
@@ -981,6 +1006,11 @@
           "scheduled_at": "2026-06-02T21:03:00+09:00",
           "registered_at": "2026-05-30",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-03T14:42:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
         }
       ]
     },
@@ -1026,6 +1056,11 @@
         {
           "scheduled_at": "2026-06-30T20:28:00+09:00",
           "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-03T11:08:00+09:00",
+          "registered_at": "2026-07-01",
           "views": null
         }
       ]
@@ -2164,7 +2199,8 @@
         {
           "scheduled_at": "2026-06-23T21:03:00+09:00",
           "registered_at": "2026-06-22",
-          "views": null
+          "views": 23,
+          "posted_at": "2026-06-27T04:20:34.687+00:00"
         },
         {
           "scheduled_at": "2026-06-27T13:17:00+09:00",
@@ -2666,7 +2702,8 @@
         {
           "scheduled_at": "2026-06-28T21:03:00+09:00",
           "registered_at": "2026-06-25",
-          "views": null
+          "views": 23347,
+          "posted_at": "2026-06-28T12:06:04.301+00:00"
         },
         {
           "scheduled_at": "2026-06-29T11:08:00+09:00",
@@ -2676,6 +2713,21 @@
         {
           "scheduled_at": "2026-07-01T11:08:00+09:00",
           "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-02T11:08:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-03T20:28:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-04T13:17:00+09:00",
+          "registered_at": "2026-07-01",
           "views": null
         }
       ]
@@ -2706,6 +2758,11 @@
           "scheduled_at": "2026-06-29T14:42:00+09:00",
           "registered_at": "2026-06-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-02T18:03:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
         }
       ]
     },
@@ -2734,6 +2791,16 @@
         {
           "scheduled_at": "2026-06-29T18:03:00+09:00",
           "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-02T19:17:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-04T18:03:00+09:00",
+          "registered_at": "2026-07-01",
           "views": null
         }
       ]
@@ -2823,6 +2890,11 @@
         {
           "scheduled_at": "2026-06-29T22:48:00+09:00",
           "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-03T19:17:00+09:00",
+          "registered_at": "2026-07-01",
           "views": null
         }
       ]
@@ -3075,6 +3147,198 @@
         {
           "scheduled_at": "2026-07-01T22:48:00+09:00",
           "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d8e5d970e5": {
+      "text": "別れた男の半数以上は、別れて2〜4週間で『連絡したい』が一度はピークに来てる。でも自分から連絡することは絶対にない。つまり、今のあなたが軽い一手を入れさえすれば、向こうから戻ってきやすい時期に当たってる。動かないと、その波は一回で消える。",
+      "structure_label": "数字暴露型＋タイミング解説型",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-02T13:17:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_36d4b58def": {
+      "text": "別れた男の6割以上は、別れて2〜4週間の間に『元カノに連絡したい』瞬間が必ず来る。でも自分から動くことはほぼない。",
+      "structure_label": "数字暴露型（短縮版）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-02T20:28:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_75c9f6e8a9": {
+      "text": "男が本気で手放したくない女性には、実は共通点がある。9割の男性が『この子だけは他と違う』と感じる瞬間があって、それは見た目でも性格でもないんです。",
+      "structure_label": "数字暴露型（バリエーション）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-02T21:03:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_26235d559b": {
+      "text": "意外かもだけど、男は『本気で好きだった相手ほど別れ際に冷たくする』生き物",
+      "structure_label": "常識破壊型（F-2-a派生）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-02T22:48:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9ae0f6bfa5": {
+      "text": "男は別れて1〜2ヶ月後の懐古期に、ほぼ全員が一度は元カノのSNSを見に来る。そこで感じたものが、戻りたいかどうかの分岐点になる。",
+      "structure_label": "数字暴露型（短縮版）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-03T13:17:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7a076812e8": {
+      "text": "復縁した彼に「あの沈黙期間、本音はどうだった？」って聞いてみた。",
+      "structure_label": "セリフ引用型（バリエーション）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-03T18:03:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_575693b542": {
+      "text": "「既読無視された数日後」から、元彼が急に動き出した子がいる。心理学でいう『喪失感の逆転』って現象なんだよね。",
+      "structure_label": "落差ストーリー型（バリエーション）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-03T19:52:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5577f010c0": {
+      "text": "「時間を置けば自然に戻れる」って常識、嘘です。",
+      "structure_label": "常識否定型（超短）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-03T21:03:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_db16f810a1": {
+      "text": "男は次の彼女ができても、別れた本命を半年〜1年は忘れられない。楽しそうに見えて、内心はずっと比較してる。",
+      "structure_label": "男性心理暴露型（短縮版）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-03T22:17:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8c2a759f86": {
+      "text": "男は、「別れる＝気持ちがなくなった」とは思っていない",
+      "structure_label": "男性心理断言型（G-1-a派生）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-03T22:48:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c296e2a7c1": {
+      "text": "復縁できた女性が口を揃えて言うのは「振られた側から先に動いた」ってこと。",
+      "structure_label": "経験談型（バリエーション）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-04T19:17:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c836ee513d": {
+      "text": "溺愛される女性を分析してたら、意外な事実が出てきた。見た目でも性格でもなく、たった1つの共通点で決まってた。",
+      "structure_label": "ミステリー導入型（バリエーション）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-04T19:52:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9b281f2396": {
+      "text": "復縁して分かったんだけど、「振った男ほど後悔する」って話は本当",
+      "structure_label": "経験断言型（A-3-a派生）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-04T20:28:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_31f7a64255": {
+      "text": "男の本音を言うと、追いLINEが止まった瞬間から急に元カノが気になり始める",
+      "structure_label": "男の本音型（B-3-a派生）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-04T21:03:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_135c7ff9fb": {
+      "text": "回避型の「もう無理」は本気の別れじゃなくて、ただの『パニック反応』",
+      "structure_label": "ラベル貼り再定義型（バリエーション）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-04T22:17:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_93d9144dde": {
+      "text": "男が別れを決めるとき「他に好きな人ができた」より圧倒的に多いのが『このままだと相手を傷つける』",
+      "structure_label": "常識破壊型（F-4-a派生）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-04T22:48:00+09:00",
+          "registered_at": "2026-07-01",
           "views": null
         }
       ]

@@ -154,6 +154,16 @@
           "scheduled_at": "2026-07-01T14:42:00+09:00",
           "registered_at": "2026-06-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-02T22:17:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-04T21:03:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
         }
       ]
     },
@@ -285,6 +295,16 @@
         {
           "scheduled_at": "2026-06-30T19:52:00+09:00",
           "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-02T14:42:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-03T21:03:00+09:00",
+          "registered_at": "2026-07-01",
           "views": null
         }
       ]
@@ -465,6 +485,11 @@
           "scheduled_at": "2026-06-23T20:28:00+09:00",
           "registered_at": "2026-06-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-04T14:42:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
         }
       ]
     },
@@ -532,6 +557,16 @@
         {
           "scheduled_at": "2026-07-01T20:28:00+09:00",
           "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-03T13:17:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-04T18:03:00+09:00",
+          "registered_at": "2026-07-01",
           "views": null
         }
       ]
@@ -800,6 +835,16 @@
           "scheduled_at": "2026-07-01T11:08:00+09:00",
           "registered_at": "2026-06-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-02T21:03:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-04T11:08:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
         }
       ]
     },
@@ -925,6 +970,16 @@
         {
           "scheduled_at": "2026-06-30T14:42:00+09:00",
           "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-02T18:03:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-04T19:52:00+09:00",
+          "registered_at": "2026-07-01",
           "views": null
         }
       ]
@@ -1270,6 +1325,16 @@
           "scheduled_at": "2026-06-30T19:17:00+09:00",
           "registered_at": "2026-06-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-02T19:52:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-03T19:52:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
         }
       ]
     },
@@ -1443,7 +1508,8 @@
         {
           "scheduled_at": "2026-06-28T21:03:00+09:00",
           "registered_at": "2026-06-25",
-          "views": null
+          "views": 2356,
+          "posted_at": "2026-06-26T10:55:55.287+00:00"
         },
         {
           "scheduled_at": "2026-06-29T11:08:00+09:00",
@@ -1458,6 +1524,16 @@
         {
           "scheduled_at": "2026-07-01T19:17:00+09:00",
           "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-02T11:08:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-03T18:03:00+09:00",
+          "registered_at": "2026-07-01",
           "views": null
         }
       ]
@@ -1703,6 +1779,150 @@
         {
           "scheduled_at": "2026-07-01T22:17:00+09:00",
           "registered_at": "2026-06-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_11646ae7a6": {
+      "text": "男は、「察して動いてくれる女性」を本気で追わない。",
+      "structure_label": "命題型（男は…できない断言）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-02T13:17:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_203f867e28": {
+      "text": "「かわいい妹みたい」って笑って言われたことない？それ、女として見られてないサインだよ。",
+      "structure_label": "警告型（日常セリフ→危険サイン）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-02T19:17:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9a40304e10": {
+      "text": "男は、「LINE即レスしてくれる女性」を追う気にならない。",
+      "structure_label": "命題型（男は…できない断言）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-02T20:28:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_892a00266f": {
+      "text": "「彼のLINEが素っ気ない」って感じてる人の大半は、彼が変わったんじゃなくて自分の期待値が上がってるだけ。",
+      "structure_label": "常識否定型（対比構造）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-03T11:08:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0a2d4d77e5": {
+      "text": "「彼のお世話係」になってる人、たぶんもう恋人枠から外されてるよ。",
+      "structure_label": "警告型（読者ラベル→現状告知）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-03T14:42:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6db4bec9c9": {
+      "text": "意外かもだけど、男は『尽くしすぎる女性』を女として見られなくなる生き物。",
+      "structure_label": "常識破壊型（生き物断言）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-03T19:17:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e14f5b738e": {
+      "text": "「頑張るほど愛される」はウソ。",
+      "structure_label": "常識否定型（超短俗説否定）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-03T20:28:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_71bb928b48": {
+      "text": "男は、「全部やってくれる女性」を大事にできない。",
+      "structure_label": "命題型（男は…できない断言）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-03T22:17:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_abd6a88e68": {
+      "text": "「気遣うほど愛される」はウソ。",
+      "structure_label": "常識否定型（超短俗説否定）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-04T13:17:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ba6c0a6a08": {
+      "text": "男の本音を言うと、尽くしてくれる間は本気にならない。",
+      "structure_label": "男性本音暴露型",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-04T19:17:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_edca8607fc": {
+      "text": "男は、「察して欲しがってる女性」を本気で選ばない。",
+      "structure_label": "命題型（男は…できない断言）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-04T20:28:00+09:00",
+          "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7c9f508456": {
+      "text": "「私ばっかり頑張ってる」って感じてる人の大半は、彼が薄情なんじゃなくて自分が頑張りすぎてるだけ。",
+      "structure_label": "常識否定型（対比構造）",
+      "first_used_at": "2026-07-01",
+      "history": [
+        {
+          "scheduled_at": "2026-07-04T22:17:00+09:00",
+          "registered_at": "2026-07-01",
           "views": null
         }
       ]
