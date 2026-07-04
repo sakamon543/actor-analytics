@@ -87,6 +87,11 @@
           "scheduled_at": "2026-07-03T14:42:00+09:00",
           "registered_at": "2026-07-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-06T18:03:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
         }
       ]
     },
@@ -181,6 +186,11 @@
           "scheduled_at": "2026-07-03T21:03:00+09:00",
           "registered_at": "2026-07-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-06T19:52:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
         }
       ]
     },
@@ -235,6 +245,11 @@
         {
           "scheduled_at": "2026-07-02T20:28:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-06T14:42:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -299,6 +314,11 @@
         {
           "scheduled_at": "2026-07-04T11:08:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-07T14:42:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -515,6 +535,11 @@
           "scheduled_at": "2026-06-12T18:03:00+09:00",
           "registered_at": "2026-06-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-06T19:17:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
         }
       ]
     },
@@ -575,6 +600,11 @@
         {
           "scheduled_at": "2026-07-03T13:17:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T22:17:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -735,6 +765,11 @@
           "scheduled_at": "2026-07-02T11:08:00+09:00",
           "registered_at": "2026-07-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T11:08:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
         }
       ]
     },
@@ -758,6 +793,12 @@
         {
           "scheduled_at": "2026-07-02T14:42:00+09:00",
           "registered_at": "2026-07-01",
+          "views": 1774,
+          "posted_at": "2026-06-30T09:07:16.342+00:00"
+        },
+        {
+          "scheduled_at": "2026-07-05T14:42:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -805,6 +846,11 @@
         {
           "scheduled_at": "2026-07-04T13:17:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-06T20:28:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -966,6 +1012,11 @@
           "scheduled_at": "2026-07-02T22:17:00+09:00",
           "registered_at": "2026-07-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T18:03:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
         }
       ]
     },
@@ -988,6 +1039,11 @@
         {
           "scheduled_at": "2026-07-02T19:52:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-06T11:08:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -1018,6 +1074,11 @@
           "scheduled_at": "2026-07-03T11:08:00+09:00",
           "registered_at": "2026-07-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T21:03:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
         }
       ]
     },
@@ -1039,6 +1100,11 @@
         {
           "scheduled_at": "2026-07-02T13:17:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T13:17:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -1135,7 +1201,8 @@
         {
           "scheduled_at": "2026-06-28T18:03:00+09:00",
           "registered_at": "2026-06-25",
-          "views": null
+          "views": 7,
+          "posted_at": "2026-06-28T09:07:18.04+00:00"
         }
       ]
     },
@@ -1339,7 +1406,8 @@
         {
           "scheduled_at": "2026-07-01T21:03:00+09:00",
           "registered_at": "2026-06-28",
-          "views": null
+          "views": 981,
+          "posted_at": "2026-07-01T12:06:05.305+00:00"
         }
       ]
     },
@@ -1375,6 +1443,11 @@
         {
           "scheduled_at": "2026-07-03T18:03:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T19:17:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -1507,6 +1580,162 @@
         {
           "scheduled_at": "2026-07-04T22:17:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d4b4c902f2": {
+      "text": "男が振った直後って、頭の中『やっと解放された』でいっぱいなんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-05T19:52:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_122cde7691": {
+      "text": "振った男が『会いたい』って思い始めるまでの平均、220件で67日だったんだよね。",
+      "structure_label": "男性心理暴露型（数字権威）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-05T20:28:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5e17059c24": {
+      "text": "「気持ちがあれば向こうから連絡くる」って信じて待ってる人。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-06T13:17:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fa9b113f4f": {
+      "text": "別れを切り出した瞬間の、男の頭の中を話す。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-06T21:03:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_20a5fb6f37": {
+      "text": "「彼を変えれば戻れる」って思考、220件で完全に逆効果だったんだよね。",
+      "structure_label": "常識否定型（数字権威）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-06T22:17:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ae5c75e3cb": {
+      "text": "元カレとのLINE履歴、今見返さない方がいい期間がある。",
+      "structure_label": "命題型（読者の今の行動）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T11:08:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_39ecb0a57b": {
+      "text": "男は振った直後、頭の中『やっと自由だ』しかないんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T13:17:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_95477c03ec": {
+      "text": "別れを告げられた3日間の行動で、復縁確率ほぼ決まるんだよね。",
+      "structure_label": "命題型（警告）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T18:03:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1148227583": {
+      "text": "男の本音を言うと、追われてる側は『うざい』しか浮かばないんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T19:17:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_639721aa96": {
+      "text": "復縁して2年続いてるカップル追跡したら、共通点があった。",
+      "structure_label": "反転希望型（相談データ）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T19:52:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9d3f1dd93b": {
+      "text": "男は、1度本気で好きだった相手を簡単には忘れられないんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T20:28:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6ef1caf3c8": {
+      "text": "元カレの『もう連絡してこないで』って、本気で言ってる男は1割もいないんだよね。",
+      "structure_label": "常識否定型（数字権威）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T21:03:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_45617b5342": {
+      "text": "振った男が『戻りたい』って思うまでの平均日数、相談データで55日だったんだよね。",
+      "structure_label": "男性心理暴露型（数字権威）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T22:17:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]

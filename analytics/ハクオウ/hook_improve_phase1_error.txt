@@ -1,0 +1,324 @@
+```json
+{
+  "analysis": {
+    "top_patterns": [
+      "数字＋常識否定型（8割／半数以上）で不確実性への不安に直接触れる",
+      "『これでもこれでもない、実は◯◯』の3段構えで具体名詞を提示する",
+      "男主語で始めて男性心理を暴露する（G-1-a／F-7-a／G-2-a）",
+      "『〜は嘘』の短文断言型（F-3系）で1.5秒判断を突破する",
+      "回避型の言葉の裏の意味を明かす（D-3-a／F-8-a）",
+      "『◯◯した子がいる』の第三者事例＋心理学現象名で希望提示"
+    ],
+    "bottom_failures": [
+      "自分語り start（『別れて4日目』『あの頃の私』）で読者との接続が切れる",
+      "オリジナル造語（『察してちゃん』級）や堅い教訓系冒頭で自分事化しない",
+      "『共通の地雷』『共通してやめた』など教訓系スタートで即時一致が崩れる",
+      "『炎上覚悟』などクリックベイト煽り語で信頼が下がる",
+      "結局／下心などSolution Aware層が既に知っている抽象語だけで押す",
+      "1行目が長すぎて主張が伝わる前に読者が離脱する"
+    ]
+  },
+  "hooks": [
+    {
+      "id": "ハクオウ_20260705_01",
+      "hook_text": "男が本気で溺愛する女性って、実は共通点がある。8割の男性が『この子は絶対に離したくない』と感じる瞬間があって、それはお金でもルックスでもないんです。",
+      "structure_label": "常識否定型＋数字型（男性心理暴露）",
+      "body_pattern": "mechanism_first",
+      "based_on": "repost",
+      "source_csv_id": "F-2-a",
+      "source_reference": "男が本気で溺愛する女性って、実は共通点がある。8割の男性が",
+      "scheduled_at": "2026-07-05T11:08:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260705_02",
+      "hook_text": "「友達からやり直すのが安全」は嘘。",
+      "structure_label": "常識否定型（短文断言）",
+      "body_pattern": "reverse_hope",
+      "based_on": "repost",
+      "source_csv_id": "F-3-b",
+      "source_reference": "「友達からやり直すのが安全」は嘘。",
+      "scheduled_at": "2026-07-05T13:17:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260705_03",
+      "hook_text": "別れた男の半数以上は、別れて2〜4週間で『連絡したい』が一度はピークに来てる。でも自分から連絡することは絶対にない。",
+      "structure_label": "男性心理暴露型＋数字型",
+      "body_pattern": "mechanism_first",
+      "based_on": "repost",
+      "source_csv_id": "F-1-e",
+      "source_reference": "別れた男の半数以上は、別れて2〜4週間で『連絡したい』が",
+      "scheduled_at": "2026-07-05T14:42:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260705_04",
+      "hook_text": "回避型の「別れよう」は本気の決意じゃなくて、ただの『一時避難』",
+      "structure_label": "命題型（本音セリフ翻訳）",
+      "body_pattern": "mens_voice_quote",
+      "based_on": "repost",
+      "source_csv_id": "D-3-a",
+      "source_reference": "回避型の「別れよう」は本気の決意じゃなくて、ただの『一時避難',
+      "scheduled_at": "2026-07-05T18:03:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260705_05",
+      "hook_text": "溺愛される女性の特徴を分析してたら、ちょっと衝撃の事実が出てきた。見た目や性格は関係なく、たった1つの行動パターンで決まってた。",
+      "structure_label": "常識否定型＋発見型",
+      "body_pattern": "mechanism_first",
+      "based_on": "repost",
+      "source_csv_id": "D-2-a",
+      "source_reference": "溺愛される女性の特徴を分析してたら、ちょっと衝撃の事実が出てきた",
+      "scheduled_at": "2026-07-05T19:17:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260705_06",
+      "hook_text": "「既読無視された翌日」から、彼の溺愛が始まった子がいる。心理学でいう『逆転依存』って現象なんだよね。",
+      "structure_label": "落差ストーリー型＋心理学現象名",
+      "body_pattern": "case_success",
+      "based_on": "repost",
+      "source_csv_id": "D-1-a",
+      "source_reference": "「既読無視された翌日」から、彼の溺愛が始まった子がいる",
+      "scheduled_at": "2026-07-05T19:52:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260705_07",
+      "hook_text": "復縁した彼に「もし私が連絡してなかったらどうしてた？」って聞いてみた。",
+      "structure_label": "セリフ引用型（質問→答え展開）",
+      "body_pattern": "mens_voice_quote",
+      "based_on": "repost",
+      "source_csv_id": "C-2-a",
+      "source_reference": "復縁した彼に「もし私が連絡してなかったらどうしてた？」って",
+      "scheduled_at": "2026-07-05T20:28:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260705_08",
+      "hook_text": "男は新しい彼女と付き合っても、別れた本命を完全に忘れられない期間が半年〜1年続く。表面では新しい彼女と楽しそうに見えても、内心で本命と比較し続けてる。",
+      "structure_label": "男性心理暴露型＋期間指定",
+      "body_pattern": "mechanism_first",
+      "based_on": "repost",
+      "source_csv_id": "F-2-a",
+      "source_reference": "男は新しい彼女と付き合っても、別れた本命を完全に忘れられない",
+      "scheduled_at": "2026-07-05T21:03:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260705_09",
+      "hook_text": "復縁できた子がよく言うのが「復縁したい側から動かないと、何も始まらない」ってこと。",
+      "structure_label": "第三者引用型（成功者の共通発言）",
+      "body_pattern": "case_success",
+      "based_on": "repost",
+      "source_csv_id": "A-3-a",
+      "source_reference": "復縁できた子がよく言うのが「復縁したい側から動かないと",
+      "scheduled_at": "2026-07-05T22:17:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260705_10",
+      "hook_text": "男は、「連絡が来る＝気持ちがある」とは思っていない。",
+      "structure_label": "男性心理断言型（G-1系）",
+      "body_pattern": "mens_voice_quote",
+      "based_on": "variation",
+      "source_csv_id": "G-1-a",
+      "source_reference": "G-1-aの派生（連絡が続いている＝関係が進んでいる→連絡が来る＝気持ちがある に置換）",
+      "scheduled_at": "2026-07-05T22:48:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260706_01",
+      "hook_text": "男が本気で溺愛する女性って、実は共通点がある。8割の男性が『この子は絶対に離したくない』と感じる瞬間があって、それはお金でもルックスでもないんです。",
+      "structure_label": "常識否定型＋数字型（男性心理暴露）",
+      "body_pattern": "mechanism_first",
+      "based_on": "repost",
+      "source_csv_id": "F-2-a",
+      "source_reference": "男が本気で溺愛する女性って、実は共通点がある。8割の男性が",
+      "scheduled_at": "2026-07-06T11:08:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260706_02",
+      "hook_text": "別れた男の半数以上は、別れて2〜4週間で『連絡したい』が一度はピークに来てる。でも自分から連絡することは絶対にない。",
+      "structure_label": "男性心理暴露型＋数字型",
+      "body_pattern": "reader_now",
+      "based_on": "repost",
+      "source_csv_id": "F-1-e",
+      "source_reference": "別れた男の半数以上は、別れて2〜4週間で『連絡したい』が",
+      "scheduled_at": "2026-07-06T13:17:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260706_03",
+      "hook_text": "男は「一度好きだった相手」と、簡単に友達には戻れない。",
+      "structure_label": "男性心理断言型（G-2系）",
+      "body_pattern": "mens_voice_quote",
+      "based_on": "variation",
+      "source_csv_id": "G-2-a",
+      "source_reference": "G-2-aの派生（好きだった相手＋友達みたいな関係→一度好きだった相手＋友達 に圧縮）",
+      "scheduled_at": "2026-07-06T14:42:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260706_04",
+      "hook_text": "復縁して分かったのは、「未練が長く残るのは男の方」って話が本当だったこと。",
+      "structure_label": "経験者暴露型（A-3系）",
+      "body_pattern": "mens_voice_quote",
+      "based_on": "variation",
+      "source_csv_id": "A-3-a",
+      "source_reference": "A-3-aの派生（未練が残るのは男→未練が長く残るのは男の方 に強調追加）",
+      "scheduled_at": "2026-07-06T18:03:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260706_05",
+      "hook_text": "意外かもだけど、男は『元カノへの気持ちが強く残ってるほど沈黙する』生き物。",
+      "structure_label": "常識否定型（F-2-a生き物落ち）",
+      "body_pattern": "mechanism_first",
+      "based_on": "variation",
+      "source_csv_id": "F-2-a",
+      "source_reference": "F-2-aの派生（未練が強すぎると→気持ちが強く残ってるほど に置換）",
+      "scheduled_at": "2026-07-06T19:17:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260706_06",
+      "hook_text": "男が別れを切り出す時、「冷めた」より圧倒的に多いのが『愛が重すぎて怖くなった』の方。",
+      "structure_label": "常識否定型＋本音セリフ引用（F-4系）",
+      "body_pattern": "mens_voice_quote",
+      "based_on": "variation",
+      "source_csv_id": "F-4-a",
+      "source_reference": "F-4-aの派生（愛が強くなりすぎた→愛が重すぎて怖くなった に置換）",
+      "scheduled_at": "2026-07-06T19:52:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260706_07",
+      "hook_text": "溺愛される女性の特徴を分析してたら、ちょっと衝撃の事実が出てきた。",
+      "structure_label": "発見型（短縮版）",
+      "body_pattern": "mechanism_first",
+      "based_on": "repost",
+      "source_csv_id": "D-2-a",
+      "source_reference": "溺愛される女性の特徴を分析してたら、ちょっと衝撃の事実が出",
+      "scheduled_at": "2026-07-06T20:28:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260706_08",
+      "hook_text": "「既読無視された翌日」から、彼の溺愛が始まった子がいる。心理学でいう『逆転依存』って現象なんだよね。",
+      "structure_label": "落差ストーリー型＋心理学現象名",
+      "body_pattern": "case_success",
+      "based_on": "repost",
+      "source_csv_id": "D-1-a",
+      "source_reference": "「既読無視された翌日」から、彼の溺愛が始まった子がいる",
+      "scheduled_at": "2026-07-06T21:03:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260706_09",
+      "hook_text": "断言するけど、振った側の男も、後から復縁したくなる瞬間は必ず来るぞ。",
+      "structure_label": "男性当事者本音型（B-4系）",
+      "body_pattern": "mens_voice_quote",
+      "based_on": "variation",
+      "source_csv_id": "B-4-a",
+      "source_reference": "B-4-aの派生（振った側も、あとから復縁したくなる瞬間はあるぞ→振った側の男も、後から復縁したくなる瞬間は必ず来るぞ に強調追加）",
+      "scheduled_at": "2026-07-06T22:17:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260706_10",
+      "hook_text": "男は新しい彼女と付き合っても、別れた本命を完全に忘れられない期間が半年〜1年続く。表面では新しい彼女と楽しそうに見えても、内心で本命と比較し続けてる。",
+      "structure_label": "男性心理暴露型＋期間指定",
+      "body_pattern": "mechanism_first",
+      "based_on": "repost",
+      "source_csv_id": "F-2-a",
+      "source_reference": "男は新しい彼女と付き合っても、別れた本命を完全に忘れられない",
+      "scheduled_at": "2026-07-06T22:48:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260707_01",
+      "hook_text": "男が本気で溺愛する女性って、実は共通点がある。8割の男性が『この子は絶対に離したくない』と感じる瞬間があって、それはお金でもルックスでもないんです。",
+      "structure_label": "常識否定型＋数字型（男性心理暴露）",
+      "body_pattern": "mechanism_first",
+      "based_on": "repost",
+      "source_csv_id": "F-2-a",
+      "source_reference": "男が本気で溺愛する女性って、実は共通点がある。8割の男性が",
+      "scheduled_at": "2026-07-07T11:08:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260707_02",
+      "hook_text": "復縁した彼に「もし私が連絡してなかったらどうしてた？」って聞いてみた。",
+      "structure_label": "セリフ引用型（質問→答え展開）",
+      "body_pattern": "mens_voice_quote",
+      "based_on": "repost",
+      "source_csv_id": "C-2-a",
+      "source_reference": "復縁した彼に「もし私が連絡してなかったらどうしてた？」って",
+      "scheduled_at": "2026-07-07T13:17:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260707_03",
+      "hook_text": "「友達からやり直すのが安全」は嘘。",
+      "structure_label": "常識否定型（短文断言）",
+      "body_pattern": "reverse_hope",
+      "based_on": "repost",
+      "source_csv_id": "F-3-b",
+      "source_reference": "「友達からやり直すのが安全」は嘘。",
+      "scheduled_at": "2026-07-07T14:42:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260707_04",
+      "hook_text": "別れた男の半数以上は、別れて2〜4週間で『連絡したい』が一度はピークに来てる。でも自分から連絡することは絶対にない。",
+      "structure_label": "男性心理暴露型＋数字型",
+      "body_pattern": "mechanism_first",
+      "based_on": "repost",
+      "source_csv_id": "F-1-e",
+      "source_reference": "別れた男の半数以上は、別れて2〜4週間で『連絡したい』が",
+      "scheduled_at": "2026-07-07T18:03:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260707_05",
+      "hook_text": "回避型の「別れよう」は本気の決意じゃなくて、ただの『一時避難』",
+      "structure_label": "命題型（本音セリフ翻訳）",
+      "body_pattern": "mens_voice_quote",
+      "based_on": "repost",
+      "source_csv_id": "D-3-a",
+      "source_reference": "回避型の「別れよう」は本気の決意じゃなくて、ただの『一時避難",
+      "scheduled_at": "2026-07-07T19:17:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260707_06",
+      "hook_text": "復縁できた子がよく言うのが「復縁したい側から動かないと、何も始まらない」ってこと。",
+      "structure_label": "第三者引用型（成功者の共通発言）",
+      "body_pattern": "case_success",
+      "based_on": "repost",
+      "source_csv_id": "A-3-a",
+      "source_reference": "復縁できた子がよく言うのが「復縁したい側から動かないと",
+      "scheduled_at": "2026-07-07T19:52:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260707_07",
+      "hook_text": "意外かもだけど、「プライドの高い元彼」の方が復縁の成功率は高い。",
+      "structure_label": "常識否定型（F-2-b意外系）",
+      "body_pattern": "mens_voice_quote",
+      "based_on": "variation",
+      "source_csv_id": "F-2-b",
+      "source_reference": "F-2-bの派生（意外かもしれないけど→意外かもだけど＋短縮して主張を鋭くする）",
+      "scheduled_at": "2026-07-07T20:28:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260707_08",
+      "hook_text": "男の別れ際の冷たさは、気持ちが冷めた証拠じゃない。",
+      "structure_label": "現象否定型（F-7-a）",
+      "body_pattern": "reverse_hope",
+      "based_on": "variation",
+      "source_csv_id": "F-7-a",
+      "source_reference": "F-7-aの派生（嫌いになった証拠じゃない→気持ちが冷めた証拠じゃない に置換）",
+      "scheduled_at": "2026-07-07T21:03:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260707_09",
+      "hook_text": "男って元カノを何年経っても忘れないからね。",
+      "structure_label": "男性心理断言型（G-4系）",
+      "body_pattern": "mens_voice_quote",
+      "based_on": "variation",
+      "source_csv_id": "G-4-a",
+      "source_reference": "G-4-aの派生（男性って元カノを絶対忘れない→男って元カノを何年経っても忘れない に時間軸を追加）",
+      "scheduled_at": "2026-07-07T22:17:00+09:00"
+    },
+    {
+      "id": "ハクオウ_20260707_10",
+      "hook_text": "溺愛される女性の特徴を分析してたら、ちょっと衝撃の事実が出てきた。恋愛経験でも顔でもなく、たった1つの共通点で決まってた。",
+      "structure_label": "発見型＋常識否定（D-2-a派生）",
+      "body_pattern": "mechanism_first",
+      "based_on": "variation",
+      "source_csv_id": "D-2-a",
+      "source_reference": "D-2-aの派生（見た目や性格→恋愛経験でも顔でもなく、行動パターン→共通点 に置換）",
+      "scheduled_at": "2026-07-07T22:48:00+09:00"
+    }
+  ]
+}
+```

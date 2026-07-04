@@ -70,6 +70,11 @@
           "scheduled_at": "2026-07-03T22:17:00+09:00",
           "registered_at": "2026-07-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T19:17:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
         }
       ]
     },
@@ -163,6 +168,11 @@
           "scheduled_at": "2026-07-02T18:03:00+09:00",
           "registered_at": "2026-07-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T13:17:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
         }
       ]
     },
@@ -240,6 +250,11 @@
         {
           "scheduled_at": "2026-07-03T14:42:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-06T14:42:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -458,6 +473,16 @@
           "scheduled_at": "2026-07-04T18:03:00+09:00",
           "registered_at": "2026-07-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T11:08:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-06T19:17:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
         }
       ]
     },
@@ -597,6 +622,16 @@
         {
           "scheduled_at": "2026-07-02T19:17:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T14:42:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-07T19:17:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -808,6 +843,11 @@
           "scheduled_at": "2026-07-03T19:17:00+09:00",
           "registered_at": "2026-07-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-06T11:08:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
         }
       ]
     },
@@ -839,6 +879,11 @@
         {
           "scheduled_at": "2026-07-03T20:28:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T22:17:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -928,6 +973,11 @@
         {
           "scheduled_at": "2026-07-04T21:03:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T20:28:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -1059,6 +1109,11 @@
           "scheduled_at": "2026-07-04T11:08:00+09:00",
           "registered_at": "2026-07-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T21:03:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
         }
       ]
     },
@@ -1130,6 +1185,16 @@
         {
           "scheduled_at": "2026-07-02T20:28:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T19:52:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-06T22:17:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -1212,6 +1277,11 @@
         {
           "scheduled_at": "2026-07-02T19:52:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T18:03:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -1374,6 +1444,11 @@
         {
           "scheduled_at": "2026-07-03T18:03:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-06T13:17:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -1650,6 +1725,150 @@
         {
           "scheduled_at": "2026-07-04T22:17:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_73387c5103": {
+      "text": "意外かもだけど、男は『年上の女性にペースを乱されない』と意識し始める生き物。",
+      "structure_label": "命題型（男性心理暴露）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-06T18:03:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e05bbea3ec": {
+      "text": "男の目を合わせない態度は、年上女性に興味ないサインじゃない。",
+      "structure_label": "常識否定型（反転希望）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-06T19:52:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ef6c14a7ca": {
+      "text": "意外かもだけど、男は『年上の女性に必要以上に踏み込まれない』と意識し始める生き物。",
+      "structure_label": "命題型（男性心理暴露）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-06T20:28:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0684076c58": {
+      "text": "彼が既読無視する時、女性側が追いLINE送ると、男目線では完全に逃がす動きになるんだよね。",
+      "structure_label": "反転メカニズム型",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-06T21:03:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8553294a6f": {
+      "text": "意外かもだけど、男は『年上の女性から一歩引かれる』と意識し始める生き物。",
+      "structure_label": "命題型（男性心理暴露）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T11:08:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_294e6bf801": {
+      "text": "男の事務的な返信は、年上女性に興味ないサインじゃない。",
+      "structure_label": "常識否定型（反転希望）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T13:17:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3d875d615c": {
+      "text": "彼に「最近どうしてる？」って先に言わせる構造、男目線で言うとシンプルなんだよね。",
+      "structure_label": "本音セリフ引用型",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T14:42:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d1db80be28": {
+      "text": "意外かもだけど、男は『年上の女性に落ち着いた声で話される』と意識し始める生き物。",
+      "structure_label": "命題型（男性心理暴露）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T18:03:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f11a26649e": {
+      "text": "男は、「話しかけてくれる＝好意」とは思っていない。",
+      "structure_label": "命題型（男性心理断言）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T19:52:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8bb1784e22": {
+      "text": "男は「気になる年上の女性」に簡単に自分から話しかけられない。",
+      "structure_label": "命題型（男性心理断言）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T20:28:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6ab37c1853": {
+      "text": "実は、男は本気で気になる年上の女性に自分からグイグイいけない。",
+      "structure_label": "常識否定型（反転希望）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T21:03:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ccd964d57f": {
+      "text": "「気になる相手には積極的にアプローチする」はウソ。",
+      "structure_label": "常識否定型（俗説破壊）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T22:17:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]

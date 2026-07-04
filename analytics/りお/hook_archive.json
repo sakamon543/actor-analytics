@@ -164,6 +164,16 @@
           "scheduled_at": "2026-07-04T21:03:00+09:00",
           "registered_at": "2026-07-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T20:28:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-07T20:28:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
         }
       ]
     },
@@ -305,6 +315,16 @@
         {
           "scheduled_at": "2026-07-03T21:03:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T18:03:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-06T22:17:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -490,6 +510,11 @@
           "scheduled_at": "2026-07-04T14:42:00+09:00",
           "registered_at": "2026-07-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-06T20:28:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
         }
       ]
     },
@@ -567,6 +592,11 @@
         {
           "scheduled_at": "2026-07-04T18:03:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T21:03:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -845,6 +875,21 @@
           "scheduled_at": "2026-07-04T11:08:00+09:00",
           "registered_at": "2026-07-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T19:52:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-06T14:42:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-07T11:08:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
         }
       ]
     },
@@ -980,6 +1025,11 @@
         {
           "scheduled_at": "2026-07-04T19:52:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-06T19:17:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -1335,6 +1385,21 @@
           "scheduled_at": "2026-07-03T19:52:00+09:00",
           "registered_at": "2026-07-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T14:42:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-06T11:08:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-07T13:17:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
         }
       ]
     },
@@ -1534,6 +1599,21 @@
         {
           "scheduled_at": "2026-07-03T18:03:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T11:08:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-06T19:52:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-07T18:03:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -1923,6 +2003,138 @@
         {
           "scheduled_at": "2026-07-04T22:17:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c9d56f2bda": {
+      "text": "男は、「甘えを全部受け止めてくれる女性」を本気で追わない。",
+      "structure_label": "命題型（男性心理断言）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-05T13:17:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2db4c65537": {
+      "text": "男は、「LINE即レスしてくれる女性」を本気で愛せない。",
+      "structure_label": "命題型（男性心理断言）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-05T19:17:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_467e4919d0": {
+      "text": "男は、「休日全部空けてくれる女性」と対等な関係を作れない。",
+      "structure_label": "命題型（男性心理断言）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-05T22:17:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_467106c7c2": {
+      "text": "男は、「頼まなくても全部やってくれる女性」を本気で愛せない。",
+      "structure_label": "命題型（男性心理断言）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-06T13:17:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e5264a7bb4": {
+      "text": "男は、「機嫌を全部拾ってくれる女性」を本気で追わない。",
+      "structure_label": "命題型（男性心理断言）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-06T18:03:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5b18309982": {
+      "text": "男は、「怒らない・拗ねない・全部飲み込んでくれる女性」を本気で愛せない。",
+      "structure_label": "命題型（男性心理断言）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-06T21:03:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5f9c395cb2": {
+      "text": "男は、「自分の予定を我慢して合わせてくれる女性」と対等な関係を作れない。",
+      "structure_label": "命題型（男性心理断言）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T14:42:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7a59808ea6": {
+      "text": "男は、「体調まで全部気にしてくれる女性」を長く追わない。",
+      "structure_label": "命題型（男性心理断言）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T19:17:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_897ee4fe09": {
+      "text": "「最近の彼が素っ気ない」って感じてる人の大半は、彼が冷めたんじゃなくて自分が尽くしすぎてるだけ。",
+      "structure_label": "常識否定型（解釈裏返し）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T19:52:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7a05bf9765": {
+      "text": "「頑張れば頑張るほど愛される」って思ってるなら、一回止まってほしい。",
+      "structure_label": "常識否定型（信念揺さぶり）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T21:03:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_578d39fa12": {
+      "text": "男は、「尽くしてくれる＝愛される女」とは思っていない。",
+      "structure_label": "命題型（男性心理・とは思っていない）",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T22:17:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]

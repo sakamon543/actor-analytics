@@ -126,6 +126,16 @@
           "scheduled_at": "2026-07-02T11:08:00+09:00",
           "registered_at": "2026-07-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T13:17:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-07T11:08:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
         }
       ]
     },
@@ -225,6 +235,11 @@
         {
           "scheduled_at": "2026-07-02T21:03:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T22:17:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -491,6 +506,11 @@
         {
           "scheduled_at": "2026-06-30T19:17:00+09:00",
           "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T20:28:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -812,6 +832,11 @@
           "scheduled_at": "2026-07-01T22:17:00+09:00",
           "registered_at": "2026-06-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T21:03:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
         }
       ]
     },
@@ -1127,6 +1152,16 @@
           "scheduled_at": "2026-07-02T19:52:00+09:00",
           "registered_at": "2026-07-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T18:03:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-07T13:17:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
         }
       ]
     },
@@ -1317,6 +1352,11 @@
         {
           "scheduled_at": "2026-07-01T18:03:00+09:00",
           "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-06T11:08:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -1651,6 +1691,16 @@
           "scheduled_at": "2026-07-01T19:17:00+09:00",
           "registered_at": "2026-06-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T19:17:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-07T14:42:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
         }
       ]
     },
@@ -1662,6 +1712,11 @@
         {
           "scheduled_at": "2026-06-29T22:17:00+09:00",
           "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-06T22:17:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -1686,7 +1741,8 @@
         {
           "scheduled_at": "2026-06-30T14:42:00+09:00",
           "registered_at": "2026-06-28",
-          "views": null
+          "views": 6,
+          "posted_at": "2026-07-03T09:07:14.906+00:00"
         },
         {
           "scheduled_at": "2026-07-03T18:03:00+09:00",
@@ -1729,6 +1785,16 @@
           "scheduled_at": "2026-06-30T20:28:00+09:00",
           "registered_at": "2026-06-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T11:08:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-06T14:42:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
         }
       ]
     },
@@ -1752,6 +1818,11 @@
         {
           "scheduled_at": "2026-07-01T13:17:00+09:00",
           "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-05T19:52:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
@@ -1812,7 +1883,8 @@
         {
           "scheduled_at": "2026-07-02T13:17:00+09:00",
           "registered_at": "2026-07-01",
-          "views": null
+          "views": 4060,
+          "posted_at": "2026-06-27T12:06:40.018+00:00"
         }
       ]
     },
@@ -1824,7 +1896,8 @@
         {
           "scheduled_at": "2026-07-02T14:42:00+09:00",
           "registered_at": "2026-07-01",
-          "views": null
+          "views": 2400,
+          "posted_at": "2026-06-27T04:21:09.586+00:00"
         }
       ]
     },
@@ -1836,7 +1909,8 @@
         {
           "scheduled_at": "2026-07-02T18:03:00+09:00",
           "registered_at": "2026-07-01",
-          "views": null
+          "views": 8014,
+          "posted_at": "2026-06-30T11:30:49.303+00:00"
         }
       ]
     },
@@ -2004,6 +2078,162 @@
         {
           "scheduled_at": "2026-07-04T22:17:00+09:00",
           "registered_at": "2026-07-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9a4c7a40d2": {
+      "text": "「私から動かないと終わる」って思ってるなら、一回手を止めてほしい。",
+      "structure_label": "逆説アドバイス型",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-05T14:42:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9c4d746f1b": {
+      "text": "LINEの返信スピードで彼の気持ち測ってる人。",
+      "structure_label": "男心理暴露型",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-06T13:17:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8b27e795a6": {
+      "text": "LINEの既読までの時間で、彼の気持ちを測ってる人。",
+      "structure_label": "男心理暴露型",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-06T18:03:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_51bc9ad2e5": {
+      "text": "別れて4日目の彼と、3ヶ月後の彼は、別人だと思った方が動きやすいよ。",
+      "structure_label": "時系列対比型",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-06T19:17:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_adc79fd9bf": {
+      "text": "「LINEしないと忘れられる」って思ってるなら、一回手を止めてほしい。",
+      "structure_label": "逆説アドバイス型",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-06T19:52:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a799320518": {
+      "text": "男は「LINEが続いてる＝気持ちが残ってる」って思ってないよ。",
+      "structure_label": "男心理暴露型",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-06T20:28:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4d360c1c3b": {
+      "text": "別れた後、深夜に元彼のストーリー開いて、足跡バレないか確認して、新しい彼女いないかタグ検索してる人。",
+      "structure_label": "読者行動描写型",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-06T21:03:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ea868a2fbe": {
+      "text": "別れて8日目の彼と、3ヶ月後の彼は、別人だと思った方が動きやすいよ。",
+      "structure_label": "時系列対比型",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T18:03:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_86f5d7a342": {
+      "text": "「毎日連絡しないと関係が切れる」って思ってるなら、一回手を止めてほしい。",
+      "structure_label": "逆説アドバイス型",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T19:17:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_72c8718b1b": {
+      "text": "LINEに絵文字がないだけで彼の気持ちを測ってる人。",
+      "structure_label": "男心理暴露型",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T19:52:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ecb93aba82": {
+      "text": "別れた後、共通の友達のストーリーに元彼が映ってないか毎晩チェックしてる人。",
+      "structure_label": "読者行動描写型",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T20:28:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a426307661": {
+      "text": "男って未練があればあるほど、逆にLINEできなくなるんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T21:03:00+09:00",
+          "registered_at": "2026-07-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_725dfa12a5": {
+      "text": "「LINEブロックされてないから可能性ある」って思ってるなら、一回手を止めてほしい。",
+      "structure_label": "逆説アドバイス型",
+      "first_used_at": "2026-07-04",
+      "history": [
+        {
+          "scheduled_at": "2026-07-07T22:17:00+09:00",
+          "registered_at": "2026-07-04",
           "views": null
         }
       ]
