@@ -2883,8 +2883,214 @@
           "text_head": "男は1〜2ヶ月後の懐古期に、ほぼ全員一度はSNSや写真で元カノを確認してる。確認した時に『楽しそう』『変わってない安心感』『綺麗になってる』のどれかを感じると、"
         }
       ]
+    },
+    {
+      "cycle_date": "2026-07-06",
+      "fetched_at": "2026-07-06T15:58:03+09:00",
+      "matched_count": 9,
+      "rank_medians": {
+        "A": 29,
+        "B": 30,
+        "C": 1470
+      },
+      "misses": [
+        {
+          "type": "weak_predicted_but_high",
+          "rank": "C",
+          "views": 7292,
+          "text_head": "別れた男の半数以上は、別れて2〜4週間で『連絡したい』が一度はピークに来てる。でも自分から連絡することは絶対にない。男のプライドは、振った側であっても自分から動",
+          "tags": {
+            "has_number": true,
+            "has_reversal": false,
+            "has_concrete_quote": true,
+            "has_authority": false,
+            "has_risk": false,
+            "has_kaishaku": false,
+            "hook_length": 39,
+            "main_length": 100
+          }
+        },
+        {
+          "type": "strong_predicted_but_low",
+          "rank": "A",
+          "views": 29,
+          "text_head": "「彼に新しい彼女ができたら諦めるべき」って通説、9割は早すぎる。男が乗り換える時の8割は『繋ぎの彼女』で、本命の元カノを忘れるためのリハビリ枠。だから新しい彼女",
+          "tags": {
+            "has_number": true,
+            "has_reversal": false,
+            "has_concrete_quote": true,
+            "has_authority": false,
+            "has_risk": true,
+            "has_kaishaku": true,
+            "hook_length": 32,
+            "main_length": 89
+          }
+        },
+        {
+          "type": "weak_predicted_but_high",
+          "rank": "C",
+          "views": 1481,
+          "text_head": "男は1〜2ヶ月後の懐古期に、ほぼ全員一度はSNSや写真で元カノを確認してる。確認した時に『楽しそう』『変わってない安心感』『綺麗になってる』のどれかを感じると、",
+          "tags": {
+            "has_number": true,
+            "has_reversal": false,
+            "has_concrete_quote": true,
+            "has_authority": false,
+            "has_risk": false,
+            "has_kaishaku": false,
+            "hook_length": 38,
+            "main_length": 106
+          }
+        }
+      ],
+      "pairs": [
+        {
+          "predicted_rank": "C",
+          "predicted_score": 2,
+          "tags": {
+            "has_number": true,
+            "has_reversal": false,
+            "has_concrete_quote": true,
+            "has_authority": false,
+            "has_risk": false,
+            "has_kaishaku": false,
+            "hook_length": 39,
+            "main_length": 100
+          },
+          "actual_views": 7292,
+          "text_head": "別れた男の半数以上は、別れて2〜4週間で『連絡したい』が一度はピークに来てる。でも自分から連絡することは絶対にない。男のプライドは、振った側であっても自分から動"
+        },
+        {
+          "predicted_rank": "C",
+          "predicted_score": 1,
+          "tags": {
+            "has_number": false,
+            "has_reversal": false,
+            "has_concrete_quote": true,
+            "has_authority": false,
+            "has_risk": false,
+            "has_kaishaku": false,
+            "hook_length": 22,
+            "main_length": 101
+          },
+          "actual_views": 44,
+          "text_head": "復縁できないLINEには、共通の地雷がある。長すぎる文／謝罪が含まれる／質問が複数／感情の言葉が3個以上。これが1通に2つ以上重なると、彼の脳は読み終わる前に『"
+        },
+        {
+          "predicted_rank": "A",
+          "predicted_score": 4,
+          "tags": {
+            "has_number": true,
+            "has_reversal": false,
+            "has_concrete_quote": true,
+            "has_authority": false,
+            "has_risk": true,
+            "has_kaishaku": true,
+            "hook_length": 32,
+            "main_length": 89
+          },
+          "actual_views": 29,
+          "text_head": "「彼に新しい彼女ができたら諦めるべき」って通説、9割は早すぎる。男が乗り換える時の8割は『繋ぎの彼女』で、本命の元カノを忘れるためのリハビリ枠。だから新しい彼女"
+        },
+        {
+          "predicted_rank": "B",
+          "predicted_score": 3,
+          "tags": {
+            "has_number": true,
+            "has_reversal": false,
+            "has_concrete_quote": false,
+            "has_authority": true,
+            "has_risk": true,
+            "has_kaishaku": false,
+            "hook_length": 41,
+            "main_length": 95
+          },
+          "actual_views": 19,
+          "text_head": "男は新しい彼女と付き合っても、別れた本命を完全に忘れられない期間が半年〜1年続く。表面では新しい彼女と楽しそうに見えても、内心で本命と比較し続けてる。だから新し"
+        },
+        {
+          "predicted_rank": "B",
+          "predicted_score": 3,
+          "tags": {
+            "has_number": true,
+            "has_reversal": false,
+            "has_concrete_quote": true,
+            "has_authority": false,
+            "has_risk": false,
+            "has_kaishaku": true,
+            "hook_length": 29,
+            "main_length": 94
+          },
+          "actual_views": 36,
+          "text_head": "「動き出すタイミングは別れて2週間後」って通説、雑すぎる。タイミングは期間じゃなく、彼の側の感情曲線で判断する。別れて1週間で動いていい男と、3ヶ月経っても早す"
+        },
+        {
+          "predicted_rank": "B",
+          "predicted_score": 3,
+          "tags": {
+            "has_number": true,
+            "has_reversal": false,
+            "has_concrete_quote": true,
+            "has_authority": true,
+            "has_risk": false,
+            "has_kaishaku": false,
+            "hook_length": 54,
+            "main_length": 107
+          },
+          "actual_views": 30,
+          "text_head": "相談者で復縁できた女性に『動き方の中で一番効いた行動は？』と聞くと、ほぼ全員が『動かなかった瞬間』を挙げる。送りたいLINEを送らなかった、会いたい時に会いに行"
+        },
+        {
+          "predicted_rank": "C",
+          "predicted_score": 2,
+          "tags": {
+            "has_number": true,
+            "has_reversal": false,
+            "has_concrete_quote": true,
+            "has_authority": false,
+            "has_risk": false,
+            "has_kaishaku": false,
+            "hook_length": 31,
+            "main_length": 86
+          },
+          "actual_views": 1470,
+          "text_head": "男は別れの瞬間、自分が言ってる言葉の半分以上を本気にしてない。「冷めた」「他に好きな人がいる」「価値観が合わない」、この3つは特に取り繕いで出る代表格。本音を真"
+        },
+        {
+          "predicted_rank": "C",
+          "predicted_score": 2,
+          "tags": {
+            "has_number": true,
+            "has_reversal": false,
+            "has_concrete_quote": true,
+            "has_authority": false,
+            "has_risk": false,
+            "has_kaishaku": false,
+            "hook_length": 42,
+            "main_length": 102
+          },
+          "actual_views": 31,
+          "text_head": "僕の経験上、別れの本音を読み間違える女性のパターンは、ほぼ全員『感情で読む』ことだ。怒りで読む、悲しみで読む、自責で読む。これだと表面の言葉が拡大解釈されて、本"
+        },
+        {
+          "predicted_rank": "C",
+          "predicted_score": 2,
+          "tags": {
+            "has_number": true,
+            "has_reversal": false,
+            "has_concrete_quote": true,
+            "has_authority": false,
+            "has_risk": false,
+            "has_kaishaku": false,
+            "hook_length": 38,
+            "main_length": 106
+          },
+          "actual_views": 1481,
+          "text_head": "男は1〜2ヶ月後の懐古期に、ほぼ全員一度はSNSや写真で元カノを確認してる。確認した時に『楽しそう』『変わってない安心感』『綺麗になってる』のどれかを感じると、"
+        }
+      ]
     }
   ],
   "_methodology_ref": "knowledge/shared/データ蓄積方法論.md",
-  "_last_updated": "2026-07-04 09:00"
+  "_last_updated": "2026-07-06 15:58"
 }
