@@ -25,6 +25,7 @@ import os
 import sys
 import json
 import subprocess
+import time
 import yaml
 from datetime import datetime, timezone, timedelta
 
@@ -265,16 +266,27 @@ def main():
         steps.append("analyze:" + ("OK" if ok_analyze else "NG"))
 
         # 3. hook_improve（フック分析＋次バッチ生成）
+        #    一時的なclaude -p失敗（レート制限・瞬間的な認証リフレッシュ等）に備えて最大2回試行
         ok_hook = run_hook_improve(account)
+        if not ok_hook:
+            print(f"  ↻ hook_improve 1回目失敗 → 30秒待ってリトライ")
+            time.sleep(30)
+            ok_hook = run_hook_improve(account)
         steps.append("hook:" + ("OK" if ok_hook else "NG"))
+
+        ok_sched = False
         if ok_hook:
             # 4. schedule（生成したバッチを予約投稿）
             ok_sched = run_schedule(account, token)
             steps.append("sched:" + ("OK" if ok_sched else "NG"))
 
-        # 完了マーキング（途中で fetch 等失敗しても今日走ったとする＝3日空けて再試行）
-        mark_cycle_completed(name, today)
         ran_count += 1
+        # 完了マーキング：★生成→予約まで成功した時だけ★ cycle_state を進める。
+        # 失敗した演者は cycle_state を据え置き＝翌日のcronで自動リトライされる（沈黙を防ぐ）。
+        if ok_hook and ok_sched:
+            mark_cycle_completed(name, today)
+        else:
+            print(f"  ⚠ {name}: 生成/予約が未完 → cycle_stateを進めない（翌日のcronで自動リトライ）")
         cycle_results.append((name, " / ".join(steps)))
         print()
 
