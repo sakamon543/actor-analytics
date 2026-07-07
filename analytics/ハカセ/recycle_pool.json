@@ -17,9 +17,9 @@
       "thread": [],
       "first_seen_views": 9727,
       "first_seen_at": "2026-06-17T04:21:46.301+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-07T13:31:18.903886+09:00"
     },
     "rcyc_66e6839e48": {
       "recycle_id": "rcyc_66e6839e48",
@@ -27,9 +27,9 @@
       "thread": [],
       "first_seen_views": 5792,
       "first_seen_at": "2026-06-16T13:21:48.597+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-07T13:31:18.903886+09:00"
     },
     "rcyc_b50be5b0a6": {
       "recycle_id": "rcyc_b50be5b0a6",
@@ -37,9 +37,9 @@
       "thread": [],
       "first_seen_views": 5508,
       "first_seen_at": "2026-06-16T05:46:27.675+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-07T13:31:18.903886+09:00"
     },
     "rcyc_8b1acc52fd": {
       "recycle_id": "rcyc_8b1acc52fd",
@@ -47,9 +47,9 @@
       "thread": [],
       "first_seen_views": 5446,
       "first_seen_at": "2026-06-21T11:31:27.434+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-07T13:31:18.903886+09:00"
     },
     "rcyc_68028e2685": {
       "recycle_id": "rcyc_68028e2685",
@@ -57,9 +57,9 @@
       "thread": [],
       "first_seen_views": 4630,
       "first_seen_at": "2026-06-18T13:22:07.504+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-07T13:31:18.903886+09:00"
     },
     "rcyc_bab0e712e3": {
       "recycle_id": "rcyc_bab0e712e3",
@@ -67,10 +67,10 @@
       "thread": [],
       "first_seen_views": 3501,
       "first_seen_at": "2026-06-19T04:21:46.513+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-07T13:31:18.903886+09:00"
     }
   },
-  "updated_at": "2026-07-07T09:00:58.521743+09:00"
+  "updated_at": "2026-07-07T13:31:18.903886+09:00"
 }

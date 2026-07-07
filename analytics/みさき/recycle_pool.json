@@ -17,9 +17,9 @@
       "thread": [],
       "first_seen_views": 6097,
       "first_seen_at": "2026-06-05T12:07:53.227+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-07T11:10:43.607041+09:00"
     },
     "rcyc_0215f3b7d4": {
       "recycle_id": "rcyc_0215f3b7d4",
@@ -27,9 +27,9 @@
       "thread": [],
       "first_seen_views": 2607,
       "first_seen_at": "2026-06-18T10:21:47.84+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-07T11:10:43.607041+09:00"
     },
     "rcyc_de53c98152": {
       "recycle_id": "rcyc_de53c98152",
@@ -37,9 +37,9 @@
       "thread": [],
       "first_seen_views": 2490,
       "first_seen_at": "2026-06-25T02:10:52.091+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-07T11:10:43.607041+09:00"
     },
     "rcyc_41c3571c87": {
       "recycle_id": "rcyc_41c3571c87",
@@ -57,9 +57,9 @@
       "thread": [],
       "first_seen_views": 2400,
       "first_seen_at": "2026-06-27T04:21:09.586+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-07T11:10:43.607041+09:00"
     },
     "rcyc_2af22a1454": {
       "recycle_id": "rcyc_2af22a1454",
@@ -67,9 +67,9 @@
       "thread": [],
       "first_seen_views": 4060,
       "first_seen_at": "2026-06-27T12:06:40.018+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-07T11:10:43.607041+09:00"
     },
     "rcyc_43aec21bcf": {
       "recycle_id": "rcyc_43aec21bcf",
@@ -77,9 +77,9 @@
       "thread": [],
       "first_seen_views": 8014,
       "first_seen_at": "2026-06-30T11:30:49.303+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-07T11:10:43.607041+09:00"
     },
     "rcyc_7f53ab36ea": {
       "recycle_id": "rcyc_7f53ab36ea",
@@ -92,5 +92,5 @@
       "last_used_at": null
     }
   },
-  "updated_at": "2026-07-07T09:00:35.001593+09:00"
+  "updated_at": "2026-07-07T11:10:43.607041+09:00"
 }
