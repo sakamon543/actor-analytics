@@ -50,8 +50,8 @@ accounts:
     account_setting: accounts/りお/アカウント情報総合管理.md
     start_date: 2026-06-04
     end_date: 2026-07-03
-    enabled: true
-    notes: 既存運用マシン登録済み・運用先=ab2a「りお│正しい「尽くし」①」（投稿0本・仕切り直し）を取り込み（2026-06-03）。商品=正しい尽くし術（溺愛系/全5章）。ターゲットは現役カップル×尽くしすぎ→溺愛で共通target（復縁女性）と一部ズレ＆復縁ネタ禁止→管理md参照。過去実績は別アカdcab（140本/thread1.5倍）にあり学習参照のみ。masterは未生成（next_batch.jsonで初回シード投入、analyzeはmaster=none扱いでスキップ）
+    enabled: false
+    notes: 【2026 ループから除外・enabled:false】伸びず・note売上なし、別アカウントに作り直したためループ対象から外す（ユーザー指示）。以下は履歴：既存運用マシン登録済み・運用先=ab2a「りお│正しい「尽くし」①」。商品=正しい尽くし術（溺愛系/全5章）。過去実績は別アカdcab（140本/thread1.5倍）。
 
   - name: ホンネ
     token_env: HONNE_TOKEN
