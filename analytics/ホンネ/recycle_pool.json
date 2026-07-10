@@ -27,9 +27,9 @@
       "thread": [],
       "first_seen_views": 4931,
       "first_seen_at": "2026-06-03T23:12:33.902+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-10T10:45:12.472241+09:00"
     },
     "rcyc_ecfdf1f082": {
       "recycle_id": "rcyc_ecfdf1f082",
@@ -37,9 +37,9 @@
       "thread": [],
       "first_seen_views": 11427,
       "first_seen_at": "2026-06-09T12:06:27.615+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-10T10:45:12.472241+09:00"
     },
     "rcyc_bc32159c5a": {
       "recycle_id": "rcyc_bc32159c5a",
@@ -107,9 +107,9 @@
       "thread": [],
       "first_seen_views": 3371,
       "first_seen_at": "2026-06-23T10:56:01.284+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-10T10:45:12.472241+09:00"
     },
     "rcyc_ad29da4329": {
       "recycle_id": "rcyc_ad29da4329",
@@ -127,9 +127,9 @@
       "thread": [],
       "first_seen_views": 5086,
       "first_seen_at": "2026-06-25T11:33:43.143+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-10T10:45:12.472241+09:00"
     },
     "rcyc_d3580f7f6c": {
       "recycle_id": "rcyc_d3580f7f6c",
@@ -182,7 +182,27 @@
       "status": "ready",
       "used_count": 0,
       "last_used_at": null
+    },
+    "rcyc_24e6a02565": {
+      "recycle_id": "rcyc_24e6a02565",
+      "text": "意外かもだけど、男は『年上の女性に普段通りに振る舞われる』と意識し始める生き物。ガツガツ来る若い子より、笑って世間話して、スッと自分の仕事に戻る年上の方が気になる。今、彼の前で緊張してぎこちなくなってるあなた、逆効果だから一回ちゃんと聞いてほしい。",
+      "thread": [],
+      "first_seen_views": 5477,
+      "first_seen_at": "2026-07-06T13:23:38.76+00:00",
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-10T10:45:12.472241+09:00"
+    },
+    "rcyc_c6e1913d85": {
+      "recycle_id": "rcyc_c6e1913d85",
+      "text": "彼に職場で意識される30-40代の女性、若い子には無い武器を持ってるんだよね。それは「余白」。20代の子が全力で距離詰めてくる中、あなたが少し引く瞬間を作ると、男は逆に落ち着かなくなる。慎重さじゃなくて、意図的な余白ね。",
+      "thread": [],
+      "first_seen_views": 4297,
+      "first_seen_at": "2026-07-04T11:31:50.735+00:00",
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-10T10:45:12.472241+09:00"
     }
   },
-  "updated_at": "2026-07-07T12:59:26.229665+09:00"
+  "updated_at": "2026-07-10T10:45:12.472241+09:00"
 }

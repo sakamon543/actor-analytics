@@ -47,9 +47,9 @@
       "thread": [],
       "first_seen_views": 2559,
       "first_seen_at": "2026-06-26T13:22:25.126+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-10T10:15:42.157325+09:00"
     },
     "rcyc_a3a5d8e644": {
       "recycle_id": "rcyc_a3a5d8e644",
@@ -87,10 +87,20 @@
       "thread": [],
       "first_seen_views": 2152,
       "first_seen_at": "2026-07-01T05:45:45.879+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-10T10:15:42.157325+09:00"
+    },
+    "rcyc_5c81d78d6a": {
+      "recycle_id": "rcyc_5c81d78d6a",
+      "text": "別れて1週間目の彼と、2ヶ月目の彼は、別人だと思った方がいい。1週間目はまだ罪悪感でぐらついてるけど、2ヶ月目の彼はもう\"別れて落ち着いた自分\"に慣れてる。同じLINEを送っても届き方が全然違うんだよね。今冷却期間中のあなた、動くタイミングだけは絶対ズラしちゃダメ。",
+      "thread": [],
+      "first_seen_views": 3367,
+      "first_seen_at": "2026-07-06T13:23:01.88+00:00",
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-10T10:15:42.157325+09:00"
     }
   },
-  "updated_at": "2026-07-07T11:10:43.607041+09:00"
+  "updated_at": "2026-07-10T10:15:42.157325+09:00"
 }
