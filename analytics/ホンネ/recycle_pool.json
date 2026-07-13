@@ -57,9 +57,9 @@
       "thread": [],
       "first_seen_views": 2628,
       "first_seen_at": "2026-06-06T10:12:37.421+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-13T11:11:13.240528+09:00"
     },
     "rcyc_168bba9fdb": {
       "recycle_id": "rcyc_168bba9fdb",
@@ -77,9 +77,9 @@
       "thread": [],
       "first_seen_views": 2399,
       "first_seen_at": "2026-06-17T10:56:56.264+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-13T11:11:13.240528+09:00"
     },
     "rcyc_dea2138716": {
       "recycle_id": "rcyc_dea2138716",
@@ -87,9 +87,9 @@
       "thread": [],
       "first_seen_views": 2839,
       "first_seen_at": "2026-06-18T09:07:53.023+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-13T11:11:13.240528+09:00"
     },
     "rcyc_8c30fb453f": {
       "recycle_id": "rcyc_8c30fb453f",
@@ -97,9 +97,9 @@
       "thread": [],
       "first_seen_views": 2612,
       "first_seen_at": "2026-06-19T11:32:44.823+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-13T11:11:13.240528+09:00"
     },
     "rcyc_757cf5e3d7": {
       "recycle_id": "rcyc_757cf5e3d7",
@@ -159,9 +159,9 @@
       ],
       "first_seen_views": 6734,
       "first_seen_at": "2026-07-05T02:12:43.417+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-13T11:11:13.240528+09:00"
     },
     "rcyc_d8b79833a9": {
       "recycle_id": "rcyc_d8b79833a9",
@@ -202,7 +202,17 @@
       "status": "used",
       "used_count": 1,
       "last_used_at": "2026-07-10T10:45:12.472241+09:00"
+    },
+    "rcyc_2d5037435e": {
+      "recycle_id": "rcyc_2d5037435e",
+      "text": "「気になる相手には積極的にアプローチする」はウソ。男の俺から言うと、これ職場では逆効果。あなたが今、彼のシフト確認したり、話しかけるタイミング図ってるなら止めた方がいい。彼、そのアプローチほど「ただの気が合う同僚」で処理してる。",
+      "thread": [],
+      "first_seen_views": 4219,
+      "first_seen_at": "2026-07-07T13:23:46.408+00:00",
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-13T11:11:13.240528+09:00"
     }
   },
-  "updated_at": "2026-07-10T10:45:12.472241+09:00"
+  "updated_at": "2026-07-13T11:11:13.240528+09:00"
 }
