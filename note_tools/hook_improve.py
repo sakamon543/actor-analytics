@@ -408,7 +408,13 @@ def _loads_with_repair(s):
     try:
         return json.loads(s)
     except json.JSONDecodeError:
-        return json.loads(_repair_json_text(s))
+        pass
+    try:
+        # 文字列内の生改行・タブ等の制御文字を許容（Invalid control character 対策）
+        return json.loads(s, strict=False)
+    except json.JSONDecodeError:
+        # 裸の二重引用符（"仕掛け" 等）を修復して再トライ（制御文字許容も併用）
+        return json.loads(_repair_json_text(s), strict=False)
 
 
 def extract_json_from_text(text):
