@@ -74,6 +74,11 @@
           "scheduled_at": "2026-07-14T19:52:00+09:00",
           "registered_at": "2026-07-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-20T19:17:00+09:00",
+          "registered_at": "2026-07-17",
+          "views": null
         }
       ]
     },
@@ -308,6 +313,11 @@
           "scheduled_at": "2026-05-23T11:08:00+09:00",
           "registered_at": "2026-05-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-19T14:42:00+09:00",
+          "registered_at": "2026-07-17",
+          "views": null
         }
       ]
     },
@@ -332,6 +342,11 @@
           "scheduled_at": "2026-05-23T14:42:00+09:00",
           "registered_at": "2026-05-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-20T14:42:00+09:00",
+          "registered_at": "2026-07-17",
+          "views": null
         }
       ]
     },
@@ -355,6 +370,11 @@
         {
           "scheduled_at": "2026-05-23T19:17:00+09:00",
           "registered_at": "2026-05-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-20T18:03:00+09:00",
+          "registered_at": "2026-07-17",
           "views": null
         }
       ]
@@ -2770,6 +2790,11 @@
           "scheduled_at": "2026-07-13T14:42:00+09:00",
           "registered_at": "2026-07-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-18T14:42:00+09:00",
+          "registered_at": "2026-07-17",
+          "views": null
         }
       ]
     },
@@ -2818,6 +2843,11 @@
         {
           "scheduled_at": "2026-07-14T22:17:00+09:00",
           "registered_at": "2026-07-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-18T22:17:00+09:00",
+          "registered_at": "2026-07-17",
           "views": null
         }
       ]
@@ -2873,6 +2903,11 @@
         {
           "scheduled_at": "2026-07-15T18:03:00+09:00",
           "registered_at": "2026-07-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-19T22:48:00+09:00",
+          "registered_at": "2026-07-17",
           "views": null
         }
       ]
@@ -2963,7 +2998,8 @@
         {
           "scheduled_at": "2026-06-29T22:48:00+09:00",
           "registered_at": "2026-06-28",
-          "views": null
+          "views": 9,
+          "posted_at": "2026-07-14T04:20:54.274+00:00"
         },
         {
           "scheduled_at": "2026-07-03T19:17:00+09:00",
@@ -2983,6 +3019,11 @@
         {
           "scheduled_at": "2026-07-14T13:17:00+09:00",
           "registered_at": "2026-07-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-20T21:03:00+09:00",
+          "registered_at": "2026-07-17",
           "views": null
         }
       ]
@@ -3264,6 +3305,11 @@
         {
           "scheduled_at": "2026-07-13T19:17:00+09:00",
           "registered_at": "2026-07-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-18T19:52:00+09:00",
+          "registered_at": "2026-07-17",
           "views": null
         }
       ]
@@ -3615,6 +3661,11 @@
           "scheduled_at": "2026-07-15T13:17:00+09:00",
           "registered_at": "2026-07-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-19T20:28:00+09:00",
+          "registered_at": "2026-07-17",
+          "views": null
         }
       ]
     },
@@ -3637,6 +3688,11 @@
         {
           "scheduled_at": "2026-07-15T21:03:00+09:00",
           "registered_at": "2026-07-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-20T11:08:00+09:00",
+          "registered_at": "2026-07-17",
           "views": null
         }
       ]
@@ -3868,7 +3924,8 @@
         {
           "scheduled_at": "2026-07-12T22:48:00+09:00",
           "registered_at": "2026-07-09",
-          "views": null
+          "views": 242,
+          "posted_at": "2026-07-12T13:50:39.476+00:00"
         }
       ]
     },
@@ -4097,7 +4154,7 @@
         {
           "scheduled_at": "2026-07-15T20:28:00+09:00",
           "registered_at": "2026-07-12",
-          "views": 9,
+          "views": 10,
           "posted_at": "2026-07-15T11:30:52.003+00:00"
         }
       ]
@@ -4122,6 +4179,222 @@
         {
           "scheduled_at": "2026-07-15T22:48:00+09:00",
           "registered_at": "2026-07-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_76be97a715": {
+      "text": "別れて3ヶ月後、思わず自分から元カノに連絡したときの僕の心理を話すね。別れた時は「復縁しない」って決めてたし、自分から連絡することは絶対ないと思ってた。でも別れて少し経った時、彼女がまだ「自分のことを好きでいてくれるか」気になったんだよね。最低だけど、これは完全に男あるあるで、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-17",
+      "history": [
+        {
+          "scheduled_at": "2026-07-18T11:08:00+09:00",
+          "registered_at": "2026-07-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_55afddd8a0": {
+      "text": "これあんまり言いたくないけど、裏で「元カノと復縁したい」って言ってる男ってマジで多い。でも男って謎にプライド高いから大抵、自分から連絡できない。そういう場合は女性側から連絡しないと、何も進まないんだよね。時には待つだけじゃなく動くことも大事ってこと。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-17",
+      "history": [
+        {
+          "scheduled_at": "2026-07-18T18:03:00+09:00",
+          "registered_at": "2026-07-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_52fd88d5da": {
+      "text": "男って元カノが新しい趣味見つけたり、何か頑張ってる姿見ると不安になるんだよね。「このまま他の男と付き合ったりしたら嫌だな」って。僕も元カノがジム通い始めた時、めっちゃ気になって仕方なかった。結局それがきっかけで連絡しちゃった。元彼以外の何かに向き合うことで元彼はあなたを意識するから",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-17",
+      "history": [
+        {
+          "scheduled_at": "2026-07-18T19:17:00+09:00",
+          "registered_at": "2026-07-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0f972304ca": {
+      "text": "別れた後、元カノが妙にさっぱりしてたら男は後悔して勝手に戻ってくる。「私より良い女はいない」って本気で思ってる強気な女性に男は惚れるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-17",
+      "history": [
+        {
+          "scheduled_at": "2026-07-18T20:28:00+09:00",
+          "registered_at": "2026-07-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_461d1ac4a4": {
+      "text": "元カノと復縁してみて分かったこと\n･冷却期間に長さは関係無い",
+      "structure_label": "経験者暴露型",
+      "first_used_at": "2026-07-17",
+      "history": [
+        {
+          "scheduled_at": "2026-07-18T21:03:00+09:00",
+          "registered_at": "2026-07-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_99cb69e936": {
+      "text": "改めて言うけど、復縁は全然ある。\nなぜなら、一度付き合えた時点で他の人よりもチャンスはあると思うから。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-07-17",
+      "history": [
+        {
+          "scheduled_at": "2026-07-18T22:48:00+09:00",
+          "registered_at": "2026-07-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c33eaf8e69": {
+      "text": "復縁したい。でも、\n・完全に冷められてるから無理そう",
+      "structure_label": "読者の絶望描写型",
+      "first_used_at": "2026-07-17",
+      "history": [
+        {
+          "scheduled_at": "2026-07-19T11:08:00+09:00",
+          "registered_at": "2026-07-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_77a5ec9e5f": {
+      "text": "男が別れを決めるとき「冷めた」よりダントツ多いのが「しんどくなった」なんだよね。彼女がしんどいんじゃなくて「彼女の理想に合わせられない自分に限界を感じた」が本心。彼女への愛情が消えたわけじゃないから、別れたあとも元カノへの気持ちは残ったまま。復縁した男が口を揃えて言うのが「振ったけど、",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-17",
+      "history": [
+        {
+          "scheduled_at": "2026-07-19T13:17:00+09:00",
+          "registered_at": "2026-07-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a8b95426ae": {
+      "text": "先日、復縁記念日で彼女が行きたがってたレストランに行ってきた。「復縁した男は愛情が爆発する」ってよく聞くけど、自分を客観的に見るとマジでそうだなって思う。復縁して2年経った今も好きな気持ちがどんどん大きくなってるし、自分勝手な理由で振って傷つけたからこそ、",
+      "structure_label": "経験者暴露型",
+      "first_used_at": "2026-07-17",
+      "history": [
+        {
+          "scheduled_at": "2026-07-19T18:03:00+09:00",
+          "registered_at": "2026-07-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d9ddad480f": {
+      "text": "【振った元カノと復縁して気づいたこと】\n･振った側も未練は残る",
+      "structure_label": "経験者暴露型",
+      "first_used_at": "2026-07-17",
+      "history": [
+        {
+          "scheduled_at": "2026-07-19T19:17:00+09:00",
+          "registered_at": "2026-07-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7410d4a1ce": {
+      "text": "男は、『連絡が続いている＝関係が進んでいる』とは思っていない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-17",
+      "history": [
+        {
+          "scheduled_at": "2026-07-19T19:52:00+09:00",
+          "registered_at": "2026-07-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3802c61207": {
+      "text": "女性は吹っ切れるまで時間がかかるけど、男の場合は時間が経っても吹っ切れないんだよね。最初は強がりで前向きアピするかもだけど、内心は元カノを振った後悔を感じてる。男だから分かるけど、元カノを嫌いになることは絶対にない。アプローチのタイミングさえ間違えなければ復縁は可能。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-17",
+      "history": [
+        {
+          "scheduled_at": "2026-07-19T21:03:00+09:00",
+          "registered_at": "2026-07-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_87e47e97a3": {
+      "text": "男が別れ話で「嫌いになったわけじゃない」「幸せにできない」って言う心理はこう↓\n・好きだけどそれ以上にしんどい",
+      "structure_label": "セリフ引用型",
+      "first_used_at": "2026-07-17",
+      "history": [
+        {
+          "scheduled_at": "2026-07-19T22:17:00+09:00",
+          "registered_at": "2026-07-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_df110bbc8f": {
+      "text": "男性って元カノを絶対忘れないからね",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-07-17",
+      "history": [
+        {
+          "scheduled_at": "2026-07-20T13:17:00+09:00",
+          "registered_at": "2026-07-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_527972a474": {
+      "text": "『振った男ほど元カノに未練たらたらになる』っていうのはマジ",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-17",
+      "history": [
+        {
+          "scheduled_at": "2026-07-20T19:52:00+09:00",
+          "registered_at": "2026-07-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7ed16da2d2": {
+      "text": "男性は1度冷めても惚れ直すから、諦めなくていいよ",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-07-17",
+      "history": [
+        {
+          "scheduled_at": "2026-07-20T20:28:00+09:00",
+          "registered_at": "2026-07-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cec6eb410d": {
+      "text": "復縁して分かったんだけど、『未練が残るのは男』って話は本当",
+      "structure_label": "経験者暴露型",
+      "first_used_at": "2026-07-17",
+      "history": [
+        {
+          "scheduled_at": "2026-07-20T22:17:00+09:00",
+          "registered_at": "2026-07-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dfcb122d33": {
+      "text": "実は、回避型の男ほど元カノを忘れられないんだよね",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-17",
+      "history": [
+        {
+          "scheduled_at": "2026-07-20T22:48:00+09:00",
+          "registered_at": "2026-07-17",
           "views": null
         }
       ]

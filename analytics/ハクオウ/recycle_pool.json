@@ -139,10 +139,10 @@
       "thread": [],
       "first_seen_views": 2174,
       "first_seen_at": "2026-07-09T10:55:30.779+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-17T10:07:31.233814+09:00"
     }
   },
-  "updated_at": "2026-07-16T09:01:00.641055+09:00"
+  "updated_at": "2026-07-17T10:07:31.233814+09:00"
 }
