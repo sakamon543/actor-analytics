@@ -359,7 +359,10 @@
       "likes": 166,
       "source": "https://x.com/Kei_zoon/status/1987438006509445561",
       "source_handle": "kei_zoon",
-      "collected_at": "2026-07-12"
+      "collected_at": "2026-07-12",
+      "used_by": {
+        "うみこ": "2026-07-18"
+      }
     },
     {
       "pool_id": "hp_14350e7f37",
@@ -395,7 +398,8 @@
       "source_handle": "haru_motokare",
       "collected_at": "2026-07-12",
       "used_by": {
-        "ハカセ": "2026-07-13"
+        "ハカセ": "2026-07-13",
+        "うみこ": "2026-07-18"
       }
     },
     {
@@ -481,7 +485,10 @@
       "likes": 64,
       "source": "https://x.com/8_ludr7/status/2073385301960192057",
       "source_handle": "8_ludr7",
-      "collected_at": "2026-07-12"
+      "collected_at": "2026-07-12",
+      "used_by": {
+        "うみこ": "2026-07-18"
+      }
     },
     {
       "pool_id": "hp_91f107e63e",
@@ -682,7 +689,10 @@
       "likes": 68,
       "source": "https://x.com/haru_motokare/status/2067939489897762979",
       "source_handle": "haru_motokare",
-      "collected_at": "2026-07-12"
+      "collected_at": "2026-07-12",
+      "used_by": {
+        "うみこ": "2026-07-18"
+      }
     },
     {
       "pool_id": "hp_4a1168b150",
@@ -813,7 +823,10 @@
       "likes": 74,
       "source": "https://x.com/haru_motokare/status/2071771194697863296",
       "source_handle": "haru_motokare",
-      "collected_at": "2026-07-12"
+      "collected_at": "2026-07-12",
+      "used_by": {
+        "うみこ": "2026-07-18"
+      }
     },
     {
       "pool_id": "hp_673f3b2e0d",
@@ -883,7 +896,10 @@
       "likes": 87,
       "source": "https://x.com/haru_motokare/status/2067062507756453938",
       "source_handle": "haru_motokare",
-      "collected_at": "2026-07-12"
+      "collected_at": "2026-07-12",
+      "used_by": {
+        "うみこ": "2026-07-18"
+      }
     },
     {
       "pool_id": "hp_2426d52d03",
@@ -892,7 +908,10 @@
       "likes": 56,
       "source": "https://x.com/haru_motokare/status/2074407822817722658",
       "source_handle": "haru_motokare",
-      "collected_at": "2026-07-12"
+      "collected_at": "2026-07-12",
+      "used_by": {
+        "うみこ": "2026-07-18"
+      }
     },
     {
       "pool_id": "hp_54e40b41b6",
@@ -979,7 +998,10 @@
       "likes": 34,
       "source": "https://x.com/haru_motokare/status/2070326080221942102",
       "source_handle": "haru_motokare",
-      "collected_at": "2026-07-12"
+      "collected_at": "2026-07-12",
+      "used_by": {
+        "うみこ": "2026-07-18"
+      }
     },
     {
       "pool_id": "hp_8b19314e77",
@@ -988,7 +1010,10 @@
       "likes": 73,
       "source": "https://x.com/haru_motokare/status/2074458006272782375",
       "source_handle": "haru_motokare",
-      "collected_at": "2026-07-12"
+      "collected_at": "2026-07-12",
+      "used_by": {
+        "うみこ": "2026-07-18"
+      }
     },
     {
       "pool_id": "hp_1d0310c0bd",
@@ -1042,7 +1067,10 @@
       "likes": 11,
       "source": "https://x.com/haru_motokare/status/2075184986979021101",
       "source_handle": "haru_motokare",
-      "collected_at": "2026-07-12"
+      "collected_at": "2026-07-12",
+      "used_by": {
+        "うみこ": "2026-07-18"
+      }
     },
     {
       "pool_id": "hp_5da2f28791",
@@ -1051,7 +1079,10 @@
       "likes": 8,
       "source": "https://x.com/haru_motokare/status/2068149635831767194",
       "source_handle": "haru_motokare",
-      "collected_at": "2026-07-12"
+      "collected_at": "2026-07-12",
+      "used_by": {
+        "うみこ": "2026-07-18"
+      }
     },
     {
       "pool_id": "hp_597b209489",
@@ -1069,7 +1100,10 @@
       "likes": 56,
       "source": "https://x.com/haru_motokare/status/2070118472152121348",
       "source_handle": "haru_motokare",
-      "collected_at": "2026-07-12"
+      "collected_at": "2026-07-12",
+      "used_by": {
+        "うみこ": "2026-07-18"
+      }
     },
     {
       "pool_id": "hp_e86d9be511",
@@ -2809,5 +2843,5 @@
       "collected_at": "2026-07-10"
     }
   ],
-  "updated_at": "2026-07-17T12:44:41.478525+09:00"
+  "updated_at": "2026-07-18T10:18:24.079705+09:00"
 }
