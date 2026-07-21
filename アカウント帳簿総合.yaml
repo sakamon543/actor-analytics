@@ -77,6 +77,38 @@ accounts:
     enabled: true
     notes: ウェブフック1本統一＝本体アカウントで運用中（「①」なし）。取り込み時アクティブ投稿中（60日228本）。商品=復縁の最短ルート（心理学3週間プログラム¥1,980）。ターゲットは復縁女性で共通target整合。既存予約ラスト2026-06-06 21:00と重複回避のため初回シードは6/7から。表示名「ハカセ＠元カレ中毒の仕掛け人」。勝ち筋=俺の男本音暴露・元彼インタビュー型・数字権威(220は半分までユーザー指示)・3週間動かない/死に筋=説明完結・抽象上から・占いdisり・専門用語フック。masterは未生成（analyzeはmaster=none扱いでスキップ）
 
+  - name: miho
+    token_env: MIHO_TOKEN
+    account_setting: accounts/miho/アカウント情報総合管理.md
+    start_date: 2026-07-22
+    end_date: 2026-08-21
+    enabled: true
+    notes: 【2026-07-09 新規登録】本体アカウント運用型（miho＠復縁否定派の彼と復縁）。手動予約が2026-07-21まで入っているため start_date=7/22（二重投稿回避）。実績322本/180日。勝ち筋=否定列挙+断定/絶望に寄り添って否定/自己開示。死に筋=絵文字箇条書きリスト・誘導だけの薄いフック。※normalがthreadより有効(1.2倍)。masterは未生成（analyzeはmaster=none扱いでスキップ）
+
+  - name: みき
+    token_env: MIKI_TOKEN
+    account_setting: accounts/みき/アカウント情報総合管理.md
+    start_date: 2026-07-22
+    end_date: 2026-08-21
+    enabled: true
+    notes: 【2026-07-09 新規登録】本体アカウント運用型（みき・職場×4歳下後輩×気づかせメソッド）。手動予約が2026-07-21まで→start_date=7/22。実績360本/180日（thread2.3倍）。勝ち筋=読者のやっちゃってる具体セリフを名指し+「なぜかというと、」で切る（49688views）。死に筋=疑問提起スタート・抽象ノウハウ・3流2流1流型。復縁ネタ禁止。masterは未生成
+
+  - name: みな
+    token_env: MINA_TOKEN
+    account_setting: accounts/みな/アカウント情報総合管理.md
+    start_date: 2026-07-22
+    end_date: 2026-08-21
+    enabled: true
+    notes: 【2026-07-09 新規登録】本体アカウント運用型（みな│マチアプ婚活・handle @quin_ouji＝旧クイン①枠を転用）。手動予約が2026-07-21まで→start_date=7/22。実績40本/90日（thread3.7倍）。勝ち筋=思い込み否定+本人の具体数字(2年47人0人→3ヶ月5人)+旦那の本音。復縁ネタ禁止。masterは未生成
+
+  - name: りさ
+    token_env: RISA_TOKEN
+    account_setting: accounts/りさ/アカウント情報総合管理.md
+    start_date: 2026-07-22
+    end_date: 2026-08-21
+    enabled: true
+    notes: 【2026-07-09 新規登録】本体アカウント運用型（りさ│年の差恋愛）。手動予約が2026-07-21まで→start_date=7/22。実績125本/90日（thread3.7倍）。勝ち筋=「年下が沼る年上には共通点がある→若さでも美貌でも包容力でもない→それは、」で切る型が上位独占(12929/11144/9810)。死に筋=自分語りstart・結論先出し。復縁ネタ禁止。masterは未生成
+
   # 演者追加例（コピペで増やす）:
   # - name: あや
   #   token_env: AYA_TOKEN
