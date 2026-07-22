@@ -213,10 +213,10 @@
       ],
       "first_seen_views": 7878,
       "first_seen_at": "2026-07-19T12:07:07.464+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-07-22T18:09:29.356952+09:00"
     }
   },
-  "updated_at": "2026-07-22T09:00:42.573226+09:00"
+  "updated_at": "2026-07-22T18:09:29.356952+09:00"
 }

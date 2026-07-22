@@ -299,7 +299,8 @@
       "source_handle": "haru_motokare",
       "collected_at": "2026-07-12",
       "used_by": {
-        "みさき": "2026-07-17"
+        "みさき": "2026-07-17",
+        "うみこ": "2026-07-22"
       }
     },
     {
@@ -576,7 +577,8 @@
       "source_handle": "haru_motokare",
       "collected_at": "2026-07-12",
       "used_by": {
-        "みさき": "2026-07-17"
+        "みさき": "2026-07-17",
+        "うみこ": "2026-07-22"
       }
     },
     {
@@ -863,7 +865,8 @@
       "source_handle": "haru_motokare",
       "collected_at": "2026-07-12",
       "used_by": {
-        "ハカセ": "2026-07-17"
+        "ハカセ": "2026-07-17",
+        "うみこ": "2026-07-22"
       }
     },
     {
@@ -901,7 +904,8 @@
       "source_handle": "kei_zoon",
       "collected_at": "2026-07-12",
       "used_by": {
-        "ハカセ": "2026-07-13"
+        "ハカセ": "2026-07-13",
+        "うみこ": "2026-07-22"
       }
     },
     {
@@ -959,7 +963,10 @@
       "likes": 48,
       "source": "https://x.com/haru_motokare/status/2074099506606686612",
       "source_handle": "haru_motokare",
-      "collected_at": "2026-07-12"
+      "collected_at": "2026-07-12",
+      "used_by": {
+        "うみこ": "2026-07-22"
+      }
     },
     {
       "pool_id": "hp_243e8d92af",
@@ -1070,7 +1077,8 @@
       "source_handle": "haru_motokare",
       "collected_at": "2026-07-12",
       "used_by": {
-        "ハカセ": "2026-07-17"
+        "ハカセ": "2026-07-17",
+        "うみこ": "2026-07-22"
       }
     },
     {
@@ -1158,7 +1166,10 @@
       "likes": 64,
       "source": "https://x.com/haru_motokare/status/2068246725647577145",
       "source_handle": "haru_motokare",
-      "collected_at": "2026-07-12"
+      "collected_at": "2026-07-12",
+      "used_by": {
+        "うみこ": "2026-07-22"
+      }
     },
     {
       "pool_id": "hp_78d4073f40",
@@ -1189,7 +1200,10 @@
       "likes": 54,
       "source": "https://x.com/haru_motokare/status/2075761517983932702",
       "source_handle": "haru_motokare",
-      "collected_at": "2026-07-12"
+      "collected_at": "2026-07-12",
+      "used_by": {
+        "うみこ": "2026-07-22"
+      }
     },
     {
       "pool_id": "hp_80c66d2d39",
@@ -1198,7 +1212,10 @@
       "likes": 33,
       "source": "https://x.com/1o_yyb/status/2074614182519992726",
       "source_handle": "1o_yyb",
-      "collected_at": "2026-07-10"
+      "collected_at": "2026-07-10",
+      "used_by": {
+        "うみこ": "2026-07-22"
+      }
     },
     {
       "pool_id": "hp_abb072919e",
@@ -1225,7 +1242,10 @@
       "likes": 19,
       "source": "https://x.com/Kei_zoon/status/2044243397498810457",
       "source_handle": "kei_zoon",
-      "collected_at": "2026-07-09"
+      "collected_at": "2026-07-09",
+      "used_by": {
+        "うみこ": "2026-07-22"
+      }
     },
     {
       "pool_id": "hp_f46429f142",
@@ -1252,7 +1272,10 @@
       "likes": 13,
       "source": "https://x.com/haru_motokare/status/2068305677282644246",
       "source_handle": "haru_motokare",
-      "collected_at": "2026-07-12"
+      "collected_at": "2026-07-12",
+      "used_by": {
+        "うみこ": "2026-07-22"
+      }
     },
     {
       "pool_id": "hp_cee6fbadea",
@@ -1261,7 +1284,10 @@
       "likes": 48,
       "source": "https://x.com/Kei_zoon/status/2019330907031892174",
       "source_handle": "kei_zoon",
-      "collected_at": "2026-07-09"
+      "collected_at": "2026-07-09",
+      "used_by": {
+        "うみこ": "2026-07-22"
+      }
     },
     {
       "pool_id": "hp_743d6890c9",
@@ -2881,5 +2907,5 @@
       "collected_at": "2026-07-10"
     }
   ],
-  "updated_at": "2026-07-20T11:53:13.077869+09:00"
+  "updated_at": "2026-07-22T18:09:29.360728+09:00"
 }
