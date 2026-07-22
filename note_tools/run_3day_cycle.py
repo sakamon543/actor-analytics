@@ -170,6 +170,10 @@ def run_hook_improve(account):
         err = (result.stderr or "")[:500]
         print(f"  ✗ hook_improve失敗:")
         print(result.stderr)
+        # 失敗原因の大半はstdout側に出る（Phase1 JSON失敗・claude -pのエラーJSON等）ので末尾も残す
+        tail = (result.stdout or "").strip()[-600:]
+        if tail:
+            print(f"  [stdout末尾] {tail}")
         # Claude Code の認証期限切れ検知（stdoutのJSONに認証エラーが入る）
         combined = (result.stdout or "") + (result.stderr or "")
         if ("401" in combined and ("authenticate" in combined.lower() or "credential" in combined.lower())) \
