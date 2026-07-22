@@ -1,0 +1,292 @@
+{
+  "hooks": {
+    "fookid_81b7924685": {
+      "text": "年下男子が「この人から離れられない」と沼る年上には、はっきりした共通点があるんです。若さでも、美貌でも、包容力でもありません。それは、",
+      "structure_label": "共通点発見型／常識否定型",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-23T11:08:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7a636aa3f5": {
+      "text": "年下男子の距離感は、興味がないサインじゃない",
+      "structure_label": "現象の意味否定型",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-23T14:42:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3e93074e74": {
+      "text": "年上として、何を差し出せば年下が本気になるのか。答えは、大人の余裕でも若さでもありません。7歳下と2年目で確信した、本当に必要なのは、",
+      "structure_label": "問いかけ命題型／否定列挙",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-23T18:03:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_19f7c8aef6": {
+      "text": "年下男子の本音を言うと、頼られてる間は恋愛対象と見ない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-23T19:17:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0bc5cccab7": {
+      "text": "年下男子が「この人じゃなきゃ」と本気になる年上には、はっきりした共通点があります。若さでも、美貌でも、包容力でもありません。私が2年かけて掴んだ答えは、",
+      "structure_label": "共通点発見型／常識否定型",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-23T19:52:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d946c532b2": {
+      "text": "意外かもだけど、年下男子は『完璧な年上ほど手が出ない』生き物",
+      "structure_label": "男性心理暴露型（生き物型）",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-23T21:03:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dce42336c6": {
+      "text": "経験談ですが、年上って「余裕を見せれば頼られる」と思い込んでいます",
+      "structure_label": "経験者暴露型／思い込み暴き",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-23T22:17:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0cfe0a59e4": {
+      "text": "年下男子が「この人じゃなきゃ」って本気になる年上には、共通点があるんです。若さでも、完璧さでも、包容力でもない。むしろ逆で、",
+      "structure_label": "共通点発見型／常識否定型",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-24T11:08:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_288b7f22ca": {
+      "text": "年下男子は、「頼れる年上=恋愛対象」とは思っていない",
+      "structure_label": "心理否定型（等式否定）",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-24T14:42:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_333e79ae49": {
+      "text": "年下男子の脈は、分かりやすいアプローチには出てきません。私も彼のサインを2年近く読み違えていました。本当に出るのは、こういうところです。",
+      "structure_label": "反直感型／脈のサイン",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-24T18:03:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_89ad216839": {
+      "text": "年下男子の「大人ですね」は褒め言葉じゃなくて、ただの『恋愛対象外通告』",
+      "structure_label": "セリフの真意暴露型",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-24T19:17:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b4c266ab2e": {
+      "text": "年下男子って興味ないから距離を取るんじゃなくて、憧れが強いほど動けなくなるんだよね",
+      "structure_label": "対比構造型（〜じゃなくて）",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-24T19:52:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6712f092f9": {
+      "text": "「年上はどっしり構えて余裕を見せろ」はウソ",
+      "structure_label": "常識否定型（ウソ）",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-24T20:28:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_283953b6d0": {
+      "text": "実は、余裕を手放した年上の方が年下に本命化される確率が高い",
+      "structure_label": "反転希望型／確率断言",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-24T21:03:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d92db3c0f4": {
+      "text": "7歳下の彼が言ってたけど『男は完璧な年上に近づけない』ということをしちゃうらしい",
+      "structure_label": "男性当事者引用型",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-24T22:17:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3f563b3fff": {
+      "text": "好きな年下に、そろそろ気持ちを伝えようとしていませんか。それはまだ早いかもしれません。私も一度、勢いで伝えて、そこから2週間距離を置かれました。年下男子は、",
+      "structure_label": "読者行動注意型",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-25T11:08:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_93c2aba816": {
+      "text": "7歳下と付き合って分かったんだけど、「余裕は逆効果」って話は本当",
+      "structure_label": "経験者発見型／反転希望",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-25T13:17:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_81592dd6d5": {
+      "text": "これ年上は恐らく知りませんが、年下男子は完璧な年上より隙のある年上に本気になる",
+      "structure_label": "意外な事実暴露型",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-25T14:42:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f435088ce8": {
+      "text": "年下男子が年上に落ちる瞬間って、結局『完璧な人が急に無防備になったとき』なんだよね",
+      "structure_label": "落ちる瞬間分析型",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-25T18:03:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_36587f963d": {
+      "text": "意外かもしれないけど、しっかりした年上ほど年下男子に本命化されない",
+      "structure_label": "反転希望型（属性の逆説）",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-25T19:17:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2a0e5ca1c8": {
+      "text": "年下男子は「年上は対象外」と思ってても普通に本気になるから諦めなくていいよ",
+      "structure_label": "励まし断言型",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-25T19:52:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c013879706": {
+      "text": "年下男子って完璧な年上に踏み込めないからね",
+      "structure_label": "男性心理断言型（短系）",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-25T20:28:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_501ed517b2": {
+      "text": "私の経験上、年の差恋愛で多いのは『年下から本気になる』パターン",
+      "structure_label": "経験談パターン型",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-25T21:03:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cbb2ff12b7": {
+      "text": "年下男子は「頼れるお姉さん」を簡単に恋愛対象には見れない",
+      "structure_label": "男性心理断言型（できない型）",
+      "first_used_at": "2026-07-22",
+      "history": [
+        {
+          "scheduled_at": "2026-07-25T22:17:00+09:00",
+          "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    }
+  }
+}
