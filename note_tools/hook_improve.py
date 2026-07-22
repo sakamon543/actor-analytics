@@ -329,6 +329,26 @@ def load_scraped_pool():
 SCRAPED_MAX_ACTORS = 2        # 同一フックを使える演者は通算2人まで
 SCRAPED_CROSS_COOLDOWN = 3    # 他演者が使ってから3日以上空ける
 
+# 男性当事者として語る演者（一人称=僕/俺）。ここに無い演者は女性当事者（一人称=私）扱い。
+MALE_ACTORS = {"ハクオウ", "ホンネ", "ヒロ", "ハカセ", "リクオウ", "りょう"}
+
+_QUOTED_RE = re.compile(r"[「『][^」』]*[」』]")
+
+
+def voice_mismatch(hook_text, actor):
+    """収集フックの語り手の性別が演者と食い違っていないか判定する。
+
+    収集フックは「実績文言なので一字も変えない」運用のため、男性演者から集めた
+    「僕も振った彼女が〜」をそのまま女性演者のメインに置くと一人称が壊れる
+    （2026-07-23に かれん/あや/miho で実際に発生）。カギ括弧内は彼のセリフ引用＝
+    正常なので除外し、地の文の一人称だけを見る。"""
+    bare = _QUOTED_RE.sub("", hook_text or "")
+    male = re.search(r"僕|俺", bare)
+    female = re.search(r"私|あたし", bare)
+    if actor in MALE_ACTORS:
+        return bool(female) and not male    # 男性演者の地の文に「私」だけ＝女性演者のフック
+    return bool(male)                       # 女性演者の地の文に「僕/俺」＝男性演者のフック
+
 
 def select_scraped_hooks(pool, actor, max_count):
     """この演者が未使用の収集フックを選ぶ（演者間の被り制御込み・2026-07-11改修）。
@@ -341,6 +361,8 @@ def select_scraped_hooks(pool, actor, max_count):
     for h in pool.get("hooks", []):
         if not (h.get("first_lines") or "").strip():
             continue
+        if voice_mismatch(h.get("first_lines"), actor):
+            continue                          # 語り手の性別が演者と食い違うフックは使わない
         ub = h.get("used_by") or {}
         if actor in ub:
             continue                          # 同演者の再利用禁止（従来通り）
