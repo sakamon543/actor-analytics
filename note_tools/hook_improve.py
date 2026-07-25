@@ -1200,6 +1200,9 @@ def run(actor, phase1_only=False, limit=None, reuse_phase1=False):
     }
     out_path = os.path.join(analytics_dir, "next_batch.json")
     save_json(out_path, output)
+    # タイプ別成績レビュー用に日付付きでもアーカイブ（type_review.py が2週間分を突合する）
+    save_json(os.path.join(analytics_dir, "batches",
+                           f"batch_{datetime.now(tz=JST).strftime('%Y%m%d_%H%M')}.json"), output)
     print(f"\n  ✓ 出力: {out_path}（生成{len(posts)-len(used_recycle_ids)}＋リサイクル{len(used_recycle_ids)}）")
 
     return out_path
