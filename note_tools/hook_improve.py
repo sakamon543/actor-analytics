@@ -46,7 +46,7 @@ SCHEDULE_TEMPLATE = [
 # 対象6演者は1日9本：短文(≤80字)×3 ＋ 中文(~180字)×3 ＋ ぶら下げ付き(メイン80字+ぶら下げ150〜200字)×3。
 # 誘導(note直リンク)を入れるのは「ぶら下げ付き(thread_cta)」3本だけ。短文・中文はCTAなし。
 # ハクオウ・うみこ等この集合に無い演者は従来どおり（1日10本・全ポストにぶら下げ＋CTA）。
-V2_ACTORS = {"リクオウ", "みさき", "りお", "ホンネ", "ヒロ", "ハカセ", "miho", "みき", "みな", "りさ", "りょう", "あや", "かれん"}
+V2_ACTORS = {"リクオウ", "みさき", "りお", "ホンネ", "ヒロ", "ハカセ"}
 V2_PER_DAY = 9
 # note誘導(thread_cta)と単発を半々程度に（note誘導5＋単発4）。note誘導は1日の中に散らす。
 V2_DAY_PLAN = ["thread_cta", "short80", "thread_cta", "mid180", "thread_cta",
@@ -60,6 +60,29 @@ NOTE_URLS = {
     "ヒロ": "https://note.com/eager_llama3480/n/nbb7c579fa140",
     "ハカセ": "https://note.com/dend11/n/nf40a8f8f1b06",
 }
+
+# ===== v3投稿タイプミックス（2026-07-25 阪本さん指示：業者感の根本対策）=====
+# プレイヤー実測（参考4アカ478本）：全部が教育ポストなのが業者感の根源。
+# 人間のアカは 教育の合間に「つぶやき断言・日常・自分の物語・引き・交流」が混ざる。
+# バズの主力は短文つぶやき（「男は元カノが好き」はマジ。=134万views）。
+# → 1日9本を内容タイプでミックスする。実例DB（materials/style_examples.json）主導で生成。
+# Threads用ミックス（2026-07-26 阪本さんレビュー反映）：
+#  - 教育＋ぶら下げ(thread_cta)が売上の本線 → 1日4本
+#  - Threadsはポスト単体評価 → 日常(nichijo)・交流(kouryu)・引き(hiki)は廃止
+#  - つぶやき断言と自分の物語は質が良かったので残す（タイプ定義自体はX展開用に温存）
+V3_DAY_PLAN = [
+    "tsubuyaki",   # 断言・共感つぶやき（バズ枠）
+    "thread_cta",  # 教育＋ぶら下げ・note誘導（売りの本線1）
+    "kyoiku",      # 教育単発（当事者の実感ベース・CTAなし）
+    "thread_cta",  # 売りの本線2
+    "monogatari",  # 自分の物語断片
+    "thread_cta",  # 売りの本線3
+    "kyoiku",      # 教育単発
+    "tsubuyaki",   # つぶやき
+    "thread_cta",  # 売りの本線4
+]
+NON_EDU_TYPES = {"tsubuyaki", "nichijo", "monogatari", "kouryu", "hiki"}
+STYLE_EXAMPLES_PATH = "materials/style_examples.json"
 
 # Phase 1（フック生成）で読み込むスキル本体＋素材プール
 # 「変数選定の3段階フロー」（Step1 素材実例集 → Step2 観察ワード → Step3 新規生成）の
@@ -329,26 +352,6 @@ def load_scraped_pool():
 SCRAPED_MAX_ACTORS = 2        # 同一フックを使える演者は通算2人まで
 SCRAPED_CROSS_COOLDOWN = 3    # 他演者が使ってから3日以上空ける
 
-# 男性当事者として語る演者（一人称=僕/俺）。ここに無い演者は女性当事者（一人称=私）扱い。
-MALE_ACTORS = {"ハクオウ", "ホンネ", "ヒロ", "ハカセ", "リクオウ", "りょう"}
-
-_QUOTED_RE = re.compile(r"[「『][^」』]*[」』]")
-
-
-def voice_mismatch(hook_text, actor):
-    """収集フックの語り手の性別が演者と食い違っていないか判定する。
-
-    収集フックは「実績文言なので一字も変えない」運用のため、男性演者から集めた
-    「僕も振った彼女が〜」をそのまま女性演者のメインに置くと一人称が壊れる
-    （2026-07-23に かれん/あや/miho で実際に発生）。カギ括弧内は彼のセリフ引用＝
-    正常なので除外し、地の文の一人称だけを見る。"""
-    bare = _QUOTED_RE.sub("", hook_text or "")
-    male = re.search(r"僕|俺", bare)
-    female = re.search(r"私|あたし", bare)
-    if actor in MALE_ACTORS:
-        return bool(female) and not male    # 男性演者の地の文に「私」だけ＝女性演者のフック
-    return bool(male)                       # 女性演者の地の文に「僕/俺」＝男性演者のフック
-
 
 def select_scraped_hooks(pool, actor, max_count):
     """この演者が未使用の収集フックを選ぶ（演者間の被り制御込み・2026-07-11改修）。
@@ -361,8 +364,6 @@ def select_scraped_hooks(pool, actor, max_count):
     for h in pool.get("hooks", []):
         if not (h.get("first_lines") or "").strip():
             continue
-        if voice_mismatch(h.get("first_lines"), actor):
-            continue                          # 語り手の性別が演者と食い違うフックは使わない
         ub = h.get("used_by") or {}
         if actor in ub:
             continue                          # 同演者の再利用禁止（従来通り）
@@ -659,6 +660,76 @@ Q3. CSV内に経験量を示す数字（「5000人聞いてきて」「3年見�
     return sys_prompt + "\n\n---\n\n" + user_prompt
 
 
+# ============== v3: 実例DB＋非教育タイプ生成（Phase 1b） ==============
+
+def load_style_examples():
+    return load_json(os.path.join(ROOT, STYLE_EXAMPLES_PATH), {"types": {}})
+
+
+def style_block(styles, type_key, n=8):
+    """タイプ別の実物実例をプロンプト用テキストに（views降順のまま・一字一句そのまま見せる）"""
+    t = (styles.get("types", {}) or {}).get(type_key, {}) or {}
+    exs = (t.get("examples") or [])[:n]
+    lines = []
+    for e in exs:
+        txt = (e.get("text") or "").replace("\n", "\\n")
+        lines.append(f"- [{e.get('views', 0)}views] {txt}")
+    return t.get("label", type_key), "\n".join(lines)
+
+
+def build_phase1b_prompt(actor, account_info, styles, typed_slots, recent_texts):
+    """非教育タイプ（つぶやき/日常/物語/交流/引き）をまとめて生成するプロンプト。
+    ルール積みではなく実例主導：実際に伸びてる人間の投稿を見せて「同じ空気」で書かせる。"""
+    from collections import Counter
+    want = Counter(t for _, t in typed_slots)
+    blocks = []
+    for tk in ["tsubuyaki", "nichijo", "monogatari", "kouryu", "hiki"]:
+        if want.get(tk):
+            label, ex = style_block(styles, tk)
+            blocks.append(f"### type={tk}（{label}）… {want[tk]}本作る\n実物例（実際に伸びてる人間の投稿。この空気が正解）：\n{ex}")
+    slots_json = json.dumps([{"scheduled_at": s, "type": t} for s, t in typed_slots], ensure_ascii=False)
+    recent = "\n".join("- " + t.replace("\n", " ")[:40] for t in recent_texts[:20])
+
+    return f"""あなたは {actor} 本人として X/Threads に投稿する。ロボットではなく、このアカウントを毎日自分でやってる一人の人間として書く。
+
+# 演者情報（キャラ・過去・商品・固定CTA。この人になりきる）
+{account_info}
+
+# 作るもの
+下のスロットに入れる「教育ポストではない投稿」を全部で {len(typed_slots)} 本。タイプごとの本数と実物例は下記。
+
+{chr(10).join(blocks)}
+
+# 書き方（最小限・実例がすべて）
+- **実例と同じ空気で書く。作り込まない。整えない。校正しすぎない。**
+- 長さも実例に合わせる（短いものは10〜40字でいい。全部をちゃんとした長さにしない）
+- 「」の引用・数字実績・箇条書きは実例が使ってる時だけ。基本使わない
+- ですます／タメ口は投稿ごとに揺れてよい（人間は揺れる）
+- 絵文字・▼・↓は使わない（hikiタイプのthreadだけ例外）
+- nichijo は恋愛に絡めなくていい。本当にただの日常・気分・ひとりごと（商品・復縁の話を混ぜたら不合格）
+- monogatari は演者情報のバックストーリーの断片を「私（僕）の話」として一人称で。設定に無い数字・実績を新しく作らない
+- kouryu はフォロワーへの軽い声かけ。売り込まない
+- tsubuyaki は断言一撃。解説しない。言い切って終わる
+- hiki は「私が〜できた方法は」のように**言い切らずに切る**。このタイプだけ thread に固定CTA（演者情報の固定CTA文言そのまま）を1要素で入れる。他のタイプは thread を空にする
+- 同じ語り出しを2本以上使わない。下の「最近の自分の投稿」とも被らせない
+
+# 最近の自分の投稿（冒頭40字・これらと被らない）
+{recent}
+
+# 出力形式（JSON only・他のテキスト一切不要）
+**JSONの文字列の中で半角二重引用符（"）を使うことは絶対禁止**（パースが壊れる）。使うなら『』「」。
+```json
+{{
+  "posts": [
+    {{"type": "スロットのtype", "scheduled_at": "スロットのscheduled_atそのまま", "text": "本文", "thread": []}}
+  ]
+}}
+```
+スロット割当（この scheduled_at と type の組をそのまま使う・{len(typed_slots)}本全部出す）：
+{slots_json}
+"""
+
+
 # ============== Phase 2: フック1本→本文生成 ==============
 
 def build_phase2_prompt(actor, hook, account_info, body_skill_text):
@@ -684,6 +755,14 @@ def build_phase2_prompt(actor, hook, account_info, body_skill_text):
         task_block = ("このフックを起点に、**180字前後の単発ポスト**を書く。**ぶら下げ(thread)もCTAも付けない**。"
                       "フック＋根拠や具体で読ませて言い切る。末尾に「↓」や「続き」誘導は付けない（単発で完結）。")
         output_block = '{\n  "text": "180字前後・単発で完結（CTA・↓なし）",\n  "thread": []\n}'
+    elif post_type == "kyoiku":
+        _stl, _sex = style_block(load_style_examples(), "kyoiku", n=6)
+        task_block = ("このフックを起点に、**100〜180字の単発ポスト**を書く。**ぶら下げ(thread)もCTAも付けない**。\n"
+                      "**講義しない。当事者の実感で語る**。下の実物例（実際に伸びてる人間の教育ポスト）と同じ空気：\n"
+                      f"{_sex}\n"
+                      "解説者の説明（〜という心理があります/〜が重要です）ではなく、経験者が友達に喋る口（〜なんだよね/〜だった/マジで〜）。"
+                      "数字実績・「」引用・箇条書きは実例が使ってる範囲でだけ。末尾に「↓」や誘導は付けない。")
+        output_block = '{\n  "text": "100〜180字・当事者の実感で語る単発（CTA・↓なし）",\n  "thread": []\n}'
     elif post_type == "thread_cta":
         task_block = (f"このフックを起点に、**メイン本文(100〜140字)** と **濃いぶら下げ(thread 250〜400字)** の2部構成で必ず書く。\n"
                       f"型は「**メイン＝冒頭で自己主張／ぶら下げ＝その主張を教育**」。\n"
@@ -852,7 +931,7 @@ def run(actor, phase1_only=False, limit=None, reuse_phase1=False):
     print(f"  実績: top={len(top_hooks)} bottom={len(bottom_hooks)} proven={len(proven_hooks)}")
 
     start_date = find_next_start_date(posts_db, prev_batch_path)
-    per_day = V2_PER_DAY if actor in V2_ACTORS else 10
+    per_day = V2_PER_DAY  # v3: 全演者9本/日・内容タイプミックス（2026-07-25）
     schedule_slots = generate_schedule(start_date, per_day=per_day)
     print(f"  スケジュール: {start_date.strftime('%Y-%m-%d')} 〜 {(start_date + timedelta(days=2)).strftime('%Y-%m-%d')}")
 
@@ -862,9 +941,10 @@ def run(actor, phase1_only=False, limit=None, reuse_phase1=False):
     print(f"  リサイクル: プール{len(recycle_pool.get('items', {}))}件（今回昇格+{promoted}）→ 今バッチに{len(recycle_items)}本")
 
     # === 収集フック（scraped）：この演者が未使用のものを確保 ===
+    # v3: 使い先は教育スロット（thread_cta/kyoiku＝1日4本）だけなので上限もそこに合わせる
     scraped_pool = load_scraped_pool()
-    n_ai_slots_estimate = len(schedule_slots) - len(recycle_items)
-    scraped_hooks = select_scraped_hooks(scraped_pool, actor, min(SCRAPED_PER_DAY * 3, max(0, n_ai_slots_estimate - 3)))
+    n_edu_estimate = (len(schedule_slots) // per_day) * sum(1 for t in V3_DAY_PLAN if t not in NON_EDU_TYPES)
+    scraped_hooks = select_scraped_hooks(scraped_pool, actor, max(0, n_edu_estimate - 2))
     print(f"  収集フック: プール{len(scraped_pool.get('hooks', []))}件 → 今バッチに{len(scraped_hooks)}本")
 
     # スロット分割：リサイクル分は日内に散らす（各日の 1番目と6番目あたり）
@@ -885,6 +965,22 @@ def run(actor, phase1_only=False, limit=None, reuse_phase1=False):
     ai_slot_idx = [i for i in range(len(schedule_slots)) if i not in recycle_slot_idx]
     ai_slots = [schedule_slots[i] for i in ai_slot_idx]
 
+    # === v3: スロットに内容タイプを割当 → 教育系（Phase1+2）と非教育系（Phase1b）に分割 ===
+    slot_type_of = []
+    for idx in ai_slot_idx:
+        day = idx // per_day
+        pos = idx % per_day
+        # 日ごとに並びをローテーション（同タイプが毎日同時刻に固定されるのを防ぐ）
+        t = V3_DAY_PLAN[(pos + day * 3) % len(V3_DAY_PLAN)]
+        slot_type_of.append(t)
+    edu_pairs = [(ai_slots[i], slot_type_of[i]) for i in range(len(ai_slots))
+                 if slot_type_of[i] not in NON_EDU_TYPES]
+    non_edu_pairs = [(ai_slots[i], slot_type_of[i]) for i in range(len(ai_slots))
+                     if slot_type_of[i] in NON_EDU_TYPES]
+    edu_slots = [s for s, _ in edu_pairs]
+    from collections import Counter as _TypeCounter
+    print(f"  v3タイプ配分: {dict(_TypeCounter(slot_type_of))}")
+
     # === Phase 1: フック30本生成 ===
     preview_path = os.path.join(analytics_dir, "phase1_hooks_preview.json")
     if reuse_phase1 and os.path.exists(preview_path):
@@ -895,10 +991,10 @@ def run(actor, phase1_only=False, limit=None, reuse_phase1=False):
             "hooks": prev.get("hooks", []),
         }
     else:
-        print(f"\n[Phase 1] フック{len(ai_slots)}本生成中（うち収集フック{len(scraped_hooks)}本はそのまま採用）...")
+        print(f"\n[Phase 1] 教育フック{len(edu_slots)}本生成中（うち収集フック{len(scraped_hooks)}本はそのまま採用）...")
         phase1_prompt = build_phase1_prompt(
             actor, account_info, target_research, eval_criteria,
-            hook_skill_text, top_hooks, bottom_hooks, proven_hooks, ai_slots,
+            hook_skill_text, top_hooks, bottom_hooks, proven_hooks, edu_slots,
             scraped_hooks=scraped_hooks
         )
         cc_output, err = call_claude_code(phase1_prompt, timeout=600)
@@ -919,14 +1015,14 @@ def run(actor, phase1_only=False, limit=None, reuse_phase1=False):
             print(f"    tokens: input={usage.get('input_tokens', 0)}, output={usage.get('output_tokens', 0)}, "
                   f"cache_read={usage.get('cache_read_input_tokens', 0)}")
 
-    hooks = phase1_result.get("hooks", [])[:len(ai_slots)]
-    # scheduled_at を ai_slots で強制上書き（AIのslot選択ミス対策）＋
-    # v2演者：post_type は「実際のスロット位置（日内position）」基準で振り分ける
+    hooks = phase1_result.get("hooks", [])[:len(edu_slots)]
+    # scheduled_at を edu_slots で強制上書き（AIのslot選択ミス対策）＋
+    # v3: post_type は教育スロットのタイプ（thread_cta / kyoiku）を割当
     for i, h in enumerate(hooks):
-        h["scheduled_at"] = ai_slots[i] if i < len(ai_slots) else h.get("scheduled_at")
-        if actor in V2_ACTORS and i < len(ai_slot_idx):
-            h["post_type"] = V2_DAY_PLAN[ai_slot_idx[i] % V2_PER_DAY]
-    print(f"  ✓ Phase 1 完了: {len(hooks)}本のフック")
+        h["scheduled_at"] = edu_slots[i] if i < len(edu_slots) else h.get("scheduled_at")
+        if i < len(edu_pairs):
+            h["post_type"] = edu_pairs[i][1]
+    print(f"  ✓ Phase 1 完了: {len(hooks)}本の教育フック")
 
     if phase1_only:
         # Phase 1 だけ走らせるテストモード。フック中身を別ファイルに出して終了。
@@ -941,10 +1037,53 @@ def run(actor, phase1_only=False, limit=None, reuse_phase1=False):
         print(f"  --phase1-only モード: フック中身を {out_path} に保存して終了")
         return out_path
 
+    posts = []
+
+    # === Phase 1b: 非教育タイプ（つぶやき/日常/物語/交流/引き）を実例主導で生成 ===
+    if non_edu_pairs:
+        styles = load_style_examples()
+        if not (styles.get("types") or {}):
+            print("\n[Phase 1b] ⚠ style_examples.json が無い → 非教育スロットをスキップ（教育のみで出す）")
+        else:
+            recent_texts = [h.get("hook_text", "") for h in hooks][:20]
+            print(f"\n[Phase 1b] 非教育タイプ {len(non_edu_pairs)}本生成（実例主導・1回の呼び出し）...")
+            p1b_prompt = build_phase1b_prompt(actor, account_info, styles, non_edu_pairs, recent_texts)
+            cc1b, err1b = call_claude_code(p1b_prompt, timeout=600)
+            if err1b:
+                print(f"  ✗ Phase 1b 失敗: {err1b[:300]}（非教育スロットは今回スキップ）")
+            else:
+                try:
+                    r1b = extract_json_from_text(cc1b.get("result", ""))
+                    got = 0
+                    valid_slots = {s for s, _ in non_edu_pairs}
+                    today_str_1b = datetime.now(tz=JST).strftime("%Y%m%d")
+                    for n, p in enumerate(r1b.get("posts", [])):
+                        txt = (p.get("text") or "").strip()
+                        sa = p.get("scheduled_at")
+                        if not txt or sa not in valid_slots:
+                            continue
+                        th = p.get("thread") if isinstance(p.get("thread"), list) else []
+                        if p.get("type") != "hiki":
+                            th = []   # 固定CTAを付けていいのは hiki だけ
+                        posts.append({
+                            "id": f"{actor}_{today_str_1b}_n{n+1:02d}",
+                            "fookid": fookid(txt.split(chr(10))[0]),
+                            "structure_label": p.get("type"),
+                            "based_on": "style_example",
+                            "post_type": p.get("type"),
+                            "scheduled_at": sa,
+                            "text": txt,
+                            "thread": th,
+                        })
+                        got += 1
+                    print(f"  ✓ Phase 1b 完了: {got}/{len(non_edu_pairs)}本")
+                except (ValueError, json.JSONDecodeError) as e:
+                    print(f"  ✗ Phase 1b JSON抽出失敗: {e}（非教育スロットは今回スキップ）")
+
     # === Phase 2: 1本ずつ本文生成（シーケンシャル）===
     phase2_hooks = hooks if limit is None else hooks[:limit]
     print(f"\n[Phase 2] 本文生成（{len(phase2_hooks)}回シーケンシャル・並列はしない）...")
-    posts = []
+    n_before_p2 = len(posts)
     for i, hook in enumerate(phase2_hooks, 1):
         ht = (hook.get("hook_text", "") or "").replace("\n", " ")
         print(f"  ({i}/{len(phase2_hooks)}) {ht[:60]}...")
@@ -1000,7 +1139,7 @@ def run(actor, phase1_only=False, limit=None, reuse_phase1=False):
             "thread": thread,
         })
 
-    print(f"  ✓ Phase 2 完了: {len(posts)}/{len(phase2_hooks)}本の本文生成")
+    print(f"  ✓ Phase 2 完了: {len(posts) - n_before_p2}/{len(phase2_hooks)}本の本文生成")
 
     if limit is not None:
         # 部分テスト時は hook_archive 更新しない（本番運用じゃないため）
@@ -1030,7 +1169,7 @@ def run(actor, phase1_only=False, limit=None, reuse_phase1=False):
             "fookid": fookid((it.get("text", "") or "").split("\n")[0]),
             "structure_label": it.get("structure_label", ""),
             "based_on": "recycle",
-            "post_type": ("thread_cta" if thread else "mid180") if actor in V2_ACTORS else None,
+            "post_type": ("thread_cta" if thread else "kyoiku"),
             "scheduled_at": schedule_slots[recycle_slot_idx[n]],
             "text": it.get("text", ""),
             "thread": thread,
