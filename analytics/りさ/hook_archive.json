@@ -104,6 +104,12 @@
         {
           "scheduled_at": "2026-07-24T14:42:00+09:00",
           "registered_at": "2026-07-22",
+          "views": 12700,
+          "posted_at": "2026-07-24T05:48:01.709+00:00"
+        },
+        {
+          "scheduled_at": "2026-07-27T14:42:00+09:00",
+          "registered_at": "2026-07-26",
           "views": null
         }
       ]
@@ -248,7 +254,8 @@
         {
           "scheduled_at": "2026-07-25T19:52:00+09:00",
           "registered_at": "2026-07-22",
-          "views": null
+          "views": 31,
+          "posted_at": "2026-07-25T10:57:16.104+00:00"
         }
       ]
     },
@@ -284,6 +291,186 @@
         {
           "scheduled_at": "2026-07-25T22:17:00+09:00",
           "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9ccfb8f26d": {
+      "text": "年下男子が『この人から離れられない』と沼る年上には、はっきりした共通点があるんです。若さでも、美貌でも、包容力でもありません。それは、余裕を『見せない』人。完璧な大人を演じてる時点で、彼の中では最初から恋愛対象の外に置かれてます。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-27T18:03:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_123709000f": {
+      "text": "年下男子が「この人じゃなきゃ」って本気になる年上には、共通点があるんです。若さでも、完璧さでも、包容力でもない。むしろ逆で、「ちゃんと甘えられる」ってこと。年下の目に映るのは、頼れるお姉さんじゃなくて、自分を必要としてくれる人です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-27T19:52:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0659773eb4": {
+      "text": "年下男子の脈は、分かりやすいアプローチには出てきません。私も彼のサインを2年近く読み違えていました。実際に出るのは、こういうところです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-27T22:17:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_17ce41a942": {
+      "text": "年下男子の距離感は、興味がないサインじゃないんです。むしろ逆で、あなたに惹かれ始めた男ほど、一回距離を置きます。『年上の人にがっつくのはダサい』『重いって思われたくない』って、彼の中で必死にブレーキ踏んでるだけ。冷めた顔の裏で、指は動きたがってます。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-28T11:08:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_effb6f2d54": {
+      "text": "年上として、何を出せば年下が本気になるのか。答えは、大人の余裕でも若さでもありません。2年かけて分かった、必要なものは、",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-28T14:42:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f2d0420a08": {
+      "text": "好きな年下に、自分の気持ちを伝えようとしていませんか。それはまだ早いかもしれません。私も一度、勢いで伝えて、そこから2週間距離を置かれました。年下男子は、",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-28T18:03:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_06173e7c9b": {
+      "text": "年下男子は、「大人の余裕がある年上=魅力的」とは思っていない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-28T19:52:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5b0f1da956": {
+      "text": "年下男子の脈は、素直な言葉には出てきません",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-28T21:03:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4dc4b5a433": {
+      "text": "年下男子は年上に本気で惚れ直すから、年齢差ある恋愛に悩んでる女性は諦めなくていいよ",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-28T22:17:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ab535f6964": {
+      "text": "年下男子の素っ気ない返信は、興味がない証拠じゃない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-29T11:08:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f1a207932f": {
+      "text": "意外かもだけど、年下男子は『完璧な年上ほど距離を置く』生き物",
+      "structure_label": "命題型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-29T14:42:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8a1c7e1afa": {
+      "text": "年下男子って年上のふとした甘えに弱いからね",
+      "structure_label": "命題型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-29T19:17:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5754d543b9": {
+      "text": "男の本音を言うと、頼れる年上ほど恋愛対象から外している",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-29T19:52:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0df8eec5a9": {
+      "text": "年下男子の『大人だね』は褒め言葉じゃなくて、ただの『距離を置く壁』",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-29T20:28:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dda9c8f7c6": {
+      "text": "年下男子が本気になるとき「若さ」より圧倒的に効くのが『素で甘えられた瞬間』",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-29T22:17:00+09:00",
+          "registered_at": "2026-07-26",
           "views": null
         }
       ]

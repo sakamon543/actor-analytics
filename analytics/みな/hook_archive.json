@@ -20,7 +20,7 @@
         {
           "scheduled_at": "2026-07-23T13:17:00+09:00",
           "registered_at": "2026-07-22",
-          "views": 4,
+          "views": 7,
           "posted_at": "2026-07-23T04:21:09.615+00:00"
         }
       ]
@@ -118,7 +118,7 @@
         {
           "scheduled_at": "2026-07-24T11:08:00+09:00",
           "registered_at": "2026-07-22",
-          "views": 915,
+          "views": 3012,
           "posted_at": "2026-07-24T02:14:24.443+00:00"
         }
       ]
@@ -143,7 +143,8 @@
         {
           "scheduled_at": "2026-07-24T14:42:00+09:00",
           "registered_at": "2026-07-22",
-          "views": null
+          "views": 1531,
+          "posted_at": "2026-07-24T05:47:42.982+00:00"
         }
       ]
     },
@@ -228,7 +229,8 @@
         {
           "scheduled_at": "2026-07-25T11:08:00+09:00",
           "registered_at": "2026-07-22",
-          "views": null
+          "views": 1549,
+          "posted_at": "2026-07-25T02:14:08.071+00:00"
         }
       ]
     },
@@ -324,6 +326,210 @@
         {
           "scheduled_at": "2026-07-25T22:17:00+09:00",
           "registered_at": "2026-07-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b7c32f9c71": {
+      "text": "『マッチングアプリは数を打て』は嘘です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-27T14:42:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bad0848b2b": {
+      "text": "婚活して分かったんだけど、『疲れた人から結果が出なくなる』って話は本当。",
+      "structure_label": "経験談断言型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-27T18:03:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_09dc18009b": {
+      "text": "マッチングアプリで一番人生を溶かすのは、切りきれない人と月1で会い続ける時間です。",
+      "structure_label": "観察断言型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-27T19:52:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8707367163": {
+      "text": "マッチングアプリで一番時間を溶かすのは、ダラダラ保留している時間です。",
+      "structure_label": "観察断言型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-27T20:28:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ef7aec9da9": {
+      "text": "2回目に誘われる人と、誘われない人の差は、可愛さでも会話の上手さでもありません。",
+      "structure_label": "三段否定型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-27T22:17:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_08922a5d09": {
+      "text": "マッチングアプリで決まらない理由って『可愛くないから』とか『プロフが弱いから』みたいな理由じゃないの。",
+      "structure_label": "並列否定型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-28T11:08:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_19fd92a5bf": {
+      "text": "決めるなら、疲れる前です。",
+      "structure_label": "反転命題型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-28T14:42:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4fe96159c5": {
+      "text": "『同時進行は多いほど有利』って言われてるけど、それ嘘です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-28T18:03:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c35433080d": {
+      "text": "婚活して分かったんだけど、『同時進行の人数が多い人ほど決められない』って話は本当。",
+      "structure_label": "経験談断言型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-28T19:52:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e6fdae35ca": {
+      "text": "マッチングアプリで一番人生を減らすのは、切りたいのに切れない相手を月1で抱え続ける時間です。",
+      "structure_label": "観察断言型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-28T21:03:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6afbf41da1": {
+      "text": "男が『2回目誘いたい』と思う女性の共通点は、若さでも見た目でもありません。",
+      "structure_label": "三段否定型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-28T22:17:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_645ff43270": {
+      "text": "マッチングアプリで結婚できない理由って『高望みしてるから』とか『年齢が高いから』みたいな話じゃないの。",
+      "structure_label": "並列否定型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-29T11:08:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7fdaeca43e": {
+      "text": "選ぶなら、通知が『嬉しい』の間です。",
+      "structure_label": "反転命題型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-29T14:42:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bf6db40430": {
+      "text": "マッチングアプリで一番人を溶かすのは、決めきれない4〜5人を土日でさばき続ける時間です。",
+      "structure_label": "観察断言型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-29T19:17:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_99566cc117": {
+      "text": "男が『2回目誘わない』を決めるとき「タイプじゃない」より圧倒的に多いのが『こっち見てない感じがした』だよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-29T19:52:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8133bcf9e5": {
+      "text": "意外かもだけど、男は『デート中に上の空の女性』をその日のうちに切る生き物。",
+      "structure_label": "男性性質断言型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-29T20:28:00+09:00",
+          "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a343105219": {
+      "text": "私の経験上、マッチングアプリで決まる女性で1番多いのは『同時進行を3人以下に絞ってる女性』っていうパターン。",
+      "structure_label": "経験断言型",
+      "first_used_at": "2026-07-26",
+      "history": [
+        {
+          "scheduled_at": "2026-07-29T22:17:00+09:00",
+          "registered_at": "2026-07-26",
           "views": null
         }
       ]
