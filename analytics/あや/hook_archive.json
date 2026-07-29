@@ -8,7 +8,8 @@
         {
           "scheduled_at": "2026-07-23T11:08:00+09:00",
           "registered_at": "2026-07-22",
-          "views": null
+          "views": 1136,
+          "posted_at": "2026-07-23T02:16:24.172+00:00"
         }
       ]
     },
@@ -270,7 +271,8 @@
         {
           "scheduled_at": "2026-07-25T20:28:00+09:00",
           "registered_at": "2026-07-22",
-          "views": null
+          "views": 1461,
+          "posted_at": "2026-07-25T11:34:54.644+00:00"
         }
       ]
     },
@@ -332,7 +334,8 @@
         {
           "scheduled_at": "2026-07-27T18:03:00+09:00",
           "registered_at": "2026-07-26",
-          "views": null
+          "views": 1359,
+          "posted_at": "2026-07-27T09:09:59.321+00:00"
         }
       ]
     },
@@ -440,7 +443,8 @@
         {
           "scheduled_at": "2026-07-28T22:17:00+09:00",
           "registered_at": "2026-07-26",
-          "views": null
+          "views": 7,
+          "posted_at": "2026-07-28T13:22:59.726+00:00"
         }
       ]
     },
@@ -452,7 +456,8 @@
         {
           "scheduled_at": "2026-07-29T11:08:00+09:00",
           "registered_at": "2026-07-26",
-          "views": null
+          "views": 1,
+          "posted_at": "2026-07-29T02:13:09.313+00:00"
         }
       ]
     },
@@ -500,6 +505,222 @@
         {
           "scheduled_at": "2026-07-29T22:17:00+09:00",
           "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_db6bccab1c": {
+      "text": "復縁のために冷却期間を3ヶ月きっちり取る意味って、ほとんどないよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-30T13:17:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3324162405": {
+      "text": "男が別れを決めるとき「冷めた」より圧倒的に多いのが『愛が強くなりすぎた』だよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-30T14:42:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6941cdd852": {
+      "text": "ブロックってこっちを消すためじゃなくて、自分の気持ちを止めるためにやるものだよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-30T18:03:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0b69bb25a6": {
+      "text": "冷却期間を長く取るほど復縁率が下がるパターン、実はあるよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-30T19:52:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a2552599cb": {
+      "text": "ブロックされても終わりじゃない。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-30T20:28:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6d3ca734e8": {
+      "text": "男は未練が強い相手ほど、逆に自分から連絡できなくなるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-30T22:17:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_440883f8ef": {
+      "text": "実は女性より男の方が復縁否定派は少ない。",
+      "structure_label": "データ暴露型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-31T11:08:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_00f08d46b0": {
+      "text": "復縁の主導権って、実は振られた側の女性の方にあるんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-31T14:42:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_94fc2a7be0": {
+      "text": "彼から全然連絡が来ないからって、気持ちがない証拠にはならないよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-31T18:03:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9fce2ab309": {
+      "text": "回避型の「別れよう」は本気の決意じゃなくて、ただの『一時避難』。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-31T19:52:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0639af673e": {
+      "text": "連絡が来ない期間の長さで、彼の気持ちを判断するのやめて。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-31T21:03:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d2efa2e7dd": {
+      "text": "復縁できるかは、実は「別れた後の女性側の行動次第」なんです。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-31T22:17:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_38f0333c26": {
+      "text": "復縁を迫るのが男側になるパターン、あなたが思ってる10倍多いよ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-08-01T11:08:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4ae8940cde": {
+      "text": "正直、「男が冷却期間中に元カノを忘れる」は100%ありえません。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-08-01T14:42:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6a80126a6c": {
+      "text": "ブロックされた3日目に諦めるの、一番もったいないタイミングだよ。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-08-01T19:17:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1898defe0d": {
+      "text": "男の別れ際の冷たさは、嫌いになった証拠じゃない。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-08-01T19:52:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b3721ad493": {
+      "text": "冷却期間中に彼が元カノを忘れる、はほぼ起きないよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-08-01T20:28:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ddd7631e2c": {
+      "text": "ブロックしたのに元カノのSNSアカウントは残ってる、これ意味あるからね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-08-01T22:17:00+09:00",
+          "registered_at": "2026-07-29",
           "views": null
         }
       ]

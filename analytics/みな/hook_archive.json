@@ -339,6 +339,16 @@
           "scheduled_at": "2026-07-27T14:42:00+09:00",
           "registered_at": "2026-07-26",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-30T14:42:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-01T11:08:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
         }
       ]
     },
@@ -350,6 +360,16 @@
         {
           "scheduled_at": "2026-07-27T18:03:00+09:00",
           "registered_at": "2026-07-26",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-30T19:52:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-01T19:52:00+09:00",
+          "registered_at": "2026-07-29",
           "views": null
         }
       ]
@@ -363,6 +383,16 @@
           "scheduled_at": "2026-07-27T19:52:00+09:00",
           "registered_at": "2026-07-26",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-30T18:03:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-01T22:17:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
         }
       ]
     },
@@ -374,6 +404,11 @@
         {
           "scheduled_at": "2026-07-27T20:28:00+09:00",
           "registered_at": "2026-07-26",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-31T14:42:00+09:00",
+          "registered_at": "2026-07-29",
           "views": null
         }
       ]
@@ -387,6 +422,11 @@
           "scheduled_at": "2026-07-27T22:17:00+09:00",
           "registered_at": "2026-07-26",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-30T22:17:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
         }
       ]
     },
@@ -398,6 +438,11 @@
         {
           "scheduled_at": "2026-07-28T11:08:00+09:00",
           "registered_at": "2026-07-26",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-31T19:52:00+09:00",
+          "registered_at": "2026-07-29",
           "views": null
         }
       ]
@@ -530,6 +575,102 @@
         {
           "scheduled_at": "2026-07-29T22:17:00+09:00",
           "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_64dcf4dc55": {
+      "text": "男は、「マメに連絡＝本命」とは思っていないんです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-30T20:28:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_94e9c86696": {
+      "text": "『マチアプは同時進行しろ』って常識、嘘です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-31T11:08:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2b9c4abeac": {
+      "text": "「この子はナシ」って男が判定する瞬間の共通点って、可愛さでも会話の上手さでもないんですよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-31T18:03:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_610b2f5733": {
+      "text": "男が「2回目会わない」と決めるとき「タイプじゃなかった」より圧倒的に多いのが『どこか上の空だった』です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-31T21:03:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e4d686dddf": {
+      "text": "マッチングアプリで一番寿命を縮めるのは、ダラダラ保留してる相手との月1です。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-31T22:17:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_66a5f402d0": {
+      "text": "婚活してみて分かったのは、『同時進行を減らした人から順に結婚してる』って事実。",
+      "structure_label": "経験談型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-08-01T14:42:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_55ac94cf15": {
+      "text": "男の「またご飯行こう」で終わるLINEは、脈ありサインじゃないです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-08-01T19:17:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_890d5c6258": {
+      "text": "マッチングアプリで決まらない理由って『年齢が高いから』とか『高望みしてるから』みたいな理由じゃないの。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-08-01T20:28:00+09:00",
+          "registered_at": "2026-07-29",
           "views": null
         }
       ]

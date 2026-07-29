@@ -27,6 +27,11 @@
           "scheduled_at": "2026-07-24T20:28:00+09:00",
           "registered_at": "2026-07-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-31T11:08:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
         }
       ]
     },
@@ -50,6 +55,11 @@
         {
           "scheduled_at": "2026-07-23T19:17:00+09:00",
           "registered_at": "2026-07-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-31T18:03:00+09:00",
+          "registered_at": "2026-07-29",
           "views": null
         }
       ]
@@ -79,6 +89,16 @@
         {
           "scheduled_at": "2026-07-25T22:17:00+09:00",
           "registered_at": "2026-07-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-30T19:52:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-01T20:28:00+09:00",
+          "registered_at": "2026-07-29",
           "views": null
         }
       ]
@@ -385,7 +405,8 @@
         {
           "scheduled_at": "2026-07-28T21:03:00+09:00",
           "registered_at": "2026-07-26",
-          "views": null
+          "views": 11,
+          "posted_at": "2026-07-28T12:09:19.682+00:00"
         }
       ]
     },
@@ -397,7 +418,8 @@
         {
           "scheduled_at": "2026-07-28T22:17:00+09:00",
           "registered_at": "2026-07-26",
-          "views": null
+          "views": 5,
+          "posted_at": "2026-07-28T13:22:50.577+00:00"
         }
       ]
     },
@@ -409,7 +431,8 @@
         {
           "scheduled_at": "2026-07-29T11:08:00+09:00",
           "registered_at": "2026-07-26",
-          "views": null
+          "views": 4,
+          "posted_at": "2026-07-29T02:13:01.175+00:00"
         }
       ]
     },
@@ -469,6 +492,160 @@
         {
           "scheduled_at": "2026-07-29T22:17:00+09:00",
           "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fc7ebedd5b": {
+      "text": "復縁が上手くいく子って、自然と長期的な目線を持ってる。復縁がゴールじゃなくて『復縁して長続きすること』をゴールに置いてるから、焦って自爆することがまず無い。逆に『早く復縁したい』みたいな短期思考で動いてる子は、復縁できない可能性が高い。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-30T13:17:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5f85080a39": {
+      "text": "男は、あなただけを見ていません。俺は3年で100人以上会ってきて、そのほとんどを自分から切った側だけど、全員に『楽しかった、また会おうね』って言ってた。嘘じゃない、その場では本当に楽しかった。それでも家に帰る頃には、もう会わない子は決まってる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-30T14:42:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-01T22:17:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5243e7f39b": {
+      "text": "『忘れようとすればするほど忘れられない』っていうのはガチだ。自分磨きしてれば自然と自己肯定感が高まって『私を選ばない元彼センス無い』くらいの考えになる。この未練が消えた瞬間に、元彼って連絡してきがち。",
+      "structure_label": "常識肯定型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-30T18:03:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_47887328f8": {
+      "text": "男の『また会おうね』は、脈ありサインじゃない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-30T20:28:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a2b5f57a2b": {
+      "text": "男は、あなただけを見ていません。俺は同時に3人〜5人と会っていて、全員に『また会おうね』と言ってました。嘘じゃないです、その場は本当に楽しかった。それでも帰り道、頭の中で『この子はもう無い』と線を引いてる子は必ずいました。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-30T22:17:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-01T14:42:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_05fc9abf7b": {
+      "text": "『取られるかもしれない』と焦った男は、スイッチが入ったように頑張りだす。忙しいって言ってたのに自分から会いたがるし、マメに連絡してくる。そこまでいけば復縁はほぼ確定だ。女性側が必死に追う必要はないし、これ以上傷つく必要もない。男に頑張らせる復縁戦略は",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-31T14:42:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f78a2beeb0": {
+      "text": "男は、『毎日LINEが続いてる＝本命候補になってる』とは思っていない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-31T19:52:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6f4299e8a8": {
+      "text": "急に消えた男の頭の中は、あとから本人に聞いても出てきません。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-31T21:03:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9814461bd6": {
+      "text": "男は、あなただけを見ていません。俺は3年で100人以上と会って、そのほぼ全員を自分から切ってきたけど、全員に『楽しかった、また会おうね』って伝えてた。嘘じゃないし、その場は本当に楽しかった。ただ帰り道、頭の中で『この子はもう無いな』って線を引き終えてる子は必ずいた。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-31T22:17:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5ec608bd66": {
+      "text": "何の言い訳もせずに100人以上を消してきた俺が言うことじゃないんですが、これは書いておきます。",
+      "structure_label": "経験者暴露型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-08-01T11:08:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8ca4575edf": {
+      "text": "「今日あの子、ずっと頑張ってくれてたな」。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-08-01T19:17:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_01c99a58b6": {
+      "text": "男の「またご飯行こう」は本気の予定じゃなくて、ただの『社交辞令』。",
+      "structure_label": "常識反転型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-08-01T19:52:00+09:00",
+          "registered_at": "2026-07-29",
           "views": null
         }
       ]

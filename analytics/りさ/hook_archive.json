@@ -110,6 +110,12 @@
         {
           "scheduled_at": "2026-07-27T14:42:00+09:00",
           "registered_at": "2026-07-26",
+          "views": 12825,
+          "posted_at": "2026-07-24T05:48:01.709+00:00"
+        },
+        {
+          "scheduled_at": "2026-07-30T13:17:00+09:00",
+          "registered_at": "2026-07-29",
           "views": null
         }
       ]
@@ -158,7 +164,8 @@
         {
           "scheduled_at": "2026-07-24T20:28:00+09:00",
           "registered_at": "2026-07-22",
-          "views": null
+          "views": 283,
+          "posted_at": "2026-07-24T11:34:32.484+00:00"
         }
       ]
     },
@@ -254,7 +261,7 @@
         {
           "scheduled_at": "2026-07-25T19:52:00+09:00",
           "registered_at": "2026-07-22",
-          "views": 31,
+          "views": 73,
           "posted_at": "2026-07-25T10:57:16.104+00:00"
         }
       ]
@@ -303,6 +310,12 @@
         {
           "scheduled_at": "2026-07-27T18:03:00+09:00",
           "registered_at": "2026-07-26",
+          "views": 10821,
+          "posted_at": "2026-07-23T02:15:44.498+00:00"
+        },
+        {
+          "scheduled_at": "2026-07-30T18:03:00+09:00",
+          "registered_at": "2026-07-29",
           "views": null
         }
       ]
@@ -315,6 +328,12 @@
         {
           "scheduled_at": "2026-07-27T19:52:00+09:00",
           "registered_at": "2026-07-26",
+          "views": 10872,
+          "posted_at": "2026-07-24T02:14:44.938+00:00"
+        },
+        {
+          "scheduled_at": "2026-07-30T19:52:00+09:00",
+          "registered_at": "2026-07-29",
           "views": null
         }
       ]
@@ -328,6 +347,11 @@
           "scheduled_at": "2026-07-27T22:17:00+09:00",
           "registered_at": "2026-07-26",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-30T14:42:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
         }
       ]
     },
@@ -339,6 +363,11 @@
         {
           "scheduled_at": "2026-07-28T11:08:00+09:00",
           "registered_at": "2026-07-26",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-30T20:28:00+09:00",
+          "registered_at": "2026-07-29",
           "views": null
         }
       ]
@@ -352,6 +381,11 @@
           "scheduled_at": "2026-07-28T14:42:00+09:00",
           "registered_at": "2026-07-26",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-07-30T22:17:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
         }
       ]
     },
@@ -363,6 +397,11 @@
         {
           "scheduled_at": "2026-07-28T18:03:00+09:00",
           "registered_at": "2026-07-26",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-07-31T22:17:00+09:00",
+          "registered_at": "2026-07-29",
           "views": null
         }
       ]
@@ -471,6 +510,138 @@
         {
           "scheduled_at": "2026-07-29T22:17:00+09:00",
           "registered_at": "2026-07-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ad82ae3ea0": {
+      "text": "年下男子は、「完璧に見える年上」を口説きたいとは思っていない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-31T11:08:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d2982a1f42": {
+      "text": "年下男子の素っ気ないLINEは、興味がない証拠じゃない。むしろ気になってる相手ほど『変に思われたくない』が先に来て、頭で正解を探してる間に返信が短くなるだけ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-31T14:42:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b9295c8673": {
+      "text": "年下男子の本気サインは、分かりやすいアプローチには出てきません。実際に本気の彼が出すのは、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-31T18:03:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c0c3b578cb": {
+      "text": "年下男子が『年上と結婚したい』と本気で思うときには、はっきり共通点があるんです。若さでも、可愛さでも、包容力でもない。むしろ逆で、「弱音を素直に吐ける人」ってこと。頼れるだけの年上は、彼の中では最初から結婚候補の外です。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-31T19:52:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bbddbe5fa2": {
+      "text": "年下男子が『この人から離せない』と本命認定する年上には、はっきりした特徴があります。若さでも、可愛さでも、経済力でもない。それは、弱音を吐ける人。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-07-31T21:03:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f622f2e0e0": {
+      "text": "年下男子は、「甘えてくれる年上」を簡単に手放したいとは思っていない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-08-01T11:08:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_36a79de0da": {
+      "text": "意外かもだけど、年下男子は『甘えてくる年上』に一気に沼る生き物",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-08-01T14:42:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e42843387f": {
+      "text": "好きな年下に、素の自分を出せずにいませんか。それが本命化から一番遠ざけているかもしれません。年下男子は、",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-08-01T19:17:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7f8c157fbf": {
+      "text": "年下男子が本気になるとき「若さ」より圧倒的に多いのが『素直に頼ってきた瞬間』",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-08-01T19:52:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ab3baa9047": {
+      "text": "年下として年上に何を出してほしいのか。答えは、大人の余裕でも安定感でもありません。年下彼が本音で口を割ったのは、",
+      "structure_label": "命題型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-08-01T20:28:00+09:00",
+          "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ee821a187c": {
+      "text": "年下と付き合って分かった、「隙を見せる方が刺さる」って話は本当",
+      "structure_label": "命題型",
+      "first_used_at": "2026-07-29",
+      "history": [
+        {
+          "scheduled_at": "2026-08-01T22:17:00+09:00",
+          "registered_at": "2026-07-29",
           "views": null
         }
       ]
