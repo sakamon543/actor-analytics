@@ -110,6 +110,13 @@ RECYCLE_COOLDOWN_DAYS = 30       # 同じポストを再投稿するまでの間
 RECYCLE_MAX_USES = 3             # 同じポストの再投稿上限（飽き対策）
 RECYCLE_PER_DAY = 2              # 1日に混ぜる丸ごと再投稿の本数（プールが薄ければ自動で減る）
 
+# ===== リサイクル専用モード（2026-07-30 阪本さん指示）=====
+# シャドウバン（リーチ制限）を食らった演者の回復運転：
+# AI生成ゼロ・過去に実際に伸びた投稿（真値2000views以上）の丸ごと再投稿のみ・低頻度。
+# ハクオウ＝7/6-10の同一フック被り事故で7/11からリーチ制限→回復までこの運転。
+RECYCLE_ONLY_ACTORS = {"ハクオウ"}
+RECYCLE_ONLY_PER_DAY = 4         # 回復運転中は1日4本に落とす（頻度を下げてスパム臭を消す）
+
 # ===== 収集フック（x_scraperの実績フック・2026-07-05 阪本さん指示）=====
 # 「1〜2行目は実際に伸びた人間のフックをそのまま。本文はスキルで生成」。
 # プールは全演者共通（materials/hook_pool_scraped.json）。x-to-threads の収集から push される。
@@ -660,6 +667,62 @@ Q3. CSV内に経験量を示す数字（「5000人聞いてきて」「3年見�
     return sys_prompt + "\n\n---\n\n" + user_prompt
 
 
+# ============== リサイクル専用モード（シャドウバン回復運転） ==============
+
+def run_recycle_only(actor, analytics_dir, posts_db, start_date):
+    """AI生成ゼロ・実証済みポストの丸ごと再投稿のみ・低頻度（1日 RECYCLE_ONLY_PER_DAY 本）。
+    リーチ制限中のアカに新規を流しても無駄なので、品質実証済みの弾だけを間引いて流す。"""
+    print(f"  ★リサイクル専用モード（AI生成なし・{RECYCLE_ONLY_PER_DAY}本/日・回復運転）")
+    recycle_pool, pool_path, promoted = promote_recycle_pool(actor, posts_db, analytics_dir)
+    n_avail = len(recycle_pool.get("items", {}))
+
+    # 時刻は朝・昼・夜に散らす（SCHEDULE_TEMPLATE の位置 1,3,6,8 を使用）
+    idxs = [1, 3, 6, 8][:RECYCLE_ONLY_PER_DAY]
+    slots = []
+    for d in range(3):
+        day = start_date + timedelta(days=d)
+        for i in idxs:
+            h, m = SCHEDULE_TEMPLATE[i]
+            slots.append(day.replace(hour=h, minute=m, second=0, microsecond=0).isoformat())
+
+    items = select_recycle_items(recycle_pool, len(slots))
+    today_str = datetime.now(tz=JST).strftime("%Y%m%d")
+    posts = []
+    used = []
+    for n, (slot, it) in enumerate(zip(slots, items)):
+        posts.append({
+            "id": f"{actor}_{today_str}_r{n+1:02d}",
+            "fookid": fookid((it.get("text", "") or "").split("\n")[0]),
+            "structure_label": it.get("structure_label", ""),
+            "based_on": "recycle",
+            "post_type": "thread_cta" if it.get("thread") else "kyoiku",
+            "scheduled_at": slot,
+            "text": it.get("text", ""),
+            "thread": it.get("thread") or [],
+        })
+        used.append(it.get("recycle_id"))
+    if used:
+        mark_recycle_used(analytics_dir, used)
+
+    output = {
+        "演者": actor,
+        "generated_at": datetime.now(tz=JST).isoformat(),
+        "cycle_start": start_date.isoformat(),
+        "cycle_end": (start_date + timedelta(days=2)).isoformat(),
+        "analysis": {"mode": "recycle_only", "pool": n_avail},
+        "総本数": len(posts),
+        "posts": posts,
+    }
+    out_path = os.path.join(analytics_dir, "next_batch.json")
+    save_json(out_path, output)
+    save_json(os.path.join(analytics_dir, "batches",
+                           f"batch_{datetime.now(tz=JST).strftime('%Y%m%d_%H%M')}.json"), output)
+    print(f"  ✓ リサイクル {len(posts)}本（プール{n_avail}件・選定可から充当）→ {out_path}")
+    if len(posts) < len(slots):
+        print(f"  ⚠ クールダウン中の弾が多く {len(slots)-len(posts)}スロット分は空き（本数少なめで投入）")
+    return out_path
+
+
 # ============== v3: 実例DB＋非教育タイプ生成（Phase 1b） ==============
 
 def load_style_examples():
@@ -931,6 +994,11 @@ def run(actor, phase1_only=False, limit=None, reuse_phase1=False):
     print(f"  実績: top={len(top_hooks)} bottom={len(bottom_hooks)} proven={len(proven_hooks)}")
 
     start_date = find_next_start_date(posts_db, prev_batch_path)
+
+    # === リサイクル専用モード（シャドウバン回復運転）：AI生成せず実証済み弾のみで即返す ===
+    if actor in RECYCLE_ONLY_ACTORS:
+        return run_recycle_only(actor, analytics_dir, posts_db, start_date)
+
     per_day = V2_PER_DAY  # v3: 全演者9本/日・内容タイプミックス（2026-07-25）
     schedule_slots = generate_schedule(start_date, per_day=per_day)
     print(f"  スケジュール: {start_date.strftime('%Y-%m-%d')} 〜 {(start_date + timedelta(days=2)).strftime('%Y-%m-%d')}")
