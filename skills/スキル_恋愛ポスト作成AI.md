@@ -20,7 +20,7 @@
 
 **evaluation_criteria.md / target_research.md の配置先：**
 - スキル内: `恋愛系AIポスト作成/knowledge/`（正・このスキルと同じフォルダ配下）
-- 共有コピー: `hakuoo-analytics/knowledge/shared/`＝VPS `actor-analytics/knowledge/shared/`（自動ループ・週次ループが読む側。スキル内を更新したらこちらへも同期）
+- 共有コピー: `hakuoo-analytics/knowledge/shared/`＝VPS `actor-analytics/knowledge/shared/`（VPS自動ループが読む側。スキル内を更新したらこちらへも同期）
 
 加えて、各アカウント固有：
 - **アカウント設定_〇〇.md** （キャラ／ストーリー／固定CTA／リアリティ素材）
