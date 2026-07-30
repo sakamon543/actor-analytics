@@ -100,6 +100,7 @@ BODY_SKILL_FILES = [
     "skills/判断軸_恋愛ポスト作成.md",
     "skills/思考スキル_本文作成.md",
     "skills/思考スキル_統括_売れる教育ポスト.md",
+    "skills/売れた型_実測パターン集.md",
     "skills/口調文体ルール_一般人感.md",
 ]
 
