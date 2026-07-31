@@ -357,25 +357,90 @@ def load_scraped_pool():
     return load_json(os.path.join(ROOT, SCRAPED_POOL_PATH), {"hooks": []})
 
 
-SCRAPED_MAX_ACTORS = 2        # 同一フックを使える演者は通算2人まで
+SCRAPED_MAX_ACTORS = 2        # 未検証フックを使える演者は通算2人まで
+SCRAPED_MAX_ACTORS_PROVEN = 4  # うちで使って伸びた実証済みフックは横展開を広げる（2026-07-31）
 SCRAPED_CROSS_COOLDOWN = 3    # 他演者が使ってから3日以上空ける
+RESULT_PROVEN_VIEWS = 2000    # どこかの演者で実測これ以上 → 伸び実証済み
+RESULT_WEAK_VIEWS = 500       # 実測記録が全部これ未満 → 死に弾（二度と使わない）
+
+
+def _norm_text(t):
+    return re.sub(r"\s+", "", (t or ""))
+
+
+def update_scraped_results(pool):
+    """使用済みフックに「うちで使って伸びたか」の実測viewsを書き戻す（2026-07-31・阪本さん方針：
+    使用済みかどうかではなく、使って伸びるかが大事。伸びた実績をプールに蓄積して横展開の判断に使う）。
+    posts_db（ai-report由来・7日窓）の実測を first_lines の前方一致で突合する。
+    posts_dbは欠損が多いので「記録なし＝未検証」のまま（伸びなかった断定は実測がある時だけ）。"""
+    hooks = [h for h in pool.get("hooks", []) if h.get("used_by")]
+    if not hooks:
+        return 0
+    dbs = {}
+    for h in hooks:
+        for a in (h.get("used_by") or {}):
+            if a not in dbs:
+                p = os.path.join(ROOT, "analytics", a, "posts_db.json")
+                dbs[a] = load_json(p, {"posts": {}}).get("posts", {})
+    n_upd = 0
+    today = datetime.now(tz=JST).strftime("%Y-%m-%d")
+    for h in hooks:
+        head = _norm_text(h.get("first_lines"))[:30]
+        if len(head) < 10:
+            continue
+        res = h.setdefault("results", {})
+        for a in (h.get("used_by") or {}):
+            best = None
+            for p in dbs.get(a, {}).values():
+                v = p.get("views")
+                if not isinstance(v, int):
+                    continue
+                if _norm_text(p.get("text")).startswith(head):
+                    if best is None or v > best:
+                        best = v
+            if best is not None:
+                prev = (res.get(a) or {}).get("views")
+                if not isinstance(prev, int) or best > prev:
+                    res[a] = {"views": best, "at": today}
+                    n_upd += 1
+    return n_upd
+
+
+def hook_result_rank(h):
+    """うちで使った実績のランク：0=伸び実証済み（実測2000+） / 1=未検証 / 2=死に弾（実測全部500未満）"""
+    vs = [r.get("views") for r in (h.get("results") or {}).values()
+          if isinstance(r.get("views"), int)]
+    if not vs:
+        return 1
+    mx = max(vs)
+    if mx >= RESULT_PROVEN_VIEWS:
+        return 0
+    if mx < RESULT_WEAK_VIEWS:
+        return 2
+    return 1
 
 
 def select_scraped_hooks(pool, actor, max_count):
-    """この演者が未使用の収集フックを選ぶ（演者間の被り制御込み・2026-07-11改修）。
-    - 同一フックは通算 SCRAPED_MAX_ACTORS 演者まで
-    - 他演者の使用から SCRAPED_CROSS_COOLDOWN 日以上空ける
-    - views降順トップ固定取りをやめ、上位プールからランダム抽選（同日実行の演者間で自然に散らす）
-    - 2人目の使用には _second_use フラグ（プロンプト側で語尾リライト指示）"""
+    """この演者が未使用の収集フックを選ぶ（演者間の被り制御込み・2026-07-31成績ベース化）。
+    - 元ネタのviewsではなく「うちで使って伸びたか」を最優先の判断軸にする：
+      伸び実証済み（実測2000+）→ 未使用の演者へ確定で横展開（通算 SCRAPED_MAX_ACTORS_PROVEN 人まで）
+      未検証 → 残り枠に元views降順の上位からランダム抽選（従来動作・通算 SCRAPED_MAX_ACTORS 人まで）
+      死に弾（実測が全部500未満）→ 二度と使わない
+    - 他演者の使用から SCRAPED_CROSS_COOLDOWN 日以上空ける（同一フック被り事故＝シャドウバン対策は維持）
+    - 2人目以降の使用には _second_use フラグ（プロンプト側で語尾リライト指示）"""
     today = datetime.now(tz=JST).date()
-    avail = []
+    proven, unknown = [], []
     for h in pool.get("hooks", []):
         if not (h.get("first_lines") or "").strip():
             continue
+        rank = hook_result_rank(h)
+        if rank == 2:
+            continue                          # 使って伸びなかった弾は使わない
         ub = h.get("used_by") or {}
         if actor in ub:
             continue                          # 同演者の再利用禁止（従来通り）
-        if len(ub) >= SCRAPED_MAX_ACTORS:
+        limit = SCRAPED_MAX_ACTORS_PROVEN if rank == 0 else SCRAPED_MAX_ACTORS
+        if len(ub) >= limit:
             continue                          # 通算上限
         recent = False
         for d in ub.values():
@@ -389,12 +454,21 @@ def select_scraped_hooks(pool, actor, max_count):
             continue                          # 他演者が直近3日以内に使用→見送り
         hh = dict(h)                          # プール本体を汚さないようコピーに印を付ける
         hh["_second_use"] = len(ub) >= 1
-        avail.append(hh)
-    avail.sort(key=lambda x: x.get("views", 0), reverse=True)
-    top = avail[:max(max_count * 3, max_count)]
-    if len(top) <= max_count:
-        return top
-    return random.sample(top, max_count)
+        (proven if rank == 0 else unknown).append(hh)
+
+    # 伸び実証済みを実測views降順で確定取り → 残り枠を未検証の上位抽選で埋める
+    proven.sort(key=lambda x: max((r.get("views") or 0) for r in (x.get("results") or {}).values()),
+                reverse=True)
+    take = proven[:max_count]
+    rest = max_count - len(take)
+    if rest > 0:
+        unknown.sort(key=lambda x: x.get("views", 0), reverse=True)
+        top = unknown[:max(rest * 3, rest)]
+        take += top if len(top) <= rest else random.sample(top, rest)
+    if take:
+        n_p = sum(1 for t in take if hook_result_rank(t) == 0)
+        print(f"  収集フック選定: 伸び実証済み{n_p}本＋未検証{len(take) - n_p}本")
+    return take
 
 
 def mark_scraped_used(pool, used_pool_ids, actor):
@@ -494,6 +568,11 @@ def build_phase1_prompt(actor, account_info, target_research, eval_criteria,
 
 以下の {len(scraped_hooks)} 本は **hooks に全部含める**こと。ルール：
 - hook_text は**一字一句そのまま使う**（改行 \\n も保持。言い換え・要約・整形は一切禁止）{second_rule}
+- **一人称・性別の検品（唯一の除外事由）**：フックの語り手の一人称・性別がこの演者のキャラと矛盾する場合
+  （例：女性演者に「僕も元カノから〜」の男性語り）、そのフックは**採用せずスキップしてよい**。
+  過去に女性アカへ男性一人称フックがそのまま出て信用を壊した事故があるため。
+  一人称の書き換えで自然に直せる場合（僕→私 だけで意味が通る等）は書き換えて使ってよいが、
+  「元カノ」「振った側の男として」等、語り手の立場ごと矛盾するものはスキップが正解。
 - based_on は "scraped"、source_reference に pool_id を書く
 - あなたがやるのは structure_label と body_pattern の割当だけ（フック内容と自然に合うものを選ぶ）
 
@@ -1012,6 +1091,11 @@ def run(actor, phase1_only=False, limit=None, reuse_phase1=False):
     # === 収集フック（scraped）：この演者が未使用のものを確保 ===
     # v3: 使い先は教育スロット（thread_cta/kyoiku＝1日4本）だけなので上限もそこに合わせる
     scraped_pool = load_scraped_pool()
+    # 選定前に「うちで使って伸びたか」の実測をプールへ書き戻す（伸びた実績の蓄積→横展開・死に弾の排除）
+    n_res = update_scraped_results(scraped_pool)
+    if n_res:
+        save_json(os.path.join(ROOT, SCRAPED_POOL_PATH), scraped_pool)
+        print(f"  収集フック成績: 実測views {n_res}件を書き戻し")
     n_edu_estimate = (len(schedule_slots) // per_day) * sum(1 for t in V3_DAY_PLAN if t not in NON_EDU_TYPES)
     scraped_hooks = select_scraped_hooks(scraped_pool, actor, max(0, n_edu_estimate - 2))
     print(f"  収集フック: プール{len(scraped_pool.get('hooks', []))}件 → 今バッチに{len(scraped_hooks)}本")
