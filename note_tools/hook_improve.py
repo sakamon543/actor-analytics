@@ -93,7 +93,7 @@ HOOK_SKILL_FILES = [
     "skills/思考スキル_フック作成.md",
     "skills/パターン集_フック細分化v2.md",
     "materials/素材実例集_CSV由来.md",
-    "materials/恋愛ダスト_分析用.csv",
+    "materials/恋愛ダスト_本文のみ.md",   # 生CSVからURL・プロフ列を落とした軽量版（本文48本は全部保持）
 ]
 
 # Phase 2（本文生成）で読み込むスキル本体（恋愛系特化）
@@ -471,6 +471,125 @@ def attributed_heads(posts_db, sales_times, top_k=SALES_ATTRIBUTION_TOP_K, hours
         for v, h in win[:top_k]:
             out.add(h)
     return out
+
+
+# ============== Phase 3: 出力前検査（機械チェック＋修正パス・2026-07-31） ==============
+# 背景：Q1〜Q6の多層検査が生成プロンプト内の「自己申告」に圧縮されて効きが弱い。
+# 確実に機械判定できる違反はPythonで検出し、violationsがある時だけ修正呼び出しを1回足す。
+# 修正は「主張・構成は保持、違反箇所の言い回しだけ」。修正後も違反が残るポストはドロップ（世に出さない）。
+# 対象はAI生成分のみ（recycle=実証済み文面は除外。scrapedは転写の正なので一人称とCTA重複だけ見る）。
+
+MARU_PAT = re.compile(r"[①②③④⑤⑥⑦⑧⑨⑩〇●■]")
+EMOJI_PAT = re.compile(r"[\U0001F300-\U0001FAFF☀-➿]")
+AI_COINAGE = ["フリーズ", "タイマー", "レバー", "センサー", "脳内検索", "SNSの足跡"]
+QUOTE_PAT = re.compile(r"[「『]")
+
+
+def _strip_quotes(t):
+    return re.sub(r"[「『][^」』]*[」』]", "", t or "")
+
+
+def check_post_violations(p, female_actor, cta_seen, light=False):
+    """機械的に判定できる違反のリスト。light=True（scraped転写）は一人称・CTA重複のみ。"""
+    v = []
+    text = p.get("text") or ""
+    th_list = p.get("thread") or []
+    thread = " ".join(th_list)
+    whole = text + "\n" + thread
+    if not light:
+        if MARU_PAT.search(whole):
+            v.append("丸記号（①②③・〇●■）はAI感の代表→普通の文章か「1. 2. 3.」に")
+        if EMOJI_PAT.search(whole) or "▼" in whole:
+            v.append("絵文字・▼は使わない（投稿タイプミックスv3）")
+        for w in AI_COINAGE:
+            if w in whole:
+                v.append(f"AI造語・比喩「{w}」→日常語に置き換える")
+        if len(QUOTE_PAT.findall(text)) >= 3:
+            v.append("メインの「」『』が3個以上（Threads実測は平均0.4個/本→1個以下に）")
+    if female_actor:
+        if re.search(r"(僕|俺)(は|も|が|の|、)", _strip_quotes(whole)):
+            v.append("女性演者なのに地の文が男性一人称（僕/俺）")
+    if th_list:
+        tail = re.sub(r"\s+", "", th_list[-1])[-60:]
+        if tail:
+            if tail in cta_seen:
+                v.append("CTA文面がバッチ内の別ポストと同一（同一文面連発はシャドウバン事故原因→言い回しを変える）")
+            cta_seen.add(tail)
+    return v
+
+
+def verify_and_fix_posts(actor, posts, account_info, analytics_dir):
+    """出力前の機械検査→違反ポストだけ修正呼び出し1回→再検査NGはドロップ。結果をverify_logへ記録。"""
+    female = bool(re.search(r"性別[^\n]{0,10}女", account_info or ""))
+    cta_seen = set()
+    flagged = []
+    for p in posts:
+        based = p.get("based_on")
+        if based == "recycle":
+            th = p.get("thread") or []
+            if th:
+                cta_seen.add(re.sub(r"\s+", "", th[-1])[-60:])   # 新規側の同文面使用を検出するため登録
+            continue
+        # scraped/repost＝実際に伸びた実物の転写なので、文面には触らない（light検査＝一人称とCTA重複のみ）。
+        # フル検査（丸記号・絵文字・造語・「」過多）はAI生成分（new/variation）だけ。
+        vio = check_post_violations(p, female, cta_seen, light=(based in ("scraped", "repost")))
+        if vio:
+            flagged.append((p, vio))
+    if not flagged:
+        print("  ✓ Phase 3 検査: 違反なし")
+        return posts, []
+
+    fix_lines = [json.dumps({"id": p.get("id"), "text": p.get("text"),
+                             "thread": p.get("thread"), "違反": vio}, ensure_ascii=False)
+                 for p, vio in flagged]
+    prompt = (
+        f"あなたは {actor} のポスト検査係。以下の各ポストは機械検査で「違反」を検出した。\n"
+        "**主張・構成・意味・長さ感は一切変えず、違反箇所の言い回しだけ**を直して返すこと。\n"
+        "口調はポスト本文の現状の口調のまま。余計な改善・追記・要約は禁止。\n"
+        '出力はJSONのみ: {"fixed": [{"id": "...", "text": "...", "thread": ["..."]}]}\n\n'
+        + "\n".join(fix_lines))
+    out, err = call_claude_code(prompt, timeout=300)
+    fixed_map = {}
+    if not err:
+        try:
+            data = extract_json_from_text(out.get("result", ""))
+            for f in data.get("fixed", []):
+                if f.get("id"):
+                    fixed_map[f["id"]] = f
+        except (ValueError, json.JSONDecodeError):
+            pass
+
+    flagged_ids = {p.get("id") for p, _ in flagged}
+    result, dropped = [], []
+    for p in posts:
+        if p.get("id") not in flagged_ids:
+            result.append(p)
+            continue
+        f = fixed_map.get(p.get("id"))
+        if f:
+            p2 = dict(p)
+            p2["text"] = f.get("text") or p2["text"]
+            if isinstance(f.get("thread"), list):
+                p2["thread"] = f["thread"]
+            vio2 = check_post_violations(p2, female, set(), light=(p2.get("based_on") in ("scraped", "repost")))
+            if vio2:
+                dropped.append((p2, vio2))
+                continue
+            result.append(p2)
+        else:
+            dropped.append((p, ["修正版の取得失敗"]))
+    log_path = os.path.join(analytics_dir, "verify_log.json")
+    log = load_json(log_path, {"runs": []})
+    log["runs"] = (log.get("runs") or [])[-60:]
+    log["runs"].append({
+        "at": datetime.now(tz=JST).isoformat(),
+        "flagged": [{"id": p.get("id"), "violations": v} for p, v in flagged],
+        "fixed": len(flagged) - len(dropped),
+        "dropped": [{"id": p.get("id"), "violations": v} for p, v in dropped],
+    })
+    save_json(log_path, log)
+    print(f"  ✓ Phase 3 検査: 違反{len(flagged)}本 → 修正{len(flagged) - len(dropped)}本・ドロップ{len(dropped)}本（verify_log.json）")
+    return result, dropped
 
 
 # ============== 収集フックプール（scraped） ==============
@@ -1479,6 +1598,9 @@ def run(actor, phase1_only=False, limit=None, reuse_phase1=False):
     if used_pool_ids:
         mark_scraped_used(scraped_pool, used_pool_ids, actor)
         print(f"  ✓ 収集フック {len(used_pool_ids)}本を使用済みマーク")
+
+    # === Phase 3: 出力前検査（機械チェック→違反のみ修正→再NGはドロップ）===
+    posts, _dropped = verify_and_fix_posts(actor, posts, account_info, analytics_dir)
 
     posts.sort(key=lambda p: p.get("scheduled_at") or "")
 
