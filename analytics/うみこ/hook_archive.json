@@ -614,6 +614,16 @@
           "scheduled_at": "2026-07-28T22:17:00+09:00",
           "registered_at": "2026-07-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-02T18:03:00+09:00",
+          "registered_at": "2026-07-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-03T19:52:00+09:00",
+          "registered_at": "2026-07-31",
+          "views": null
         }
       ]
     },
@@ -824,6 +834,16 @@
         {
           "scheduled_at": "2026-07-28T13:17:00+09:00",
           "registered_at": "2026-07-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-02T11:08:00+09:00",
+          "registered_at": "2026-07-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-03T20:28:00+09:00",
+          "registered_at": "2026-07-31",
           "views": null
         }
       ]
@@ -1515,6 +1535,16 @@
           "scheduled_at": "2026-07-31T22:17:00+09:00",
           "registered_at": "2026-07-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-01T13:17:00+09:00",
+          "registered_at": "2026-07-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-02T22:17:00+09:00",
+          "registered_at": "2026-07-31",
+          "views": null
         }
       ]
     },
@@ -1929,6 +1959,16 @@
           "scheduled_at": "2026-07-26T18:03:00+09:00",
           "registered_at": "2026-07-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-01T14:42:00+09:00",
+          "registered_at": "2026-07-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-03T11:08:00+09:00",
+          "registered_at": "2026-07-31",
+          "views": null
         }
       ]
     },
@@ -1997,6 +2037,11 @@
         {
           "scheduled_at": "2026-07-27T18:03:00+09:00",
           "registered_at": "2026-07-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-01T18:03:00+09:00",
+          "registered_at": "2026-07-31",
           "views": null
         }
       ]
@@ -2093,6 +2138,16 @@
         {
           "scheduled_at": "2026-07-27T13:17:00+09:00",
           "registered_at": "2026-07-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-01T22:17:00+09:00",
+          "registered_at": "2026-07-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-03T14:42:00+09:00",
+          "registered_at": "2026-07-31",
           "views": null
         }
       ]
@@ -2308,6 +2363,11 @@
         {
           "scheduled_at": "2026-07-28T18:03:00+09:00",
           "registered_at": "2026-07-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-01T20:28:00+09:00",
+          "registered_at": "2026-07-31",
           "views": null
         }
       ]
@@ -3353,6 +3413,16 @@
           "scheduled_at": "2026-07-27T20:28:00+09:00",
           "registered_at": "2026-07-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-01T19:52:00+09:00",
+          "registered_at": "2026-07-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-02T21:03:00+09:00",
+          "registered_at": "2026-07-31",
+          "views": null
         }
       ]
     },
@@ -3735,6 +3805,11 @@
         {
           "scheduled_at": "2026-07-28T20:28:00+09:00",
           "registered_at": "2026-07-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-02T14:42:00+09:00",
+          "registered_at": "2026-07-31",
           "views": null
         }
       ]
@@ -4412,7 +4487,8 @@
         {
           "scheduled_at": "2026-07-29T19:52:00+09:00",
           "registered_at": "2026-07-28",
-          "views": null
+          "views": 29,
+          "posted_at": "2026-07-29T10:56:29.503+00:00"
         }
       ]
     },
@@ -4570,6 +4646,42 @@
         {
           "scheduled_at": "2026-07-31T20:28:00+09:00",
           "registered_at": "2026-07-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d319100739": {
+      "text": "男は、『好きだった相手』と簡単に友達みたいな関係には戻れないのよ。",
+      "structure_label": "常識否定型（友達からやり直しは無理）",
+      "first_used_at": "2026-07-31",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T19:52:00+09:00",
+          "registered_at": "2026-07-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2e6ce54cf2": {
+      "text": "回避型の『別れよう』は、本気の決意じゃなくて、ただの『一時避難』なのよ。",
+      "structure_label": "常識否定型（別れ言葉の本当の意味）",
+      "first_used_at": "2026-07-31",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T19:17:00+09:00",
+          "registered_at": "2026-07-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_db5aa6f39d": {
+      "text": "男はね、『元カノへの未練が強すぎるほど沈黙する』生き物なのよ。",
+      "structure_label": "常識否定型（沈黙＝忘れたじゃない）",
+      "first_used_at": "2026-07-31",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T22:17:00+09:00",
+          "registered_at": "2026-07-31",
           "views": null
         }
       ]
