@@ -29,6 +29,8 @@ import random
 import re
 import subprocess
 import sys
+import urllib.parse
+import urllib.request
 from datetime import datetime, timezone, timedelta
 
 sys.stdout.reconfigure(encoding='utf-8', errors='replace')
@@ -268,9 +270,10 @@ def collect_thread_sources(analytics_dir):
     return sources
 
 
-def promote_recycle_pool(actor, posts_db, analytics_dir):
+def promote_recycle_pool(actor, posts_db, analytics_dir, sales_times=None):
     """posts_db から views>=閾値 のポストを recycle_pool.json に自動昇格する。
-    thread は過去の生成バッチから復元（できなければ text 単発として登録）。"""
+    thread は過去の生成バッチから復元（できなければ text 単発として登録）。
+    2026-07-31: 48h内に売上が続いたポストへ sales_followed を記録（一度Trueになったら保持）。"""
     pool_path = os.path.join(analytics_dir, "recycle_pool.json")
     pool = load_json(pool_path, {"actor": actor, "items": {}})
     items = pool.setdefault("items", {})
@@ -285,10 +288,13 @@ def promote_recycle_pool(actor, posts_db, analytics_dir):
         hid = fookid(text.split("\n")[0])
         rid = "rcyc_" + hid.replace("fookid_", "")
         src = thread_sources.get(hid, {})
+        sf = sold_within(p.get("posted_at", ""), sales_times)
         if rid in items:
             # views の最新値だけ更新（最高値を保持）
             if views > items[rid].get("first_seen_views", 0):
                 items[rid]["first_seen_views"] = views
+            if sf:
+                items[rid]["sales_followed"] = True   # 売上追随は一度付いたら消さない（posts_dbは7日窓のため）
             continue
         items[rid] = {
             "recycle_id": rid,
@@ -300,6 +306,8 @@ def promote_recycle_pool(actor, posts_db, analytics_dir):
             "used_count": 0,
             "last_used_at": None,
         }
+        if sf is not None:
+            items[rid]["sales_followed"] = bool(sf)
         added += 1
     pool["updated_at"] = datetime.now(tz=JST).isoformat()
     save_json(pool_path, pool)
@@ -307,7 +315,8 @@ def promote_recycle_pool(actor, posts_db, analytics_dir):
 
 
 def select_recycle_items(pool, max_count):
-    """クールダウン明け＆使用上限内のアイテムを views 降順で max_count 本選ぶ。"""
+    """クールダウン明け＆使用上限内のアイテムを選ぶ。
+    2026-07-31: 並び順を views 単独から「売上追随あり優先 → views」に変更（売れる文面を優先再投稿）。"""
     now = datetime.now(tz=JST)
     ready = []
     for it in pool.get("items", {}).values():
@@ -324,7 +333,8 @@ def select_recycle_items(pool, max_count):
             except ValueError:
                 pass
         ready.append(it)
-    ready.sort(key=lambda x: x.get("first_seen_views", 0), reverse=True)
+    ready.sort(key=lambda x: (1 if x.get("sales_followed") else 0,
+                              x.get("first_seen_views", 0)), reverse=True)
     # 同じ冒頭（類似ポスト）が同一バッチに2本入らないよう、1行目の先頭30字でデデュープ
     seen_heads = set()
     deduped = []
@@ -349,6 +359,98 @@ def mark_recycle_used(analytics_dir, used_ids):
             it["status"] = "used"
     pool["updated_at"] = today
     save_json(pool_path, pool)
+
+
+# ============== 売上追随（使って「売れたか」の判定・2026-07-31） ==============
+# 阪本さん方針：viewsだけでなく「そのポストの後にnoteが売れたか」を選定に還元する。
+# インプと売上は比例しない実測（バズ79,642vで売上4件 vs 中規模インプで売上多数）への対応。
+# 実測では売上日の47%が直前48hに高viewsポストあり（全日21%の2.2倍）＝48h窓で追随を判定する。
+
+SALES_FOLLOW_HOURS = 48        # 投稿からこの時間内に売上があれば「売上追随あり」
+SALES_LOOKBACK_DAYS = 60       # 売上履歴の取得範囲
+_SALES_CACHE_PATH = os.path.join(ROOT, "materials", "sales_times_cache.json")
+
+
+def _load_sales_env():
+    for p in ("/home/ubuntu/sales-fetcher/.env",
+              os.path.join(ROOT, ".env"),
+              r"C:\Users\sakas\x-to-threads\sales_dashboard.env"):
+        if os.path.exists(p):
+            env = {}
+            for line in open(p, encoding="utf-8"):
+                if "=" in line and not line.strip().startswith("#"):
+                    k, v = line.strip().split("=", 1)
+                    env[k.strip()] = v.strip().strip('"').strip("'")
+            if env.get("SUPABASE_URL") and (env.get("SUPABASE_SERVICE_ROLE_KEY") or env.get("SUPABASE_KEY")):
+                return env
+    return None
+
+
+def _supa_get_rows(env, path_query):
+    base = env["SUPABASE_URL"].rstrip("/")
+    key = env.get("SUPABASE_SERVICE_ROLE_KEY") or env.get("SUPABASE_KEY")
+    req = urllib.request.Request(base + "/rest/v1/" + path_query, headers={
+        "apikey": key, "Authorization": "Bearer " + key, "User-Agent": "hook-improve"})
+    return json.loads(urllib.request.urlopen(req, timeout=40).read().decode())
+
+
+# ループ演者名 → 売上ダッシュボード（sales.actor）の演者名。表記ゆれ（ホンネ/ほんね等）があるため静的に持つ。
+# マップに無い新演者は ilike 部分一致でフォールバック（当たらなければ判定不能のまま＝安全側）。
+SALES_ACTOR_MAP = {
+    "ハクオウ": "ハクオウ│復縁", "うみこ": "うみこ・回避型", "ホンネ": "ほんね・職場恋愛",
+    "ヒロ": "ヒロ│元回避型男", "りさ": "リサ│マチアプ恋愛", "ハカセ": "ハカセ│復縁",
+    "みき": "みき・職場恋愛", "miho": "miho＠手放し復縁", "かれん": "かれん♡復縁",
+    "あや": "あや＠回避型元カレと復縁", "りょう": "りょう＠マチアプ本命化",
+    "みさき": "みさき・追わせる復縁", "みな": "みな│マチアプ婚活", "まゆ": "まゆ＠マチアプ攻略",
+}
+
+
+def load_actor_sales_times(actor):
+    """この演者のnote売上時刻（JST）リストを返す。取れなければ None（判定不能→フラグ付けしない）。
+    SALES_ACTOR_MAP（→無ければilike）で sales.actor 名に解決する。同日はキャッシュを使う。"""
+    today = datetime.now(tz=JST).strftime("%Y-%m-%d")
+    cache = load_json(_SALES_CACHE_PATH, {})
+    ent = cache.get(actor)
+    if ent and ent.get("date") == today:
+        return [datetime.fromisoformat(t) for t in ent.get("times", [])]
+    env = _load_sales_env()
+    if not env:
+        return None
+    try:
+        sales_name = SALES_ACTOR_MAP.get(actor)
+        if not sales_name:
+            rows = _supa_get_rows(env, "actors?name=ilike.%s&select=name&limit=2"
+                                  % urllib.parse.quote("*" + actor + "*"))
+            if len(rows) != 1:
+                return None       # 見つからない/曖昧 → 判定不能のまま（誤マッピングを避ける）
+            sales_name = rows[0]["name"]
+        name = urllib.parse.quote(sales_name)
+        since = (datetime.now(tz=JST) - timedelta(days=SALES_LOOKBACK_DAYS)).strftime("%Y-%m-%d")
+        srows = _supa_get_rows(env, "sales?actor=eq.%s&sold_at=gte.%s&select=sold_at&limit=2000" % (name, since))
+        times = []
+        for r in srows:
+            try:
+                times.append(datetime.fromisoformat(str(r["sold_at"]).replace("Z", "+00:00")).astimezone(JST))
+            except (ValueError, KeyError, TypeError):
+                pass
+        cache[actor] = {"date": today, "times": [t.isoformat() for t in times]}
+        save_json(_SALES_CACHE_PATH, cache)
+        return times
+    except Exception as e:
+        print("  売上履歴の取得スキップ（%s）" % type(e).__name__)
+        return None
+
+
+def sold_within(posted_at, sales_times, hours=SALES_FOLLOW_HOURS):
+    """posted_at から hours 以内に売上があったか。sales_times が None なら None（判定不能）。"""
+    if sales_times is None:
+        return None
+    try:
+        t0 = datetime.fromisoformat(str(posted_at).replace("Z", "+00:00")).astimezone(JST)
+    except (ValueError, TypeError):
+        return None
+    t1 = t0 + timedelta(hours=hours)
+    return any(t0 <= s <= t1 for s in sales_times)
 
 
 # ============== 収集フックプール（scraped） ==============
@@ -384,6 +486,7 @@ def update_scraped_results(pool):
                 dbs[a] = load_json(p, {"posts": {}}).get("posts", {})
     n_upd = 0
     today = datetime.now(tz=JST).strftime("%Y-%m-%d")
+    sales_by_actor = {}
     for h in hooks:
         head = _norm_text(h.get("first_lines"))[:30]
         if len(head) < 10:
@@ -391,6 +494,7 @@ def update_scraped_results(pool):
         res = h.setdefault("results", {})
         for a in (h.get("used_by") or {}):
             best = None
+            best_post = None
             for p in dbs.get(a, {}).values():
                 v = p.get("views")
                 if not isinstance(v, int):
@@ -398,10 +502,20 @@ def update_scraped_results(pool):
                 if _norm_text(p.get("text")).startswith(head):
                     if best is None or v > best:
                         best = v
+                        best_post = p
             if best is not None:
-                prev = (res.get(a) or {}).get("views")
-                if not isinstance(prev, int) or best > prev:
-                    res[a] = {"views": best, "at": today}
+                prev = res.get(a) or {}
+                if not isinstance(prev.get("views"), int) or best > prev["views"]:
+                    entry = {"views": best, "at": today}
+                    if prev.get("sale_48h"):
+                        entry["sale_48h"] = True   # 一度付いた売上追随は保持
+                    else:
+                        if a not in sales_by_actor:
+                            sales_by_actor[a] = load_actor_sales_times(a)
+                        sf = sold_within((best_post or {}).get("posted_at", ""), sales_by_actor[a])
+                        if sf:
+                            entry["sale_48h"] = True
+                    res[a] = entry
                     n_upd += 1
     return n_upd
 
@@ -456,9 +570,10 @@ def select_scraped_hooks(pool, actor, max_count):
         hh["_second_use"] = len(ub) >= 1
         (proven if rank == 0 else unknown).append(hh)
 
-    # 伸び実証済みを実測views降順で確定取り → 残り枠を未検証の上位抽選で埋める
-    proven.sort(key=lambda x: max((r.get("views") or 0) for r in (x.get("results") or {}).values()),
-                reverse=True)
+    # 伸び実証済みは「売上追随あり → 実測views」の順で確定取り → 残り枠を未検証の上位抽選で埋める
+    proven.sort(key=lambda x: (
+        1 if any(r.get("sale_48h") for r in (x.get("results") or {}).values()) else 0,
+        max((r.get("views") or 0) for r in (x.get("results") or {}).values())), reverse=True)
     take = proven[:max_count]
     rest = max_count - len(take)
     if rest > 0:
@@ -1084,9 +1199,14 @@ def run(actor, phase1_only=False, limit=None, reuse_phase1=False):
     print(f"  スケジュール: {start_date.strftime('%Y-%m-%d')} 〜 {(start_date + timedelta(days=2)).strftime('%Y-%m-%d')}")
 
     # === 丸ごとリサイクル：伸びたポストを昇格→クールダウン明けを先に枠確保（生成ゼロ）===
-    recycle_pool, recycle_pool_path, promoted = promote_recycle_pool(actor, posts_db, analytics_dir)
+    # 売上履歴（48h追随判定用）。取れない環境では None＝従来のviews単独動作
+    sales_times = load_actor_sales_times(actor)
+    if sales_times is not None:
+        print(f"  売上履歴: 直近{SALES_LOOKBACK_DAYS}日 {len(sales_times)}件（投稿48h内の売上追随を選定に反映）")
+    recycle_pool, recycle_pool_path, promoted = promote_recycle_pool(actor, posts_db, analytics_dir, sales_times)
     recycle_items = select_recycle_items(recycle_pool, RECYCLE_PER_DAY * 3)
-    print(f"  リサイクル: プール{len(recycle_pool.get('items', {}))}件（今回昇格+{promoted}）→ 今バッチに{len(recycle_items)}本")
+    n_sf = sum(1 for it in recycle_items if it.get("sales_followed"))
+    print(f"  リサイクル: プール{len(recycle_pool.get('items', {}))}件（今回昇格+{promoted}）→ 今バッチに{len(recycle_items)}本（うち売上追随{n_sf}）")
 
     # === 収集フック（scraped）：この演者が未使用のものを確保 ===
     # v3: 使い先は教育スロット（thread_cta/kyoiku＝1日4本）だけなので上限もそこに合わせる
