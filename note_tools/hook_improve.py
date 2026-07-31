@@ -102,7 +102,7 @@ BODY_SKILL_FILES = [
     "skills/判断軸_恋愛ポスト作成.md",
     "skills/思考スキル_本文作成.md",
     "skills/思考スキル_統括_売れる教育ポスト.md",
-    "skills/売れた型_実測パターン集.md",
+    "skills/売れた型_生成用ダイジェスト.md",   # フル版（実測パターン集）は人間用。生成には圧縮版だけ積む
     "skills/口調文体ルール_一般人感.md",
 ]
 
@@ -273,11 +273,12 @@ def collect_thread_sources(analytics_dir):
 def promote_recycle_pool(actor, posts_db, analytics_dir, sales_times=None):
     """posts_db から views>=閾値 のポストを recycle_pool.json に自動昇格する。
     thread は過去の生成バッチから復元（できなければ text 単発として登録）。
-    2026-07-31: 48h内に売上が続いたポストへ sales_followed を記録（一度Trueになったら保持）。"""
+    2026-07-31: 売上に帰属するポスト（各売上の直前48hでviews上位）へ sales_followed を記録（一度Trueなら保持）。"""
     pool_path = os.path.join(analytics_dir, "recycle_pool.json")
     pool = load_json(pool_path, {"actor": actor, "items": {}})
     items = pool.setdefault("items", {})
     thread_sources = collect_thread_sources(analytics_dir)
+    attr = attributed_heads(posts_db, sales_times)
 
     added = 0
     for p in posts_db.get("posts", {}).values():
@@ -288,7 +289,7 @@ def promote_recycle_pool(actor, posts_db, analytics_dir, sales_times=None):
         hid = fookid(text.split("\n")[0])
         rid = "rcyc_" + hid.replace("fookid_", "")
         src = thread_sources.get(hid, {})
-        sf = sold_within(p.get("posted_at", ""), sales_times)
+        sf = None if attr is None else (re.sub(r"\s+", "", text)[:30] in attr)
         if rid in items:
             # views の最新値だけ更新（最高値を保持）
             if views > items[rid].get("first_seen_views", 0):
@@ -441,16 +442,35 @@ def load_actor_sales_times(actor):
         return None
 
 
-def sold_within(posted_at, sales_times, hours=SALES_FOLLOW_HOURS):
-    """posted_at から hours 以内に売上があったか。sales_times が None なら None（判定不能）。"""
+SALES_ATTRIBUTION_TOP_K = 3    # 各売上の直前48h内で views上位この本数だけに「売上追随」を帰属させる
+
+
+def attributed_heads(posts_db, sales_times, top_k=SALES_ATTRIBUTION_TOP_K, hours=SALES_FOLLOW_HOURS):
+    """「売上追随あり」と見なすポストの集合（本文先頭30字の正規化キー）を返す。
+
+    帰属の絞り込み（2026-07-31）: 単純な「48h窓内にいたか」だと、よく売れるアカでは
+    時間の大半が窓内になり全ポストにフラグが付いてしまう（識別力ゼロ）。
+    実測分析と同じ基準＝**各売上の直前48h内で views が上位のポストだけ**を売上に帰属させる。
+    sales_times が None なら None（判定不能→フラグを触らない）。"""
     if sales_times is None:
         return None
-    try:
-        t0 = datetime.fromisoformat(str(posted_at).replace("Z", "+00:00")).astimezone(JST)
-    except (ValueError, TypeError):
-        return None
-    t1 = t0 + timedelta(hours=hours)
-    return any(t0 <= s <= t1 for s in sales_times)
+    posts = []
+    for p in posts_db.get("posts", {}).values():
+        v = p.get("views")
+        if not isinstance(v, int):
+            continue
+        try:
+            t = datetime.fromisoformat(str(p.get("posted_at")).replace("Z", "+00:00")).astimezone(JST)
+        except (ValueError, TypeError):
+            continue
+        posts.append((t, v, re.sub(r"\s+", "", (p.get("text") or ""))[:30]))
+    out = set()
+    for s in sales_times:
+        lo = s - timedelta(hours=hours)
+        win = sorted(((v, h) for (t, v, h) in posts if lo <= t <= s), reverse=True)
+        for v, h in win[:top_k]:
+            out.add(h)
+    return out
 
 
 # ============== 収集フックプール（scraped） ==============
@@ -486,7 +506,7 @@ def update_scraped_results(pool):
                 dbs[a] = load_json(p, {"posts": {}}).get("posts", {})
     n_upd = 0
     today = datetime.now(tz=JST).strftime("%Y-%m-%d")
-    sales_by_actor = {}
+    attr_by_actor = {}
     for h in hooks:
         head = _norm_text(h.get("first_lines"))[:30]
         if len(head) < 10:
@@ -494,7 +514,7 @@ def update_scraped_results(pool):
         res = h.setdefault("results", {})
         for a in (h.get("used_by") or {}):
             best = None
-            best_post = None
+            best_head = None
             for p in dbs.get(a, {}).values():
                 v = p.get("views")
                 if not isinstance(v, int):
@@ -502,7 +522,7 @@ def update_scraped_results(pool):
                 if _norm_text(p.get("text")).startswith(head):
                     if best is None or v > best:
                         best = v
-                        best_post = p
+                        best_head = _norm_text(p.get("text"))[:30]
             if best is not None:
                 prev = res.get(a) or {}
                 if not isinstance(prev.get("views"), int) or best > prev["views"]:
@@ -510,10 +530,11 @@ def update_scraped_results(pool):
                     if prev.get("sale_48h"):
                         entry["sale_48h"] = True   # 一度付いた売上追随は保持
                     else:
-                        if a not in sales_by_actor:
-                            sales_by_actor[a] = load_actor_sales_times(a)
-                        sf = sold_within((best_post or {}).get("posted_at", ""), sales_by_actor[a])
-                        if sf:
+                        if a not in attr_by_actor:
+                            attr_by_actor[a] = attributed_heads(
+                                {"posts": dbs.get(a, {})}, load_actor_sales_times(a))
+                        attr = attr_by_actor[a]
+                        if attr is not None and best_head in attr:
                             entry["sale_48h"] = True
                     res[a] = entry
                     n_upd += 1
