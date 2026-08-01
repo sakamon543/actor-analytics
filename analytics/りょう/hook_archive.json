@@ -32,6 +32,16 @@
           "scheduled_at": "2026-07-31T11:08:00+09:00",
           "registered_at": "2026-07-29",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-03T22:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-04T22:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
         }
       ]
     },
@@ -60,6 +70,11 @@
         {
           "scheduled_at": "2026-07-31T18:03:00+09:00",
           "registered_at": "2026-07-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-02T19:52:00+09:00",
+          "registered_at": "2026-08-01",
           "views": null
         }
       ]
@@ -99,6 +114,16 @@
         {
           "scheduled_at": "2026-08-01T20:28:00+09:00",
           "registered_at": "2026-07-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-02T14:42:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-04T19:17:00+09:00",
+          "registered_at": "2026-08-01",
           "views": null
         }
       ]
@@ -516,11 +541,17 @@
         {
           "scheduled_at": "2026-07-30T14:42:00+09:00",
           "registered_at": "2026-07-29",
-          "views": null
+          "views": 1405,
+          "posted_at": "2026-07-27T11:33:20.42+00:00"
         },
         {
           "scheduled_at": "2026-08-01T22:17:00+09:00",
           "registered_at": "2026-07-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-03T19:52:00+09:00",
+          "registered_at": "2026-08-01",
           "views": null
         }
       ]
@@ -557,11 +588,22 @@
         {
           "scheduled_at": "2026-07-30T22:17:00+09:00",
           "registered_at": "2026-07-29",
-          "views": null
+          "views": 11223,
+          "posted_at": "2026-07-27T04:23:38.45+00:00"
         },
         {
           "scheduled_at": "2026-08-01T14:42:00+09:00",
           "registered_at": "2026-07-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-02T13:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-04T19:52:00+09:00",
+          "registered_at": "2026-08-01",
           "views": null
         }
       ]
@@ -646,6 +688,119 @@
         {
           "scheduled_at": "2026-08-01T19:52:00+09:00",
           "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_999824472d": {
+      "text": "マチアプ3年、100人以上会って、そのほとんどを俺から切ってきた。今思うと最低だと思います。ただ切ってきた側だからこそ分かることがあって、消される子には共通点があるんだよね。",
+      "structure_label": "経験者暴露型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T18:03:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-04T11:08:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_afde9f6fe2": {
+      "text": "男は一番いい人を選んでいません。違和感が出た子から順に消してるだけです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T20:28:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f6e260cb89": {
+      "text": "「2回目に誘われた＝脈あり」はウソです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T22:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3e27999f85": {
+      "text": "男は、あなただけを見ていません。俺は3年で100人以上と会って、そのほとんどを自分から切った側です。切った子にも全員『楽しかった、また会おうね』と言ってました。嘘じゃないです。それでも駅で別れた時点で、もう会わない子は決まってる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T11:08:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9469314bca": {
+      "text": "「また会おうね」と言いながら、帰りの電車の中でもう会わないと決めていました。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T14:42:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c86a0ab958": {
+      "text": "消される理由って「可愛くないから」とか「会話が下手だったから」みたいな理由じゃないんですよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T18:03:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_95f4642e81": {
+      "text": "「私のどこがダメだったの」の答えは、たいてい「どこもダメじゃなかった」です。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T21:03:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_376c6f24b2": {
+      "text": "「私のどこがダメだったの」に、俺は答えられません。ダメなところが無かったからです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T14:42:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_335826c934": {
+      "text": "マチアプで3年、100人以上と会って、そのほとんどを俺から切りました。最低な話だと思います。ただ切った側だから言えることがあって、消される子には毎回同じ共通点がありました。",
+      "structure_label": "経験者暴露型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T20:28:00+09:00",
+          "registered_at": "2026-08-01",
           "views": null
         }
       ]

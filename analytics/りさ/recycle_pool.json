@@ -9,7 +9,8 @@
       "first_seen_at": "2026-07-15T13:38:31.827+00:00",
       "status": "used",
       "used_count": 1,
-      "last_used_at": "2026-07-22T21:28:45.305267+09:00"
+      "last_used_at": "2026-07-22T21:28:45.305267+09:00",
+      "sales_followed": true
     },
     "rcyc_effb6f2d54": {
       "recycle_id": "rcyc_effb6f2d54",
@@ -41,7 +42,8 @@
       "first_seen_at": "2026-07-23T02:15:44.498+00:00",
       "status": "used",
       "used_count": 1,
-      "last_used_at": "2026-07-26T13:47:49.254438+09:00"
+      "last_used_at": "2026-07-26T13:47:49.254438+09:00",
+      "sales_followed": true
     },
     "rcyc_17ce41a942": {
       "recycle_id": "rcyc_17ce41a942",
@@ -65,7 +67,8 @@
       "first_seen_at": "2026-07-24T05:48:01.709+00:00",
       "status": "used",
       "used_count": 1,
-      "last_used_at": "2026-07-26T13:47:49.254438+09:00"
+      "last_used_at": "2026-07-26T13:47:49.254438+09:00",
+      "sales_followed": true
     },
     "rcyc_123709000f": {
       "recycle_id": "rcyc_123709000f",
@@ -77,8 +80,20 @@
       "first_seen_at": "2026-07-24T02:14:44.938+00:00",
       "status": "used",
       "used_count": 1,
-      "last_used_at": "2026-07-26T13:47:49.254438+09:00"
+      "last_used_at": "2026-07-26T13:47:49.254438+09:00",
+      "sales_followed": true
+    },
+    "rcyc_8d9bdae947": {
+      "recycle_id": "rcyc_8d9bdae947",
+      "text": "年下男子の脈は、素直な言葉には出てきません。彼らは年上に軽く見られたくない意識がまず先に立つから、『好き』も『会いたい』もぐっと飲み込むんです。今のあなたが待ってる分かりやすい合図は、たぶんずっと来ないままだと思ってください。",
+      "thread": [],
+      "first_seen_views": 13032,
+      "first_seen_at": "2026-07-28T12:09:01.292+00:00",
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-08-01T10:53:33.224112+09:00",
+      "sales_followed": false
     }
   },
-  "updated_at": "2026-07-29T13:24:36.177208+09:00"
+  "updated_at": "2026-08-01T10:53:33.224112+09:00"
 }

@@ -166,6 +166,11 @@
           "scheduled_at": "2026-07-24T11:08:00+09:00",
           "registered_at": "2026-07-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-03T18:03:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
         }
       ]
     },
@@ -447,6 +452,11 @@
           "scheduled_at": "2026-07-27T14:42:00+09:00",
           "registered_at": "2026-07-26",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-02T14:42:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
         }
       ]
     },
@@ -538,6 +548,11 @@
         {
           "scheduled_at": "2026-07-25T19:52:00+09:00",
           "registered_at": "2026-07-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-04T11:08:00+09:00",
+          "registered_at": "2026-08-01",
           "views": null
         }
       ]
@@ -971,6 +986,11 @@
           "scheduled_at": "2026-07-25T18:03:00+09:00",
           "registered_at": "2026-07-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-04T19:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
         }
       ]
     },
@@ -1090,7 +1110,7 @@
         {
           "scheduled_at": "2026-07-28T18:03:00+09:00",
           "registered_at": "2026-07-26",
-          "views": 11,
+          "views": 15,
           "posted_at": "2026-07-28T09:07:37.942+00:00"
         }
       ]
@@ -1391,6 +1411,162 @@
         {
           "scheduled_at": "2026-08-01T22:17:00+09:00",
           "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cb5ae3dbdf": {
+      "text": "男が別れたあと、元カノに対して内心こう思ってるんですよね。\n・嫌いになったわけじゃない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T18:03:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a04552c670": {
+      "text": "男って、本気で本命だった元カノとは『ただの友達』には戻れないんですよね。別れる時に『友達に戻ろう』『また連絡する』って言うことはあるし、それ自体は本心なんです。でも、いざその距離になろうとすると、実際は、",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T19:52:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a9e591c37b": {
+      "text": "回避型彼氏が別れた直後に感じる「解放感」、長くても3週間で切れるんですよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T20:28:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d9b4ebc270": {
+      "text": "男って結局、「死ぬほど重たく愛してくれた女性」のとこに戻るんだよね。瞬間的な感情で離れたくなったとしても、結局は自分の全てを受け入れてくれる女性が貴重なことに気づく。だからあなたの重さも武器になるし、彼が戻ってくる理由になるんです。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T22:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_68aaa9130f": {
+      "text": "元回避型として断言する。追われるほど逃げたくなる。マジで。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T11:08:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_50fde1118e": {
+      "text": "彼女を振って3ヶ月で結婚前提の復縁を申し込んだ僕なんですけど、これって『復縁あるある』なんですよね。男が後悔して復縁を迫った復縁は「傷つけた分、幸せにしたい」って覚悟があるので結婚率も溺愛率も高い。男は自分で決めたことには責任を取ろうとする生き物なので、彼との将来を考えているなら、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T14:42:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8f5ac23bca": {
+      "text": "同じLINEでも、戻れる女と戻れない女はここで分かれるんです。\n戻れない女",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T19:52:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4b02704160": {
+      "text": "実際に復縁してみて分かったこと\n･プライドは邪魔",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T21:03:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_33eb467d04": {
+      "text": "男の未練が一番濃くなるのは「別れて1〜3ヶ月ごろ」なんですよ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T22:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1681a48be1": {
+      "text": "女性は一度冷めたらそれきり再燃することはない代わりに、完全に冷めるまでに我慢の期間が長い。逆に男はあっさり冷めるけど、その分再燃する。しかも、冷めるのは瞬間的だし、惚れ直すのも秒。女の浮気は本気で、男の浮気は遊びなのもこれと同じ理論。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T14:42:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4d345918b9": {
+      "text": "回避型の元彼の沈黙は、嫌いになった証拠じゃないです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T19:52:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_85644267f4": {
+      "text": "僕の彼女は元々重度のメンヘラで、正直重たすぎて「ずっとこのままじゃ疲れちゃうな」と思って離れる決断をしたんだよね。でも不思議なことに別れてから1ヶ月くらい経つと「あんなに僕を愛してくれる人は居なかった」って思ったんだよね。何が言いたいかって、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T20:28:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7b8fb30aeb": {
+      "text": "結婚して改めてこの自分が書いた記事読んでるけど我ながら結構いいこと書いてるので復縁に向けて頑張ってる人は読んでみてください(1年半とか前の記事ですが)",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T22:17:00+09:00",
+          "registered_at": "2026-08-01",
           "views": null
         }
       ]

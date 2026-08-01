@@ -9,7 +9,8 @@
       "first_seen_at": "2026-06-05T03:06:31.185+00:00",
       "status": "used",
       "used_count": 1,
-      "last_used_at": "2026-07-22T20:22:16.040858+09:00"
+      "last_used_at": "2026-07-22T20:22:16.040858+09:00",
+      "sales_followed": true
     },
     "rcyc_0e982f33c7": {
       "recycle_id": "rcyc_0e982f33c7",
@@ -39,7 +40,8 @@
       "first_seen_at": "2026-06-09T12:06:44.556+00:00",
       "status": "used",
       "used_count": 1,
-      "last_used_at": "2026-07-22T20:22:16.040858+09:00"
+      "last_used_at": "2026-07-22T20:22:16.040858+09:00",
+      "sales_followed": true
     },
     "rcyc_23ab162c59": {
       "recycle_id": "rcyc_23ab162c59",
@@ -69,13 +71,14 @@
       "first_seen_at": "2026-07-16T13:38:18.401+00:00",
       "status": "used",
       "used_count": 1,
-      "last_used_at": "2026-07-22T20:22:16.040858+09:00"
+      "last_used_at": "2026-07-22T20:22:16.040858+09:00",
+      "sales_followed": true
     },
     "rcyc_68aaa9130f": {
       "recycle_id": "rcyc_68aaa9130f",
       "text": "元回避型として断言する。追われるほど逃げたくなる。マジで。",
       "thread": [],
-      "first_seen_views": 2489,
+      "first_seen_views": 2502,
       "first_seen_at": "2026-07-27T02:11:43.615+00:00",
       "status": "used",
       "used_count": 1,
@@ -90,7 +93,18 @@
       "status": "used",
       "used_count": 1,
       "last_used_at": "2026-07-29T11:15:38.077373+09:00"
+    },
+    "rcyc_affc67c7d7": {
+      "recycle_id": "rcyc_affc67c7d7",
+      "text": "回避型の彼が、何をされると逃げて、何をされると戻りたくなるのか。当事者として、はっきり言えることがあります。まず、回避型は『気持ちを問い詰められる』と逃げます。逆に『聞かずに覚えててくれる』と戻りたくなる。追う・引くじゃなくこの温度差で、あなた今、方向が逆から入ってます。",
+      "thread": [],
+      "first_seen_views": 2063,
+      "first_seen_at": "2026-07-25T02:13:46.922+00:00",
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-08-01T09:41:41.591479+09:00",
+      "sales_followed": true
     }
   },
-  "updated_at": "2026-07-29T11:15:38.077373+09:00"
+  "updated_at": "2026-08-01T09:41:41.591479+09:00"
 }

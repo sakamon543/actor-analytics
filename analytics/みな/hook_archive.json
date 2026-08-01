@@ -674,6 +674,208 @@
           "views": null
         }
       ]
+    },
+    "fookid_27db54280f": {
+      "text": "『マッチングアプリは数を打て』は嘘です",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T13:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-04T11:08:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3fa2ba40c1": {
+      "text": "マッチングアプリで一番人生を溶かすのは、切りきれない人と月1で会い続ける時間です",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T14:42:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-04T19:52:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bb42a7f759": {
+      "text": "マッチングアプリで一番時間を溶かすのは、ダラダラ保留している時間です",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T18:03:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7945366656": {
+      "text": "婚活して分かったんだけど、『疲れた人から結果が出なくなる』って話は本当",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T19:52:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_229efa5404": {
+      "text": "婚活で一番人生を溶かすのは、切るでも進めるでもなく抱えているだけの時間です",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T20:28:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ccdb38f27e": {
+      "text": "男は、『会う回数＝気持ちの強さ』とは思っていない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T22:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d1428f29c2": {
+      "text": "2回目に誘われる人と、誘われない人の差は、可愛さでも会話の上手さでもありません",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T11:08:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7360e0180a": {
+      "text": "マッチングアプリで決まらない理由って『可愛くないから』とか『プロフが弱いから』みたいな理由じゃないの",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T14:42:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_95a69a6f28": {
+      "text": "婚活して分かったんだけど、『土日が全部埋まった人から決まらなくなる』って話は本当",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T18:03:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_470c41aaea": {
+      "text": "会う人数を減らすと、チャンスも減ると思っていませんか",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T19:52:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ba491be427": {
+      "text": "『たくさん会って比べろ』は嘘です",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T21:03:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f2a8e39383": {
+      "text": "私の経験上、3ヶ月で決まるのは『外見を磨いた人』でも『プロフを直した人』でもなくて『会う人数を減らした人』",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T22:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bf31c0c0d3": {
+      "text": "2回目に誘われるかどうかを決めているのは、可愛さでも会話の上手さでもありません",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T14:42:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7f0676313a": {
+      "text": "結局、2回目に誘われる人って『2時間だけ他の人を考えてない人』なんです",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T19:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2f79ffa857": {
+      "text": "2回目に誘われない理由って『可愛くないから』とか『会話が下手だから』みたいな理由じゃないの",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T20:28:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6667c1a1ea": {
+      "text": "決めるなら、疲れる前です",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T22:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
     }
   }
 }

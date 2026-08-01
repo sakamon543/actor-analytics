@@ -9,6 +9,11 @@
           "scheduled_at": "2026-07-23T11:08:00+09:00",
           "registered_at": "2026-07-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-02T18:03:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
         }
       ]
     },
@@ -57,6 +62,11 @@
           "scheduled_at": "2026-07-23T19:52:00+09:00",
           "registered_at": "2026-07-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-03T22:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
         }
       ]
     },
@@ -93,6 +103,11 @@
           "scheduled_at": "2026-07-24T11:08:00+09:00",
           "registered_at": "2026-07-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-04T22:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
         }
       ]
     },
@@ -116,6 +131,11 @@
         {
           "scheduled_at": "2026-07-30T13:17:00+09:00",
           "registered_at": "2026-07-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-02T14:42:00+09:00",
+          "registered_at": "2026-08-01",
           "views": null
         }
       ]
@@ -317,6 +337,11 @@
           "scheduled_at": "2026-07-30T18:03:00+09:00",
           "registered_at": "2026-07-29",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-03T19:52:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
         }
       ]
     },
@@ -334,6 +359,11 @@
         {
           "scheduled_at": "2026-07-30T19:52:00+09:00",
           "registered_at": "2026-07-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-03T11:08:00+09:00",
+          "registered_at": "2026-08-01",
           "views": null
         }
       ]
@@ -368,6 +398,11 @@
         {
           "scheduled_at": "2026-07-30T20:28:00+09:00",
           "registered_at": "2026-07-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-02T22:17:00+09:00",
+          "registered_at": "2026-08-01",
           "views": null
         }
       ]
@@ -642,6 +677,126 @@
         {
           "scheduled_at": "2026-08-01T22:17:00+09:00",
           "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8d9bdae947": {
+      "text": "年下男子の脈は、素直な言葉には出てきません。彼らは年上に軽く見られたくない意識がまず先に立つから、『好き』も『会いたい』もぐっと飲み込むんです。今のあなたが待ってる分かりやすい合図は、たぶんずっと来ないままだと思ってください。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T19:52:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b527fe2c68": {
+      "text": "年下男子は、「甘えてくる年上=面倒」とは思っていない",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T20:28:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ae63146e88": {
+      "text": "年下男子の脈は、まっすぐな言葉には出てきません。彼らは年上に軽く見られたくない気持ちが先に立つので、『好き』も『会いたい』も全部飲み込みます。あなたが待ってる分かりやすい合図は、たぶんずっと来ないままです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T14:42:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b474f1427c": {
+      "text": "これあんまり言いたくないんだけど、裏で『年上に甘えられたい』って思ってる年下男子ってめっちゃいます",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T18:03:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ea4b52f2e8": {
+      "text": "年下男子が身を引くとき『年の差がきつい』より圧倒的に多いのが『俺なんて必要ないな』",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T21:03:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0d265577b8": {
+      "text": "でもでもこれだけ言ってても急に彼氏とかが寄り添ってくれるようにはならないから自分の在り方が結局大事だなと思うよね。\nただ寄り添ってほしいって思うだけじゃなくて、自分が今より少しでも｢寄り添いたい｣って思ってあげれるような人間になることがお互いのためだから女子は頑張ろ",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T11:08:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8940d08514": {
+      "text": "年下男子って年上に興味がなくて離れるんじゃなくて、気になってるときほど敬語に戻るんです",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T14:42:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_384e398a89": {
+      "text": "年下男子が急に返信を減らすのは、興味がなくなったサインじゃないんです。むしろ逆で、あなたを意識し始めた男ほど、一回距離を置きます。『年上にがっつくのはダサい』『重いと思われたくない』って、彼の中で必死にブレーキを踏んでるだけです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T19:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a4c3773382": {
+      "text": "年下男子が「この人しかいない」って本気になる年上には、共通点があるんです。若さでも、完璧さでも、包容力でもない。むしろ逆で、「ちゃんと弱音を吐ける」ってこと。年下が見てるのは、頼れるお姉さんじゃなくて、自分を必要としてくれる人です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T19:52:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_81db2035ae": {
+      "text": "年下男子は、「年上が弱音を吐く=重い」とは思っていない",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T20:28:00+09:00",
+          "registered_at": "2026-08-01",
           "views": null
         }
       ]

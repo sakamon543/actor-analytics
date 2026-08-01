@@ -122,6 +122,11 @@
           "scheduled_at": "2026-07-26T18:03:00+09:00",
           "registered_at": "2026-07-23",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-04T14:42:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
         }
       ]
     },
@@ -320,6 +325,11 @@
         {
           "scheduled_at": "2026-07-26T14:42:00+09:00",
           "registered_at": "2026-07-23",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-04T19:52:00+09:00",
+          "registered_at": "2026-08-01",
           "views": null
         }
       ]
@@ -600,6 +610,11 @@
         {
           "scheduled_at": "2026-07-23T11:08:00+09:00",
           "registered_at": "2026-07-20",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-03T14:42:00+09:00",
+          "registered_at": "2026-08-01",
           "views": null
         }
       ]
@@ -905,6 +920,11 @@
           "scheduled_at": "2026-08-01T20:28:00+09:00",
           "registered_at": "2026-07-29",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-02T18:03:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
         }
       ]
     },
@@ -959,6 +979,11 @@
         {
           "scheduled_at": "2026-07-26T19:17:00+09:00",
           "registered_at": "2026-07-23",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-03T18:03:00+09:00",
+          "registered_at": "2026-08-01",
           "views": null
         }
       ]
@@ -1047,6 +1072,11 @@
         {
           "scheduled_at": "2026-08-01T19:17:00+09:00",
           "registered_at": "2026-07-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-02T20:28:00+09:00",
+          "registered_at": "2026-08-01",
           "views": null
         }
       ]
@@ -1316,6 +1346,11 @@
           "scheduled_at": "2026-07-26T11:08:00+09:00",
           "registered_at": "2026-07-23",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-02T22:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
         }
       ]
     },
@@ -1362,6 +1397,11 @@
         {
           "scheduled_at": "2026-07-26T13:17:00+09:00",
           "registered_at": "2026-07-23",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-03T21:03:00+09:00",
+          "registered_at": "2026-08-01",
           "views": null
         }
       ]
@@ -2991,6 +3031,11 @@
           "registered_at": "2026-07-23",
           "views": 11012,
           "posted_at": "2026-07-21T04:20:55.541+00:00"
+        },
+        {
+          "scheduled_at": "2026-08-02T14:42:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
         }
       ]
     },
@@ -3498,7 +3543,8 @@
         {
           "scheduled_at": "2026-07-31T11:08:00+09:00",
           "registered_at": "2026-07-29",
-          "views": null
+          "views": 3,
+          "posted_at": "2026-07-31T02:16:44.73+00:00"
         }
       ]
     },
@@ -3606,6 +3652,114 @@
         {
           "scheduled_at": "2026-08-01T22:17:00+09:00",
           "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ff494141ca": {
+      "text": "復縁なんてほんとこれに尽きる。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T13:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_399e03e8e9": {
+      "text": "復縁が不可能だと思うのは、過去のあなたを信用して無さすぎです。少なからず本気で愛してて、愛してくれた女性を完全に忘れたり嫌うことなんてできません。俺も別れて初めて「あの子が1番だな」と本気で思ったんですよね。元彼があなたを本気で嫌うことはないので安心してください。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T19:52:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_50705d40cc": {
+      "text": "復縁したところで、また同じことになって傷つくだけかも、って不安な人へ。その不安、当然なんです。でも同じ場所に戻るのと、変わった自分で戻るのは全然違う。前と同じ依存のまま戻れば繰り返すけど、",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T11:08:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_73f9b9da48": {
+      "text": "とりあえず、元彼の気持ちを再燃させる方法は↓",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T19:52:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b42e907132": {
+      "text": "正直に話すと、俺が別れを決めたとき彼女に問題があったわけじゃない。仕事の忙しさとか将来の不安が重なってキャパオーバーだっただけ。ほとんどの男はそうです。彼女に気持ちがあっても「恋愛モードが強制オフ」になる。逆に言えば、恋愛モードのスイッチをオンにさえすれば彼の気持ちは戻るし、動き方も自然と見えてくる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T22:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_58865e407f": {
+      "text": "ピュアでいられる恋愛がいい。公園のベンチに座ってお菓子半分こしたり、雨の中チャリかっ飛ばして会いに行ったり、オチのない普通の会話で笑いあったり、ただ素直に、正直に、心のままに動いても続く恋愛が1番いい。わざとLINE遅くして、駆け引きして、気持ちを隠す恋愛は、結局泣くばかりになるから",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T11:08:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0c3c520659": {
+      "text": "男の「もう連絡してこないで」は、嫌いになった証拠じゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T19:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_566262341d": {
+      "text": "恋愛は鏡の法則で釣り合ってないと続かないが、1番大事なのは地頭としての知能だと思う。対等に関係を続けたい場合、相手の底が見えると一気に雑さに変わる。対照的に、底の見えない魅力と奥行きのある人だからこそ、尊敬できるし話し合いたいと思える。向き合う活力となる源は、相手への期待だしね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T20:28:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_db5b72c7ee": {
+      "text": "男は、「別れた＝もう関係は終わり」とは思っていない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T22:17:00+09:00",
+          "registered_at": "2026-08-01",
           "views": null
         }
       ]

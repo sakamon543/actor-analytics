@@ -29,7 +29,8 @@
       "first_seen_at": "2026-06-03T23:12:33.902+00:00",
       "status": "used",
       "used_count": 1,
-      "last_used_at": "2026-07-10T10:45:12.472241+09:00"
+      "last_used_at": "2026-07-10T10:45:12.472241+09:00",
+      "sales_followed": true
     },
     "rcyc_ecfdf1f082": {
       "recycle_id": "rcyc_ecfdf1f082",
@@ -39,7 +40,8 @@
       "first_seen_at": "2026-06-09T12:06:27.615+00:00",
       "status": "used",
       "used_count": 1,
-      "last_used_at": "2026-07-10T10:45:12.472241+09:00"
+      "last_used_at": "2026-07-10T10:45:12.472241+09:00",
+      "sales_followed": true
     },
     "rcyc_bc32159c5a": {
       "recycle_id": "rcyc_bc32159c5a",
@@ -119,7 +121,8 @@
       "first_seen_at": "2026-06-24T10:55:54.251+00:00",
       "status": "used",
       "used_count": 1,
-      "last_used_at": "2026-07-07T12:59:26.229665+09:00"
+      "last_used_at": "2026-07-07T12:59:26.229665+09:00",
+      "sales_followed": true
     },
     "rcyc_7d06a931ad": {
       "recycle_id": "rcyc_7d06a931ad",
@@ -129,7 +132,8 @@
       "first_seen_at": "2026-06-25T11:33:43.143+00:00",
       "status": "used",
       "used_count": 1,
-      "last_used_at": "2026-07-10T10:45:12.472241+09:00"
+      "last_used_at": "2026-07-10T10:45:12.472241+09:00",
+      "sales_followed": true
     },
     "rcyc_d3580f7f6c": {
       "recycle_id": "rcyc_d3580f7f6c",
@@ -139,7 +143,8 @@
       "first_seen_at": "2026-06-29T02:10:58.223+00:00",
       "status": "used",
       "used_count": 1,
-      "last_used_at": "2026-07-07T12:59:26.229665+09:00"
+      "last_used_at": "2026-07-07T12:59:26.229665+09:00",
+      "sales_followed": true
     },
     "rcyc_06ef0c3270": {
       "recycle_id": "rcyc_06ef0c3270",
@@ -149,7 +154,8 @@
       "first_seen_at": "2026-06-29T05:45:35.04+00:00",
       "status": "used",
       "used_count": 1,
-      "last_used_at": "2026-07-07T12:59:26.229665+09:00"
+      "last_used_at": "2026-07-07T12:59:26.229665+09:00",
+      "sales_followed": true
     },
     "rcyc_52b1092bff": {
       "recycle_id": "rcyc_52b1092bff",
@@ -161,7 +167,8 @@
       "first_seen_at": "2026-07-05T02:12:43.417+00:00",
       "status": "used",
       "used_count": 1,
-      "last_used_at": "2026-07-13T11:11:13.240528+09:00"
+      "last_used_at": "2026-07-13T11:11:13.240528+09:00",
+      "sales_followed": true
     },
     "rcyc_d8b79833a9": {
       "recycle_id": "rcyc_d8b79833a9",
@@ -171,7 +178,8 @@
       "first_seen_at": "2026-07-02T02:13:06.253+00:00",
       "status": "used",
       "used_count": 1,
-      "last_used_at": "2026-07-17T12:08:48.541324+09:00"
+      "last_used_at": "2026-07-17T12:08:48.541324+09:00",
+      "sales_followed": true
     },
     "rcyc_b90e42c741": {
       "recycle_id": "rcyc_b90e42c741",
@@ -181,7 +189,8 @@
       "first_seen_at": "2026-07-01T05:46:21.045+00:00",
       "status": "used",
       "used_count": 1,
-      "last_used_at": "2026-07-20T11:20:50.507403+09:00"
+      "last_used_at": "2026-07-20T11:20:50.507403+09:00",
+      "sales_followed": true
     },
     "rcyc_24e6a02565": {
       "recycle_id": "rcyc_24e6a02565",
@@ -191,7 +200,8 @@
       "first_seen_at": "2026-07-06T13:23:38.76+00:00",
       "status": "used",
       "used_count": 1,
-      "last_used_at": "2026-07-10T10:45:12.472241+09:00"
+      "last_used_at": "2026-07-10T10:45:12.472241+09:00",
+      "sales_followed": true
     },
     "rcyc_c6e1913d85": {
       "recycle_id": "rcyc_c6e1913d85",
@@ -211,7 +221,8 @@
       "first_seen_at": "2026-07-07T13:23:46.408+00:00",
       "status": "used",
       "used_count": 1,
-      "last_used_at": "2026-07-13T11:11:13.240528+09:00"
+      "last_used_at": "2026-07-13T11:11:13.240528+09:00",
+      "sales_followed": true
     },
     "rcyc_49b6b76531": {
       "recycle_id": "rcyc_49b6b76531",
@@ -233,7 +244,8 @@
       "first_seen_at": "2026-07-16T13:21:01.027+00:00",
       "status": "used",
       "used_count": 1,
-      "last_used_at": "2026-07-17T12:08:48.541324+09:00"
+      "last_used_at": "2026-07-17T12:08:48.541324+09:00",
+      "sales_followed": true
     },
     "rcyc_0cdd799ab7": {
       "recycle_id": "rcyc_0cdd799ab7",
@@ -243,7 +255,8 @@
       "first_seen_at": "2026-07-20T05:46:00.314+00:00",
       "status": "used",
       "used_count": 1,
-      "last_used_at": "2026-07-23T11:58:17.468197+09:00"
+      "last_used_at": "2026-07-23T11:58:17.468197+09:00",
+      "sales_followed": true
     },
     "rcyc_55575b86be": {
       "recycle_id": "rcyc_55575b86be",
@@ -255,8 +268,31 @@
       "first_seen_at": "2026-07-24T13:20:24.656+00:00",
       "status": "used",
       "used_count": 1,
-      "last_used_at": "2026-07-26T10:49:09.051698+09:00"
+      "last_used_at": "2026-07-26T10:49:09.051698+09:00",
+      "sales_followed": true
+    },
+    "rcyc_93aa6de327": {
+      "recycle_id": "rcyc_93aa6de327",
+      "text": "男の素っ気ない態度は、年上女性に脈なしサインじゃない。むしろ『気になってる年上に、ガッついたら絶対終わる』って身構えてる時の方が、男はあえて距離取る。今、彼の冷たさで落ち込んでるあなた、それ脈ナシじゃなくて、警戒してるだけだよ。",
+      "thread": [],
+      "first_seen_views": 5599,
+      "first_seen_at": "2026-07-26T10:21:19.938+00:00",
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-08-01T09:29:04.448311+09:00",
+      "sales_followed": true
+    },
+    "rcyc_e79ae6f98c": {
+      "recycle_id": "rcyc_e79ae6f98c",
+      "text": "意外かもだけど、男は『年上の落ち着いた女性に絶妙な距離感で接される』と意識し始める生き物。ガンガン近づく若い子より、少し引いてる年上の方が『なんか気になる』ってなる。今、彼に嫌われないように必死で距離詰めてるあなた、たぶん逆効果になってる。",
+      "thread": [],
+      "first_seen_views": 5155,
+      "first_seen_at": "2026-07-26T05:46:19.457+00:00",
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-08-01T09:29:04.448311+09:00",
+      "sales_followed": true
     }
   },
-  "updated_at": "2026-07-29T10:18:36.509668+09:00"
+  "updated_at": "2026-08-01T09:29:04.448311+09:00"
 }

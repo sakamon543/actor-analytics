@@ -166,6 +166,11 @@
           "scheduled_at": "2026-07-24T13:17:00+09:00",
           "registered_at": "2026-07-23",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-02T14:42:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
         }
       ]
     },
@@ -2608,6 +2613,11 @@
           "scheduled_at": "2026-08-01T22:17:00+09:00",
           "registered_at": "2026-07-29",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-04T11:08:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
         }
       ]
     },
@@ -3654,7 +3664,8 @@
         {
           "scheduled_at": "2026-07-26T20:28:00+09:00",
           "registered_at": "2026-07-23",
-          "views": null
+          "views": 1199,
+          "posted_at": "2026-07-26T11:32:47.752+00:00"
         }
       ]
     },
@@ -3702,7 +3713,8 @@
         {
           "scheduled_at": "2026-07-27T18:03:00+09:00",
           "registered_at": "2026-07-26",
-          "views": null
+          "views": 1263,
+          "posted_at": "2026-07-27T09:07:06.748+00:00"
         }
       ]
     },
@@ -4005,7 +4017,8 @@
         {
           "scheduled_at": "2026-07-31T19:52:00+09:00",
           "registered_at": "2026-07-29",
-          "views": null
+          "views": 1,
+          "posted_at": "2026-07-31T10:58:46.095+00:00"
         }
       ]
     },
@@ -4077,6 +4090,198 @@
         {
           "scheduled_at": "2026-08-01T20:28:00+09:00",
           "registered_at": "2026-07-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_64a9e712d6": {
+      "text": "復縁して長く続くカップルって、実は共通点があるんです。可愛いとか相性がいいとかじゃない。私が自分も含めて見てきた中で、戻って幸せになった人に共通してたのは、",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T13:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ee9abde613": {
+      "text": "男なんて放置すれば大体寄ってくる←これマジだった",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T18:03:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d3689a25e1": {
+      "text": "【男性脳と女性脳の別れた後の違い】\n男性脳→まずは別れて得た自由にまず向き合うが、時間が経って後回しで感情に向き合うため後悔しやすい。もちろん上書きで済む可能性もある。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T19:52:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7381cab101": {
+      "text": "私も復縁したあとに別れた理由を聞いたら、ほんとにこれだったんよね当時は「不安をぶつけすぎて愛想尽かされたんだ」とか、「もう冷められたんだ」って自分のことを責めまくってたけど、そうじゃなかった。別れたあとにこういうのを知ってたらあんなに苦しまずに済んだのかも",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T20:28:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_13edeffd9a": {
+      "text": "元彼に媚びる→復縁失敗\n元彼を惚れ直させる→復縁成功",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-02T22:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fb89816be9": {
+      "text": "元カノに気持ちが戻りやすい男の特徴はこれ\n・彼発信の連絡がゼロ",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T11:08:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d81709b01d": {
+      "text": "復縁したいけど絶対に復縁するぞって気持ちが薄れてる。執着心なくなってきてる？",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T14:42:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d55dac8185": {
+      "text": "私が知ってる復縁カップルは10組中9組が「男側が振って、男側から復縁を申し込んでる」からこれは間違いないよ",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T18:03:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_82f5757265": {
+      "text": "彼女いるのに1人時間が欲しいとか言ってる男、なんで恋人探したんだよ",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T19:52:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_02c3a8c206": {
+      "text": "復縁を目指してる人ならもう知ってると思うけど「振った側が自分から戻ってくること」ってほぼないんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T21:03:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5fa997d91d": {
+      "text": "パワーストーンもつけて、東京大神宮通って、占いまでしまくって、スクールにも入った私だからこそ本当に復縁に必要だったものは何か言える。それは、｢何としてでも復縁してやる｣って気持ち。これがなきゃどんな課金も無駄になる。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-03T22:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d075dca7ac": {
+      "text": "男が『もう一度あの子と復縁したい』って思う瞬間、実は基本これだけなんですよね。\n・元カノと他の女性を無意識に比べた時",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T14:42:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6b89a26434": {
+      "text": "「私から動かないと終わる」って思ってるなら、一回手を止めてほしい。男は追われると逃げて、追うのをやめた瞬間に気になり出す生き物だから。今も返信こないトーク画面を何回も開いて、送る文章を打ち直してるあなた、それ全部逆効果。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T19:17:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_914af72d8d": {
+      "text": "私も復縁して結婚までしたけど、私の周りにも何人かそういう人が居て、共通してるのが全員「別れた時より復縁する前の方が元彼に執着してなかった」ってこと。自分磨きとかしてるうちに「私のこと振るようなやつセンスな」とか思ってくる。その余裕が結果的に元彼の",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T19:52:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0277e00734": {
+      "text": "男の既読スルーは、嫌いになったサインじゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T20:28:00+09:00",
+          "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2e928b1701": {
+      "text": "男性は「頭なでなで」が大好物\n◼︎逆効果になるなで方",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-01",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T22:17:00+09:00",
+          "registered_at": "2026-08-01",
           "views": null
         }
       ]
