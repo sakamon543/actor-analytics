@@ -624,6 +624,11 @@
           "scheduled_at": "2026-08-03T19:52:00+09:00",
           "registered_at": "2026-07-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-05T21:03:00+09:00",
+          "registered_at": "2026-08-03",
+          "views": null
         }
       ]
     },
@@ -844,6 +849,11 @@
         {
           "scheduled_at": "2026-08-03T20:28:00+09:00",
           "registered_at": "2026-07-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-06T14:42:00+09:00",
+          "registered_at": "2026-08-03",
           "views": null
         }
       ]
@@ -1545,6 +1555,11 @@
           "scheduled_at": "2026-08-02T22:17:00+09:00",
           "registered_at": "2026-07-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-04T14:42:00+09:00",
+          "registered_at": "2026-08-03",
+          "views": null
         }
       ]
     },
@@ -1969,6 +1984,11 @@
           "scheduled_at": "2026-08-03T11:08:00+09:00",
           "registered_at": "2026-07-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-04T19:52:00+09:00",
+          "registered_at": "2026-08-03",
+          "views": null
         }
       ]
     },
@@ -2148,6 +2168,11 @@
         {
           "scheduled_at": "2026-08-03T14:42:00+09:00",
           "registered_at": "2026-07-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-06T20:28:00+09:00",
+          "registered_at": "2026-08-03",
           "views": null
         }
       ]
@@ -3402,7 +3427,8 @@
         {
           "scheduled_at": "2026-07-21T13:17:00+09:00",
           "registered_at": "2026-07-18",
-          "views": null
+          "views": 9388,
+          "posted_at": "2026-08-01T10:57:46.189+00:00"
         },
         {
           "scheduled_at": "2026-07-24T19:17:00+09:00",
@@ -3422,6 +3448,11 @@
         {
           "scheduled_at": "2026-08-02T21:03:00+09:00",
           "registered_at": "2026-07-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-05T11:08:00+09:00",
+          "registered_at": "2026-08-03",
           "views": null
         }
       ]
@@ -4462,7 +4493,7 @@
         {
           "scheduled_at": "2026-07-29T14:42:00+09:00",
           "registered_at": "2026-07-28",
-          "views": 26,
+          "views": 35,
           "posted_at": "2026-07-29T05:45:55.084+00:00"
         }
       ]
@@ -4487,7 +4518,7 @@
         {
           "scheduled_at": "2026-07-29T19:52:00+09:00",
           "registered_at": "2026-07-28",
-          "views": 29,
+          "views": 35,
           "posted_at": "2026-07-29T10:56:29.503+00:00"
         }
       ]
@@ -4682,6 +4713,138 @@
         {
           "scheduled_at": "2026-08-03T22:17:00+09:00",
           "registered_at": "2026-07-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6c1858551b": {
+      "text": "世の男性の気持ちを代弁すると「元カノ、早く戻ってこい」です。リアルに男友達と話してるとほぼほぼ元カノの話で盛り上がる。「マジあの子可愛かったわ」みたいに元カノのことを勝手に思い出してエモくなってる奴を何百回と見てきて思うけど、男相手の復縁は高確率で叶うってこと。理由は",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-03",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T18:03:00+09:00",
+          "registered_at": "2026-08-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1601c1a197": {
+      "text": "回避型の男ほど、元カノを未練たらたらで引きずる男はいないのよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-03",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T20:28:00+09:00",
+          "registered_at": "2026-08-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7a2a58aa1f": {
+      "text": "高嶺の花だから、\nプロポーズされるわけじゃない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-03",
+      "history": [
+        {
+          "scheduled_at": "2026-08-04T22:17:00+09:00",
+          "registered_at": "2026-08-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_70a5c55bfd": {
+      "text": "ほんとこれだわ別れたばかりの頃はどっちも冷たく感じるけど、実は全然特徴が違うんだよね。しかも復縁してる子の彼はみんなこのパターンだな",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-03",
+      "history": [
+        {
+          "scheduled_at": "2026-08-05T14:42:00+09:00",
+          "registered_at": "2026-08-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e0dd12210e": {
+      "text": "追わない方が戻ってくる。マジでこれ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-03",
+      "history": [
+        {
+          "scheduled_at": "2026-08-05T18:03:00+09:00",
+          "registered_at": "2026-08-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_89604c0e31": {
+      "text": "復縁婚した女友達が｢元彼に媚びる行動をするんじゃなくて、元彼を前以上に惚れさせるための行動をすれば復縁なんて簡単｣って言ってて首がもげた。しかも惚れさせるって難しいことじゃなくて、考え方1つで変わるもの。人間って怖いくらいに考え方によって周りからの見られ方が変わる。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-03",
+      "history": [
+        {
+          "scheduled_at": "2026-08-05T19:52:00+09:00",
+          "registered_at": "2026-08-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_49fb9eb146": {
+      "text": "男はね、『好きだった相手』と簡単に友達には戻れないのよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-03",
+      "history": [
+        {
+          "scheduled_at": "2026-08-05T22:17:00+09:00",
+          "registered_at": "2026-08-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d730cf0e1c": {
+      "text": "毎日キツイ思いをしてる人は多いと思うけど、諦めなければ復縁のチャンスは転がってきます。下ばかり向いてたらそのチャンスを逃しちゃうからしんどくても前を向いて諦めないでください。このnoteを読めばきっと復縁に希望が湧きます",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-03",
+      "history": [
+        {
+          "scheduled_at": "2026-08-06T11:08:00+09:00",
+          "registered_at": "2026-08-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2819cd3ecb": {
+      "text": "回避型の男はね、『自分の感情が乱れる相手』からしか距離を取らないのよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-03",
+      "history": [
+        {
+          "scheduled_at": "2026-08-06T19:17:00+09:00",
+          "registered_at": "2026-08-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cfbca9de2a": {
+      "text": "｢戻りたい｣って言わせることもできる。そのやり方は、ここに書いてるから気になる方はぜひ読んでみて。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-03",
+      "history": [
+        {
+          "scheduled_at": "2026-08-06T19:52:00+09:00",
+          "registered_at": "2026-08-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2cf528bd77": {
+      "text": "とはいえどんな考え方で元彼に接すれば惚れ直させれるか分からない、イメージが湧かないと思うのでこちらのnoteを参考にしてもらえればと思います",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-03",
+      "history": [
+        {
+          "scheduled_at": "2026-08-06T22:17:00+09:00",
+          "registered_at": "2026-08-03",
           "views": null
         }
       ]
