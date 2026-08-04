@@ -925,6 +925,11 @@
           "scheduled_at": "2026-08-02T18:03:00+09:00",
           "registered_at": "2026-08-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-05T20:28:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
         }
       ]
     },
@@ -984,6 +989,11 @@
         {
           "scheduled_at": "2026-08-03T18:03:00+09:00",
           "registered_at": "2026-08-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-07T20:28:00+09:00",
+          "registered_at": "2026-08-04",
           "views": null
         }
       ]
@@ -1077,6 +1087,11 @@
         {
           "scheduled_at": "2026-08-02T20:28:00+09:00",
           "registered_at": "2026-08-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-06T19:52:00+09:00",
+          "registered_at": "2026-08-04",
           "views": null
         }
       ]
@@ -3036,6 +3051,11 @@
           "scheduled_at": "2026-08-02T14:42:00+09:00",
           "registered_at": "2026-08-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-05T14:42:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
         }
       ]
     },
@@ -3375,7 +3395,8 @@
         {
           "scheduled_at": "2026-07-28T19:52:00+09:00",
           "registered_at": "2026-07-26",
-          "views": null
+          "views": 128,
+          "posted_at": "2026-07-28T10:58:09.358+00:00"
         }
       ]
     },
@@ -3387,7 +3408,8 @@
         {
           "scheduled_at": "2026-07-28T21:03:00+09:00",
           "registered_at": "2026-07-26",
-          "views": null
+          "views": 67,
+          "posted_at": "2026-07-28T12:07:53.723+00:00"
         }
       ]
     },
@@ -3677,6 +3699,11 @@
           "scheduled_at": "2026-08-02T19:52:00+09:00",
           "registered_at": "2026-08-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-05T13:17:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
         }
       ]
     },
@@ -3688,7 +3715,8 @@
         {
           "scheduled_at": "2026-08-03T11:08:00+09:00",
           "registered_at": "2026-08-01",
-          "views": null
+          "views": 2,
+          "posted_at": "2026-08-03T02:13:55.353+00:00"
         }
       ]
     },
@@ -3760,6 +3788,162 @@
         {
           "scheduled_at": "2026-08-04T22:17:00+09:00",
           "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_82b87677ae": {
+      "text": "男が「一途に尽くしてくれた女性」を振って幸せになった話、俺は聞いたことがない。周りの友達見てても、みんなあとから「あんな人もう現れない」って気づくんだよね。俺も激しく後悔して復縁した一人だ。元カノはずっと男の中に残り続ける。新しい女性と出会うと余計に思い出すんだよ。ただ、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-05T18:03:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d409e08dfd": {
+      "text": "これ見れば男性相手の方が復縁しやすいって分かるよね",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-05T19:52:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_097fd43323": {
+      "text": "男は「待たせても平気な女」が大好物\n■彼が「呼べば来る」と思う子",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-05T22:17:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_857f504c3b": {
+      "text": "復縁したいけど絶対に復縁するぞって気持ちが薄れてきてる。執着心なくなってきてない？",
+      "structure_label": "読者状況提示型",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-06T11:08:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_de5a93cfb8": {
+      "text": "男の別れ際の「もう無理」は、嫌いになった証拠じゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-06T14:42:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_69c3cdb6c0": {
+      "text": "男にとって「一度別れても戻りたいと思う女性」はガチで別格なんだよね。俺も他の元カノから連絡がきたことはあったけど、復縁したのは今の彼女だけ。結局、別れた後の女性の動き方が全てなんだよ。そこを正しく立ち回れば男を沼らせて復縁することは簡単だ。ただし絶対知っておくべきなのが、男は、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-06T18:03:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4d687a5630": {
+      "text": "付き合う前は普通に生きれてたのに、1度付き合った後に離れてしまうとありえないくらいのストレスに襲われるよね。俺の彼女もご飯も喉を通らないし、睡眠もまともに取れないみたいな生活を繰り返してたらしい。でも、「諦めてたらもっと暗い人生になってた」って言ってた。今辛くて",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-06T21:03:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_21e36cd327": {
+      "text": "復縁する前のエピソードを1つ話すと、俺は元カノが自分と復縁したいと考えてるのを知ってたけど別に全く嫌な気はしなかった。それは、彼女は俺に「復縁したい」と直接言ってくることは無かったから。復縁したい気持ちがあることは分かってたけど、俺のことを考えて我慢してくれてた。だから",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-06T22:17:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8fec88015b": {
+      "text": "【創造2遂に公開だ】\n男を沼らせるとガチで恋愛楽しい",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-07T11:08:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1cb4e4f8da": {
+      "text": "男は「頭なでなで」が大好物\n◼︎逆効果になるなで方",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-07T14:42:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4757e2e832": {
+      "text": "「彼が本当に戻りたいなら、向こうから連絡くるはず」って思って待ってる人。悪いけど、戻りたくても自分からは動けないのが男なんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-07T19:17:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c439da23bd": {
+      "text": "その上で復縁を目指したいなら、正しい冷却期間や自分磨きの捉え方をしなきゃいけないんだけど、本当に99%の人が間違った認識をしてる。そのままではほぼ確実に復縁は夢で終わるから、そうなりたくない人はプロフのnote読んでみて",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-07T19:52:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fed3de8f2c": {
+      "text": "元彼が無意識に返信したくなるLINE、ここで解説してる",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-07T22:17:00+09:00",
+          "registered_at": "2026-08-04",
           "views": null
         }
       ]

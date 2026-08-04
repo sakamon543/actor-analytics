@@ -42,6 +42,21 @@
           "scheduled_at": "2026-08-04T22:17:00+09:00",
           "registered_at": "2026-08-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-05T13:17:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-06T11:08:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-07T22:17:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
         }
       ]
     },
@@ -75,6 +90,11 @@
         {
           "scheduled_at": "2026-08-02T19:52:00+09:00",
           "registered_at": "2026-08-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-05T19:52:00+09:00",
+          "registered_at": "2026-08-04",
           "views": null
         }
       ]
@@ -124,6 +144,16 @@
         {
           "scheduled_at": "2026-08-04T19:17:00+09:00",
           "registered_at": "2026-08-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-05T14:42:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-06T22:17:00+09:00",
+          "registered_at": "2026-08-04",
           "views": null
         }
       ]
@@ -418,7 +448,8 @@
         {
           "scheduled_at": "2026-07-28T19:52:00+09:00",
           "registered_at": "2026-07-26",
-          "views": null
+          "views": 242,
+          "posted_at": "2026-07-28T10:59:35.517+00:00"
         }
       ]
     },
@@ -718,6 +749,11 @@
           "scheduled_at": "2026-08-02T20:28:00+09:00",
           "registered_at": "2026-08-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-05T20:28:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
         }
       ]
     },
@@ -729,6 +765,11 @@
         {
           "scheduled_at": "2026-08-02T22:17:00+09:00",
           "registered_at": "2026-08-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-05T22:17:00+09:00",
+          "registered_at": "2026-08-04",
           "views": null
         }
       ]
@@ -801,6 +842,126 @@
         {
           "scheduled_at": "2026-08-04T20:28:00+09:00",
           "registered_at": "2026-08-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e30b7532ae": {
+      "text": "男が「楽しかった」って送るのは、もう会わないと決めた日の方が多いです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-05T18:03:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f505f8d072": {
+      "text": "男の「また連絡するね」は、また連絡するサインじゃないです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-06T14:42:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_db240a564d": {
+      "text": "経験者367人に聞いて、二度目はないと感じたことがある男は91.1%でした。",
+      "structure_label": "数字暴露型",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-06T18:03:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6bed013747": {
+      "text": "「いい子だった」で切られるのが一番多い。悪いところがないのと、残るのは別です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-06T19:52:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_63148102a0": {
+      "text": "男が切るのは、嫌いになった子じゃなくて引っかかりがなかった子です。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-06T21:03:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bfa7498341": {
+      "text": "「最近忙しくて」で連絡が減ったなら、それは忙しさじゃないです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-07T11:08:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4a40a4d59d": {
+      "text": "男は、あなたと会っている間も3人4人と並行で会っています。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-07T14:42:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dbca5d5eb3": {
+      "text": "消された子に、落ち度はほとんどありませんでした。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-07T19:17:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_80b1bc4645": {
+      "text": "「また会おうね」はその場では嘘じゃない。それでも次は来ないです。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-07T19:52:00+09:00",
+          "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6d0ca0d559": {
+      "text": "男の頭の中で動いてるのは加点じゃなくて減点です。",
+      "structure_label": "命題型（男心理断言）",
+      "first_used_at": "2026-08-04",
+      "history": [
+        {
+          "scheduled_at": "2026-08-07T20:28:00+09:00",
+          "registered_at": "2026-08-04",
           "views": null
         }
       ]
