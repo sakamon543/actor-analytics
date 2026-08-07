@@ -8,8 +8,8 @@
       "first_seen_views": 8877,
       "first_seen_at": "2026-05-31T14:01:57.869+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-07-07T12:59:26.229665+09:00"
+      "used_count": 2,
+      "last_used_at": "2026-08-07T09:38:37.938483+09:00"
     },
     "rcyc_97fb6fe4a2": {
       "recycle_id": "rcyc_97fb6fe4a2",
@@ -18,8 +18,8 @@
       "first_seen_views": 8902,
       "first_seen_at": "2026-06-05T08:05:57.728+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-07-07T12:59:26.229665+09:00"
+      "used_count": 2,
+      "last_used_at": "2026-08-07T09:38:37.938483+09:00"
     },
     "rcyc_cddbdcc4d2": {
       "recycle_id": "rcyc_cddbdcc4d2",
@@ -50,8 +50,8 @@
       "first_seen_views": 7242,
       "first_seen_at": "2026-06-11T09:07:47.829+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-07-07T12:59:26.229665+09:00"
+      "used_count": 2,
+      "last_used_at": "2026-08-07T09:38:37.938483+09:00"
     },
     "rcyc_c4f2ba45c5": {
       "recycle_id": "rcyc_c4f2ba45c5",
@@ -120,8 +120,8 @@
       "first_seen_views": 9433,
       "first_seen_at": "2026-06-24T10:55:54.251+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-07-07T12:59:26.229665+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-08-07T09:38:37.938483+09:00",
       "sales_followed": true
     },
     "rcyc_7d06a931ad": {
@@ -142,8 +142,8 @@
       "first_seen_views": 18292,
       "first_seen_at": "2026-06-29T02:10:58.223+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-07-07T12:59:26.229665+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-08-07T09:38:37.938483+09:00",
       "sales_followed": true
     },
     "rcyc_06ef0c3270": {
@@ -153,8 +153,8 @@
       "first_seen_views": 5689,
       "first_seen_at": "2026-06-29T05:45:35.04+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-07-07T12:59:26.229665+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-08-07T09:38:37.938483+09:00",
       "sales_followed": true
     },
     "rcyc_52b1092bff": {
@@ -294,5 +294,5 @@
       "sales_followed": true
     }
   },
-  "updated_at": "2026-08-04T09:13:43.863842+09:00"
+  "updated_at": "2026-08-07T09:38:37.938483+09:00"
 }

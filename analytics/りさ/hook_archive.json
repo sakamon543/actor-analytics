@@ -142,6 +142,11 @@
           "scheduled_at": "2026-08-05T14:42:00+09:00",
           "registered_at": "2026-08-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-08T13:17:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
         }
       ]
     },
@@ -347,6 +352,11 @@
           "scheduled_at": "2026-08-03T19:52:00+09:00",
           "registered_at": "2026-08-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-09T18:03:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
         }
       ]
     },
@@ -369,6 +379,11 @@
         {
           "scheduled_at": "2026-08-03T11:08:00+09:00",
           "registered_at": "2026-08-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-09T11:08:00+09:00",
+          "registered_at": "2026-08-07",
           "views": null
         }
       ]
@@ -414,6 +429,11 @@
           "scheduled_at": "2026-08-07T20:28:00+09:00",
           "registered_at": "2026-08-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-09T22:17:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
         }
       ]
     },
@@ -436,6 +456,11 @@
           "scheduled_at": "2026-08-07T14:42:00+09:00",
           "registered_at": "2026-08-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-10T19:52:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
         }
       ]
     },
@@ -452,6 +477,11 @@
         {
           "scheduled_at": "2026-07-31T22:17:00+09:00",
           "registered_at": "2026-07-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-10T22:17:00+09:00",
+          "registered_at": "2026-08-07",
           "views": null
         }
       ]
@@ -711,6 +741,16 @@
           "scheduled_at": "2026-08-05T20:28:00+09:00",
           "registered_at": "2026-08-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-08T18:03:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-10T11:08:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
         }
       ]
     },
@@ -878,6 +918,12 @@
         {
           "scheduled_at": "2026-08-06T14:42:00+09:00",
           "registered_at": "2026-08-04",
+          "views": 12856,
+          "posted_at": "2026-08-02T09:12:21.776+00:00"
+        },
+        {
+          "scheduled_at": "2026-08-08T20:28:00+09:00",
+          "registered_at": "2026-08-07",
           "views": null
         }
       ]
@@ -890,7 +936,8 @@
         {
           "scheduled_at": "2026-08-06T18:03:00+09:00",
           "registered_at": "2026-08-04",
-          "views": null
+          "views": 40,
+          "posted_at": "2026-08-06T09:06:56.45+00:00"
         }
       ]
     },
@@ -902,7 +949,8 @@
         {
           "scheduled_at": "2026-08-06T19:52:00+09:00",
           "registered_at": "2026-08-04",
-          "views": null
+          "views": 79,
+          "posted_at": "2026-08-06T10:58:36.314+00:00"
         }
       ]
     },
@@ -974,6 +1022,114 @@
         {
           "scheduled_at": "2026-08-07T22:17:00+09:00",
           "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9c830fdbcb": {
+      "text": "出会って1週間で告白を断り切れずに付き合ってしまったので（このまま好きになれなかったら別れを切り出そう）と思っていたころ、初めて彼の家に行きました。夜ご飯のサラダを作ってくれることになったんですが、冷蔵庫から出したアボカドが熟れてなくて。私が『まだ硬いね』と言ったら『うーん』",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-08T14:42:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3ebd20781d": {
+      "text": "彼発信で連絡が増えていった自分磨きとか冷却期間も大事だけど、それだけだと彼の心を動かせない。元彼の気持ちが動くのは「直接やりとりしたときだけ」なんだよね。そこで「男性の未練を引き出すこと」を徹底すれば復縁の成功率も確実にあがるよ。そのLINEの送り方は",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-08T19:52:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fed51e3ac3": {
+      "text": "年下男子が年上を諦めるとき「年の差」より圧倒的に多いのが『俺なんて必要ないでしょ』です",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-08T22:17:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3ce7b09d0d": {
+      "text": "こーくん、なごみちゃんのニュースを見たら、この報告をするのは今度にしようか迷いましたが、少しでも早く報告したくて今日やっぱりすることにしました…",
+      "structure_label": "雑談型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-09T14:42:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e73c85a40a": {
+      "text": "年下男子の本音は、素直な言葉には出てきません。彼らは年上に子ども扱いされたくない意識がまず先に立つから、『好き』も『会いたい』もぐっと飲み込むんです。今のあなたが待ってる分かりやすい合図は、たぶんずっと来ないままだと思ってください。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-09T19:52:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f548b34bb9": {
+      "text": "マイナスが消えたことを証明すれば復縁は成功します。だけど、それをするために会えれば話は早いのですが、だいたいはLINEでそれを感じさせなきゃいけません。LINEで自爆する人が多いですが、ちゃんと使えば復縁確率を何倍にも高めることができます",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-09T21:03:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ec1e897402": {
+      "text": "『短期復縁を目指したから』。そのままのこと言ってるんだけど、『短期復縁目指した人しか短期で復縁はできない』んですよね。逆にいつ復縁するかも考えずにだらだら復縁目指してる人は永遠に復縁できない。復縁したいなら明確に道を決めてその通りにやるべき。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-10T14:42:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_81b5ef68bf": {
+      "text": "年下男子は、「頼れるお姉さん」から簡単に恋愛には切り替えられない",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-10T19:17:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a5c12fadf9": {
+      "text": "広瀬すずと山﨑賢人破局したの？？\nこれ数ヶ月後復縁報告期待しちゃうね",
+      "structure_label": "雑談型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-10T20:28:00+09:00",
+          "registered_at": "2026-08-07",
           "views": null
         }
       ]

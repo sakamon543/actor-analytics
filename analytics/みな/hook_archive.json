@@ -384,6 +384,16 @@
           "scheduled_at": "2026-08-01T11:08:00+09:00",
           "registered_at": "2026-07-29",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-08T13:17:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-10T19:17:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
         }
       ]
     },
@@ -405,6 +415,11 @@
         {
           "scheduled_at": "2026-08-01T19:52:00+09:00",
           "registered_at": "2026-07-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-08T22:17:00+09:00",
+          "registered_at": "2026-08-07",
           "views": null
         }
       ]
@@ -428,6 +443,11 @@
           "scheduled_at": "2026-08-01T22:17:00+09:00",
           "registered_at": "2026-07-29",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-08T14:42:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
         }
       ]
     },
@@ -444,6 +464,16 @@
         {
           "scheduled_at": "2026-07-31T14:42:00+09:00",
           "registered_at": "2026-07-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-09T11:08:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-10T20:28:00+09:00",
+          "registered_at": "2026-08-07",
           "views": null
         }
       ]
@@ -503,6 +533,11 @@
           "scheduled_at": "2026-07-28T18:03:00+09:00",
           "registered_at": "2026-07-26",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-09T21:03:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
         }
       ]
     },
@@ -514,6 +549,11 @@
         {
           "scheduled_at": "2026-07-28T19:52:00+09:00",
           "registered_at": "2026-07-26",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-10T11:08:00+09:00",
+          "registered_at": "2026-08-07",
           "views": null
         }
       ]
@@ -813,6 +853,11 @@
           "scheduled_at": "2026-08-03T14:42:00+09:00",
           "registered_at": "2026-08-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-09T14:42:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
         }
       ]
     },
@@ -1040,6 +1085,107 @@
         {
           "scheduled_at": "2026-08-07T22:17:00+09:00",
           "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_90c0f68c16": {
+      "text": "2回目に誘われる人と誘われない人の差は、可愛さでも会話の上手さでもありません。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-08T18:03:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_69f9628e9d": {
+      "text": "会う人数を減らすと、チャンスも減ると思っていませんか。逆でした。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-08T19:52:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-10T22:17:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e0c32b9235": {
+      "text": "これすごいわかる 本当に相談乗ってくれるだけじゃなくて励ましてくれる人、自分の頑張りを認めてくれる人が近くにいるのといないのでは全然ちがう。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-08T20:28:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9b81456fd0": {
+      "text": "男は、『会う回数が増える＝気持ちが進んでいる』とは思っていません",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-09T18:03:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_95cc466080": {
+      "text": "決めるなら、疲れる前です。疲れてから正しく選ぶことは、できません。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-09T19:52:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_398e0f5c63": {
+      "text": "会う人数を減らせば決まるから、何十人会って0人でも諦めなくていいですよ",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-09T22:17:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3f0c040723": {
+      "text": "アプリで決まらないのは、理想が高いからじゃないです",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-10T14:42:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5da49717ab": {
+      "text": "結局、3ヶ月で決まる人って『会う前に切る基準を決めている人』なんです。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-10T19:52:00+09:00",
+          "registered_at": "2026-08-07",
           "views": null
         }
       ]

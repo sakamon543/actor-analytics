@@ -57,6 +57,21 @@
           "scheduled_at": "2026-08-07T22:17:00+09:00",
           "registered_at": "2026-08-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-08T13:17:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-10T11:08:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-10T22:17:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
         }
       ]
     },
@@ -95,6 +110,16 @@
         {
           "scheduled_at": "2026-08-05T19:52:00+09:00",
           "registered_at": "2026-08-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-08T22:17:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-10T19:17:00+09:00",
+          "registered_at": "2026-08-07",
           "views": null
         }
       ]
@@ -154,6 +179,16 @@
         {
           "scheduled_at": "2026-08-06T22:17:00+09:00",
           "registered_at": "2026-08-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-08T18:03:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-10T20:28:00+09:00",
+          "registered_at": "2026-08-07",
           "views": null
         }
       ]
@@ -737,6 +772,16 @@
           "scheduled_at": "2026-08-04T11:08:00+09:00",
           "registered_at": "2026-08-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-08T20:28:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-09T22:17:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
         }
       ]
     },
@@ -962,6 +1007,114 @@
         {
           "scheduled_at": "2026-08-07T20:28:00+09:00",
           "registered_at": "2026-08-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8b47542073": {
+      "text": "男は、「2回目に誘った＝気に入ってる」とは思っていない。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-08T14:42:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_15f086f381": {
+      "text": "「いい子だった」で切られるのが一番多い。悪いところがないのと、選ばれるのは別。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-08T19:52:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1125c07158": {
+      "text": "男は、あなた1人と会ってるわけじゃありません。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-09T11:08:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8eb6818709": {
+      "text": "男の返信が遅くなったのは、忙しいからじゃない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-09T14:42:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f38a5a2e26": {
+      "text": "元カノに対して別れて1ヶ月近くは既読スルーしてた時期があるんですが、別に嫌いになってたわけじゃありません。「連絡を返さないといけない状況」が辛くて途中からラリーするのが苦になっただけ。相手からの連絡は嫌じゃないけど、自分が返したら永遠に終わらない…だから",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-09T18:03:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_40d4bdb732": {
+      "text": "「楽しかった、また会おうね」って送った帰り道に、もう会わないと決めてました。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-09T19:52:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e3e41fd389": {
+      "text": "「いい子だった」で消される子が一番多いです。悪いところが無いことと、残ることは別。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-09T21:03:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b31d299487": {
+      "text": "男の本音を言うと、切るかどうかは帰り道で決まってます。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-10T14:42:00+09:00",
+          "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_50fa4a1df0": {
+      "text": "マチアプ3年で100人以上と会って、そのほとんどを俺から切ってきました。今思えば最低です。ただ切った側だから言えることがあって、消される子には必ず共通点があるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-07",
+      "history": [
+        {
+          "scheduled_at": "2026-08-10T19:52:00+09:00",
+          "registered_at": "2026-08-07",
           "views": null
         }
       ]
