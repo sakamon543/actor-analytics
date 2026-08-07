@@ -3831,7 +3831,10 @@
       "likes": 1,
       "source": "https://x.com/MorganSuza12082/status/2061727247762141468",
       "source_handle": "MorganSuza12082",
-      "collected_at": "2026-08-01"
+      "collected_at": "2026-08-01",
+      "used_by": {
+        "みき": "2026-08-07"
+      }
     },
     {
       "pool_id": "hp_e08bfb7b54",
@@ -4087,7 +4090,10 @@
       "likes": 2,
       "source": "https://x.com/MorganSuza12082/status/2064624690405183602",
       "source_handle": "MorganSuza12082",
-      "collected_at": "2026-08-01"
+      "collected_at": "2026-08-01",
+      "used_by": {
+        "みき": "2026-08-07"
+      }
     },
     {
       "pool_id": "hp_ee518a297a",
@@ -4291,7 +4297,10 @@
       "likes": 16,
       "source": "https://x.com/karen_fukuen/status/2075570783888252986",
       "source_handle": "karen_fukuen",
-      "collected_at": "2026-07-31"
+      "collected_at": "2026-07-31",
+      "used_by": {
+        "みき": "2026-08-07"
+      }
     },
     {
       "pool_id": "hp_2fdfc8841a",
@@ -7575,5 +7584,5 @@
       "collected_at": "2026-08-01"
     }
   ],
-  "updated_at": "2026-08-07T12:04:34.011517+09:00"
+  "updated_at": "2026-08-07T13:00:13.321661+09:00"
 }
