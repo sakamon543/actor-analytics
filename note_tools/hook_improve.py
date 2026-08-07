@@ -738,10 +738,14 @@ def mark_scraped_used(pool, used_pool_ids, actor):
 
 # ============== Claude Code 呼び出し ==============
 
+CLAUDE_MODEL = "claude-opus-5"   # 恋愛系ループの生成モデル（2026-08-08 阪本さん指示：未指定だとデフォルト＝
+                                 # 最上位モデル(Fable)に追従して使用量制限を食うため、Opus 5に明示固定）
+
+
 def call_claude_code(full_prompt, timeout=600):
     try:
         process = subprocess.run(
-            ["claude", "-p", "--output-format", "json"],
+            ["claude", "-p", "--model", CLAUDE_MODEL, "--output-format", "json"],
             input=full_prompt,
             capture_output=True,
             text=True,
