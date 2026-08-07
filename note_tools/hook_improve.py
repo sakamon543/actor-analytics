@@ -29,6 +29,7 @@ import random
 import re
 import subprocess
 import sys
+import time
 import urllib.parse
 import urllib.request
 from datetime import datetime, timezone, timedelta
@@ -738,14 +739,19 @@ def mark_scraped_used(pool, used_pool_ids, actor):
 # ============== Claude Code 呼び出し ==============
 
 def call_claude_code(full_prompt, timeout=600):
-    process = subprocess.run(
-        ["claude", "-p", "--output-format", "json"],
-        input=full_prompt,
-        capture_output=True,
-        text=True,
-        encoding='utf-8',
-        timeout=timeout,
-    )
+    try:
+        process = subprocess.run(
+            ["claude", "-p", "--output-format", "json"],
+            input=full_prompt,
+            capture_output=True,
+            text=True,
+            encoding='utf-8',
+            timeout=timeout,
+        )
+    except subprocess.TimeoutExpired:
+        # 2026-08-07: 未捕捉だとサイクルごとクラッシュして予約が入らない事故になる
+        # （8/7朝 みき/かれん/あや で実発生）。errとして返し、呼び出し側のスキップ/リトライに任せる
+        return None, f"claude呼び出しタイムアウト（{timeout}秒）"
     if process.returncode != 0:
         err = f"returncode={process.returncode}\nstderr: {process.stderr[:1500]}\nstdout: {process.stdout[:1500]}"
         return None, err
@@ -1412,7 +1418,11 @@ def run(actor, phase1_only=False, limit=None, reuse_phase1=False):
         )
         cc_output, err = call_claude_code(phase1_prompt, timeout=600)
         if err:
-            print(f"  ✗ Phase 1 失敗:\n{err[:1500]}")
+            print(f"  ✗ Phase 1 失敗（1回だけリトライ）:\n{err[:500]}")
+            time.sleep(30)
+            cc_output, err = call_claude_code(phase1_prompt, timeout=600)
+        if err:
+            print(f"  ✗ Phase 1 リトライも失敗:\n{err[:1500]}")
             sys.exit(1)
         try:
             phase1_result = extract_json_from_text(cc_output.get("result", ""))
