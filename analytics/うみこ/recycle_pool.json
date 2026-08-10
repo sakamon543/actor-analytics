@@ -22,8 +22,8 @@
       "first_seen_views": 7506,
       "first_seen_at": "2026-05-22T10:35:46.788+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-07-10T09:41:45.979219+09:00"
+      "used_count": 2,
+      "last_used_at": "2026-08-10T09:11:37.042311+09:00"
     },
     "rcyc_0e4d8e16c3": {
       "recycle_id": "rcyc_0e4d8e16c3",
@@ -74,8 +74,8 @@
       "first_seen_views": 4445,
       "first_seen_at": "2026-06-03T13:51:10.344+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-07-10T09:41:45.979219+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-08-10T09:11:37.042311+09:00",
       "sales_followed": true
     },
     "rcyc_67b8a145bd": {
@@ -98,8 +98,8 @@
       "first_seen_views": 5225,
       "first_seen_at": "2026-06-09T11:25:23.53+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-07-10T09:41:45.979219+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-08-10T09:11:37.042311+09:00",
       "sales_followed": true
     },
     "rcyc_408c3ed260": {
@@ -109,8 +109,8 @@
       "first_seen_views": 2952,
       "first_seen_at": "2026-06-09T13:45:34.433+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-07-10T09:41:45.979219+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-08-10T09:11:37.042311+09:00",
       "sales_followed": true
     },
     "rcyc_170fa67777": {
@@ -143,8 +143,8 @@
       "first_seen_views": 6269,
       "first_seen_at": "2026-06-17T05:47:27.121+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-07-10T09:41:45.979219+09:00"
+      "used_count": 2,
+      "last_used_at": "2026-08-10T09:11:37.042311+09:00"
     },
     "rcyc_c908f73242": {
       "recycle_id": "rcyc_c908f73242",
@@ -248,7 +248,18 @@
       "used_count": 1,
       "last_used_at": "2026-08-03T09:12:55.556026+09:00",
       "sales_followed": true
+    },
+    "rcyc_54eaf428d5": {
+      "recycle_id": "rcyc_54eaf428d5",
+      "text": "男って結局、『死ぬほど重たく愛してくれた女性』のとこに戻るのよ。瞬間的な感情で離れたくなったとしても、結局は自分の全てを受け入れてくれる女性が貴重なことに気づく。だからあなたの重さも武器になるし、彼が戻ってくる理由になるのよね。重さって、一緒にいる時はしんどいのに、離れてから効いてくるのよ。他の子と会っても比べちゃって、そこで戻ってくる。",
+      "thread": [],
+      "first_seen_views": 7459,
+      "first_seen_at": "2026-08-08T05:46:08.32+00:00",
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-08-10T09:11:37.042311+09:00",
+      "sales_followed": true
     }
   },
-  "updated_at": "2026-08-07T09:12:34.483185+09:00"
+  "updated_at": "2026-08-10T09:11:37.042311+09:00"
 }

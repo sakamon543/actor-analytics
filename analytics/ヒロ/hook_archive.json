@@ -467,6 +467,11 @@
           "scheduled_at": "2026-08-10T19:52:00+09:00",
           "registered_at": "2026-08-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-11T18:03:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
         }
       ]
     },
@@ -1006,6 +1011,11 @@
           "scheduled_at": "2026-08-10T22:17:00+09:00",
           "registered_at": "2026-08-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-13T22:17:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
         }
       ]
     },
@@ -1482,6 +1492,12 @@
         {
           "scheduled_at": "2026-08-10T20:28:00+09:00",
           "registered_at": "2026-08-07",
+          "views": 5977,
+          "posted_at": "2026-08-05T04:21:42.598+00:00"
+        },
+        {
+          "scheduled_at": "2026-08-11T22:17:00+09:00",
+          "registered_at": "2026-08-10",
           "views": null
         }
       ]
@@ -1607,7 +1623,7 @@
         {
           "scheduled_at": "2026-08-05T18:03:00+09:00",
           "registered_at": "2026-08-04",
-          "views": 5515,
+          "views": 5539,
           "posted_at": "2026-08-05T09:09:23.346+00:00"
         }
       ]
@@ -1860,7 +1876,8 @@
         {
           "scheduled_at": "2026-08-09T18:03:00+09:00",
           "registered_at": "2026-08-07",
-          "views": null
+          "views": 17,
+          "posted_at": "2026-08-09T09:09:33.833+00:00"
         }
       ]
     },
@@ -1932,6 +1949,174 @@
         {
           "scheduled_at": "2026-08-10T19:17:00+09:00",
           "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2924acf021": {
+      "text": "振った側の男だから言うけど、別れたあとに一番焦ったのは、元カノから連絡が来た日じゃなかった。\n・誕生日が来ても連絡がない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-11T14:42:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f5ceebd028": {
+      "text": "男は9割これだから、復縁するならこの男性心理を逆手に取るのがおすすめ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-11T19:52:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_13a27f2310": {
+      "text": "回避型元彼と復縁するための極意\n・一旦離れる",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-11T20:28:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_80ac754d7c": {
+      "text": "振った側の男だから言うけど、別れたあと「もう嫌われてるだろうな」って思ってた。\n・怒ってるだろうな",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-12T11:08:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_64911f3f21": {
+      "text": "元彼が『回避モード』なのか『本気で冷めた』のかを見極められたら復縁率は上がるよ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-12T14:42:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_682823b0bb": {
+      "text": "回避型の元彼の沈黙は、気持ちが消えたサインじゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-12T18:03:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8183b0d6a3": {
+      "text": "振った側の元カレと復縁したいなら、『連絡が来ない＝脈なし』って考えはまず捨ててほしいんです。僕も自分から振った側でしたけど、別れてる間に元カノへ連絡したいと思った日は正直何度もありました。でも、",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-12T19:52:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8371e6d2a2": {
+      "text": "振ったのに戻ってくる男は99%これ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-12T21:03:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6dafceee68": {
+      "text": "男が「一途に尽くしてくれた女性」を振って幸せになった話、僕は一度も聞いたことがないんですよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-12T22:17:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6a65e96381": {
+      "text": "振った側の男だから言うけど、別れたあと、一番困ったのは、元カノを思い出すことじゃなかった。\n・思い出す日はある",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-13T11:08:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b54a414680": {
+      "text": "復縁活動で1番怖いのって『ぽっと出の女と彼がとんとん拍子で進展すること』だと思う。別れて3ヶ月後に元彼に新しい彼女ができて、そのまま同棲→婚約しちゃって復縁を諦めた友達がいたんだよねそれを間近で見てたから、長い冷却期間は絶対に危ないと思った。だから彼の情や気持ちが残ってるうちに",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-13T14:42:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b1bd8ff5fc": {
+      "text": "回避型の彼が別れた直後に感じてる「解放感」、実際は3週間しか持たないんですよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-13T19:17:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_284d1f7a23": {
+      "text": "彼女を振って3ヶ月で結婚前提の復縁を申し込んだ僕なんですけど、これ「復縁あるある」なんですよね。男が後悔して復縁を迫った復縁は「傷つけた分、幸せにしたい」って覚悟があるので結婚率も溺愛率も高い。男は自分で決めたことには責任を取ろうとする生き物なので、彼との将来を考えているなら、",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-13T19:52:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6fb31704f7": {
+      "text": "メンヘラは、「相手が忙しい時の反応」でわかる。\nグレーゾーン",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-13T20:28:00+09:00",
+          "registered_at": "2026-08-10",
           "views": null
         }
       ]

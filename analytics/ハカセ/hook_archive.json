@@ -626,6 +626,11 @@
           "scheduled_at": "2026-08-09T18:03:00+09:00",
           "registered_at": "2026-08-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-12T22:17:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
         }
       ]
     },
@@ -869,7 +874,8 @@
         {
           "scheduled_at": "2026-06-26T11:08:00+09:00",
           "registered_at": "2026-06-25",
-          "views": null
+          "views": 22,
+          "posted_at": "2026-08-08T04:21:16.471+00:00"
         },
         {
           "scheduled_at": "2026-06-28T11:08:00+09:00",
@@ -945,6 +951,11 @@
           "scheduled_at": "2026-08-08T19:52:00+09:00",
           "registered_at": "2026-08-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-11T22:17:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
         }
       ]
     },
@@ -1014,6 +1025,11 @@
         {
           "scheduled_at": "2026-08-09T22:17:00+09:00",
           "registered_at": "2026-08-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-12T18:03:00+09:00",
+          "registered_at": "2026-08-10",
           "views": null
         }
       ]
@@ -1385,6 +1401,11 @@
         {
           "scheduled_at": "2026-08-02T22:17:00+09:00",
           "registered_at": "2026-08-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-13T19:52:00+09:00",
+          "registered_at": "2026-08-10",
           "views": null
         }
       ]
@@ -3081,6 +3102,11 @@
           "scheduled_at": "2026-08-08T14:42:00+09:00",
           "registered_at": "2026-08-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-11T19:52:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
         }
       ]
     },
@@ -3766,7 +3792,8 @@
         {
           "scheduled_at": "2026-08-03T22:17:00+09:00",
           "registered_at": "2026-08-01",
-          "views": null
+          "views": 23,
+          "posted_at": "2026-08-03T13:21:33.183+00:00"
         }
       ]
     },
@@ -4091,6 +4118,150 @@
         {
           "scheduled_at": "2026-08-10T22:17:00+09:00",
           "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_13cbeea399": {
+      "text": "男って結局、『死ぬほど重たく愛してくれた女性』のとこに戻るんだよ。瞬間的な感情で離れたくなったとしても、結局は自分の全てを受け入れてくれる女性が貴重なことに気づく。だからあなたの重さも武器になるし、彼が戻ってくる理由になる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-11T14:42:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_061d263a99": {
+      "text": "振った側の男だから言うけど、「彼はプライドが高いから連絡できない」そう思ってる人は多い。でも実際は違くて、\n・送りたい日はあった",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-11T18:03:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_23733a71c7": {
+      "text": "男性って『別れて1〜3ヶ月経った頃』に元カノを恋しく思い始めるんだよね。これ、回避傾向が強い男性ほど当てはまる。キャパオーバーで逃げるように別れるから、いざ一人になると『向き合わなかった後悔と罪悪感』が押し寄せてくるみたい。復縁した彼いわく「別れたらラクになれると思ったけど、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-11T20:28:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_059a4400a8": {
+      "text": "振った側の男だから言えるけど、元カノと復縁できた理由って、今思うと意外だった。\n・別れたあと追ってこなかった",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-12T11:08:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0994c8b6e7": {
+      "text": "回避型元彼と復縁する極意\n・まず一旦離れろ",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-12T14:42:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b10fea6304": {
+      "text": "マジで「寂しい」って思わない恋愛がしたい。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-12T19:52:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a1de1628dc": {
+      "text": "悲しいけどこれが元彼の本音。振った側の男は「彼女が他の男と楽しそうにしている」のを見ると、急に取り戻したくなるんです。僕も元カノが合コンに行ってると知った時、何故か言葉に出来ないけど辛かったんです。でも、それが「まだ好きだ」と気づくきっかけになったんですよね。嫉妬が復縁のきっかけ",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-12T21:03:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0e90d87621": {
+      "text": "振った側の男だから言うけど、別れたあと何回も自分に言い聞かせてたことがある。\n・これでよかった",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-13T11:08:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8eed781b38": {
+      "text": "男の『友達に戻ろう』は、脈なしの合図じゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-13T14:42:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_423423c61e": {
+      "text": "カップルのこれ、ほぼ別れ確定です\n1位は、",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-13T19:17:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_45f4e79577": {
+      "text": "復縁した元彼に「もし彼女から連絡が来てなかったら？」って聞いたら、「自分から動くことは一生なかった」って即答だった",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-13T20:28:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_17b85ceefd": {
+      "text": "振った後の男の本音を言います。振った直後って「正しい決断だった」と自分に言い聞かせるけど、時間が経つと「あの子といた時の方が幸せだったな」と気づくのが男です。僕も元カノを振って3ヶ月経った頃、彼女への想いが爆発して深夜に急にLINEしたこともあります。男は離れたり、時間が経ったりして",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-13T22:17:00+09:00",
+          "registered_at": "2026-08-10",
           "views": null
         }
       ]

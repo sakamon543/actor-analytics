@@ -72,6 +72,11 @@
           "scheduled_at": "2026-08-10T22:17:00+09:00",
           "registered_at": "2026-08-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-12T22:17:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
         }
       ]
     },
@@ -120,6 +125,11 @@
         {
           "scheduled_at": "2026-08-10T19:17:00+09:00",
           "registered_at": "2026-08-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-11T19:52:00+09:00",
+          "registered_at": "2026-08-10",
           "views": null
         }
       ]
@@ -189,6 +199,16 @@
         {
           "scheduled_at": "2026-08-10T20:28:00+09:00",
           "registered_at": "2026-08-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-11T18:03:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-13T19:17:00+09:00",
+          "registered_at": "2026-08-10",
           "views": null
         }
       ]
@@ -619,6 +639,11 @@
           "scheduled_at": "2026-08-03T19:52:00+09:00",
           "registered_at": "2026-08-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-13T22:17:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
         }
       ]
     },
@@ -670,6 +695,11 @@
         {
           "scheduled_at": "2026-08-04T19:52:00+09:00",
           "registered_at": "2026-08-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-11T22:17:00+09:00",
+          "registered_at": "2026-08-10",
           "views": null
         }
       ]
@@ -766,7 +796,8 @@
         {
           "scheduled_at": "2026-08-02T18:03:00+09:00",
           "registered_at": "2026-08-01",
-          "views": null
+          "views": 14,
+          "posted_at": "2026-08-09T13:23:44.033+00:00"
         },
         {
           "scheduled_at": "2026-08-04T11:08:00+09:00",
@@ -781,6 +812,16 @@
         {
           "scheduled_at": "2026-08-09T22:17:00+09:00",
           "registered_at": "2026-08-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-11T20:28:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-13T20:28:00+09:00",
+          "registered_at": "2026-08-10",
           "views": null
         }
       ]
@@ -1032,6 +1073,11 @@
           "scheduled_at": "2026-08-08T19:52:00+09:00",
           "registered_at": "2026-08-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-12T21:03:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
         }
       ]
     },
@@ -1115,6 +1161,114 @@
         {
           "scheduled_at": "2026-08-10T19:52:00+09:00",
           "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dc5d151198": {
+      "text": "『いい子だった』で切られる子が一番多いです。悪いところがないことと、選ばれることは別。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-11T13:17:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_08945b1fe7": {
+      "text": "2回目に誘われた＝脈あり、じゃないです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-11T14:42:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_196cf4b30b": {
+      "text": "男の91.1%は『この人とは二度目はない』と思ったことがある。",
+      "structure_label": "数字型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-12T11:08:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c2f1efd290": {
+      "text": "『また会おうね』って送った日の夜には、もう次は無いと決めてました。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-12T14:42:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_371981b0c6": {
+      "text": "3年で100人以上会って、そのほとんどを俺から切りました。今思うと最低です。ただ切った側だから分かることがあって、消される子には共通点があるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-12T18:03:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9df42333fc": {
+      "text": "『私の何がダメだったの』の答えは、『ダメなところは無かった』です。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-12T19:52:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_709560729b": {
+      "text": "男は、『会えてる＝続いてる』とは思っていない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-13T11:08:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_28d4328627": {
+      "text": "男は、あなただけを見ていません。俺が会ってた頃は同時に3人〜5人が普通で、全員に『今日楽しかった、また会おうね』って送ってました。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-13T14:42:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ab310ff000": {
+      "text": "悪いところが無かった子から、静かに消されていきます。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-13T19:52:00+09:00",
+          "registered_at": "2026-08-10",
           "views": null
         }
       ]

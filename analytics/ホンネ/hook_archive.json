@@ -2394,6 +2394,11 @@
           "scheduled_at": "2026-08-02T19:52:00+09:00",
           "registered_at": "2026-08-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-11T18:03:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
         }
       ]
     },
@@ -3183,6 +3188,11 @@
           "scheduled_at": "2026-08-03T18:03:00+09:00",
           "registered_at": "2026-08-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-11T22:17:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
         }
       ]
     },
@@ -3310,6 +3320,11 @@
         {
           "scheduled_at": "2026-08-04T11:08:00+09:00",
           "registered_at": "2026-08-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-12T21:03:00+09:00",
+          "registered_at": "2026-08-10",
           "views": null
         }
       ]
@@ -4067,7 +4082,8 @@
         {
           "scheduled_at": "2026-08-08T14:42:00+09:00",
           "registered_at": "2026-08-07",
-          "views": null
+          "views": 2,
+          "posted_at": "2026-08-08T05:46:37.851+00:00"
         }
       ]
     },
@@ -4187,6 +4203,150 @@
         {
           "scheduled_at": "2026-08-10T22:17:00+09:00",
           "registered_at": "2026-08-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6988c9f8ab": {
+      "text": "男が回避モードになるのは『ど本命相手』だけなんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-11T14:42:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7cb3a7131e": {
+      "text": "振った側の男だから言うけど、別れた日は、「このまま付き合ってても無理だな」って本気でそう思ってた。\n・何を話してもすれ違う",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-11T19:52:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bf1c31f1c4": {
+      "text": "7年付き合って別れた友達が、\n10ヶ月で入籍した。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-12T11:08:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7fa1665ac6": {
+      "text": "男だから分かるんだけど尽くしてくれてた元カノのことを振ると100%後悔するんだよね。別れてから『なんであんなに尽くしてくれてた人を振ったんだ…』って相手の尊さに気づき、後悔する。彼に尽くしてた自覚がある人はあっさり引いて待ってるだけで彼の方から高確率で連絡が来る。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-12T14:42:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5a57691038": {
+      "text": "いつか別れるんだろうなって思わないような恋がしたい。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-12T18:03:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e4a1a609cb": {
+      "text": "振った側の男だから言うけど、別れたあと、一番面倒だった感情がある。\n・会いたいわけじゃない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-12T19:52:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_95b59f3451": {
+      "text": "『一途で重い女性』が復縁しやすい理由ってこれだよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-12T22:17:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_19267d36fc": {
+      "text": "回避型が本命に絶対しないこと、それは『完全に縁を切ること』。距離を置いたりLINEスルーしたりは全然ある。でも気持ちが残ってる限り、繋がりをすべて切ることは絶対にしないんだよね。回避型にとって別れは『一時避難』。だから彼自身が戻る可能性を残してる。そんな彼が真剣に「やり直したい」と",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-13T11:08:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a31228f13b": {
+      "text": "彼に「最近そっけないね、何かあった？」って言わせる構造、男目線で言うとシンプルなんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-13T14:42:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f2c45adef6": {
+      "text": "振った側の男だから言うけど、別れたあとに一番困ったのは未練じゃなかった。\n・別れたことは後悔してない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-13T19:17:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6869cc8b6e": {
+      "text": "振った後の男の本音を言います。振った直後って「正しい決断だった」と自分に言い聞かせるけど、時間が経つと「あの子といた時の方が幸せだったな」と気づくのが男です。俺も元カノを振って3ヶ月経った頃、彼女への想いが爆発して深夜に急にLINEしたこともあります。男は離れたり、時間が経ったりして",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-13T19:52:00+09:00",
+          "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_144842d437": {
+      "text": "振った側が思う、男が「手放したくなかった」と思わせる女性の共通点は、『別れをあっさり受け入れる』『自分磨きを続け、魅力を増す』なんだけど、1番効果的だったのは↓",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-10",
+      "history": [
+        {
+          "scheduled_at": "2026-08-13T22:17:00+09:00",
+          "registered_at": "2026-08-10",
           "views": null
         }
       ]
