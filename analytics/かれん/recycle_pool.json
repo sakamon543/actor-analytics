@@ -9,7 +9,8 @@
       "first_seen_at": "2026-07-24T10:57:23.574+00:00",
       "status": "used",
       "used_count": 1,
-      "last_used_at": "2026-07-26T15:42:39.446956+09:00"
+      "last_used_at": "2026-07-26T15:42:39.446956+09:00",
+      "sales_followed": true
     },
     "rcyc_49f6f264b7": {
       "recycle_id": "rcyc_49f6f264b7",
@@ -47,5 +48,5 @@
       "sales_followed": false
     }
   },
-  "updated_at": "2026-08-08T00:05:53.510788+09:00"
+  "updated_at": "2026-08-11T09:01:13.076858+09:00"
 }
