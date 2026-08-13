@@ -42,6 +42,11 @@
           "scheduled_at": "2026-08-13T19:17:00+09:00",
           "registered_at": "2026-08-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-14T19:52:00+09:00",
+          "registered_at": "2026-08-13",
+          "views": null
         }
       ]
     },
@@ -158,6 +163,11 @@
         {
           "scheduled_at": "2026-08-12T11:08:00+09:00",
           "registered_at": "2026-08-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-15T14:42:00+09:00",
+          "registered_at": "2026-08-13",
           "views": null
         }
       ]
@@ -605,6 +615,11 @@
           "scheduled_at": "2026-08-11T14:42:00+09:00",
           "registered_at": "2026-08-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-14T14:42:00+09:00",
+          "registered_at": "2026-08-13",
+          "views": null
         }
       ]
     },
@@ -726,6 +741,11 @@
         {
           "scheduled_at": "2026-08-01T14:42:00+09:00",
           "registered_at": "2026-07-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-16T22:17:00+09:00",
+          "registered_at": "2026-08-13",
           "views": null
         }
       ]
@@ -1002,6 +1022,11 @@
         {
           "scheduled_at": "2026-08-05T22:17:00+09:00",
           "registered_at": "2026-08-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-14T22:17:00+09:00",
+          "registered_at": "2026-08-13",
           "views": null
         }
       ]
@@ -1305,7 +1330,8 @@
         {
           "scheduled_at": "2026-08-10T14:42:00+09:00",
           "registered_at": "2026-08-07",
-          "views": null
+          "views": 1,
+          "posted_at": "2026-08-10T05:47:18.874+00:00"
         }
       ]
     },
@@ -1449,7 +1475,8 @@
         {
           "scheduled_at": "2026-08-12T22:17:00+09:00",
           "registered_at": "2026-08-10",
-          "views": null
+          "views": 1,
+          "posted_at": "2026-08-12T13:21:28.849+00:00"
         }
       ]
     },
@@ -1509,6 +1536,162 @@
         {
           "scheduled_at": "2026-08-13T22:17:00+09:00",
           "registered_at": "2026-08-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f80204b144": {
+      "text": "これ言うとみんな離れるから言ってないけど事実なんよね。やっぱり目標を達成するためにはそれに直結する動きをしないといけないけど、想像でそれができるなんてことはまずないんです。だから学ぶし、結果が出るんですよね。向き合うべきは常に自分なので、ここを考えれるだけで復縁に近づく。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-13",
+      "history": [
+        {
+          "scheduled_at": "2026-08-14T13:17:00+09:00",
+          "registered_at": "2026-08-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ee03ca962a": {
+      "text": "回避型ってベタ惚れするほど「俺には幸せにできない」とか言い出すよね",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-13",
+      "history": [
+        {
+          "scheduled_at": "2026-08-14T18:03:00+09:00",
+          "registered_at": "2026-08-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dc62460ea6": {
+      "text": "結局、復縁出来る女性って『復縁に期待し過ぎず元彼と話せる人』なんです。「復縁したい」って気持ちが見え見えだと元彼が引くのも当然。なので、復縁したいなら復縁に期待し過ぎず、未練タラタラな下心を隠す必要があるんです。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-13",
+      "history": [
+        {
+          "scheduled_at": "2026-08-14T20:28:00+09:00",
+          "registered_at": "2026-08-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4c6e6b6ea5": {
+      "text": "『最後に回避型の本命になるのは一途でしつこい女性』って言われますけど、ほんとにその通りです。男は自信をなくすと『好きでも別れる』を選ぶ。私の彼もプライドが折れたせいで別れを告げてきました。そんな彼と復縁できたのは『殻にこもった回避型の心を開くこと』を徹底したから。実は男の傷ついたプライドは、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-13",
+      "history": [
+        {
+          "scheduled_at": "2026-08-15T11:08:00+09:00",
+          "registered_at": "2026-08-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3f92b2581c": {
+      "text": "『重い女性』が圧倒的に復縁しやすい理由、これなんです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-13",
+      "history": [
+        {
+          "scheduled_at": "2026-08-15T18:03:00+09:00",
+          "registered_at": "2026-08-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_edb06bc4d5": {
+      "text": "『もう未練ない』って言い切る男ほど、未練しかないです。ほんとに。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-13",
+      "history": [
+        {
+          "scheduled_at": "2026-08-15T19:52:00+09:00",
+          "registered_at": "2026-08-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4904f8093e": {
+      "text": "彼には、尽くして、期待して、傷ついての繰り返しだったので今回学んだことは、\n尽くさない期待しない",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-13",
+      "history": [
+        {
+          "scheduled_at": "2026-08-15T21:03:00+09:00",
+          "registered_at": "2026-08-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8b2aa69a80": {
+      "text": "回避型は自己防衛で別れを選ぶから、振った瞬間から後悔が始まるんだよね。付き合ってる時に感じてた不安より、別れた後の喪失感の方が圧倒的に重い。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-13",
+      "history": [
+        {
+          "scheduled_at": "2026-08-15T22:17:00+09:00",
+          "registered_at": "2026-08-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_268b59bbb8": {
+      "text": "振った側の男が『手放したくなかった』と思う女性の共通点は、『別れをあっさり受け入れる』『自分磨きを続け、魅力を増す』なんですけど、1番効果的だったのは",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-13",
+      "history": [
+        {
+          "scheduled_at": "2026-08-16T11:08:00+09:00",
+          "registered_at": "2026-08-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2f77c940be": {
+      "text": "結局、回避型の心を動かすのって『重すぎるほど一途な愛情』なんです。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-13",
+      "history": [
+        {
+          "scheduled_at": "2026-08-16T14:42:00+09:00",
+          "registered_at": "2026-08-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b46f4760b2": {
+      "text": "復縁するならこれ本当に大事です。明るくて素直な女の子が嫌いな男はいないので",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-13",
+      "history": [
+        {
+          "scheduled_at": "2026-08-16T19:17:00+09:00",
+          "registered_at": "2026-08-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5f5a120c72": {
+      "text": "元彼の沈黙は、気持ちがなくなった証拠じゃないです。返さないんじゃなくて、なんて返せば全部が壊れないか分からなくて固まっているだけ。私も『既読すらつかない＝答え』だと思い込んで、追いLINEで自分から距離を広げました。沈黙の意味を読み違えないでください。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-13",
+      "history": [
+        {
+          "scheduled_at": "2026-08-16T19:52:00+09:00",
+          "registered_at": "2026-08-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3fac7822d1": {
+      "text": "メンヘラかどうかは、『相手が忙しい時の反応』でわかります。\nグレーゾーン",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-13",
+      "history": [
+        {
+          "scheduled_at": "2026-08-16T20:28:00+09:00",
+          "registered_at": "2026-08-13",
           "views": null
         }
       ]
