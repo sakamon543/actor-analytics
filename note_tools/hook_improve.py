@@ -688,6 +688,8 @@ def select_scraped_hooks(pool, actor, max_count):
     for h in pool.get("hooks", []):
         if not (h.get("first_lines") or "").strip():
             continue
+        if h.get("hold"):
+            continue   # 保留フラグ（TL産の売れない型など。2026-08-15 売上急落調査で導入）
         rank = hook_result_rank(h)
         if rank == 2:
             continue                          # 使って伸びなかった弾は使わない
