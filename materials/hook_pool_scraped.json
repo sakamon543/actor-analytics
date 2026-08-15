@@ -232,7 +232,8 @@
       "source_handle": "rinoko01",
       "collected_at": "2026-08-10",
       "used_by": {
-        "うみこ": "2026-08-10"
+        "うみこ": "2026-08-10",
+        "かれん": "2026-08-15"
       },
       "results": {}
     },
@@ -767,7 +768,8 @@
       "source_handle": "que_koi",
       "collected_at": "2026-08-10",
       "used_by": {
-        "うみこ": "2026-08-10"
+        "うみこ": "2026-08-10",
+        "かれん": "2026-08-15"
       },
       "results": {}
     },
@@ -1307,7 +1309,8 @@
       "source_handle": "momo_fukuen",
       "collected_at": "2026-08-10",
       "used_by": {
-        "ハカセ": "2026-08-10"
+        "ハカセ": "2026-08-10",
+        "かれん": "2026-08-15"
       },
       "results": {}
     },
@@ -2081,7 +2084,8 @@
       "source_handle": "momo_fukuen",
       "collected_at": "2026-08-10",
       "used_by": {
-        "あや": "2026-08-10"
+        "あや": "2026-08-10",
+        "かれん": "2026-08-15"
       },
       "results": {}
     },
@@ -2561,7 +2565,8 @@
       "source_handle": "que_koi",
       "collected_at": "2026-08-10",
       "used_by": {
-        "みき": "2026-08-10"
+        "みき": "2026-08-10",
+        "かれん": "2026-08-15"
       },
       "results": {}
     },
@@ -2972,7 +2977,13 @@
       "used_by": {
         "かれん": "2026-08-12"
       },
-      "results": {}
+      "results": {
+        "かれん": {
+          "views": 13,
+          "at": "2026-08-15",
+          "sale_48h": true
+        }
+      }
     },
     {
       "pool_id": "hp_2fbf3bf244",
@@ -3306,7 +3317,8 @@
       "collected_at": "2026-08-10",
       "used_by": {
         "あや": "2026-08-13"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_5c6acd50ab",
@@ -3680,7 +3692,8 @@
       "collected_at": "2026-08-10",
       "used_by": {
         "あや": "2026-08-13"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_ff494141ca",
@@ -3707,7 +3720,12 @@
       "used_by": {
         "かれん": "2026-08-12"
       },
-      "results": {}
+      "results": {
+        "かれん": {
+          "views": 1,
+          "at": "2026-08-15"
+        }
+      }
     },
     {
       "pool_id": "hp_e956b0fb98",
@@ -4041,7 +4059,8 @@
       "collected_at": "2026-08-10",
       "used_by": {
         "あや": "2026-08-13"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_9a4c3b5e51",
@@ -4050,7 +4069,10 @@
       "likes": 19,
       "source": "https://x.com/que_koi/status/1992853804996526279",
       "source_handle": "que_koi",
-      "collected_at": "2026-08-10"
+      "collected_at": "2026-08-10",
+      "used_by": {
+        "かれん": "2026-08-15"
+      }
     },
     {
       "pool_id": "hp_b41a9227e3",
@@ -4112,7 +4134,8 @@
       "collected_at": "2026-08-10",
       "used_by": {
         "あや": "2026-08-13"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_243e8d92af",
@@ -4144,7 +4167,10 @@
       "likes": 115,
       "source": "https://x.com/que_koi/status/2002653263762497656",
       "source_handle": "que_koi",
-      "collected_at": "2026-08-10"
+      "collected_at": "2026-08-10",
+      "used_by": {
+        "かれん": "2026-08-15"
+      }
     },
     {
       "pool_id": "hp_a4b910fcd0",
@@ -4396,7 +4422,10 @@
       "likes": 39,
       "source": "https://x.com/momo_fukuen/status/2080841873833562497",
       "source_handle": "momo_fukuen",
-      "collected_at": "2026-08-10"
+      "collected_at": "2026-08-10",
+      "used_by": {
+        "かれん": "2026-08-15"
+      }
     },
     {
       "pool_id": "hp_295e88f16b",
@@ -10412,5 +10441,5 @@
       "collected_at": "2026-08-01"
     }
   ],
-  "updated_at": "2026-08-13T11:25:40.365017+09:00"
+  "updated_at": "2026-08-15T09:14:06.724283+09:00"
 }

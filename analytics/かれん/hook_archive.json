@@ -834,6 +834,11 @@
           "scheduled_at": "2026-08-14T11:08:00+09:00",
           "registered_at": "2026-08-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-16T14:42:00+09:00",
+          "registered_at": "2026-08-15",
+          "views": null
         }
       ]
     },
@@ -879,6 +884,11 @@
         {
           "scheduled_at": "2026-08-15T11:08:00+09:00",
           "registered_at": "2026-08-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-16T22:17:00+09:00",
+          "registered_at": "2026-08-15",
           "views": null
         }
       ]
@@ -1188,6 +1198,11 @@
           "scheduled_at": "2026-08-09T20:28:00+09:00",
           "registered_at": "2026-08-08",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-18T20:28:00+09:00",
+          "registered_at": "2026-08-15",
+          "views": null
         }
       ]
     },
@@ -1272,6 +1287,11 @@
         {
           "scheduled_at": "2026-08-11T11:08:00+09:00",
           "registered_at": "2026-08-08",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-16T19:52:00+09:00",
+          "registered_at": "2026-08-15",
           "views": null
         }
       ]
@@ -1380,7 +1400,8 @@
         {
           "scheduled_at": "2026-08-13T19:52:00+09:00",
           "registered_at": "2026-08-12",
-          "views": null
+          "views": 13,
+          "posted_at": "2026-08-13T10:57:20.835+00:00"
         }
       ]
     },
@@ -1512,6 +1533,174 @@
         {
           "scheduled_at": "2026-08-15T22:17:00+09:00",
           "registered_at": "2026-08-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4bd4dc822d": {
+      "text": "男が本命に『別れよう』って言い出すときって気持ちが冷めてないんだよね。むしろその逆で、好きな子を幸せにできない自分に嫌気がさして離れようとする。「俺といない方がこの子は幸せかも」って愛情で別れを選ぶんだよね。私が振られた原因も彼の『男としての自信』が折れたからだった。復縁してわかったのは、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-15",
+      "history": [
+        {
+          "scheduled_at": "2026-08-16T13:17:00+09:00",
+          "registered_at": "2026-08-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bb1989ebd3": {
+      "text": "復縁できる人は、自然と「自分を褒める」ことが出来てる。復縁活動ってネガティブになりがちだけど、自分のことを褒める習慣がある人は自己肯定感が下がることが無いし、自分磨きのモチベーションも高いから自爆行動しないし、自分磨きも継続出来るんだよね。その結果、復縁も上手くいく。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-15",
+      "history": [
+        {
+          "scheduled_at": "2026-08-16T18:03:00+09:00",
+          "registered_at": "2026-08-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_243b307602": {
+      "text": "この前復縁してそのまま婚約した友達カップルと昨日話してて驚いたんだけど、実は復縁するまでに彼氏の方が一方的にブロってたんだよね。\nでも彼女も諦めきれなくて、とある手段に出たみたい。結果その手段がばっちりハマって復縁に至ったんだけど、",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-08-15",
+      "history": [
+        {
+          "scheduled_at": "2026-08-16T20:28:00+09:00",
+          "registered_at": "2026-08-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_99fa2ec8e2": {
+      "text": "元彼のブロックは、嫌いになった証拠じゃない",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-15",
+      "history": [
+        {
+          "scheduled_at": "2026-08-17T11:08:00+09:00",
+          "registered_at": "2026-08-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_49abb75eda": {
+      "text": "元彼と復縁したいけど、\n・しつこくしたから嫌われた気がする",
+      "structure_label": "読者状況列挙型",
+      "first_used_at": "2026-08-15",
+      "history": [
+        {
+          "scheduled_at": "2026-08-17T14:42:00+09:00",
+          "registered_at": "2026-08-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8ce310822a": {
+      "text": "男性って『別れて1〜3ヶ月経った頃』に元カノを恋しく思い始めるんだよ。これ、回避傾向が強い男性ほど当てはまる。キャパオーバーで逃げるように別れるから、いざ一人になると『向き合わなかった後悔と罪悪感』が押し寄せてくるみたい。復縁した彼いわく「別れたらラクになれると思ったけど、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-15",
+      "history": [
+        {
+          "scheduled_at": "2026-08-17T18:03:00+09:00",
+          "registered_at": "2026-08-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_209e1987e1": {
+      "text": "知らない女性多いけど、男は元カノに未練がある時ほど「連絡しない」を選択をするんですよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-15",
+      "history": [
+        {
+          "scheduled_at": "2026-08-17T19:52:00+09:00",
+          "registered_at": "2026-08-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_55699c1fd7": {
+      "text": "ブロックされても復縁はできる。追いLINE100通と鬼電50回を浴びせた私が証拠だよ。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-15",
+      "history": [
+        {
+          "scheduled_at": "2026-08-17T21:03:00+09:00",
+          "registered_at": "2026-08-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_17369e12a1": {
+      "text": "【『復縁、片思いが実る女性の特徴』】\n･生活習慣が乱れていない",
+      "structure_label": "リスト予告型",
+      "first_used_at": "2026-08-15",
+      "history": [
+        {
+          "scheduled_at": "2026-08-17T22:17:00+09:00",
+          "registered_at": "2026-08-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_513ec06b35": {
+      "text": "男って別れた後吹っ切れるの早く感じることあると思うけど、それは平静を装ってるだけで内心彼女を失った喪失感で一杯です。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-15",
+      "history": [
+        {
+          "scheduled_at": "2026-08-18T11:08:00+09:00",
+          "registered_at": "2026-08-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bb92a74d9b": {
+      "text": "「友達からやり直すのが安全」はウソ",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-15",
+      "history": [
+        {
+          "scheduled_at": "2026-08-18T14:42:00+09:00",
+          "registered_at": "2026-08-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3af12d6baf": {
+      "text": "でもさ、適度な距離感で爆発せず、男性の未熟な部分も受け入れながら信頼関係を育める女って、２年くらい付き合った元カレが3人くらいいないと完成しないんだよね。初見プレイの恋愛でメンタル落ち着いた処女って現実にいる？",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-15",
+      "history": [
+        {
+          "scheduled_at": "2026-08-18T19:17:00+09:00",
+          "registered_at": "2026-08-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_29b1a9703c": {
+      "text": "元彼のインスタを見るのがやめられないなら、意志の力で我慢しても無理なんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-15",
+      "history": [
+        {
+          "scheduled_at": "2026-08-18T19:52:00+09:00",
+          "registered_at": "2026-08-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ef53a9f11c": {
+      "text": "これまさに私のnoteで言ってることやった。\n読んでくれた人が復縁に繋げてるのも納得。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-15",
+      "history": [
+        {
+          "scheduled_at": "2026-08-18T22:17:00+09:00",
+          "registered_at": "2026-08-15",
           "views": null
         }
       ]
