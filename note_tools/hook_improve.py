@@ -39,10 +39,9 @@ sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 JST = timezone(timedelta(hours=9))
 
+# 2026-08-15 1日5本化にあわせて5スロットへ（売上発生の6割超が14-17時・19-23時の実測に合わせる）
 SCHEDULE_TEMPLATE = [
-    (11, 8), (13, 17), (14, 42),
-    (18, 3), (19, 17), (19, 52),
-    (20, 28), (21, 3), (22, 17), (22, 48),
+    (11, 8), (14, 42), (16, 33), (19, 52), (21, 47),
 ]
 
 # ===== v2投稿構成（2026-06-13 ユーザー指示）=====
@@ -73,16 +72,16 @@ NOTE_URLS = {
 #  - 教育＋ぶら下げ(thread_cta)が売上の本線 → 1日4本
 #  - Threadsはポスト単体評価 → 日常(nichijo)・交流(kouryu)・引き(hiki)は廃止
 #  - つぶやき断言と自分の物語は質が良かったので残す（タイプ定義自体はX展開用に温存）
+# 2026-08-15 阪本さん指示で1日9本→5本に削減。
+# 根拠（8月実測・2000views超の当たり率）：AI生成のつぶやき/物語枠は131本中3本（2.3%）しか当たらない
+# ＝一番の無駄弾。教育ぶら下げ（売りの本線）3本は維持し、業者感回避で非教育枠を1本だけ残す。
+# 副次効果：claude消費が約半減（使用量制限対策）・同一フック被り/既視感リスクも減る。
 V3_DAY_PLAN = [
-    "tsubuyaki",   # 断言・共感つぶやき（バズ枠）
+    "tsubuyaki",   # 断言・共感つぶやき（バズ枠・業者感回避に1本だけ残す）
     "thread_cta",  # 教育＋ぶら下げ・note誘導（売りの本線1）
     "kyoiku",      # 教育単発（当事者の実感ベース・CTAなし）
     "thread_cta",  # 売りの本線2
-    "monogatari",  # 自分の物語断片
     "thread_cta",  # 売りの本線3
-    "kyoiku",      # 教育単発
-    "tsubuyaki",   # つぶやき
-    "thread_cta",  # 売りの本線4
 ]
 NON_EDU_TYPES = {"tsubuyaki", "nichijo", "monogatari", "kouryu", "hiki"}
 STYLE_EXAMPLES_PATH = "materials/style_examples.json"
@@ -1346,7 +1345,7 @@ def run(actor, phase1_only=False, limit=None, reuse_phase1=False):
     if actor in RECYCLE_ONLY_ACTORS:
         return run_recycle_only(actor, analytics_dir, posts_db, start_date)
 
-    per_day = V2_PER_DAY  # v3: 全演者9本/日・内容タイプミックス（2026-07-25）
+    per_day = len(V3_DAY_PLAN)  # v3: 1日5本（2026-08-15 阪本さん指示で9→5に削減。配分はV3_DAY_PLANが正）
     schedule_slots = generate_schedule(start_date, per_day=per_day)
     print(f"  スケジュール: {start_date.strftime('%Y-%m-%d')} 〜 {(start_date + timedelta(days=2)).strftime('%Y-%m-%d')}")
 
