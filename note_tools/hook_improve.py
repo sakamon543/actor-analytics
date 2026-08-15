@@ -674,6 +674,24 @@ def hook_result_rank(h):
     return 1
 
 
+# 演者×収集元IDの対応表（2026-08-15 阪本さん指示：ID系は多く渡してあるので、
+# それぞれのアカウントのコンセプトに合う収集元のフックを優先して使う）。
+# 実測でもTL雑多バズ（当たり率4%）より渡されたID由来（当たり率9%・売上追随21本）が明確に上。
+# ここに無い演者（マチアプ・年の差・職場系＝みな/りょう/りさ/みき/りお/ホンネ）は
+# 復縁IDが合わないので従来通り全体から選ぶ。
+ACTOR_SOURCE_PREF = {
+    "あや":   {"hiro_kaihigata", "8_ludr7", "okoteruyo1", "u_ne_c"},          # 回避型元カレと復縁
+    "うみこ": {"hiro_kaihigata", "8_ludr7", "okoteruyo1", "haru_motokare"},   # 回避型男の脳・音信不通
+    "ヒロ":   {"hiro_kaihigata", "reuni10v", "kei_zoon", "8_ludr7"},          # 元回避型男（男当事者）
+    "かれん": {"karen_fukuen", "okoteruyo1", "nagikoi1", "LHubrig65806"},     # メンヘラ復縁（重い女でも復縁）
+    "miho":   {"LHubrig65806", "ShannonRoe12187", "karen_fukuen", "pederson287"},  # 復縁否定派の彼と復縁
+    "みさき": {"yr_uaz", "momo_fukuen", "kei_zoon", "haru_motokare"},         # 追わせる復縁（放置・惚れ直させる）
+    "ハカセ": {"momo_fukuen", "yr_uaz", "haru_motokare", "MorganSuza12082"},  # 元カレ中毒の仕掛け人
+    "リクオウ": {"haru_motokare", "1o_yyb", "que_koi", "reuni10v"},           # 本能スイッチ（男心解説）
+    "ハクオウ": {"reuni10v", "que_koi", "kei_zoon", "1o_yyb"},                # 男性心理プロ（現状リサイクル専用機なので実質未使用）
+}
+
+
 def select_scraped_hooks(pool, actor, max_count):
     """この演者が未使用の収集フックを選ぶ（演者間の被り制御込み・2026-07-31成績ベース化）。
     - 元ネタのviewsではなく「うちで使って伸びたか」を最優先の判断軸にする：
@@ -682,6 +700,11 @@ def select_scraped_hooks(pool, actor, max_count):
       死に弾（実測が全部500未満）→ 二度と使わない
     - 他演者の使用から SCRAPED_CROSS_COOLDOWN 日以上空ける（同一フック被り事故＝シャドウバン対策は維持）
     - 2人目以降の使用には _second_use フラグ（プロンプト側で語尾リライト指示）"""
+    if actor not in ACTOR_SOURCE_PREF:
+        # プールは復縁系IDとTL（復縁語彙フィルタ）で実質100%復縁ネタ。
+        # マチアプ・年の差・職場系の演者に一字一句流すとコンセプト違い投稿になるため止める（2026-08-15）
+        print("  収集フック選定: コンセプト対応表に無い演者のためスキップ（復縁プールが合わない・AI生成に任せる）")
+        return []
     today = datetime.now(tz=JST).date()
     proven, unknown = [], []
     for h in pool.get("hooks", []):
@@ -712,19 +735,33 @@ def select_scraped_hooks(pool, actor, max_count):
         hh["_second_use"] = len(ub) >= 1
         (proven if rank == 0 else unknown).append(hh)
 
-    # 伸び実証済みは「売上追随あり → 実測views」の順で確定取り → 残り枠を未検証の上位抽選で埋める
+    # コンセプト一致の収集元を最優先（2026-08-15）→ 伸び実証済みは「売上追随→実測views」順 → 未検証は上位抽選
+    pref = ACTOR_SOURCE_PREF.get(actor) or set()
+
+    def _pref_match(h):
+        return (h.get("source_handle") or "").lstrip("@") in pref
+
     proven.sort(key=lambda x: (
+        1 if _pref_match(x) else 0,
         1 if any(r.get("sale_48h") for r in (x.get("results") or {}).values()) else 0,
         max((r.get("views") or 0) for r in (x.get("results") or {}).values())), reverse=True)
     take = proven[:max_count]
     rest = max_count - len(take)
     if rest > 0:
-        unknown.sort(key=lambda x: x.get("views", 0), reverse=True)
-        top = unknown[:max(rest * 3, rest)]
-        take += top if len(top) <= rest else random.sample(top, rest)
+        # 未検証はコンセプト一致分を先に元views降順で取り、足りない分だけ全体の上位抽選で埋める
+        matched = sorted((h for h in unknown if _pref_match(h)),
+                         key=lambda x: x.get("views", 0), reverse=True)
+        take += matched[:rest]
+        rest = max_count - len(take)
+        if rest > 0:
+            others = sorted((h for h in unknown if not _pref_match(h)),
+                            key=lambda x: x.get("views", 0), reverse=True)
+            top = others[:max(rest * 3, rest)]
+            take += top if len(top) <= rest else random.sample(top, rest)
     if take:
         n_p = sum(1 for t in take if hook_result_rank(t) == 0)
-        print(f"  収集フック選定: 伸び実証済み{n_p}本＋未検証{len(take) - n_p}本")
+        n_m = sum(1 for t in take if _pref_match(t))
+        print(f"  収集フック選定: 伸び実証済み{n_p}本＋未検証{len(take) - n_p}本（コンセプト一致{n_m}本）")
     return take
 
 
