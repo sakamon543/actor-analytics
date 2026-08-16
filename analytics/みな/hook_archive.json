@@ -8,7 +8,8 @@
         {
           "scheduled_at": "2026-07-23T11:08:00+09:00",
           "registered_at": "2026-07-22",
-          "views": null
+          "views": 15,
+          "posted_at": "2026-08-13T02:12:23.172+00:00"
         },
         {
           "scheduled_at": "2026-08-06T11:08:00+09:00",
@@ -449,6 +450,11 @@
           "scheduled_at": "2026-08-10T19:17:00+09:00",
           "registered_at": "2026-08-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-17T14:42:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
         }
       ]
     },
@@ -475,6 +481,11 @@
         {
           "scheduled_at": "2026-08-08T22:17:00+09:00",
           "registered_at": "2026-08-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-17T19:52:00+09:00",
+          "registered_at": "2026-08-16",
           "views": null
         }
       ]
@@ -503,6 +514,11 @@
           "scheduled_at": "2026-08-08T14:42:00+09:00",
           "registered_at": "2026-08-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-17T16:33:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
         }
       ]
     },
@@ -530,6 +546,11 @@
           "scheduled_at": "2026-08-10T20:28:00+09:00",
           "registered_at": "2026-08-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-18T14:42:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
         }
       ]
     },
@@ -546,6 +567,11 @@
         {
           "scheduled_at": "2026-07-30T22:17:00+09:00",
           "registered_at": "2026-07-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-18T19:52:00+09:00",
+          "registered_at": "2026-08-16",
           "views": null
         }
       ]
@@ -592,6 +618,11 @@
         {
           "scheduled_at": "2026-08-09T21:03:00+09:00",
           "registered_at": "2026-08-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-19T16:33:00+09:00",
+          "registered_at": "2026-08-16",
           "views": null
         }
       ]
@@ -912,6 +943,11 @@
         {
           "scheduled_at": "2026-08-09T14:42:00+09:00",
           "registered_at": "2026-08-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-19T11:08:00+09:00",
+          "registered_at": "2026-08-16",
           "views": null
         }
       ]
@@ -1351,7 +1387,8 @@
         {
           "scheduled_at": "2026-08-13T14:42:00+09:00",
           "registered_at": "2026-08-10",
-          "views": null
+          "views": 17,
+          "posted_at": "2026-08-13T05:47:50.071+00:00"
         }
       ]
     },
@@ -1507,6 +1544,66 @@
         {
           "scheduled_at": "2026-08-16T22:17:00+09:00",
           "registered_at": "2026-08-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_16e65522a7": {
+      "text": "『たくさん会って比べれば分かる』は嘘です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-17T21:47:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_607abcccd6": {
+      "text": "男性は、『何回会ったか＝関係が進んでいる』とは思っていない。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-18T11:08:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0f20dc175e": {
+      "text": "決めるなら、通知がめんどくさくなる前です。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-18T21:47:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ac4522151e": {
+      "text": "決められない理由、『理想が高い』より圧倒的に多いのが『会う人数が多すぎる』です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-19T14:42:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b34e08c96f": {
+      "text": "婚活して分かったんだけど、『会う人数を減らした人から決まる』って話は本当。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-19T19:52:00+09:00",
+          "registered_at": "2026-08-16",
           "views": null
         }
       ]

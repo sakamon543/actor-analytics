@@ -157,6 +157,11 @@
           "scheduled_at": "2026-08-14T14:42:00+09:00",
           "registered_at": "2026-08-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-17T14:42:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
         }
       ]
     },
@@ -372,6 +377,11 @@
           "scheduled_at": "2026-08-12T19:52:00+09:00",
           "registered_at": "2026-08-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-17T21:47:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
         }
       ]
     },
@@ -389,7 +399,8 @@
         {
           "scheduled_at": "2026-07-30T19:52:00+09:00",
           "registered_at": "2026-07-29",
-          "views": null
+          "views": 12192,
+          "posted_at": "2026-08-12T02:14:14.012+00:00"
         },
         {
           "scheduled_at": "2026-08-03T11:08:00+09:00",
@@ -409,6 +420,16 @@
         {
           "scheduled_at": "2026-08-15T19:52:00+09:00",
           "registered_at": "2026-08-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-17T16:33:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-19T16:33:00+09:00",
+          "registered_at": "2026-08-16",
           "views": null
         }
       ]
@@ -806,6 +827,11 @@
           "scheduled_at": "2026-08-14T19:52:00+09:00",
           "registered_at": "2026-08-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-18T11:08:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
         }
       ]
     },
@@ -995,6 +1021,11 @@
         {
           "scheduled_at": "2026-08-15T11:08:00+09:00",
           "registered_at": "2026-08-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-17T19:52:00+09:00",
+          "registered_at": "2026-08-16",
           "views": null
         }
       ]
@@ -1197,6 +1228,11 @@
           "scheduled_at": "2026-08-16T19:17:00+09:00",
           "registered_at": "2026-08-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-18T14:42:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
         }
       ]
     },
@@ -1220,7 +1256,8 @@
         {
           "scheduled_at": "2026-08-11T19:52:00+09:00",
           "registered_at": "2026-08-10",
-          "views": null
+          "views": 54,
+          "posted_at": "2026-08-11T10:59:05.624+00:00"
         }
       ]
     },
@@ -1304,7 +1341,8 @@
         {
           "scheduled_at": "2026-08-14T18:03:00+09:00",
           "registered_at": "2026-08-13",
-          "views": null
+          "views": 16,
+          "posted_at": "2026-08-14T09:14:16.309+00:00"
         }
       ]
     },
@@ -1436,6 +1474,66 @@
         {
           "scheduled_at": "2026-08-16T22:17:00+09:00",
           "registered_at": "2026-08-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ee2470e733": {
+      "text": "年下男子は、「頼れる年上=本命」とは思っていない",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-18T19:52:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a22a707161": {
+      "text": "年下男子が「この人から離れられない」と沼る年上には、はっきりした共通点があるんです。若さでも、美貌でも、包容力でもありません。それは、彼の前で弱音を言えること。年下が惹かれるのは、崩れない大人じゃなくて、自分にだけ崩れてくれる人です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-18T21:47:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2a687595f6": {
+      "text": "年下男子の好意は、はっきりした言葉には出てきません。年上に軽く見られたくない気持ちが先に立つので、『好き』も『会いたい』も全部飲み込みます。あなたが待ってる分かりやすい合図は、たぶんずっと来ないままです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-19T11:08:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a57a9430be": {
+      "text": "年下男子があなたにだけ雑になる態度は、飽きたサインじゃないです",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-19T14:42:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ab27718501": {
+      "text": "結局、年下に本命にされる年上って『完璧でいる人』じゃなくて『彼の前でだけ隙を出せる人』なんです",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-19T19:52:00+09:00",
+          "registered_at": "2026-08-16",
           "views": null
         }
       ]

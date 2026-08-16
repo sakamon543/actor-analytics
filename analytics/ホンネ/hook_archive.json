@@ -568,6 +568,16 @@
           "scheduled_at": "2026-08-09T11:08:00+09:00",
           "registered_at": "2026-08-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-17T14:42:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-19T19:52:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
         }
       ]
     },
@@ -742,6 +752,11 @@
         {
           "scheduled_at": "2026-07-24T20:28:00+09:00",
           "registered_at": "2026-07-23",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-17T19:52:00+09:00",
+          "registered_at": "2026-08-16",
           "views": null
         }
       ]
@@ -1259,6 +1274,11 @@
           "scheduled_at": "2026-08-07T14:42:00+09:00",
           "registered_at": "2026-08-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-19T14:42:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
         }
       ]
     },
@@ -1375,6 +1395,11 @@
         {
           "scheduled_at": "2026-08-05T14:42:00+09:00",
           "registered_at": "2026-08-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-18T11:08:00+09:00",
+          "registered_at": "2026-08-16",
           "views": null
         }
       ]
@@ -1649,6 +1674,11 @@
         {
           "scheduled_at": "2026-08-09T22:17:00+09:00",
           "registered_at": "2026-08-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-19T11:08:00+09:00",
+          "registered_at": "2026-08-16",
           "views": null
         }
       ]
@@ -2647,6 +2677,16 @@
         {
           "scheduled_at": "2026-08-08T18:03:00+09:00",
           "registered_at": "2026-08-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-17T16:33:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-18T19:52:00+09:00",
+          "registered_at": "2026-08-16",
           "views": null
         }
       ]
@@ -4514,6 +4554,54 @@
         {
           "scheduled_at": "2026-08-16T22:17:00+09:00",
           "registered_at": "2026-08-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_99fea84a71": {
+      "text": "彼が既読つけない時に追いLINE送るのは、男目線では完全に逃がす動きなんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-17T21:47:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_105b99c71f": {
+      "text": "男は、『職場でよく話す＝ただの同僚』とは思っていない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-18T14:42:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6011c9a631": {
+      "text": "彼に『最近ちょっと変わった？』って言わせる構造、男目線で言うとシンプルなんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-18T21:47:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dcbb48894e": {
+      "text": "男は、『気になってる年上』と簡単に普段通りには話せない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-19T16:33:00+09:00",
+          "registered_at": "2026-08-16",
           "views": null
         }
       ]

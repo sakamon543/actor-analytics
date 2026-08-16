@@ -166,6 +166,16 @@
           "scheduled_at": "2026-07-24T20:28:00+09:00",
           "registered_at": "2026-07-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-17T14:42:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-19T11:08:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
         }
       ]
     },
@@ -1301,7 +1311,8 @@
         {
           "scheduled_at": "2026-08-10T19:52:00+09:00",
           "registered_at": "2026-08-07",
-          "views": null
+          "views": 1,
+          "posted_at": "2026-08-10T10:58:03.297+00:00"
         }
       ]
     },
@@ -1397,7 +1408,7 @@
         {
           "scheduled_at": "2026-08-12T11:08:00+09:00",
           "registered_at": "2026-08-10",
-          "views": 14,
+          "views": 15,
           "posted_at": "2026-08-12T02:13:03.994+00:00"
         }
       ]
@@ -1482,7 +1493,8 @@
         {
           "scheduled_at": "2026-08-13T19:52:00+09:00",
           "registered_at": "2026-08-10",
-          "views": null
+          "views": 1,
+          "posted_at": "2026-08-13T10:56:27.642+00:00"
         }
       ]
     },
@@ -1506,7 +1518,8 @@
         {
           "scheduled_at": "2026-08-13T22:17:00+09:00",
           "registered_at": "2026-08-10",
-          "views": null
+          "views": 11,
+          "posted_at": "2026-08-13T13:22:15.59+00:00"
         }
       ]
     },
@@ -1650,6 +1663,119 @@
         {
           "scheduled_at": "2026-08-16T22:17:00+09:00",
           "registered_at": "2026-08-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_28ae607555": {
+      "text": "年下男性が年上に求めてるのは、若さじゃなくて安心感です。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-17T16:33:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8d4ca6204c": {
+      "text": "職場の飲み会は大チャンスですけど、頑張って隣に座って話しかけ続けるのは逆効果です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-17T19:52:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-19T19:52:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6f563aa96b": {
+      "text": "年下の後輩は、「年上だから恋愛対象にならない」とは思っていません。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-17T21:47:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0a5f11e8d6": {
+      "text": "恋愛は動いた方が勝ち、って思ってませんか。年下の後輩相手だと、実は「動きすぎない」方がうまくいくんですよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-18T11:08:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_91e8d059e0": {
+      "text": "「気になる後輩には自分から話しかけた方がいい」は逆効果です。回数を増やすほど、彼の中で先輩の枠が固まります。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-18T14:42:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2c04454e93": {
+      "text": "職場の年下後輩を好きになった人へ。バレたらどうしよう、という不安で動けないなら、この数字を見てください。職場恋愛を隠して付き合ってる人は83.7%。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-18T19:52:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_18d8739d0b": {
+      "text": "好きな人ほど自分から誘うべき、って思ってませんか。年下後輩相手だと、実は「自分から誘わない」方がうまくいくんですよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-18T21:47:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_112f9c4b39": {
+      "text": "年下が年上に惹かれる理由って「若く見えるから」とか「話が合うから」みたいな理由じゃないんです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-19T14:42:00+09:00",
+          "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_251624a871": {
+      "text": "後輩が急に敬語に戻るのは、脈なしのサインじゃないです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-16",
+      "history": [
+        {
+          "scheduled_at": "2026-08-19T16:33:00+09:00",
+          "registered_at": "2026-08-16",
           "views": null
         }
       ]

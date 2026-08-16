@@ -464,7 +464,8 @@
       "source_handle": "que_koi",
       "collected_at": "2026-08-10",
       "used_by": {
-        "ホンネ": "2026-08-13"
+        "ホンネ": "2026-08-13",
+        "あや": "2026-08-16"
       },
       "results": {}
     },
@@ -573,12 +574,13 @@
       "collected_at": "2026-08-10",
       "used_by": {
         "うみこ": "2026-08-10",
-        "ホンネ": "2026-08-13"
+        "ホンネ": "2026-08-13",
+        "ヒロ": "2026-08-16"
       },
       "results": {
         "うみこ": {
-          "views": 7943,
-          "at": "2026-08-13"
+          "views": 8069,
+          "at": "2026-08-16"
         }
       }
     },
@@ -711,7 +713,12 @@
       "used_by": {
         "りさ": "2026-08-10"
       },
-      "results": {},
+      "results": {
+        "りさ": {
+          "views": 54,
+          "at": "2026-08-16"
+        }
+      },
       "hold": true
     },
     {
@@ -766,7 +773,8 @@
       "source_handle": "momo_fukuen",
       "collected_at": "2026-08-10",
       "used_by": {
-        "かれん": "2026-08-12"
+        "かれん": "2026-08-12",
+        "あや": "2026-08-16"
       },
       "results": {}
     },
@@ -779,7 +787,8 @@
       "source_handle": "reuni10v",
       "collected_at": "2026-08-10",
       "used_by": {
-        "ホンネ": "2026-08-10"
+        "ホンネ": "2026-08-10",
+        "ヒロ": "2026-08-16"
       },
       "results": {}
     },
@@ -1264,7 +1273,8 @@
       "source_handle": "reuni10v",
       "collected_at": "2026-08-10",
       "used_by": {
-        "ホンネ": "2026-08-10"
+        "ホンネ": "2026-08-10",
+        "ヒロ": "2026-08-16"
       },
       "results": {}
     },
@@ -1350,7 +1360,11 @@
       "likes": 87,
       "source": "https://x.com/reuni10v/status/2084445433120854076",
       "source_handle": "reuni10v",
-      "collected_at": "2026-08-10"
+      "collected_at": "2026-08-10",
+      "used_by": {
+        "ヒロ": "2026-08-16"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_a5de131710",
@@ -1387,7 +1401,11 @@
       "likes": 76,
       "source": "https://x.com/reuni10v/status/2078645169721929912",
       "source_handle": "reuni10v",
-      "collected_at": "2026-08-10"
+      "collected_at": "2026-08-10",
+      "used_by": {
+        "ヒロ": "2026-08-16"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_ef4b0a9b44",
@@ -1854,8 +1872,8 @@
       },
       "results": {
         "みき": {
-          "views": 14,
-          "at": "2026-08-13"
+          "views": 15,
+          "at": "2026-08-16"
         }
       }
     },
@@ -1868,7 +1886,8 @@
       "source_handle": "reuni10v",
       "collected_at": "2026-08-10",
       "used_by": {
-        "ホンネ": "2026-08-10"
+        "ホンネ": "2026-08-10",
+        "ヒロ": "2026-08-16"
       },
       "results": {}
     },
@@ -2103,7 +2122,11 @@
       "likes": 61,
       "source": "https://x.com/reuni10v/status/2080850124528590933",
       "source_handle": "reuni10v",
-      "collected_at": "2026-08-10"
+      "collected_at": "2026-08-10",
+      "used_by": {
+        "ヒロ": "2026-08-16"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_1de2ab8d97",
@@ -2367,7 +2390,8 @@
       "source_handle": "hiro_kaihigata",
       "collected_at": "2026-07-31",
       "used_by": {
-        "ホンネ": "2026-08-07"
+        "ホンネ": "2026-08-07",
+        "ヒロ": "2026-08-16"
       },
       "results": {}
     },
@@ -2544,8 +2568,8 @@
       },
       "results": {
         "ハカセ": {
-          "views": 22,
-          "at": "2026-08-13"
+          "views": 35,
+          "at": "2026-08-16"
         }
       }
     },
@@ -2558,7 +2582,8 @@
       "source_handle": "reuni10v",
       "collected_at": "2026-08-10",
       "used_by": {
-        "ハカセ": "2026-08-10"
+        "ハカセ": "2026-08-10",
+        "ヒロ": "2026-08-16"
       },
       "results": {}
     },
@@ -2750,8 +2775,8 @@
       },
       "results": {
         "ヒロ": {
-          "views": 15967,
-          "at": "2026-08-13",
+          "views": 16291,
+          "at": "2026-08-16",
           "sale_48h": true
         }
       }
@@ -3475,7 +3500,12 @@
         "あや": "2026-08-10",
         "miho": "2026-08-13"
       },
-      "results": {}
+      "results": {
+        "あや": {
+          "views": 22,
+          "at": "2026-08-16"
+        }
+      }
     },
     {
       "pool_id": "hp_2a3b270b92",
@@ -3629,7 +3659,12 @@
       "used_by": {
         "りさ": "2026-08-13"
       },
-      "results": {}
+      "results": {
+        "りさ": {
+          "views": 16,
+          "at": "2026-08-16"
+        }
+      }
     },
     {
       "pool_id": "hp_fddb7c8a4f",
@@ -4109,7 +4144,8 @@
       "collected_at": "2026-08-10",
       "used_by": {
         "かれん": "2026-08-15"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_b41a9227e3",
@@ -4207,7 +4243,8 @@
       "collected_at": "2026-08-10",
       "used_by": {
         "かれん": "2026-08-15"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_a4b910fcd0",
@@ -4462,7 +4499,8 @@
       "collected_at": "2026-08-10",
       "used_by": {
         "かれん": "2026-08-15"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_295e88f16b",
@@ -4475,7 +4513,8 @@
       "used_by": {
         "ハカセ": "2026-07-17",
         "ホンネ": "2026-07-26",
-        "みさき": "2026-08-07"
+        "みさき": "2026-08-07",
+        "ヒロ": "2026-08-16"
       },
       "results": {
         "ハカセ": {
@@ -5606,7 +5645,8 @@
       "source_handle": "haru_motokare",
       "collected_at": "2026-07-12",
       "used_by": {
-        "ハクオウ": "2026-07-29"
+        "ハクオウ": "2026-07-29",
+        "うみこ": "2026-08-16"
       },
       "results": {}
     },
@@ -5898,7 +5938,12 @@
       "used_by": {
         "あや": "2026-08-07"
       },
-      "results": {}
+      "results": {
+        "あや": {
+          "views": 18,
+          "at": "2026-08-16"
+        }
+      }
     },
     {
       "pool_id": "hp_46241c0610",
@@ -6586,7 +6631,11 @@
       "likes": 21,
       "source": "https://x.com/hiro_kaihigata/status/2076134507342631363",
       "source_handle": "hiro_kaihigata",
-      "collected_at": "2026-07-31"
+      "collected_at": "2026-07-31",
+      "used_by": {
+        "うみこ": "2026-08-16"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_5d3e15c5ac",
@@ -6870,7 +6919,11 @@
       "likes": 7,
       "source": "https://x.com/hiro_kaihigata/status/2075804821852946722",
       "source_handle": "hiro_kaihigata",
-      "collected_at": "2026-07-31"
+      "collected_at": "2026-07-31",
+      "used_by": {
+        "うみこ": "2026-08-16"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_e824cea7f1",
@@ -7815,7 +7868,11 @@
       "likes": 18,
       "source": "https://x.com/hiro_kaihigata/status/2075794758492901517",
       "source_handle": "hiro_kaihigata",
-      "collected_at": "2026-07-31"
+      "collected_at": "2026-07-31",
+      "used_by": {
+        "うみこ": "2026-08-16"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_099eeb281c",
@@ -8388,7 +8445,8 @@
       "source_handle": "8_ludr7",
       "collected_at": "2026-07-09",
       "used_by": {
-        "うみこ": "2026-07-28"
+        "うみこ": "2026-07-28",
+        "あや": "2026-08-16"
       },
       "results": {}
     },
@@ -8908,7 +8966,8 @@
       "source_handle": "okoteruyo1",
       "collected_at": "2026-07-09",
       "used_by": {
-        "うみこ": "2026-07-28"
+        "うみこ": "2026-07-28",
+        "あや": "2026-08-16"
       },
       "results": {}
     },
@@ -9790,7 +9849,8 @@
       "source_handle": "haru_motokare",
       "collected_at": "2026-07-12",
       "used_by": {
-        "ハカセ": "2026-07-29"
+        "ハカセ": "2026-07-29",
+        "うみこ": "2026-08-16"
       },
       "results": {}
     },
@@ -9965,7 +10025,11 @@
       "likes": 17,
       "source": "https://x.com/hiro_kaihigata/status/2074754115079381403",
       "source_handle": "hiro_kaihigata",
-      "collected_at": "2026-07-31"
+      "collected_at": "2026-07-31",
+      "used_by": {
+        "うみこ": "2026-08-16"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_321be81b92",
@@ -10467,7 +10531,8 @@
       "source_handle": "okoteruyo1",
       "collected_at": "2026-07-09",
       "used_by": {
-        "みき": "2026-07-29"
+        "みき": "2026-07-29",
+        "あや": "2026-08-16"
       },
       "results": {}
     },
@@ -10500,5 +10565,5 @@
       "collected_at": "2026-08-01"
     }
   ],
-  "updated_at": "2026-08-15T09:14:06.724283+09:00"
+  "updated_at": "2026-08-16T10:34:38.236477+09:00"
 }
