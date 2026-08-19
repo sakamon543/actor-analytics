@@ -2014,6 +2014,11 @@
           "scheduled_at": "2026-08-04T19:52:00+09:00",
           "registered_at": "2026-08-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-21T21:47:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
         }
       ]
     },
@@ -5222,7 +5227,8 @@
         {
           "scheduled_at": "2026-08-19T16:33:00+09:00",
           "registered_at": "2026-08-16",
-          "views": null
+          "views": 76368,
+          "posted_at": "2026-08-14T10:56:33.625+00:00"
         }
       ]
     },
@@ -5414,6 +5420,102 @@
         {
           "scheduled_at": "2026-08-19T19:52:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fd49e3c8a3": {
+      "text": "男は「泣かせてしまった相手」ほど忘れられなくなる生き物です。男って自分が傷つけた記憶が一番深く残るんですよ。楽しかった思い出より『あのとき泣かせてしまった顔』の方がずっと鮮明に焼きついてる。特に回避型はこの傾向が強くて、好きな人を",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-20T16:33:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f3f13adf85": {
+      "text": "『一途な彼女を振った男』は絶対に地獄を見るのよ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-20T19:52:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c1b02f5ec9": {
+      "text": "追わなくなった女が一番強い。ほんとにこれ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-20T21:47:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8ce7ca01f0": {
+      "text": "復縁したカップルで一番長続きしてるパターンって決まって「男が頭下げて戻ってきた」やつです。逆はだいたい3ヶ月もたないんですよね。これには明確な理由があって、男って自分から追いかけて手に入れたものほど大事にする生き物なんですよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-21T11:08:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8f83a7e1cc": {
+      "text": "これめっちゃ男あるあるなんだけど、自分から振って「やっぱ別れなきゃよかった」って思ってる男マジで多いよ。別れた直後は「これが正しい」って言い聞かせてるけど、1〜2ヶ月経つと嫌だった記憶が薄れて『あの子といた時間、良かったな』って気持ちだけが残るんですよ。男って嫌な記憶を忘れるのが",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-21T19:52:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_702b89618b": {
+      "text": "男が『復縁したい』って思う女性は、\n①既読無視してもまた普通にLINEしてくる",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-22T11:08:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8ce3949d31": {
+      "text": "マジでこれ間違いなさすぎる。女性が思ってることと回避男が思ってることって全然違うんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-22T16:33:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_831f865d2c": {
+      "text": "回避型の男ほど、元カノを引きずり続ける男はいないのよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-22T19:52:00+09:00",
+          "registered_at": "2026-08-19",
           "views": null
         }
       ]

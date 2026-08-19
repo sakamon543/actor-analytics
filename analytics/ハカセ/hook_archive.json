@@ -631,6 +631,11 @@
           "scheduled_at": "2026-08-12T22:17:00+09:00",
           "registered_at": "2026-08-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-21T14:42:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
         }
       ]
     },
@@ -967,6 +972,11 @@
           "scheduled_at": "2026-08-18T14:42:00+09:00",
           "registered_at": "2026-08-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-20T21:47:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
         }
       ]
     },
@@ -1046,6 +1056,11 @@
         {
           "scheduled_at": "2026-08-16T14:42:00+09:00",
           "registered_at": "2026-08-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-21T21:47:00+09:00",
+          "registered_at": "2026-08-19",
           "views": null
         }
       ]
@@ -1427,6 +1442,11 @@
         {
           "scheduled_at": "2026-08-13T19:52:00+09:00",
           "registered_at": "2026-08-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-22T14:42:00+09:00",
+          "registered_at": "2026-08-19",
           "views": null
         }
       ]
@@ -3138,6 +3158,11 @@
           "scheduled_at": "2026-08-17T19:52:00+09:00",
           "registered_at": "2026-08-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-20T16:33:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
         }
       ]
     },
@@ -4319,7 +4344,8 @@
         {
           "scheduled_at": "2026-08-14T18:03:00+09:00",
           "registered_at": "2026-08-13",
-          "views": null
+          "views": 3,
+          "posted_at": "2026-08-14T09:13:16.849+00:00"
         }
       ]
     },
@@ -4562,6 +4588,11 @@
           "scheduled_at": "2026-08-19T14:42:00+09:00",
           "registered_at": "2026-08-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-22T16:33:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
         }
       ]
     },
@@ -4585,6 +4616,78 @@
         {
           "scheduled_at": "2026-08-19T19:52:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f91ca64e9e": {
+      "text": "結局、男はこういう女性に何度でも惚れ直すし『ど本命』に選ぶんだよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-20T14:42:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_265a77fe1d": {
+      "text": "元カノに未練たらたらになる男みんなこれすぎる当てはまる人は復縁成功率ほんとに高いと思う。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-20T19:52:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e147bc3045": {
+      "text": "回避型ってベタ惚れするほど「俺には幸せにできない」とか言い出すんだよ",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-21T11:08:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d2ca540a8a": {
+      "text": "男は『ど本命だった元カノ』を手放したときほど未練を引きずるし、忘れられなくなるんだよ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-21T19:52:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_835043cbba": {
+      "text": "男の別れ際の『もう無理』は、嫌いになった証拠じゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-22T11:08:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c3843a1967": {
+      "text": "「彼を変えれば復縁できる」って思想、俺が元彼に聞いてきた限り完全に逆なんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-22T19:52:00+09:00",
+          "registered_at": "2026-08-19",
           "views": null
         }
       ]

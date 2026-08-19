@@ -162,6 +162,11 @@
           "scheduled_at": "2026-08-17T14:42:00+09:00",
           "registered_at": "2026-08-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-20T14:42:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
         }
       ]
     },
@@ -382,6 +387,11 @@
           "scheduled_at": "2026-08-17T21:47:00+09:00",
           "registered_at": "2026-08-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-21T14:42:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
         }
       ]
     },
@@ -430,6 +440,11 @@
         {
           "scheduled_at": "2026-08-19T16:33:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-20T21:47:00+09:00",
+          "registered_at": "2026-08-19",
           "views": null
         }
       ]
@@ -832,6 +847,16 @@
           "scheduled_at": "2026-08-18T11:08:00+09:00",
           "registered_at": "2026-08-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-20T19:52:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-22T16:33:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
         }
       ]
     },
@@ -1026,6 +1051,16 @@
         {
           "scheduled_at": "2026-08-17T19:52:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-20T16:33:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-22T11:08:00+09:00",
+          "registered_at": "2026-08-19",
           "views": null
         }
       ]
@@ -1233,6 +1268,11 @@
           "scheduled_at": "2026-08-18T14:42:00+09:00",
           "registered_at": "2026-08-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-21T11:08:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
         }
       ]
     },
@@ -1341,7 +1381,7 @@
         {
           "scheduled_at": "2026-08-14T18:03:00+09:00",
           "registered_at": "2026-08-13",
-          "views": 16,
+          "views": 21,
           "posted_at": "2026-08-14T09:14:16.309+00:00"
         }
       ]
@@ -1534,6 +1574,54 @@
         {
           "scheduled_at": "2026-08-19T19:52:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a17ed0fe52": {
+      "text": "年下男子は、「なんでも聞いてくれる年上」を恋愛対象だとは思っていない",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-21T19:52:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fae6d7bf1b": {
+      "text": "年下男子が「この人から離れられない」と沼る年上には、はっきりした共通点があるんです。若さでも、美貌でも、包容力でもありません。それは、彼の前で強がらないこと。今まさに、しんどい日なのに『平気だよ』って打ち直してるあなたに言いたいんです。その強がり、彼には壁に見えてます。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-21T21:47:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e1fa2c633d": {
+      "text": "年下男子が年上を諦めるとき『年の差がきつい』より圧倒的に多いのが『この人には俺、必要ないな』です",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-22T14:42:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b4e3804133": {
+      "text": "年下に本命にされない理由って、『年齢』とか『若い子に勝てないから』みたいな理由じゃないんです",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-22T19:52:00+09:00",
+          "registered_at": "2026-08-19",
           "views": null
         }
       ]

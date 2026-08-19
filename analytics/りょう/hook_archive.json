@@ -146,6 +146,11 @@
           "scheduled_at": "2026-08-17T16:33:00+09:00",
           "registered_at": "2026-08-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-20T16:33:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
         }
       ]
     },
@@ -674,6 +679,11 @@
           "scheduled_at": "2026-08-18T19:52:00+09:00",
           "registered_at": "2026-08-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-22T14:42:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
         }
       ]
     },
@@ -735,6 +745,11 @@
         {
           "scheduled_at": "2026-08-17T14:42:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-20T14:42:00+09:00",
+          "registered_at": "2026-08-19",
           "views": null
         }
       ]
@@ -863,6 +878,11 @@
         {
           "scheduled_at": "2026-08-17T19:52:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-21T19:52:00+09:00",
+          "registered_at": "2026-08-19",
           "views": null
         }
       ]
@@ -1129,6 +1149,11 @@
           "scheduled_at": "2026-08-18T14:42:00+09:00",
           "registered_at": "2026-08-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-21T21:47:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
         }
       ]
     },
@@ -1356,7 +1381,8 @@
         {
           "scheduled_at": "2026-08-14T19:52:00+09:00",
           "registered_at": "2026-08-13",
-          "views": null
+          "views": 1,
+          "posted_at": "2026-08-14T10:58:56.497+00:00"
         }
       ]
     },
@@ -1440,7 +1466,8 @@
         {
           "scheduled_at": "2026-08-15T21:03:00+09:00",
           "registered_at": "2026-08-13",
-          "views": null
+          "views": 13,
+          "posted_at": "2026-08-15T12:09:55.584+00:00"
         }
       ]
     },
@@ -1560,6 +1587,90 @@
         {
           "scheduled_at": "2026-08-19T19:52:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9c775768a2": {
+      "text": "「また会おうね」と言った日の夜に、もう会わないと決めていました。\n\n一度や二度じゃありません。嘘をつくつもりもありませんでした。その場では本当に楽しかったんです。\n\nそれでも、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-20T19:52:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8dbf1a3aa2": {
+      "text": "男の「また会おうね」は、また会いたいサインじゃない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-20T21:47:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9d0d3ced16": {
+      "text": "男は、あなただけを見ていません。\n\n俺は常に3人から5人と並行して会っていました。そして全員に「今日楽しかった、また会おうね」と言っていました。嘘じゃありません。楽しかったんです。\n\nそれでも、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-21T11:08:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b74053613d": {
+      "text": "男は、あなただけを見ていません。俺は同時に3人〜5人と会っていて、会った全員に『また会おうね』と送ってました。嘘じゃないです、その日は本当に楽しかった。それでも帰りの電車で、『この子はもう無い』って線を引いてる子は必ずいました。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-21T14:42:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cde237e85e": {
+      "text": "男は、「2回目に誘われた＝脈あり」とは思っていない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-22T11:08:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8e882e4be1": {
+      "text": "「また会おうね」と送った日の夜に、もう会わないと決めていました。\n\n一度や二度じゃないです。嘘をつくつもりもなかった。その日は本当に楽しかったんです。\n\nそれでも、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-22T16:33:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_53b9073375": {
+      "text": "マチアプ3年で100人以上会って、そのほとんどを俺から切ってきました。今思うと最低だと思います。ただ切った側だから分かることがあって、消される子には共通点があるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-22T19:52:00+09:00",
+          "registered_at": "2026-08-19",
           "views": null
         }
       ]

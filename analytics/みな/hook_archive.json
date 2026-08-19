@@ -487,6 +487,11 @@
           "scheduled_at": "2026-08-17T19:52:00+09:00",
           "registered_at": "2026-08-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-20T21:47:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
         }
       ]
     },
@@ -518,6 +523,11 @@
         {
           "scheduled_at": "2026-08-17T16:33:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-20T16:33:00+09:00",
+          "registered_at": "2026-08-19",
           "views": null
         }
       ]
@@ -572,6 +582,11 @@
         {
           "scheduled_at": "2026-08-18T19:52:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-22T19:52:00+09:00",
+          "registered_at": "2026-08-19",
           "views": null
         }
       ]
@@ -1604,6 +1619,114 @@
         {
           "scheduled_at": "2026-08-19T19:52:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ad9140965d": {
+      "text": "『マッチングアプリは数を打て』は嘘です。数を追いかけて2年で47人会って0人だった私が、5人に絞った3ヶ月で結婚しました。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-20T14:42:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3f0767872d": {
+      "text": "2回目に誘われる人と、誘われない人の差は、可愛さでもプロフの写真でもありません。『この子、ちゃんとこっち見てるな』と思われたかどうかだけです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-20T19:52:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d6919cbc6c": {
+      "text": "マッチングアプリで一番時間を溶かすのは、ダラダラ保留している時間です。切りもしない、進めもしない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-21T11:08:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_17e1af84a7": {
+      "text": "男性は、『会う回数が増えている＝気持ちが進んでいる』とは思っていない。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-21T14:42:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1fb780113a": {
+      "text": "『マッチングアプリは数を打て』は嘘です。私、真面目にそれ守って2年で47人と会って0人でした。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-21T19:52:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_32bf4476d0": {
+      "text": "婚活して分かったんだけど、『土日が全部デートで埋まった人から決まらなくなる』って話は本当。",
+      "structure_label": "経験者断言型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-21T21:47:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6d82610eae": {
+      "text": "マッチングアプリで一番人生を溶かすのは、切りきれない人と月1で会い続ける時間です。進めるでも切るでもない、ただ抱えてる時間。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-22T11:08:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_59e3668003": {
+      "text": "マッチングアプリで決まらない理由って『可愛くないから』とか『年齢が上だから』みたいな理由じゃないの。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-22T14:42:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dc49c24afc": {
+      "text": "男の本音を言うと、『結婚したい』と何度も言われるほど、この人は俺じゃなくてもいいんだなと思う。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-22T16:33:00+09:00",
+          "registered_at": "2026-08-19",
           "views": null
         }
       ]

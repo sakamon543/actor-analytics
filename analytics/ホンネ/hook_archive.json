@@ -578,6 +578,11 @@
           "scheduled_at": "2026-08-19T19:52:00+09:00",
           "registered_at": "2026-08-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-20T16:33:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
         }
       ]
     },
@@ -757,6 +762,11 @@
         {
           "scheduled_at": "2026-08-17T19:52:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-22T11:08:00+09:00",
+          "registered_at": "2026-08-19",
           "views": null
         }
       ]
@@ -1279,6 +1289,11 @@
           "scheduled_at": "2026-08-19T14:42:00+09:00",
           "registered_at": "2026-08-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-21T21:47:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
         }
       ]
     },
@@ -1400,6 +1415,11 @@
         {
           "scheduled_at": "2026-08-18T11:08:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-21T11:08:00+09:00",
+          "registered_at": "2026-08-19",
           "views": null
         }
       ]
@@ -1679,6 +1699,11 @@
         {
           "scheduled_at": "2026-08-19T11:08:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-20T21:47:00+09:00",
+          "registered_at": "2026-08-19",
           "views": null
         }
       ]
@@ -2687,6 +2712,11 @@
         {
           "scheduled_at": "2026-08-18T19:52:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-20T19:52:00+09:00",
+          "registered_at": "2026-08-19",
           "views": null
         }
       ]
@@ -4386,7 +4416,8 @@
         {
           "scheduled_at": "2026-08-13T19:52:00+09:00",
           "registered_at": "2026-08-10",
-          "views": null
+          "views": 6,
+          "posted_at": "2026-08-13T10:55:53.828+00:00"
         }
       ]
     },
@@ -4602,6 +4633,42 @@
         {
           "scheduled_at": "2026-08-19T16:33:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5325a7e27f": {
+      "text": "彼が既読つけない時に追いLINEを送るのは、男目線だと完全に逃がす動きになるんだよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-21T19:52:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_571d379273": {
+      "text": "実は、年下の男性ほど職場の年上の女性に本気になる確率がめちゃくちゃ高い。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-22T16:33:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f076da7ba9": {
+      "text": "男の本音を言うと、丁寧な年上の女性は恋愛対象に入らない。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-22T19:52:00+09:00",
+          "registered_at": "2026-08-19",
           "views": null
         }
       ]

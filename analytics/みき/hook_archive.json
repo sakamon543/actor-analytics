@@ -1779,6 +1779,143 @@
           "views": null
         }
       ]
+    },
+    "fookid_d1a34dc1a0": {
+      "text": "「彼氏いないんですか？」って後輩に聞かれて「いないですよー」で流してない？",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-20T14:42:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-22T14:42:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2c0ff9b784": {
+      "text": "後輩の「彼氏いないんですか？」は雑談じゃなくて、最後の確認です",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-20T16:33:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cdae00d053": {
+      "text": "職場の飲み会は大チャンスですけど、頑張って隣に座って話しかけ続けるのは逆効果です",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-20T19:52:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2fbdb38698": {
+      "text": "年下の後輩が動けないとき「年上だから」より圧倒的に多いのが『どうせ相手にされない』です",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-20T21:47:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_72e2676571": {
+      "text": "職場恋愛を隠して付き合ってる人は83.7%。バレる前提で怖がる必要はありません",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-21T11:08:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_92ed980788": {
+      "text": "恋愛は動いた方が勝ち、って思ってませんか。年下の後輩相手だと、実は「動きすぎない」方がうまくいくんですよね",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-21T14:42:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ed1de63b7e": {
+      "text": "年下男性が年上に求めてるのは、若さじゃなくて安心感です",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-21T19:52:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d1bc64be85": {
+      "text": "飲み会で彼の隣を確保して二時間話し続けるのは、いちばんやってはいけない行動です",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-21T21:47:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_baf2569811": {
+      "text": "年下の後輩は、「先輩」って呼んでる相手を女として見てないわけじゃありません",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-22T11:08:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9a36c290f5": {
+      "text": "年下の男が年上に惹かれるのは、若く見えることじゃなくて一緒にいて肩の力が抜けることです",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-22T16:33:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_03f4085206": {
+      "text": "好きな人ほど自分から誘うべき、って思ってませんか。年下後輩相手だと、実は「自分から誘わない」方がうまくいくんですよね",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-19",
+      "history": [
+        {
+          "scheduled_at": "2026-08-22T19:52:00+09:00",
+          "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
     }
   }
 }

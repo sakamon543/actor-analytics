@@ -177,8 +177,8 @@
       "first_seen_views": 5271,
       "first_seen_at": "2026-07-02T02:13:06.253+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-07-17T12:08:48.541324+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-08-19T09:15:46.048841+09:00",
       "sales_followed": true
     },
     "rcyc_b90e42c741": {
@@ -231,8 +231,8 @@
       "first_seen_views": 5046,
       "first_seen_at": "2026-07-13T10:21:26.659+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-07-17T12:08:48.541324+09:00"
+      "used_count": 2,
+      "last_used_at": "2026-08-19T09:15:46.048841+09:00"
     },
     "rcyc_870e874c39": {
       "recycle_id": "rcyc_870e874c39",
@@ -243,8 +243,8 @@
       "first_seen_views": 15174,
       "first_seen_at": "2026-07-16T13:21:01.027+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-07-17T12:08:48.541324+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-08-19T09:15:46.048841+09:00",
       "sales_followed": true
     },
     "rcyc_0cdd799ab7": {
@@ -294,5 +294,5 @@
       "sales_followed": true
     }
   },
-  "updated_at": "2026-08-16T09:10:16.521357+09:00"
+  "updated_at": "2026-08-19T09:15:46.048841+09:00"
 }
