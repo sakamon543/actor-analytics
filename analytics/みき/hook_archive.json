@@ -236,6 +236,16 @@
           "scheduled_at": "2026-08-14T18:03:00+09:00",
           "registered_at": "2026-08-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-23T19:52:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-25T11:08:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
         }
       ]
     },
@@ -263,6 +273,11 @@
         {
           "scheduled_at": "2026-08-15T18:03:00+09:00",
           "registered_at": "2026-08-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-24T11:08:00+09:00",
+          "registered_at": "2026-08-22",
           "views": null
         }
       ]
@@ -301,6 +316,11 @@
         {
           "scheduled_at": "2026-08-14T22:17:00+09:00",
           "registered_at": "2026-08-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-23T21:47:00+09:00",
+          "registered_at": "2026-08-22",
           "views": null
         }
       ]
@@ -348,6 +368,11 @@
         {
           "scheduled_at": "2026-08-15T21:03:00+09:00",
           "registered_at": "2026-08-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-24T19:52:00+09:00",
+          "registered_at": "2026-08-22",
           "views": null
         }
       ]
@@ -634,6 +659,11 @@
         {
           "scheduled_at": "2026-08-14T13:17:00+09:00",
           "registered_at": "2026-08-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-23T16:33:00+09:00",
+          "registered_at": "2026-08-22",
           "views": null
         }
       ]
@@ -1913,6 +1943,54 @@
         {
           "scheduled_at": "2026-08-22T19:52:00+09:00",
           "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8d1d3fba54": {
+      "text": "「彼氏いないんですか？」って後輩に聞かれて「いないですよー」で流してない？私、これ5回連続でやって、危うく全部終わらせかけた側。あれ探りじゃなくて、「先輩って俺のこと男として見てないですよね？」って向こうが最後の確認しに来てるやつです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-22",
+      "history": [
+        {
+          "scheduled_at": "2026-08-24T21:47:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ebe91e042a": {
+      "text": "年下男性が年上に求めてるのは、若さじゃなくて安心感です。一緒にいて肩の力が抜ける、それだけで十分に強い武器です。若く見せようとする努力は、その武器を自分の手で消してしまう行為です🌷",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-22",
+      "history": [
+        {
+          "scheduled_at": "2026-08-25T14:42:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_174350859a": {
+      "text": "年下後輩のきっちりした敬語は、距離を置かれてるサインじゃないです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-22",
+      "history": [
+        {
+          "scheduled_at": "2026-08-25T16:33:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_35a8f5bba5": {
+      "text": "年下の後輩が急によそよそしくなるとき、「嫌われた」より圧倒的に多いのが『意識してるのがバレそう』です。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-22",
+      "history": [
+        {
+          "scheduled_at": "2026-08-25T19:52:00+09:00",
+          "registered_at": "2026-08-22",
           "views": null
         }
       ]

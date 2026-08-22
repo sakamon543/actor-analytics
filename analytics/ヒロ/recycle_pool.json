@@ -8,8 +8,8 @@
       "first_seen_views": 3806,
       "first_seen_at": "2026-06-05T03:06:31.185+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-07-22T20:22:16.040858+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-08-22T09:24:22.260960+09:00",
       "sales_followed": true
     },
     "rcyc_0e982f33c7": {
@@ -39,8 +39,8 @@
       "first_seen_views": 8856,
       "first_seen_at": "2026-06-09T12:06:44.556+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-07-22T20:22:16.040858+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-08-22T09:24:22.260960+09:00",
       "sales_followed": true
     },
     "rcyc_23ab162c59": {
@@ -70,8 +70,8 @@
       "first_seen_views": 2123,
       "first_seen_at": "2026-07-16T13:38:18.401+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-07-22T20:22:16.040858+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-08-22T09:24:22.260960+09:00",
       "sales_followed": true
     },
     "rcyc_68aaa9130f": {
@@ -194,13 +194,24 @@
       "thread": [
         "僕と同じで自分から別れを切り出した友達が、半年後に言ってたんです。\n『戻りたいとは思ってない。ただ、あいつが完全にいなくなるとは思ってなかった』\n\nこれ、ほぼそのまま僕が思ってたことでした。僕も6歳年上の彼女に自分から別れを言って、その判断を後悔はしてなかった。なのに4ヶ月目に自分から連絡したのは、彼女が完全には消えてなかったからなんですよね。たまにストーリーが上がる、それだけで『まだ間に合うかも』って勝手に思ってた。\n\n逆に、別れたあと毎日LINEが来た子のことは『重いな』で終わって、それ以降ふと思い出すこともなかったです。ここが分かれ目でした。\n\n追わない、でも消えない。この距離の取り方と、彼の中に自分を残す近況の出し方、プロフのnoteに書いてる\n↓"
       ],
-      "first_seen_views": 9256,
+      "first_seen_views": 9276,
       "first_seen_at": "2026-08-17T12:52:21.525+00:00",
       "status": "used",
       "used_count": 1,
       "last_used_at": "2026-08-19T09:24:57.192801+09:00",
       "sales_followed": false
+    },
+    "rcyc_e384ad7e30": {
+      "recycle_id": "rcyc_e384ad7e30",
+      "text": "追わないより、消えない方が100倍効きます。元回避型の僕が言うんだから間違いないです。",
+      "thread": [],
+      "first_seen_views": 6213,
+      "first_seen_at": "2026-08-17T02:12:55.805+00:00",
+      "status": "ready",
+      "used_count": 0,
+      "last_used_at": null,
+      "sales_followed": false
     }
   },
-  "updated_at": "2026-08-19T09:24:57.192801+09:00"
+  "updated_at": "2026-08-22T09:24:22.260960+09:00"
 }

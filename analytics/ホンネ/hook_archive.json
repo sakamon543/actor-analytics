@@ -228,6 +228,11 @@
           "scheduled_at": "2026-07-25T21:03:00+09:00",
           "registered_at": "2026-07-23",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-24T19:52:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
         }
       ]
     },
@@ -582,6 +587,11 @@
         {
           "scheduled_at": "2026-08-20T16:33:00+09:00",
           "registered_at": "2026-08-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-23T16:33:00+09:00",
+          "registered_at": "2026-08-22",
           "views": null
         }
       ]
@@ -1294,6 +1304,11 @@
           "scheduled_at": "2026-08-21T21:47:00+09:00",
           "registered_at": "2026-08-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-24T21:47:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
         }
       ]
     },
@@ -1420,6 +1435,11 @@
         {
           "scheduled_at": "2026-08-21T11:08:00+09:00",
           "registered_at": "2026-08-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-24T11:08:00+09:00",
+          "registered_at": "2026-08-22",
           "views": null
         }
       ]
@@ -1704,6 +1724,11 @@
         {
           "scheduled_at": "2026-08-20T21:47:00+09:00",
           "registered_at": "2026-08-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-23T21:47:00+09:00",
+          "registered_at": "2026-08-22",
           "views": null
         }
       ]
@@ -2717,6 +2742,11 @@
         {
           "scheduled_at": "2026-08-20T19:52:00+09:00",
           "registered_at": "2026-08-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-23T19:52:00+09:00",
+          "registered_at": "2026-08-22",
           "views": null
         }
       ]
@@ -4669,6 +4699,54 @@
         {
           "scheduled_at": "2026-08-22T19:52:00+09:00",
           "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_09c624c259": {
+      "text": "実は、職場の年下の男ほど年上の女性に本気になる確率がめちゃくちゃ高い。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-22",
+      "history": [
+        {
+          "scheduled_at": "2026-08-25T11:08:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ae3ce86dbb": {
+      "text": "男の返事が短いのは、年上女性に脈なしサインじゃない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-22",
+      "history": [
+        {
+          "scheduled_at": "2026-08-25T14:42:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_34a83f952b": {
+      "text": "男って自分から話しかけない相手でも『今日いるかな』って毎朝探してる",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-22",
+      "history": [
+        {
+          "scheduled_at": "2026-08-25T16:33:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_16c809597a": {
+      "text": "男性って意識してる年上の人ほど雑に扱うからね",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-22",
+      "history": [
+        {
+          "scheduled_at": "2026-08-25T19:52:00+09:00",
+          "registered_at": "2026-08-22",
           "views": null
         }
       ]

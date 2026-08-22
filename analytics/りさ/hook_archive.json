@@ -167,6 +167,11 @@
           "scheduled_at": "2026-08-20T14:42:00+09:00",
           "registered_at": "2026-08-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-23T16:33:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
         }
       ]
     },
@@ -392,6 +397,11 @@
           "scheduled_at": "2026-08-21T14:42:00+09:00",
           "registered_at": "2026-08-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-24T21:47:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
         }
       ]
     },
@@ -445,6 +455,11 @@
         {
           "scheduled_at": "2026-08-20T21:47:00+09:00",
           "registered_at": "2026-08-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-24T11:08:00+09:00",
+          "registered_at": "2026-08-22",
           "views": null
         }
       ]
@@ -857,6 +872,11 @@
           "scheduled_at": "2026-08-22T16:33:00+09:00",
           "registered_at": "2026-08-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-24T19:52:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
         }
       ]
     },
@@ -1061,6 +1081,11 @@
         {
           "scheduled_at": "2026-08-22T11:08:00+09:00",
           "registered_at": "2026-08-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-23T19:52:00+09:00",
+          "registered_at": "2026-08-22",
           "views": null
         }
       ]
@@ -1272,6 +1297,11 @@
         {
           "scheduled_at": "2026-08-21T11:08:00+09:00",
           "registered_at": "2026-08-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-25T11:08:00+09:00",
+          "registered_at": "2026-08-22",
           "views": null
         }
       ]
@@ -1622,6 +1652,54 @@
         {
           "scheduled_at": "2026-08-22T19:52:00+09:00",
           "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_652b9b34cc": {
+      "text": "年下男子の雑な態度は、あなたを軽く見てるサインじゃない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-22",
+      "history": [
+        {
+          "scheduled_at": "2026-08-23T21:47:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e1d538298f": {
+      "text": "年下男子は、「気が合う年上」を恋愛対象には数えていない",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-22",
+      "history": [
+        {
+          "scheduled_at": "2026-08-25T14:42:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d85a128c86": {
+      "text": "年下男子は、「いい人」から簡単に恋愛には切り替えられない",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-22",
+      "history": [
+        {
+          "scheduled_at": "2026-08-25T16:33:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_210ea08021": {
+      "text": "年下男子が年上を諦めるとき、『年の差』より圧倒的に多い理由が『隙がなかった』なんです",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-22",
+      "history": [
+        {
+          "scheduled_at": "2026-08-25T19:52:00+09:00",
+          "registered_at": "2026-08-22",
           "views": null
         }
       ]

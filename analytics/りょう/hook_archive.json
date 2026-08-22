@@ -87,6 +87,16 @@
           "scheduled_at": "2026-08-19T11:08:00+09:00",
           "registered_at": "2026-08-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-23T16:33:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-25T16:33:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
         }
       ]
     },
@@ -150,6 +160,11 @@
         {
           "scheduled_at": "2026-08-20T16:33:00+09:00",
           "registered_at": "2026-08-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-23T19:52:00+09:00",
+          "registered_at": "2026-08-22",
           "views": null
         }
       ]
@@ -239,6 +254,11 @@
         {
           "scheduled_at": "2026-08-18T11:08:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-23T21:47:00+09:00",
+          "registered_at": "2026-08-22",
           "views": null
         }
       ]
@@ -1154,6 +1174,11 @@
           "scheduled_at": "2026-08-21T21:47:00+09:00",
           "registered_at": "2026-08-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-24T11:08:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
         }
       ]
     },
@@ -1648,6 +1673,11 @@
           "scheduled_at": "2026-08-22T11:08:00+09:00",
           "registered_at": "2026-08-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-24T19:52:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
         }
       ]
     },
@@ -1671,6 +1701,54 @@
         {
           "scheduled_at": "2026-08-22T19:52:00+09:00",
           "registered_at": "2026-08-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f5a188e465": {
+      "text": "マチアプ3年、100人以上会って、そのほとんどを俺から切ってきた。",
+      "structure_label": "経験者暴露型",
+      "first_used_at": "2026-08-22",
+      "history": [
+        {
+          "scheduled_at": "2026-08-24T21:47:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f692df609a": {
+      "text": "男の「また会おうね」は、次を約束する言葉じゃない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-22",
+      "history": [
+        {
+          "scheduled_at": "2026-08-25T11:08:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0d76851da4": {
+      "text": "「今日楽しかった」と送った日の夜に、もう会わないと決めていました。",
+      "structure_label": "セリフ暴露型",
+      "first_used_at": "2026-08-22",
+      "history": [
+        {
+          "scheduled_at": "2026-08-25T14:42:00+09:00",
+          "registered_at": "2026-08-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d8647b2108": {
+      "text": "「私の何がダメだったの」の答えは、たいてい「どこもダメじゃなかった」です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-22",
+      "history": [
+        {
+          "scheduled_at": "2026-08-25T19:52:00+09:00",
+          "registered_at": "2026-08-22",
           "views": null
         }
       ]
