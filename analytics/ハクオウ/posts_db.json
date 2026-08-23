@@ -2335,10 +2335,16 @@
       "period_days": 7,
       "total_posts": 22,
       "avg_impressions": 14
+    },
+    {
+      "fetched_at": "2026-08-23T09:00:05+09:00",
+      "period_days": 7,
+      "total_posts": 18,
+      "avg_impressions": 14
     }
   ],
   "latest_summary": {
-    "fetched_at": "2026-08-22T09:00:06+09:00",
+    "fetched_at": "2026-08-23T09:00:05+09:00",
     "time_analysis": {
       "best_hours": [
         12,
@@ -2355,28 +2361,28 @@
           "avg_views": 16
         },
         "13": {
-          "count": 5,
-          "avg_views": 11
+          "count": 4,
+          "avg_views": 12
         },
         "18": {
-          "count": 5,
+          "count": 4,
           "avg_views": 15
         },
         "20": {
-          "count": 6,
+          "count": 5,
           "avg_views": 16
         },
         "22": {
-          "count": 5,
+          "count": 4,
           "avg_views": 14
         }
       }
     },
     "type_analysis": {
-      "normal_count": 21,
+      "normal_count": 18,
       "normal_avg_views": 14,
-      "thread_count": 1,
-      "thread_avg_views": 11,
+      "thread_count": 0,
+      "thread_avg_views": 0,
       "winner": "normal"
     },
     "hooks_analysis": {
@@ -2391,6 +2397,6 @@
         "別れを告げられた夜、"
       ]
     },
-    "ai_summary": "直近7日間で22本のポストが分析されました。投稿形式は通常ポスト（normal）の方が連投型（thread）よりも平均インプが約1.3倍高く、単発での訴求がウケています。投稿時間帯としては 12時台, 20時台, 18時台が特にパフォーマンスが高く狙い目です。逆に 13時台, 22時台の反応は比較的鈍いため避けるのが無難です。"
+    "ai_summary": "直近7日間で18本のポストが分析されました。投稿時間帯としては 12時台, 20時台, 18時台が特にパフォーマンスが高く狙い目です。逆に 13時台, 22時台の反応は比較的鈍いため避けるのが無難です。"
   }
 }
