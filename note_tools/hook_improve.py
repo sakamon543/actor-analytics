@@ -1059,8 +1059,10 @@ def run_recycle_only(actor, analytics_dir, posts_db, start_date):
     recycle_pool, pool_path, promoted = promote_recycle_pool(actor, posts_db, analytics_dir)
     n_avail = len(recycle_pool.get("items", {}))
 
-    # 時刻は朝・昼・夜に散らす（SCHEDULE_TEMPLATE の位置 1,3,6,8 を使用）
-    idxs = [1, 3, 6, 8][:RECYCLE_ONLY_PER_DAY]
+    # 時刻は朝・昼・夜に散らす。2026-08-23修正: 旧10枠時代の位置[1,3,6,8]のままだと
+    # 5枠化（2026-08-15）後にIndexErrorで落ちる（ハクオウのサイクルが8/16〜8/23止まっていた実事故）
+    idxs = [0, 1, 3, 4][:RECYCLE_ONLY_PER_DAY]
+    idxs = [i for i in idxs if i < len(SCHEDULE_TEMPLATE)] or [0]
     slots = []
     for d in range(3):
         day = start_date + timedelta(days=d)
