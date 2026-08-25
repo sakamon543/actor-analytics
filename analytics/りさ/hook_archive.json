@@ -172,6 +172,11 @@
           "scheduled_at": "2026-08-23T16:33:00+09:00",
           "registered_at": "2026-08-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-26T16:33:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
         }
       ]
     },
@@ -402,6 +407,11 @@
           "scheduled_at": "2026-08-24T21:47:00+09:00",
           "registered_at": "2026-08-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-27T19:52:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
         }
       ]
     },
@@ -460,6 +470,11 @@
         {
           "scheduled_at": "2026-08-24T11:08:00+09:00",
           "registered_at": "2026-08-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-26T19:52:00+09:00",
+          "registered_at": "2026-08-25",
           "views": null
         }
       ]
@@ -877,6 +892,11 @@
           "scheduled_at": "2026-08-24T19:52:00+09:00",
           "registered_at": "2026-08-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-26T21:47:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
         }
       ]
     },
@@ -1086,6 +1106,11 @@
         {
           "scheduled_at": "2026-08-23T19:52:00+09:00",
           "registered_at": "2026-08-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-27T11:08:00+09:00",
+          "registered_at": "2026-08-25",
           "views": null
         }
       ]
@@ -1302,6 +1327,11 @@
         {
           "scheduled_at": "2026-08-25T11:08:00+09:00",
           "registered_at": "2026-08-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-27T21:47:00+09:00",
+          "registered_at": "2026-08-25",
           "views": null
         }
       ]
@@ -1580,7 +1610,8 @@
         {
           "scheduled_at": "2026-08-19T11:08:00+09:00",
           "registered_at": "2026-08-16",
-          "views": null
+          "views": 6133,
+          "posted_at": "2026-08-19T02:15:19.345+00:00"
         }
       ]
     },
@@ -1700,6 +1731,54 @@
         {
           "scheduled_at": "2026-08-25T19:52:00+09:00",
           "registered_at": "2026-08-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9b238d9ba8": {
+      "text": "年下男子は、「しっかりした年上＝恋愛対象」とは思っていない",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-28T11:08:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a93a48b767": {
+      "text": "年下男子は、「相談相手」から簡単に恋愛には切り替えられない",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-28T14:42:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c452f2b382": {
+      "text": "年下男子の急に雑になる態度は、脈なしのサインじゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-28T16:33:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_07b264de11": {
+      "text": "年下男子が年上から離れるとき「年齢差」より圧倒的に多いのが『俺なんて必要ないな』",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-28T19:52:00+09:00",
+          "registered_at": "2026-08-25",
           "views": null
         }
       ]

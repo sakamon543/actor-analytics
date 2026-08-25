@@ -642,6 +642,11 @@
           "scheduled_at": "2026-07-30T13:17:00+09:00",
           "registered_at": "2026-07-29",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-28T14:42:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
         }
       ]
     },
@@ -690,6 +695,11 @@
           "scheduled_at": "2026-07-30T20:28:00+09:00",
           "registered_at": "2026-07-29",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-27T11:08:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
         }
       ]
     },
@@ -737,6 +747,11 @@
         {
           "scheduled_at": "2026-07-31T18:03:00+09:00",
           "registered_at": "2026-07-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-26T21:47:00+09:00",
+          "registered_at": "2026-08-25",
           "views": null
         }
       ]
@@ -1951,7 +1966,8 @@
         {
           "scheduled_at": "2026-08-23T19:52:00+09:00",
           "registered_at": "2026-08-22",
-          "views": null
+          "views": 13,
+          "posted_at": "2026-08-23T10:59:53.389+00:00"
         }
       ]
     },
@@ -2011,6 +2027,102 @@
         {
           "scheduled_at": "2026-08-25T19:52:00+09:00",
           "registered_at": "2026-08-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_820cdafe05": {
+      "text": "復縁の連絡は「何日空けるか」より『何を書かないか』で決まるんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-26T16:33:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_68dee339ee": {
+      "text": "復縁を叶えた女性って「追わなかった人」じゃなく、『彼の心理を途中で決めつけなかった人』です。既読無視されても、冷たくされても、「もう終わった」と感情で判断せずに、相手の中で何が起きているかを見ようとしていた。特に回避型って、好きなのに距離を取るし、未練があるほど黙るから、",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-26T19:52:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_68ee1824ca": {
+      "text": "絶対に気をつけるべき、復縁を遠ざけてしまう行動はマジでこれだけ。それは『元彼のインスタを覗くこと』です。この理由って、一度覗くと止まらなくなって、気持ちが勝手に振り回されるからなんですよ。ストーリーの更新、フォロー欄の変化、投稿の雰囲気、全部を勝手に深読みして",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-27T14:42:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_843409b42d": {
+      "text": "未読スルーされてる時、彼の中で起きてるのは「無関心」じゃない。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-27T19:52:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a6e42c5f11": {
+      "text": "正直、「男が冷却期間中に元カノを忘れる」は100%ありえないよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-27T21:47:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7b3f7902c8": {
+      "text": "男にとって「一途に尽くしてくれた元カノ」はガチで特別だし忘れられないんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-28T11:08:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9f9ac18f53": {
+      "text": "回避型の元彼は、気持ちが残ってるほど自分からは動けなくなるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-28T16:33:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b0d7ac5c10": {
+      "text": "男は、「連絡しない＝気持ちがない」とは思っていない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-28T19:52:00+09:00",
+          "registered_at": "2026-08-25",
           "views": null
         }
       ]

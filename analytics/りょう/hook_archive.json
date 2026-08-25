@@ -97,6 +97,16 @@
           "scheduled_at": "2026-08-25T16:33:00+09:00",
           "registered_at": "2026-08-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-26T14:42:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-27T19:52:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
         }
       ]
     },
@@ -166,6 +176,16 @@
           "scheduled_at": "2026-08-23T19:52:00+09:00",
           "registered_at": "2026-08-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-26T19:52:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-28T11:08:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
         }
       ]
     },
@@ -189,7 +209,8 @@
         {
           "scheduled_at": "2026-07-23T21:03:00+09:00",
           "registered_at": "2026-07-22",
-          "views": null
+          "views": 2,
+          "posted_at": "2026-08-24T05:47:19.63+00:00"
         },
         {
           "scheduled_at": "2026-07-25T22:17:00+09:00",
@@ -259,6 +280,16 @@
         {
           "scheduled_at": "2026-08-23T21:47:00+09:00",
           "registered_at": "2026-08-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-26T16:33:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-28T19:52:00+09:00",
+          "registered_at": "2026-08-25",
           "views": null
         }
       ]
@@ -1179,6 +1210,11 @@
           "scheduled_at": "2026-08-24T11:08:00+09:00",
           "registered_at": "2026-08-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-26T21:47:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
         }
       ]
     },
@@ -1660,7 +1696,8 @@
         {
           "scheduled_at": "2026-08-21T14:42:00+09:00",
           "registered_at": "2026-08-19",
-          "views": null
+          "views": 11,
+          "posted_at": "2026-08-21T05:48:01.05+00:00"
         }
       ]
     },
@@ -1677,6 +1714,11 @@
         {
           "scheduled_at": "2026-08-24T19:52:00+09:00",
           "registered_at": "2026-08-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-27T11:08:00+09:00",
+          "registered_at": "2026-08-25",
           "views": null
         }
       ]
@@ -1714,6 +1756,11 @@
           "scheduled_at": "2026-08-24T21:47:00+09:00",
           "registered_at": "2026-08-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-27T14:42:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
         }
       ]
     },
@@ -1749,6 +1796,42 @@
         {
           "scheduled_at": "2026-08-25T19:52:00+09:00",
           "registered_at": "2026-08-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7ab43f5579": {
+      "text": "「また会おうね」と送った日の帰り道に、もう会わないと決めていました。",
+      "structure_label": "常識否定型（セリフの本当の意味）",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-27T21:47:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9193701288": {
+      "text": "「好かれる努力をすれば残る」はウソ",
+      "structure_label": "常識否定型（通念の否定）",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-28T14:42:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b53f51a193": {
+      "text": "「特に不満はなかった」で切られる子が一番多い。嫌なところがないのと、残るのは別。",
+      "structure_label": "命題型（1番多いパターン暴露）",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-28T16:33:00+09:00",
+          "registered_at": "2026-08-25",
           "views": null
         }
       ]

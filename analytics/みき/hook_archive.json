@@ -246,6 +246,16 @@
           "scheduled_at": "2026-08-25T11:08:00+09:00",
           "registered_at": "2026-08-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-26T16:33:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-27T14:42:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
         }
       ]
     },
@@ -278,6 +288,11 @@
         {
           "scheduled_at": "2026-08-24T11:08:00+09:00",
           "registered_at": "2026-08-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-26T21:47:00+09:00",
+          "registered_at": "2026-08-25",
           "views": null
         }
       ]
@@ -321,6 +336,11 @@
         {
           "scheduled_at": "2026-08-23T21:47:00+09:00",
           "registered_at": "2026-08-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-26T19:52:00+09:00",
+          "registered_at": "2026-08-25",
           "views": null
         }
       ]
@@ -373,6 +393,11 @@
         {
           "scheduled_at": "2026-08-24T19:52:00+09:00",
           "registered_at": "2026-08-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-27T11:08:00+09:00",
+          "registered_at": "2026-08-25",
           "views": null
         }
       ]
@@ -664,6 +689,11 @@
         {
           "scheduled_at": "2026-08-23T16:33:00+09:00",
           "registered_at": "2026-08-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-26T14:42:00+09:00",
+          "registered_at": "2026-08-25",
           "views": null
         }
       ]
@@ -1991,6 +2021,78 @@
         {
           "scheduled_at": "2026-08-25T19:52:00+09:00",
           "registered_at": "2026-08-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_389b6051a4": {
+      "text": "「彼氏いないんですか？」って後輩に聞かれて「いないですよー」で流してない？私、これ5回連続でやりました。あれ探りじゃなくて、「先輩は恋愛対象じゃないですよね？」って向こうが最後の確認をしに来てるやつです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-27T19:52:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0ab26f2f1a": {
+      "text": "これあまり言いたくないんですが、裏で「あの先輩、普通にタイプ」って言ってる後輩はめちゃくちゃいます。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-27T21:47:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_99d2a18cd2": {
+      "text": "年下男性が年上に求めてるのは、若さじゃなくて安心感です。一緒にいて肩の力が抜ける。それだけで十分に強い。若作りに全力を出すのは、いちばんの武器を自分で消す行為です😌",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-28T11:08:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cebf77878f": {
+      "text": "バレたらどうしよう、で動けなくなってる人はこの数字だけ見てください。職場恋愛を隠して付き合ってる人は83.7%。つまり、ほとんどの人が周りに知られずに付き合ってます。しかも職場恋愛アリ派は61.8%。周りが思ってるほど、みんな否定的でもありません☕",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-28T14:42:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0e79a13f2b": {
+      "text": "気になる後輩ほど自分から誘うべき、って思ってませんか。年下相手だと、実は「こちらから誘わない」方が彼が動き出すんですよね。私も何度も誘って反応が薄かったのに、やめた瞬間に彼から誘ってきました。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-28T16:33:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bf4f0c4796": {
+      "text": "結局、年下の後輩から告白される人って『年下だと意識せずに普通に話せる人』なんです。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-28T19:52:00+09:00",
+          "registered_at": "2026-08-25",
           "views": null
         }
       ]

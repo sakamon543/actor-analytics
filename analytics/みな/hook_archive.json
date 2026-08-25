@@ -30,6 +30,11 @@
           "scheduled_at": "2026-08-24T21:47:00+09:00",
           "registered_at": "2026-08-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-28T19:52:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
         }
       ]
     },
@@ -94,6 +99,11 @@
         {
           "scheduled_at": "2026-08-11T20:28:00+09:00",
           "registered_at": "2026-08-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-28T14:42:00+09:00",
+          "registered_at": "2026-08-25",
           "views": null
         }
       ]
@@ -186,6 +196,11 @@
           "scheduled_at": "2026-08-23T14:42:00+09:00",
           "registered_at": "2026-08-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-26T14:42:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
         }
       ]
     },
@@ -226,6 +241,11 @@
           "scheduled_at": "2026-08-25T16:33:00+09:00",
           "registered_at": "2026-08-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-27T19:52:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
         }
       ]
     },
@@ -260,6 +280,11 @@
         {
           "scheduled_at": "2026-08-15T18:03:00+09:00",
           "registered_at": "2026-08-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-27T21:47:00+09:00",
+          "registered_at": "2026-08-25",
           "views": null
         }
       ]
@@ -341,6 +366,11 @@
         {
           "scheduled_at": "2026-08-24T14:42:00+09:00",
           "registered_at": "2026-08-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-26T21:47:00+09:00",
+          "registered_at": "2026-08-25",
           "views": null
         }
       ]
@@ -1119,6 +1149,11 @@
           "scheduled_at": "2026-08-23T16:33:00+09:00",
           "registered_at": "2026-08-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-26T16:33:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
         }
       ]
     },
@@ -1148,6 +1183,11 @@
         {
           "scheduled_at": "2026-08-15T14:42:00+09:00",
           "registered_at": "2026-08-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-27T14:42:00+09:00",
+          "registered_at": "2026-08-25",
           "views": null
         }
       ]
@@ -1196,7 +1236,8 @@
         {
           "scheduled_at": "2026-08-07T14:42:00+09:00",
           "registered_at": "2026-08-04",
-          "views": null
+          "views": 9,
+          "posted_at": "2026-08-23T10:58:50.759+00:00"
         },
         {
           "scheduled_at": "2026-08-11T19:52:00+09:00",
@@ -1211,6 +1252,11 @@
         {
           "scheduled_at": "2026-08-23T19:52:00+09:00",
           "registered_at": "2026-08-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-27T11:08:00+09:00",
+          "registered_at": "2026-08-25",
           "views": null
         }
       ]
@@ -1829,6 +1875,42 @@
         {
           "scheduled_at": "2026-08-25T19:52:00+09:00",
           "registered_at": "2026-08-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1f5e5cc6ba": {
+      "text": "男は、『会う回数が増えている＝気持ちが育っている』とは思っていません。月1で会えているから進んでいる、は成立しません。相手の中で恋愛として選ぶかどうかは、会った回数とは別のところで決まっています。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-26T19:52:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e23255bf4e": {
+      "text": "男性が2回目を誘ってこないのは、あなたを気に入らなかったからじゃないです。会っている2時間、心がここにない人だと伝わっただけです。結婚してから旦那に言われました。『アプリの子って大体どこか上の空』って。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-28T11:08:00+09:00",
+          "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d4c77f5c51": {
+      "text": "決めるなら、疲れる前です。疲れてから正しく選ぶことは、できないからです。土日が全部デートで埋まって、通知が『めんどくさい』に変わってからだと、誰と会っても同じ顔に見えてきます🌷",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-25",
+      "history": [
+        {
+          "scheduled_at": "2026-08-28T16:33:00+09:00",
+          "registered_at": "2026-08-25",
           "views": null
         }
       ]
