@@ -1736,6 +1736,11 @@
           "scheduled_at": "2026-08-17T16:33:00+09:00",
           "registered_at": "2026-08-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-29T19:52:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
         }
       ]
     },
@@ -1752,6 +1757,11 @@
         {
           "scheduled_at": "2026-08-19T19:52:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-30T11:08:00+09:00",
+          "registered_at": "2026-08-28",
           "views": null
         }
       ]
@@ -1853,6 +1863,11 @@
         {
           "scheduled_at": "2026-08-22T14:42:00+09:00",
           "registered_at": "2026-08-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-29T16:33:00+09:00",
+          "registered_at": "2026-08-28",
           "views": null
         }
       ]
@@ -2093,6 +2108,102 @@
         {
           "scheduled_at": "2026-08-28T19:52:00+09:00",
           "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_24b6c65350": {
+      "text": "年下って『どうせ相手にされない』って思ってるから動かないだけ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-28",
+      "history": [
+        {
+          "scheduled_at": "2026-08-29T21:47:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9685c41aa4": {
+      "text": "職場の年下後輩を好きになった人へ。バレたらどうしよう、という不安で動けないなら、この数字を見てください。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-28",
+      "history": [
+        {
+          "scheduled_at": "2026-08-30T14:42:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9ad0e35ef9": {
+      "text": "好きな人ほど自分から誘うべき、って思ってませんか。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-28",
+      "history": [
+        {
+          "scheduled_at": "2026-08-30T19:52:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0f57c01455": {
+      "text": "「彼氏いないんですか？」って後輩から聞かれて「いないですよー」で終わらせてない？",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-28",
+      "history": [
+        {
+          "scheduled_at": "2026-08-30T21:47:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_673fb4afff": {
+      "text": "年下の後輩が年上に求めてるのは、若さじゃなくて一緒にいて肩の力が抜けることです。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-28",
+      "history": [
+        {
+          "scheduled_at": "2026-08-31T11:08:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3a91b8f28a": {
+      "text": "職場の飲み会は大チャンスですけど、彼の隣をキープして話し続けるのは逆効果です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-28",
+      "history": [
+        {
+          "scheduled_at": "2026-08-31T14:42:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_946caa5428": {
+      "text": "経験談ですが、年下の後輩って「先輩には彼氏がいて当たり前」と思い込んでいます。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-28",
+      "history": [
+        {
+          "scheduled_at": "2026-08-31T16:33:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0e7556215b": {
+      "text": "結局、年下から告白される人って『自分から動かないのに二人になる時間だけ作ってる人』なんです。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-28",
+      "history": [
+        {
+          "scheduled_at": "2026-08-31T19:52:00+09:00",
+          "registered_at": "2026-08-28",
           "views": null
         }
       ]

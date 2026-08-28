@@ -127,6 +127,11 @@
           "scheduled_at": "2026-08-04T14:42:00+09:00",
           "registered_at": "2026-08-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-31T14:42:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
         }
       ]
     },
@@ -636,6 +641,11 @@
           "scheduled_at": "2026-08-21T14:42:00+09:00",
           "registered_at": "2026-08-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-30T19:52:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
         }
       ]
     },
@@ -977,6 +987,11 @@
           "scheduled_at": "2026-08-20T21:47:00+09:00",
           "registered_at": "2026-08-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-29T21:47:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
         }
       ]
     },
@@ -1066,6 +1081,11 @@
         {
           "scheduled_at": "2026-08-28T16:33:00+09:00",
           "registered_at": "2026-08-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-30T21:47:00+09:00",
+          "registered_at": "2026-08-28",
           "views": null
         }
       ]
@@ -1169,6 +1189,11 @@
         {
           "scheduled_at": "2026-08-18T21:47:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-30T11:08:00+09:00",
+          "registered_at": "2026-08-28",
           "views": null
         }
       ]
@@ -1452,6 +1477,11 @@
         {
           "scheduled_at": "2026-08-22T14:42:00+09:00",
           "registered_at": "2026-08-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-30T14:42:00+09:00",
+          "registered_at": "2026-08-28",
           "views": null
         }
       ]
@@ -3178,6 +3208,11 @@
           "scheduled_at": "2026-08-28T14:42:00+09:00",
           "registered_at": "2026-08-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-29T19:52:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
         }
       ]
     },
@@ -4736,7 +4771,8 @@
         {
           "scheduled_at": "2026-08-23T21:47:00+09:00",
           "registered_at": "2026-08-22",
-          "views": null
+          "views": 18,
+          "posted_at": "2026-08-23T12:51:45.133+00:00"
         }
       ]
     },
@@ -4929,6 +4965,54 @@
         {
           "scheduled_at": "2026-08-28T19:52:00+09:00",
           "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_86bb25df7f": {
+      "text": "千賀くん、復縁の本質突きすぎ。",
+      "structure_label": "話題提起型",
+      "first_used_at": "2026-08-28",
+      "history": [
+        {
+          "scheduled_at": "2026-08-29T16:33:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0f044d3289": {
+      "text": "別れを切り出した夜の、男の本心を話す。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-28",
+      "history": [
+        {
+          "scheduled_at": "2026-08-31T11:08:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7e7ee852d2": {
+      "text": "元カレとの連絡、一度ちゃんと切った方がいい場合がある。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-28",
+      "history": [
+        {
+          "scheduled_at": "2026-08-31T16:33:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f444037823": {
+      "text": "男の既読スルーは、もう気持ちがない答えじゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-28",
+      "history": [
+        {
+          "scheduled_at": "2026-08-31T19:52:00+09:00",
+          "registered_at": "2026-08-28",
           "views": null
         }
       ]

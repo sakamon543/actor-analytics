@@ -238,6 +238,11 @@
           "scheduled_at": "2026-08-27T14:42:00+09:00",
           "registered_at": "2026-08-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-31T11:08:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
         }
       ]
     },
@@ -603,6 +608,11 @@
           "scheduled_at": "2026-08-26T16:33:00+09:00",
           "registered_at": "2026-08-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-29T16:33:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
         }
       ]
     },
@@ -792,6 +802,11 @@
         {
           "scheduled_at": "2026-08-26T21:47:00+09:00",
           "registered_at": "2026-08-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-29T21:47:00+09:00",
+          "registered_at": "2026-08-28",
           "views": null
         }
       ]
@@ -1329,6 +1344,11 @@
           "scheduled_at": "2026-08-27T21:47:00+09:00",
           "registered_at": "2026-08-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-31T19:52:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
         }
       ]
     },
@@ -1465,6 +1485,11 @@
         {
           "scheduled_at": "2026-08-27T11:08:00+09:00",
           "registered_at": "2026-08-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-30T19:52:00+09:00",
+          "registered_at": "2026-08-28",
           "views": null
         }
       ]
@@ -2777,6 +2802,11 @@
         {
           "scheduled_at": "2026-08-26T19:52:00+09:00",
           "registered_at": "2026-08-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-30T11:08:00+09:00",
+          "registered_at": "2026-08-28",
           "views": null
         }
       ]
@@ -4777,7 +4807,8 @@
         {
           "scheduled_at": "2026-08-25T19:52:00+09:00",
           "registered_at": "2026-08-22",
-          "views": null
+          "views": 41,
+          "posted_at": "2026-08-25T10:56:07.83+00:00"
         }
       ]
     },
@@ -4837,6 +4868,66 @@
         {
           "scheduled_at": "2026-08-28T19:52:00+09:00",
           "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2dd2e14728": {
+      "text": "実は、年下の男性ほど年上女性を本気で追いかける確率がめちゃくちゃ高い。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-28",
+      "history": [
+        {
+          "scheduled_at": "2026-08-29T19:52:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5f8c71dc80": {
+      "text": "男が年上の女性を意識するとき「可愛い」より圧倒的に多いのが『この人には敵わない』だよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-28",
+      "history": [
+        {
+          "scheduled_at": "2026-08-30T14:42:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3d993fcf1b": {
+      "text": "男が『この人、俺のこと意識してるかも』と感じる瞬間は、視線の長さだけ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-28",
+      "history": [
+        {
+          "scheduled_at": "2026-08-30T21:47:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_16bd3d73b9": {
+      "text": "意外かもだけど、男は『年上の女性に一歩引かれる』と意識し始める生き物。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-28",
+      "history": [
+        {
+          "scheduled_at": "2026-08-31T14:42:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_46515693e1": {
+      "text": "男は『職場で気になってる年上の女性』に簡単にアプローチできない。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-28",
+      "history": [
+        {
+          "scheduled_at": "2026-08-31T16:33:00+09:00",
+          "registered_at": "2026-08-28",
           "views": null
         }
       ]

@@ -177,6 +177,11 @@
           "scheduled_at": "2026-08-26T16:33:00+09:00",
           "registered_at": "2026-08-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-29T16:33:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
         }
       ]
     },
@@ -412,6 +417,11 @@
           "scheduled_at": "2026-08-27T19:52:00+09:00",
           "registered_at": "2026-08-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-30T19:52:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
         }
       ]
     },
@@ -475,6 +485,11 @@
         {
           "scheduled_at": "2026-08-26T19:52:00+09:00",
           "registered_at": "2026-08-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-30T11:08:00+09:00",
+          "registered_at": "2026-08-28",
           "views": null
         }
       ]
@@ -578,7 +593,8 @@
         {
           "scheduled_at": "2026-07-28T18:03:00+09:00",
           "registered_at": "2026-07-26",
-          "views": null
+          "views": 33,
+          "posted_at": "2026-08-27T05:48:33.412+00:00"
         },
         {
           "scheduled_at": "2026-07-31T22:17:00+09:00",
@@ -897,6 +913,11 @@
           "scheduled_at": "2026-08-26T21:47:00+09:00",
           "registered_at": "2026-08-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-08-29T21:47:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
         }
       ]
     },
@@ -1111,6 +1132,11 @@
         {
           "scheduled_at": "2026-08-27T11:08:00+09:00",
           "registered_at": "2026-08-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-08-29T19:52:00+09:00",
+          "registered_at": "2026-08-28",
           "views": null
         }
       ]
@@ -1779,6 +1805,54 @@
         {
           "scheduled_at": "2026-08-28T19:52:00+09:00",
           "registered_at": "2026-08-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4db3b725e2": {
+      "text": "年下男子は、「頼れるお姉さん」と急に恋人みたいな関係には切り替えられない",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-28",
+      "history": [
+        {
+          "scheduled_at": "2026-08-30T21:47:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f6b52e1ede": {
+      "text": "年下男子は、「頼れる年上=いつか恋愛対象になる」とは思っていない",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-28",
+      "history": [
+        {
+          "scheduled_at": "2026-08-31T11:08:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8322ddf0b9": {
+      "text": "年下男子の好意は、素直な言葉には出てきません。彼らは年上に軽く見られたくない意識がまず先に立つから、『好き』も『会いたい』もぐっと飲み込むんです。あなたが待ってる分かりやすい合図は、たぶんずっと来ません。出てくるのは、あなたにだけ雑になる態度の方です。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-28",
+      "history": [
+        {
+          "scheduled_at": "2026-08-31T16:33:00+09:00",
+          "registered_at": "2026-08-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2397ac5671": {
+      "text": "年下男子の返信の遅さは、興味がなくなったサインじゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-28",
+      "history": [
+        {
+          "scheduled_at": "2026-08-31T19:52:00+09:00",
+          "registered_at": "2026-08-28",
           "views": null
         }
       ]

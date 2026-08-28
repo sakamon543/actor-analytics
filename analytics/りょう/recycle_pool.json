@@ -36,8 +36,8 @@
       "first_seen_views": 11223,
       "first_seen_at": "2026-07-24T11:34:54.111+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-07-26T14:25:55.989161+09:00"
+      "used_count": 2,
+      "last_used_at": "2026-08-28T10:12:32.230969+09:00"
     },
     "rcyc_5f85080a39": {
       "recycle_id": "rcyc_5f85080a39",
@@ -48,9 +48,9 @@
       "first_seen_views": 2004,
       "first_seen_at": "2026-07-23T05:48:30.318+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-07-26T14:25:55.989161+09:00"
+      "used_count": 2,
+      "last_used_at": "2026-08-28T10:12:32.230969+09:00"
     }
   },
-  "updated_at": "2026-08-25T10:16:30.865478+09:00"
+  "updated_at": "2026-08-28T10:12:32.230969+09:00"
 }
