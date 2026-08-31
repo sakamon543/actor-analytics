@@ -182,6 +182,11 @@
           "scheduled_at": "2026-08-29T16:33:00+09:00",
           "registered_at": "2026-08-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-01T21:47:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
         }
       ]
     },
@@ -422,6 +427,11 @@
           "scheduled_at": "2026-08-30T19:52:00+09:00",
           "registered_at": "2026-08-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-02T14:42:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
         }
       ]
     },
@@ -491,6 +501,11 @@
           "scheduled_at": "2026-08-30T11:08:00+09:00",
           "registered_at": "2026-08-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-02T11:08:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
         }
       ]
     },
@@ -550,6 +565,11 @@
           "scheduled_at": "2026-08-12T18:03:00+09:00",
           "registered_at": "2026-08-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-02T21:47:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
         }
       ]
     },
@@ -599,7 +619,8 @@
         {
           "scheduled_at": "2026-07-31T22:17:00+09:00",
           "registered_at": "2026-07-29",
-          "views": null
+          "views": 58,
+          "posted_at": "2026-08-27T05:48:33.412+00:00"
         },
         {
           "scheduled_at": "2026-08-10T22:17:00+09:00",
@@ -918,6 +939,16 @@
           "scheduled_at": "2026-08-29T21:47:00+09:00",
           "registered_at": "2026-08-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-01T16:33:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-03T11:08:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
         }
       ]
     },
@@ -1137,6 +1168,16 @@
         {
           "scheduled_at": "2026-08-29T19:52:00+09:00",
           "registered_at": "2026-08-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-01T19:52:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-03T14:42:00+09:00",
+          "registered_at": "2026-08-31",
           "views": null
         }
       ]
@@ -1358,6 +1399,11 @@
         {
           "scheduled_at": "2026-08-27T21:47:00+09:00",
           "registered_at": "2026-08-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-02T19:52:00+09:00",
+          "registered_at": "2026-08-31",
           "views": null
         }
       ]
@@ -1853,6 +1899,30 @@
         {
           "scheduled_at": "2026-08-31T19:52:00+09:00",
           "registered_at": "2026-08-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e54cddb568": {
+      "text": "年下男子は、「年上に甘えられる＝重い」とは思っていない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-31",
+      "history": [
+        {
+          "scheduled_at": "2026-09-03T16:33:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1cf3a16459": {
+      "text": "年下男子が年上を諦めるとき「年の差」より圧倒的に多いのが『俺なんて必要ないな』",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-31",
+      "history": [
+        {
+          "scheduled_at": "2026-09-03T19:52:00+09:00",
+          "registered_at": "2026-08-31",
           "views": null
         }
       ]

@@ -341,6 +341,11 @@
           "scheduled_at": "2026-08-10T14:42:00+09:00",
           "registered_at": "2026-08-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-03T11:08:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
         }
       ]
     },
@@ -645,6 +650,11 @@
         {
           "scheduled_at": "2026-08-30T19:52:00+09:00",
           "registered_at": "2026-08-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-02T14:42:00+09:00",
+          "registered_at": "2026-08-31",
           "views": null
         }
       ]
@@ -992,6 +1002,11 @@
           "scheduled_at": "2026-08-29T21:47:00+09:00",
           "registered_at": "2026-08-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-01T21:47:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
         }
       ]
     },
@@ -1086,6 +1101,11 @@
         {
           "scheduled_at": "2026-08-30T21:47:00+09:00",
           "registered_at": "2026-08-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-02T21:47:00+09:00",
+          "registered_at": "2026-08-31",
           "views": null
         }
       ]
@@ -1194,6 +1214,11 @@
         {
           "scheduled_at": "2026-08-30T11:08:00+09:00",
           "registered_at": "2026-08-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-02T11:08:00+09:00",
+          "registered_at": "2026-08-31",
           "views": null
         }
       ]
@@ -1534,6 +1559,11 @@
         {
           "scheduled_at": "2026-08-03T21:03:00+09:00",
           "registered_at": "2026-08-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-03T19:52:00+09:00",
+          "registered_at": "2026-08-31",
           "views": null
         }
       ]
@@ -3213,6 +3243,11 @@
           "scheduled_at": "2026-08-29T19:52:00+09:00",
           "registered_at": "2026-08-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-01T16:33:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
         }
       ]
     },
@@ -4797,7 +4832,8 @@
         {
           "scheduled_at": "2026-08-24T14:42:00+09:00",
           "registered_at": "2026-08-22",
-          "views": null
+          "views": 12,
+          "posted_at": "2026-08-24T05:46:15.247+00:00"
         }
       ]
     },
@@ -4881,7 +4917,8 @@
         {
           "scheduled_at": "2026-08-26T19:52:00+09:00",
           "registered_at": "2026-08-25",
-          "views": null
+          "views": 14,
+          "posted_at": "2026-08-26T10:57:05.181+00:00"
         }
       ]
     },
@@ -4929,7 +4966,8 @@
         {
           "scheduled_at": "2026-08-27T19:52:00+09:00",
           "registered_at": "2026-08-25",
-          "views": null
+          "views": 15,
+          "posted_at": "2026-08-27T10:57:51.178+00:00"
         }
       ]
     },
@@ -5013,6 +5051,66 @@
         {
           "scheduled_at": "2026-08-31T19:52:00+09:00",
           "registered_at": "2026-08-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b6dcba21ff": {
+      "text": "復縁した身から言わせてもらうと復縁ってマジで最強。別れるっていう人生終わるレベルの災害を乗り越えたあとの絆の深さは異常。我慢を続けて何とか耐えてるだけのカップルより1度関係性をリセットとして相手の重要性に気づけてる復縁カップルの方が絶対上手くいく。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-31",
+      "history": [
+        {
+          "scheduled_at": "2026-09-01T14:42:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6063948998": {
+      "text": "男の別れ際の「もう無理」は、気持ちが消えた合図じゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-31",
+      "history": [
+        {
+          "scheduled_at": "2026-09-01T19:52:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_72a87b1ba7": {
+      "text": "「彼を変えれば復縁できる」って思想、これまで聞いてきた元彼の本音では完全に逆なんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-31",
+      "history": [
+        {
+          "scheduled_at": "2026-09-02T19:52:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b95c1c417d": {
+      "text": "結局、彼が戻ってくるのは『復縁の話を一切しない女性』なんだよね",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-31",
+      "history": [
+        {
+          "scheduled_at": "2026-09-03T14:42:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f05226e62b": {
+      "text": "元カレと復縁したカップルを1年追跡してみたら、面白いことが分かった。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-08-31",
+      "history": [
+        {
+          "scheduled_at": "2026-09-03T16:33:00+09:00",
+          "registered_at": "2026-08-31",
           "views": null
         }
       ]

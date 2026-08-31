@@ -112,6 +112,16 @@
           "scheduled_at": "2026-08-29T16:33:00+09:00",
           "registered_at": "2026-08-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-01T14:42:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-02T19:52:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
         }
       ]
     },
@@ -195,6 +205,11 @@
         {
           "scheduled_at": "2026-08-29T21:47:00+09:00",
           "registered_at": "2026-08-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-01T21:47:00+09:00",
+          "registered_at": "2026-08-31",
           "views": null
         }
       ]
@@ -305,6 +320,11 @@
         {
           "scheduled_at": "2026-08-29T19:52:00+09:00",
           "registered_at": "2026-08-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-01T16:33:00+09:00",
+          "registered_at": "2026-08-31",
           "views": null
         }
       ]
@@ -1204,7 +1224,8 @@
         {
           "scheduled_at": "2026-08-08T19:52:00+09:00",
           "registered_at": "2026-08-07",
-          "views": null
+          "views": 2,
+          "posted_at": "2026-08-26T12:54:08.942+00:00"
         },
         {
           "scheduled_at": "2026-08-12T21:03:00+09:00",
@@ -1234,6 +1255,11 @@
         {
           "scheduled_at": "2026-08-30T11:08:00+09:00",
           "registered_at": "2026-08-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-02T11:08:00+09:00",
+          "registered_at": "2026-08-31",
           "views": null
         }
       ]
@@ -1740,6 +1766,11 @@
           "scheduled_at": "2026-08-27T11:08:00+09:00",
           "registered_at": "2026-08-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-03T11:08:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
         }
       ]
     },
@@ -1785,6 +1816,11 @@
         {
           "scheduled_at": "2026-08-30T19:52:00+09:00",
           "registered_at": "2026-08-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-01T19:52:00+09:00",
+          "registered_at": "2026-08-31",
           "views": null
         }
       ]
@@ -1917,6 +1953,66 @@
         {
           "scheduled_at": "2026-08-31T19:52:00+09:00",
           "registered_at": "2026-08-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4a4f8c9649": {
+      "text": "マチアプで切られる理由って「可愛くないから」とか「他にいい子がいたから」みたいな理由じゃないんです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-31",
+      "history": [
+        {
+          "scheduled_at": "2026-09-02T14:42:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_040505edcb": {
+      "text": "「また会おうね」と言った帰りの電車で、もう会わないと決めていました。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-31",
+      "history": [
+        {
+          "scheduled_at": "2026-09-02T21:47:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ac703528d5": {
+      "text": "「どこを直せばよかったの」の答えは、「直すところはなかった」です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-31",
+      "history": [
+        {
+          "scheduled_at": "2026-09-03T14:42:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_703bbc3dcf": {
+      "text": "「いい子だった」で切られる子が一番多い。悪いところがないのと、最後まで残るのは別。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-31",
+      "history": [
+        {
+          "scheduled_at": "2026-09-03T16:33:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f3529d2ba0": {
+      "text": "マチアプ3年で100人以上と会って、そのほとんどを俺から切った。今思うと最低だと思います。",
+      "structure_label": "当事者暴露型",
+      "first_used_at": "2026-08-31",
+      "history": [
+        {
+          "scheduled_at": "2026-09-03T19:52:00+09:00",
+          "registered_at": "2026-08-31",
           "views": null
         }
       ]

@@ -1741,6 +1741,11 @@
           "scheduled_at": "2026-08-29T19:52:00+09:00",
           "registered_at": "2026-08-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-01T21:47:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
         }
       ]
     },
@@ -1762,6 +1767,11 @@
         {
           "scheduled_at": "2026-08-30T11:08:00+09:00",
           "registered_at": "2026-08-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-01T19:52:00+09:00",
+          "registered_at": "2026-08-31",
           "views": null
         }
       ]
@@ -1786,6 +1796,11 @@
         {
           "scheduled_at": "2026-08-18T11:08:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-02T11:08:00+09:00",
+          "registered_at": "2026-08-31",
           "views": null
         }
       ]
@@ -1822,6 +1837,11 @@
         {
           "scheduled_at": "2026-08-18T21:47:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-02T19:52:00+09:00",
+          "registered_at": "2026-08-31",
           "views": null
         }
       ]
@@ -1868,6 +1888,16 @@
         {
           "scheduled_at": "2026-08-29T16:33:00+09:00",
           "registered_at": "2026-08-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-01T14:42:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-03T11:08:00+09:00",
+          "registered_at": "2026-08-31",
           "views": null
         }
       ]
@@ -2084,7 +2114,8 @@
         {
           "scheduled_at": "2026-08-28T14:42:00+09:00",
           "registered_at": "2026-08-25",
-          "views": null
+          "views": 11,
+          "posted_at": "2026-08-28T05:46:37.889+00:00"
         }
       ]
     },
@@ -2204,6 +2235,78 @@
         {
           "scheduled_at": "2026-08-31T19:52:00+09:00",
           "registered_at": "2026-08-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0fc0fd2462": {
+      "text": "職場恋愛を隠して付き合ってる人は83.7%です。バレる前提で怖がる必要はありません。",
+      "structure_label": "数字型",
+      "first_used_at": "2026-08-31",
+      "history": [
+        {
+          "scheduled_at": "2026-09-01T16:33:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2a9f99dadf": {
+      "text": "後輩が誘ってこないのは、あなたに興味がないからじゃありません。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-31",
+      "history": [
+        {
+          "scheduled_at": "2026-09-02T14:42:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_509f9e772c": {
+      "text": "後輩の「彼氏いないんですか？」は雑談じゃなくて、最後の確認です。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-08-31",
+      "history": [
+        {
+          "scheduled_at": "2026-09-02T21:47:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f15f9f40bf": {
+      "text": "年下男性が年上に求めてるのは、若く見える見た目じゃなくて一緒にいて肩の力が抜ける安心感です。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-08-31",
+      "history": [
+        {
+          "scheduled_at": "2026-09-03T14:42:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4f7b85184e": {
+      "text": "年下の後輩は、「4歳上だから恋愛対象じゃない」とは思っていません。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-08-31",
+      "history": [
+        {
+          "scheduled_at": "2026-09-03T16:33:00+09:00",
+          "registered_at": "2026-08-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0488a0deca": {
+      "text": "職場の飲み会で頑張って話しかけ続けるのは、大チャンスどころか逆効果です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-08-31",
+      "history": [
+        {
+          "scheduled_at": "2026-09-03T19:52:00+09:00",
+          "registered_at": "2026-08-31",
           "views": null
         }
       ]
