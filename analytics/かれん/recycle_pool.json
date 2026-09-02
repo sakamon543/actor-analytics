@@ -32,8 +32,8 @@
       "first_seen_views": 2210,
       "first_seen_at": "2026-07-27T13:26:57.803+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-08-01T11:35:15.569640+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-09-02T09:09:36.946313+09:00",
       "sales_followed": true
     },
     "rcyc_500d585abc": {
@@ -43,10 +43,10 @@
       "first_seen_views": 2081,
       "first_seen_at": "2026-07-25T10:57:31.942+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-08-01T11:35:15.569640+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-09-02T09:09:36.946313+09:00",
       "sales_followed": false
     }
   },
-  "updated_at": "2026-08-30T09:00:08.994255+09:00"
+  "updated_at": "2026-09-02T09:09:36.946313+09:00"
 }
