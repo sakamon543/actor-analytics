@@ -122,6 +122,21 @@
           "scheduled_at": "2026-09-02T19:52:00+09:00",
           "registered_at": "2026-08-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-04T14:42:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-05T14:42:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-06T19:52:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
         }
       ]
     },
@@ -210,6 +225,11 @@
         {
           "scheduled_at": "2026-09-01T21:47:00+09:00",
           "registered_at": "2026-08-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-05T21:47:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]
@@ -325,6 +345,16 @@
         {
           "scheduled_at": "2026-09-01T16:33:00+09:00",
           "registered_at": "2026-08-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-04T16:33:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-06T16:33:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]
@@ -1057,6 +1087,11 @@
           "scheduled_at": "2026-08-18T21:47:00+09:00",
           "registered_at": "2026-08-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-04T19:52:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
         }
       ]
     },
@@ -1260,6 +1295,11 @@
         {
           "scheduled_at": "2026-09-02T11:08:00+09:00",
           "registered_at": "2026-08-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-05T11:08:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]
@@ -2013,6 +2053,54 @@
         {
           "scheduled_at": "2026-09-03T19:52:00+09:00",
           "registered_at": "2026-08-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_faeee542eb": {
+      "text": "男の「また会おうね」は、社交辞令じゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-04T21:47:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_42a4ed8ba1": {
+      "text": "「いい子だった」で切られる子が一番多い。嫌なところがないのと、残るのは別。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-05T19:52:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f9af83d5ac": {
+      "text": "男が2回目を誘わないとき「タイプじゃなかった」より圧倒的に多いのが『合わせすぎた』",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-06T11:08:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c0e7c9ed90": {
+      "text": "「また会おうね」と言った日の帰り道に、もう会わないと決めていました。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-06T14:42:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]

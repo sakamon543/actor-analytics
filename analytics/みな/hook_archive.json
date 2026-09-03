@@ -587,6 +587,11 @@
           "scheduled_at": "2026-08-20T21:47:00+09:00",
           "registered_at": "2026-08-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-05T11:08:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
         }
       ]
     },
@@ -624,6 +629,11 @@
           "scheduled_at": "2026-08-20T16:33:00+09:00",
           "registered_at": "2026-08-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-04T19:52:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
         }
       ]
     },
@@ -655,6 +665,11 @@
         {
           "scheduled_at": "2026-08-18T14:42:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-05T19:52:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]
@@ -750,6 +765,11 @@
         {
           "scheduled_at": "2026-08-10T11:08:00+09:00",
           "registered_at": "2026-08-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-06T19:52:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]
@@ -1239,7 +1259,8 @@
         {
           "scheduled_at": "2026-08-15T14:42:00+09:00",
           "registered_at": "2026-08-13",
-          "views": null
+          "views": 8,
+          "posted_at": "2026-08-31T02:14:10.29+00:00"
         },
         {
           "scheduled_at": "2026-08-27T14:42:00+09:00",
@@ -1434,6 +1455,11 @@
         {
           "scheduled_at": "2026-08-09T19:52:00+09:00",
           "registered_at": "2026-08-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-06T16:33:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]
@@ -1784,6 +1810,11 @@
           "scheduled_at": "2026-08-20T14:42:00+09:00",
           "registered_at": "2026-08-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-04T14:42:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
         }
       ]
     },
@@ -1832,6 +1863,11 @@
           "scheduled_at": "2026-08-21T19:52:00+09:00",
           "registered_at": "2026-08-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-06T14:42:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
         }
       ]
     },
@@ -1867,6 +1903,11 @@
         {
           "scheduled_at": "2026-08-22T14:42:00+09:00",
           "registered_at": "2026-08-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-05T14:42:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]
@@ -2073,6 +2114,54 @@
         {
           "scheduled_at": "2026-09-03T19:52:00+09:00",
           "registered_at": "2026-08-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b67e2a7c4d": {
+      "text": "2回目に誘われる人と、誘われない人の差は、可愛さでも会話の上手さでもありません。『この子、ちゃんとこっち見てるな』と思われたかどうかです。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-04T16:33:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cfb428af05": {
+      "text": "男性が2回目を誘わないとき『タイプじゃなかった』より圧倒的に多いのが『この人、俺のこと見てないな』です。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-04T21:47:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5c53b087cc": {
+      "text": "『比較しないと決められない』って言われてるけど、それ嘘です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-05T21:47:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5d99bed74f": {
+      "text": "男性は、『会う回数が増える＝気持ちが進んでいる』とは思っていません。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-06T11:08:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]

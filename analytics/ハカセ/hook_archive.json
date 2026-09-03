@@ -19,6 +19,11 @@
           "scheduled_at": "2026-06-10T11:08:00+09:00",
           "registered_at": "2026-06-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-04T19:52:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
         }
       ]
     },
@@ -346,6 +351,11 @@
           "scheduled_at": "2026-09-03T11:08:00+09:00",
           "registered_at": "2026-08-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-05T21:47:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
         }
       ]
     },
@@ -655,6 +665,11 @@
         {
           "scheduled_at": "2026-09-02T14:42:00+09:00",
           "registered_at": "2026-08-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-05T19:52:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]
@@ -1007,6 +1022,11 @@
           "scheduled_at": "2026-09-01T21:47:00+09:00",
           "registered_at": "2026-08-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-04T21:47:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
         }
       ]
     },
@@ -1106,6 +1126,11 @@
         {
           "scheduled_at": "2026-09-02T21:47:00+09:00",
           "registered_at": "2026-08-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-05T11:08:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]
@@ -1219,6 +1244,11 @@
         {
           "scheduled_at": "2026-09-02T11:08:00+09:00",
           "registered_at": "2026-08-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-05T14:42:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]
@@ -1507,6 +1537,11 @@
         {
           "scheduled_at": "2026-08-30T14:42:00+09:00",
           "registered_at": "2026-08-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-06T11:08:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]
@@ -3247,6 +3282,11 @@
         {
           "scheduled_at": "2026-09-01T16:33:00+09:00",
           "registered_at": "2026-08-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-04T16:33:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]
@@ -5111,6 +5151,54 @@
         {
           "scheduled_at": "2026-09-03T16:33:00+09:00",
           "registered_at": "2026-08-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e61a8f6bb5": {
+      "text": "結局、男が戻りたくなる『ど本命彼女』はこういう子なんだよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-04T14:42:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4cb62d310d": {
+      "text": "「彼を変えれば復縁できる」って思想、元彼に直接聞いてきて完全に逆だったんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-06T14:42:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_046b1788d0": {
+      "text": "復縁の正解は「3週間動かない」、これだけは例外がなかった。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-06T16:33:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c9f63e6b03": {
+      "text": "男の既読スルーは、興味が無くなったサインじゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-06T19:52:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]

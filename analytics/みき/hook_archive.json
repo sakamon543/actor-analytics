@@ -1746,6 +1746,11 @@
           "scheduled_at": "2026-09-01T21:47:00+09:00",
           "registered_at": "2026-08-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-04T21:47:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
         }
       ]
     },
@@ -1772,6 +1777,16 @@
         {
           "scheduled_at": "2026-09-01T19:52:00+09:00",
           "registered_at": "2026-08-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-04T19:52:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-06T16:33:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]
@@ -1843,6 +1858,11 @@
           "scheduled_at": "2026-09-02T19:52:00+09:00",
           "registered_at": "2026-08-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-05T14:42:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
         }
       ]
     },
@@ -1898,6 +1918,16 @@
         {
           "scheduled_at": "2026-09-03T11:08:00+09:00",
           "registered_at": "2026-08-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-04T14:42:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-05T21:47:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]
@@ -2307,6 +2337,78 @@
         {
           "scheduled_at": "2026-09-03T19:52:00+09:00",
           "registered_at": "2026-08-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d27d908f79": {
+      "text": "年下の後輩が動かないのは、脈がないからじゃなくて『どうせ相手にされない』って思ってるからです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-04T16:33:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3219bf7e1e": {
+      "text": "職場恋愛を隠して付き合ってる人は83.7%です。バレたらどうしようで動けないのは、ほぼ起きないことを怖がってるだけです。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-05T11:08:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0bd5fa2d24": {
+      "text": "先輩止まりで終わる理由って「可愛くないから」とか「年上だから」みたいな理由じゃないんです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-05T19:52:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_744afd6f20": {
+      "text": "若く見せる努力は、年下相手だといちばんの武器を自分で消す行為です。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-06T11:08:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2c12ef0870": {
+      "text": "年下の男性は、「手が届かない先輩」だと思った相手に簡単には踏み込めません。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-06T14:42:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3406848547": {
+      "text": "二時間隣に座って話し続けた時点で、彼の中では「やっぱり先輩は俺を後輩としか見てない」が完成します。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-06T19:52:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]

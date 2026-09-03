@@ -245,8 +245,8 @@
       "first_seen_views": 12270,
       "first_seen_at": "2026-07-30T10:23:26.415+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-08-03T09:12:55.556026+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-09-03T09:07:14.324754+09:00",
       "sales_followed": true
     },
     "rcyc_54eaf428d5": {
@@ -342,7 +342,18 @@
       "used_count": 1,
       "last_used_at": "2026-08-28T09:10:01.980934+09:00",
       "sales_followed": true
+    },
+    "rcyc_7bd39734a1": {
+      "recycle_id": "rcyc_7bd39734a1",
+      "text": "追わなくなった女が一番強い。ほんとにこれ。うちが見てた子も、毎日LINE送ってた時は既読もつかなかったのに、しんどくなって放置した2週間後に彼から『元気してる?』って来たからね。男って追われてる間は安心しきってるだけなんだよね。今あなたが我慢してるその時間、彼の中であなたはちゃんと大きくなってる。",
+      "thread": [],
+      "first_seen_views": 5086,
+      "first_seen_at": "2026-08-30T12:50:59.242+00:00",
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-09-03T09:07:14.324754+09:00",
+      "sales_followed": true
     }
   },
-  "updated_at": "2026-08-31T09:00:09.023112+09:00"
+  "updated_at": "2026-09-03T09:07:14.324754+09:00"
 }

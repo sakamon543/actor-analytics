@@ -487,6 +487,11 @@
           "scheduled_at": "2026-09-01T19:52:00+09:00",
           "registered_at": "2026-08-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-05T11:08:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
         }
       ]
     },
@@ -1513,6 +1518,11 @@
         {
           "scheduled_at": "2026-08-11T22:17:00+09:00",
           "registered_at": "2026-08-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-06T16:33:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]
@@ -2904,7 +2914,8 @@
         {
           "scheduled_at": "2026-08-31T16:33:00+09:00",
           "registered_at": "2026-08-28",
-          "views": null
+          "views": 24,
+          "posted_at": "2026-08-31T07:36:41.211+00:00"
         }
       ]
     },
@@ -2940,7 +2951,8 @@
         {
           "scheduled_at": "2026-09-02T11:08:00+09:00",
           "registered_at": "2026-08-31",
-          "views": null
+          "views": 13,
+          "posted_at": "2026-09-02T02:15:01.692+00:00"
         }
       ]
     },
@@ -3000,6 +3012,90 @@
         {
           "scheduled_at": "2026-09-03T19:52:00+09:00",
           "registered_at": "2026-08-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b952add8ab": {
+      "text": "振った側の男だから言うけど、別れたあと「やっぱり別れなきゃよかったかも」と思ったのは、元カノが可愛くなったときでも、楽しそうにしてたときでもなかった。\n・普通に話せた",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-04T16:33:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ca4e4f745a": {
+      "text": "振った側の男だから言うけど、別れたあと「元カノに新しい彼氏ができた」と聞くよりも地味に効くことがあって、それが、\n・自分の知らない友達が増えてる",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-04T19:52:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_52cc582c1b": {
+      "text": "振った側の男だから言うけど、別れたあと元カノに会うのが嫌だった時期がある。\n・嫌いだからじゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-04T21:47:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c5155cbbca": {
+      "text": "振った側の男だから言うけど、別れたあと元カノに「変わった姿」を見せられても、意外と響かなかった。\n・前より可愛くなった",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-05T19:52:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f07f251a1d": {
+      "text": "追わないより、消えない方が100倍効きます。振った側から復縁した僕が言うんだから間違いないです。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-05T21:47:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c5c7ec9921": {
+      "text": "振った側の男だから言うけど、別れたあと「もう一回付き合いたい」と思うより先に、もっとリアルに思ってたことがある。\n・久しぶりに話したい",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-06T11:08:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_498bfbb346": {
+      "text": "【振った側の僕が元カノに会いたいと思うまで】\n①別れた直後は復縁する気なし",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-06T19:52:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]

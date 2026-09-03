@@ -1088,6 +1088,11 @@
           "scheduled_at": "2026-06-29T21:03:00+09:00",
           "registered_at": "2026-06-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-05T19:52:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
         }
       ]
     },
@@ -2113,6 +2118,11 @@
           "scheduled_at": "2026-08-19T11:08:00+09:00",
           "registered_at": "2026-08-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-06T11:08:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
         }
       ]
     },
@@ -2656,6 +2666,11 @@
         {
           "scheduled_at": "2026-07-01T11:08:00+09:00",
           "registered_at": "2026-06-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-04T21:47:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]
@@ -5486,6 +5501,11 @@
           "scheduled_at": "2026-08-20T19:52:00+09:00",
           "registered_at": "2026-08-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-04T19:52:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
         }
       ]
     },
@@ -5508,6 +5528,11 @@
         {
           "scheduled_at": "2026-08-30T21:47:00+09:00",
           "registered_at": "2026-08-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-05T21:47:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]
@@ -5861,7 +5886,8 @@
         {
           "scheduled_at": "2026-09-01T14:42:00+09:00",
           "registered_at": "2026-08-31",
-          "views": null
+          "views": 44,
+          "posted_at": "2026-09-01T05:47:01.975+00:00"
         }
       ]
     },
@@ -5957,6 +5983,66 @@
         {
           "scheduled_at": "2026-09-03T19:52:00+09:00",
           "registered_at": "2026-08-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ffa692c47e": {
+      "text": "絶対に気をつけるべき、復縁を遠ざけてしまう行動はマジでこれだけなのよ。それは『元彼のインスタを覗くこと』。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-04T16:33:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_37ac984c90": {
+      "text": "男が別れを決めるとき、『冷めた』より圧倒的に多いのが『愛が強くなりすぎた』なのよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-05T11:08:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5a2e49c215": {
+      "text": "男性にとって『振ったけど戻りたくなる元カノ』は特別すぎるのよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-06T14:42:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_32d1443b8a": {
+      "text": "復縁したあと一番長続きしてるのって、決まって『男が頭下げて戻ってきた』やつなのよ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-06T16:33:00+09:00",
+          "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4fe986ae32": {
+      "text": "『本当に好きなら手放さない』はウソなのよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-03",
+      "history": [
+        {
+          "scheduled_at": "2026-09-06T19:52:00+09:00",
+          "registered_at": "2026-09-03",
           "views": null
         }
       ]
