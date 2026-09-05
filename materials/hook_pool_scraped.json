@@ -1561,7 +1561,8 @@
       "used_by": {
         "うみこ": "2026-08-19",
         "ヒロ": "2026-08-22",
-        "ハカセ": "2026-08-25"
+        "ハカセ": "2026-08-25",
+        "かれん": "2026-09-05"
       },
       "results": {
         "うみこ": {
@@ -10426,7 +10427,8 @@
       "source_handle": "nagikoi1",
       "collected_at": "2026-07-31",
       "used_by": {
-        "あや": "2026-08-07"
+        "あや": "2026-08-07",
+        "かれん": "2026-09-05"
       },
       "results": {}
     },
@@ -10566,7 +10568,8 @@
       "source_handle": "karen_fukuen",
       "collected_at": "2026-07-31",
       "used_by": {
-        "みき": "2026-08-07"
+        "みき": "2026-08-07",
+        "かれん": "2026-09-05"
       },
       "results": {}
     },
@@ -12155,7 +12158,10 @@
       "likes": 19,
       "source": "https://x.com/nagikoi1/status/2075541910975107200",
       "source_handle": "nagikoi1",
-      "collected_at": "2026-07-31"
+      "collected_at": "2026-07-31",
+      "used_by": {
+        "かれん": "2026-09-05"
+      }
     },
     {
       "pool_id": "hp_0cc0578f6c",
@@ -12187,7 +12193,10 @@
       "likes": 3,
       "source": "https://x.com/nagikoi1/status/2075420426206134780",
       "source_handle": "nagikoi1",
-      "collected_at": "2026-07-31"
+      "collected_at": "2026-07-31",
+      "used_by": {
+        "かれん": "2026-09-05"
+      }
     },
     {
       "pool_id": "hp_aad2adbb1a",
@@ -12256,7 +12265,10 @@
       "likes": 16,
       "source": "https://x.com/LHubrig65806/status/2060679528482316302",
       "source_handle": "LHubrig65806",
-      "collected_at": "2026-07-31"
+      "collected_at": "2026-07-31",
+      "used_by": {
+        "かれん": "2026-09-05"
+      }
     },
     {
       "pool_id": "hp_6cc85785b0",
@@ -17439,5 +17451,5 @@
       "collected_at": "2026-08-19"
     }
   ],
-  "updated_at": "2026-09-03T10:23:37.845972+09:00"
+  "updated_at": "2026-09-05T09:10:32.353646+09:00"
 }
