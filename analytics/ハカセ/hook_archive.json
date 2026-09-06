@@ -24,6 +24,11 @@
           "scheduled_at": "2026-09-04T19:52:00+09:00",
           "registered_at": "2026-09-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-07T21:47:00+09:00",
+          "registered_at": "2026-09-06",
+          "views": null
         }
       ]
     },
@@ -356,6 +361,11 @@
           "scheduled_at": "2026-09-05T21:47:00+09:00",
           "registered_at": "2026-09-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-08T21:47:00+09:00",
+          "registered_at": "2026-09-06",
+          "views": null
         }
       ]
     },
@@ -670,6 +680,11 @@
         {
           "scheduled_at": "2026-09-05T19:52:00+09:00",
           "registered_at": "2026-09-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-08T11:08:00+09:00",
+          "registered_at": "2026-09-06",
           "views": null
         }
       ]
@@ -1027,6 +1042,11 @@
           "scheduled_at": "2026-09-04T21:47:00+09:00",
           "registered_at": "2026-09-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-07T19:52:00+09:00",
+          "registered_at": "2026-09-06",
+          "views": null
         }
       ]
     },
@@ -1131,6 +1151,11 @@
         {
           "scheduled_at": "2026-09-05T11:08:00+09:00",
           "registered_at": "2026-09-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-09T11:08:00+09:00",
+          "registered_at": "2026-09-06",
           "views": null
         }
       ]
@@ -1249,6 +1274,11 @@
         {
           "scheduled_at": "2026-09-05T14:42:00+09:00",
           "registered_at": "2026-09-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-08T14:42:00+09:00",
+          "registered_at": "2026-09-06",
           "views": null
         }
       ]
@@ -1467,6 +1497,11 @@
         {
           "scheduled_at": "2026-07-25T22:17:00+09:00",
           "registered_at": "2026-07-23",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-09T14:42:00+09:00",
+          "registered_at": "2026-09-06",
           "views": null
         }
       ]
@@ -3288,6 +3323,11 @@
           "scheduled_at": "2026-09-04T16:33:00+09:00",
           "registered_at": "2026-09-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-07T16:33:00+09:00",
+          "registered_at": "2026-09-06",
+          "views": null
         }
       ]
     },
@@ -4823,6 +4863,11 @@
           "scheduled_at": "2026-08-22T19:52:00+09:00",
           "registered_at": "2026-08-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-09T16:33:00+09:00",
+          "registered_at": "2026-09-06",
+          "views": null
         }
       ]
     },
@@ -5139,7 +5184,8 @@
         {
           "scheduled_at": "2026-09-03T14:42:00+09:00",
           "registered_at": "2026-08-31",
-          "views": null
+          "views": 2,
+          "posted_at": "2026-09-03T05:46:02.792+00:00"
         }
       ]
     },
@@ -5199,6 +5245,42 @@
         {
           "scheduled_at": "2026-09-06T19:52:00+09:00",
           "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a1d7c9140f": {
+      "text": "振った側の男だから言うけどさ、別れた日は『もう会うこともないだろうな』って本気で思ってたんだよね。\n・連絡先もそのまま",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-06",
+      "history": [
+        {
+          "scheduled_at": "2026-09-07T14:42:00+09:00",
+          "registered_at": "2026-09-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fd312d70cc": {
+      "text": "復縁の正解は「3週間動かない」、例外なく効いた。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-06",
+      "history": [
+        {
+          "scheduled_at": "2026-09-08T19:52:00+09:00",
+          "registered_at": "2026-09-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f592516664": {
+      "text": "男の「もう無理」は、気持ちが消えた合図じゃない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-06",
+      "history": [
+        {
+          "scheduled_at": "2026-09-09T19:52:00+09:00",
+          "registered_at": "2026-09-06",
           "views": null
         }
       ]

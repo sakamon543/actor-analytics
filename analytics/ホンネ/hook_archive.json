@@ -100,6 +100,11 @@
           "scheduled_at": "2026-07-24T19:17:00+09:00",
           "registered_at": "2026-07-23",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-07T21:47:00+09:00",
+          "registered_at": "2026-09-06",
+          "views": null
         }
       ]
     },
@@ -252,6 +257,11 @@
         {
           "scheduled_at": "2026-09-06T11:08:00+09:00",
           "registered_at": "2026-09-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-08T14:42:00+09:00",
+          "registered_at": "2026-09-06",
           "views": null
         }
       ]
@@ -633,6 +643,11 @@
           "scheduled_at": "2026-09-04T19:52:00+09:00",
           "registered_at": "2026-09-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-07T14:42:00+09:00",
+          "registered_at": "2026-09-06",
+          "views": null
         }
       ]
     },
@@ -832,6 +847,11 @@
         {
           "scheduled_at": "2026-09-03T11:08:00+09:00",
           "registered_at": "2026-08-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-09T14:42:00+09:00",
+          "registered_at": "2026-09-06",
           "views": null
         }
       ]
@@ -1384,6 +1404,11 @@
           "scheduled_at": "2026-09-06T16:33:00+09:00",
           "registered_at": "2026-09-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-09T11:08:00+09:00",
+          "registered_at": "2026-09-06",
+          "views": null
         }
       ]
     },
@@ -1535,6 +1560,11 @@
         {
           "scheduled_at": "2026-09-05T19:52:00+09:00",
           "registered_at": "2026-09-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-08T11:08:00+09:00",
+          "registered_at": "2026-09-06",
           "views": null
         }
       ]
@@ -1834,6 +1864,11 @@
         {
           "scheduled_at": "2026-09-05T11:08:00+09:00",
           "registered_at": "2026-09-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-07T19:52:00+09:00",
+          "registered_at": "2026-09-06",
           "views": null
         }
       ]
@@ -2872,6 +2907,11 @@
         {
           "scheduled_at": "2026-09-04T16:33:00+09:00",
           "registered_at": "2026-09-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-07T16:33:00+09:00",
+          "registered_at": "2026-09-06",
           "views": null
         }
       ]
@@ -5101,6 +5141,54 @@
         {
           "scheduled_at": "2026-09-06T19:52:00+09:00",
           "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_49843f7b19": {
+      "text": "男は、「毎日話してる＝意識されてる」とは思っていない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-06",
+      "history": [
+        {
+          "scheduled_at": "2026-09-08T19:52:00+09:00",
+          "registered_at": "2026-09-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_77291f9725": {
+      "text": "実は、年下の男性が本気になる確率って年上女性相手の方がめちゃくちゃ高い。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-06",
+      "history": [
+        {
+          "scheduled_at": "2026-09-08T21:47:00+09:00",
+          "registered_at": "2026-09-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_50283a78e0": {
+      "text": "彼に「今日なんか話しかけてこないね」って言わせる構造、男目線で言うとシンプルなんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-06",
+      "history": [
+        {
+          "scheduled_at": "2026-09-09T16:33:00+09:00",
+          "registered_at": "2026-09-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1e6c2feb49": {
+      "text": "意外かもだけど、男は『年上の女性に近づいたと思ったら距離を置かれる』と意識し始める生き物。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-06",
+      "history": [
+        {
+          "scheduled_at": "2026-09-09T19:52:00+09:00",
+          "registered_at": "2026-09-06",
           "views": null
         }
       ]

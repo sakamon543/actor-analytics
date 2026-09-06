@@ -114,8 +114,8 @@
       "first_seen_views": 5977,
       "first_seen_at": "2026-08-02T13:22:11.275+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-08-04T09:39:15.980957+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-09-06T09:23:48.587473+09:00",
       "sales_followed": true
     },
     "rcyc_ba271f2761": {
@@ -125,8 +125,8 @@
       "first_seen_views": 2345,
       "first_seen_at": "2026-07-31T09:08:53.554+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-08-04T09:39:15.980957+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-09-06T09:23:48.587473+09:00",
       "sales_followed": true
     },
     "rcyc_bcbedfdb73": {
@@ -136,8 +136,8 @@
       "first_seen_views": 2015,
       "first_seen_at": "2026-07-31T10:24:36.524+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-08-04T09:39:15.980957+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-09-06T09:23:48.587473+09:00",
       "sales_followed": true
     },
     "rcyc_9e2c2a8127": {
@@ -270,7 +270,18 @@
       "used_count": 1,
       "last_used_at": "2026-08-31T09:25:04.297294+09:00",
       "sales_followed": false
+    },
+    "rcyc_5566d8092d": {
+      "recycle_id": "rcyc_5566d8092d",
+      "text": "振った側の男だから言うけど、別れた日は「もう会うこともないだろうな」って思ってた。\n・連絡先もそのまま\n消さないのは未練でも優しさでもなくて、その時はまだ何も決めてなかっただけです。今のあなたが送ろうとしてる長い文章が、その決めてない彼を『もう無理』の側に倒します。",
+      "thread": [],
+      "first_seen_views": 2053,
+      "first_seen_at": "2026-08-30T10:56:22.37+00:00",
+      "status": "ready",
+      "used_count": 0,
+      "last_used_at": null,
+      "sales_followed": false
     }
   },
-  "updated_at": "2026-09-03T09:20:34.603349+09:00"
+  "updated_at": "2026-09-06T09:23:48.587473+09:00"
 }

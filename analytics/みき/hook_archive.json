@@ -1751,6 +1751,11 @@
           "scheduled_at": "2026-09-04T21:47:00+09:00",
           "registered_at": "2026-09-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-07T21:47:00+09:00",
+          "registered_at": "2026-09-06",
+          "views": null
         }
       ]
     },
@@ -1787,6 +1792,11 @@
         {
           "scheduled_at": "2026-09-06T16:33:00+09:00",
           "registered_at": "2026-09-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-07T16:33:00+09:00",
+          "registered_at": "2026-09-06",
           "views": null
         }
       ]
@@ -1928,6 +1938,16 @@
         {
           "scheduled_at": "2026-09-05T21:47:00+09:00",
           "registered_at": "2026-09-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-07T14:42:00+09:00",
+          "registered_at": "2026-09-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-09T11:08:00+09:00",
+          "registered_at": "2026-09-06",
           "views": null
         }
       ]
@@ -2409,6 +2429,102 @@
         {
           "scheduled_at": "2026-09-06T19:52:00+09:00",
           "registered_at": "2026-09-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_71d7dc7340": {
+      "text": "バレたらどうしようで動けないなら、この数字を見てください。職場恋愛を隠して付き合ってる人は83.7%です。",
+      "structure_label": "数字型・反転希望型",
+      "first_used_at": "2026-09-06",
+      "history": [
+        {
+          "scheduled_at": "2026-09-07T19:52:00+09:00",
+          "registered_at": "2026-09-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8f9a34afd9": {
+      "text": "好きな人ほど自分から誘うべき、って思ってませんか。年下後輩相手だと、実は「自分から誘わない」方がうまくいきます。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-06",
+      "history": [
+        {
+          "scheduled_at": "2026-09-08T11:08:00+09:00",
+          "registered_at": "2026-09-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3d7db9ff0e": {
+      "text": "年下後輩が動かない理由は「興味がない」より、『どうせ相手にされない』の方が圧倒的に多いです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-06",
+      "history": [
+        {
+          "scheduled_at": "2026-09-08T14:42:00+09:00",
+          "registered_at": "2026-09-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e55dc40e41": {
+      "text": "年下後輩の「先輩」呼びは、女として見てないサインじゃないです。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-06",
+      "history": [
+        {
+          "scheduled_at": "2026-09-08T19:52:00+09:00",
+          "registered_at": "2026-09-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4af8b82d4a": {
+      "text": "これあまり言いたくないんですけど、裏で「あの先輩、普通にタイプ」って言ってる年下男子はめちゃくちゃいます。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-06",
+      "history": [
+        {
+          "scheduled_at": "2026-09-08T21:47:00+09:00",
+          "registered_at": "2026-09-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2c76172e59": {
+      "text": "職場の飲み会で彼の隣をキープするのは、いちばん距離が遠のく行動です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-06",
+      "history": [
+        {
+          "scheduled_at": "2026-09-09T14:42:00+09:00",
+          "registered_at": "2026-09-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6211b5e301": {
+      "text": "年下男性は年齢じゃなくて一緒にいて楽かどうかで見てるので、4歳差くらいで諦めなくていいです。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-06",
+      "history": [
+        {
+          "scheduled_at": "2026-09-09T16:33:00+09:00",
+          "registered_at": "2026-09-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a63ca65554": {
+      "text": "年下後輩が誘ってこないのは、脈がないからじゃなくて「断られたら明日から気まずい」からです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-06",
+      "history": [
+        {
+          "scheduled_at": "2026-09-09T19:52:00+09:00",
+          "registered_at": "2026-09-06",
           "views": null
         }
       ]
