@@ -885,6 +885,11 @@
           "scheduled_at": "2026-09-01T14:42:00+09:00",
           "registered_at": "2026-08-30",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-09T21:47:00+09:00",
+          "registered_at": "2026-09-08",
+          "views": null
         }
       ]
     },
@@ -935,6 +940,11 @@
         {
           "scheduled_at": "2026-08-16T22:17:00+09:00",
           "registered_at": "2026-08-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-10T14:42:00+09:00",
+          "registered_at": "2026-09-08",
           "views": null
         }
       ]
@@ -1259,6 +1269,11 @@
           "scheduled_at": "2026-08-18T20:28:00+09:00",
           "registered_at": "2026-08-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-11T14:42:00+09:00",
+          "registered_at": "2026-09-08",
+          "views": null
         }
       ]
     },
@@ -1363,6 +1378,11 @@
         {
           "scheduled_at": "2026-08-31T19:52:00+09:00",
           "registered_at": "2026-08-30",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-09T16:33:00+09:00",
+          "registered_at": "2026-09-08",
           "views": null
         }
       ]
@@ -1897,7 +1917,8 @@
         {
           "scheduled_at": "2026-08-23T11:08:00+09:00",
           "registered_at": "2026-08-21",
-          "views": null
+          "views": 2,
+          "posted_at": "2026-09-02T02:13:25.966+00:00"
         },
         {
           "scheduled_at": "2026-08-25T16:33:00+09:00",
@@ -2313,6 +2334,11 @@
           "scheduled_at": "2026-09-07T11:08:00+09:00",
           "registered_at": "2026-09-05",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-11T11:08:00+09:00",
+          "registered_at": "2026-09-08",
+          "views": null
         }
       ]
     },
@@ -2396,6 +2422,90 @@
         {
           "scheduled_at": "2026-09-08T16:33:00+09:00",
           "registered_at": "2026-09-05",
+          "views": null
+        }
+      ]
+    },
+    "fookid_560479ec67": {
+      "text": "｢元彼は死んだ｣と思うと復縁に近づきます。これは、「彼がもうこの世に存在しないと思い込んで、完全に執着を手放す」という意味です。なぜそんな極端な発想が、むしろ復縁を近づけるのか。ここには、男性心理のリアルな構造があります。男性って、",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-08",
+      "history": [
+        {
+          "scheduled_at": "2026-09-09T14:42:00+09:00",
+          "registered_at": "2026-09-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8584990809": {
+      "text": "復縁の確率がほぼ0の絶望的な状況っていうのは基本無いです。むしろ、ほとんどの人が｢絶望的だ｣と思ってる状態って別に大したことなくて全然復縁可能な状態のことが多いです。例えば、『LINEが無視されてる』とかって全然問題なかったりします。なぜなら、",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-08",
+      "history": [
+        {
+          "scheduled_at": "2026-09-09T19:52:00+09:00",
+          "registered_at": "2026-09-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2359b04003": {
+      "text": "男がなかなか復縁しない理由ってこれなんですよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-08",
+      "history": [
+        {
+          "scheduled_at": "2026-09-10T11:08:00+09:00",
+          "registered_at": "2026-09-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d831c971f3": {
+      "text": "復縁したいなら「友達でもいい」みたいな中途半端な考えはやめるべき。セフレでもいいから繋がってたい、みたいな気持ちで接してたら本当にセフレ止まりだし、いつでも切られる状態が続くってこと。セフレでもいいと妥協した時点でセフレ以上の関係はありえないし、絶対に復縁なんて叶わない。だから",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-08",
+      "history": [
+        {
+          "scheduled_at": "2026-09-10T19:52:00+09:00",
+          "registered_at": "2026-09-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f9a8b1792c": {
+      "text": "ブロックされても復縁はできる。私が証拠なんだよね。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-08",
+      "history": [
+        {
+          "scheduled_at": "2026-09-10T21:47:00+09:00",
+          "registered_at": "2026-09-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0fe557a165": {
+      "text": "男がすぐに復縁しない理由ってこれです",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-08",
+      "history": [
+        {
+          "scheduled_at": "2026-09-11T16:33:00+09:00",
+          "registered_at": "2026-09-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_96a614101a": {
+      "text": "元彼の沈黙は『気持ちがない証拠』じゃないんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-08",
+      "history": [
+        {
+          "scheduled_at": "2026-09-11T19:52:00+09:00",
+          "registered_at": "2026-09-08",
           "views": null
         }
       ]
