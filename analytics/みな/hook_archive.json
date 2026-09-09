@@ -40,6 +40,11 @@
           "scheduled_at": "2026-08-31T14:42:00+09:00",
           "registered_at": "2026-08-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-11T14:42:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
         }
       ]
     },
@@ -231,6 +236,11 @@
           "scheduled_at": "2026-09-07T14:42:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-10T14:42:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
         }
       ]
     },
@@ -286,6 +296,11 @@
           "scheduled_at": "2026-09-09T11:08:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-11T11:08:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
         }
       ]
     },
@@ -335,6 +350,11 @@
         {
           "scheduled_at": "2026-09-02T14:42:00+09:00",
           "registered_at": "2026-08-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-11T21:47:00+09:00",
+          "registered_at": "2026-09-09",
           "views": null
         }
       ]
@@ -436,6 +456,11 @@
         {
           "scheduled_at": "2026-09-08T19:52:00+09:00",
           "registered_at": "2026-09-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-10T21:47:00+09:00",
+          "registered_at": "2026-09-09",
           "views": null
         }
       ]
@@ -1254,6 +1279,11 @@
           "scheduled_at": "2026-09-08T11:08:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-10T16:33:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
         }
       ]
     },
@@ -1301,6 +1331,11 @@
           "scheduled_at": "2026-09-02T21:47:00+09:00",
           "registered_at": "2026-08-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-12T11:08:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
         }
       ]
     },
@@ -1324,6 +1359,11 @@
         {
           "scheduled_at": "2026-08-06T21:03:00+09:00",
           "registered_at": "2026-08-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-12T14:42:00+09:00",
+          "registered_at": "2026-09-09",
           "views": null
         }
       ]
@@ -1384,6 +1424,11 @@
         {
           "scheduled_at": "2026-09-07T19:52:00+09:00",
           "registered_at": "2026-09-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-10T19:52:00+09:00",
+          "registered_at": "2026-09-09",
           "views": null
         }
       ]
@@ -2240,7 +2285,8 @@
         {
           "scheduled_at": "2026-09-08T21:47:00+09:00",
           "registered_at": "2026-09-06",
-          "views": null
+          "views": 2,
+          "posted_at": "2026-09-08T12:51:26.287+00:00"
         }
       ]
     },
@@ -2264,6 +2310,42 @@
         {
           "scheduled_at": "2026-09-09T16:33:00+09:00",
           "registered_at": "2026-09-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_166a71d223": {
+      "text": "2回目に誘われる人と、誘われない人の差は、可愛さでも会話の上手さでもありません。『この子、ちゃんとこっち見てるな』と思われたかどうか。それだけでした。旦那にそう言われたのは、結婚してからです🌷",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-11T19:52:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1829004dce": {
+      "text": "『ときめかない』は、理想が高いサインじゃないです。同時進行で心が分散して、ときめける状態じゃなくなってるだけ。人数を減らせば、同じ人に同じように会っても感じ方は変わります。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-12T16:33:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f31867177d": {
+      "text": "結局、3ヶ月で決まる人って『会う前に人数の上限を決めている人』です。上限がないと、いい人が現れるたびに枠が増えて、一人あたりの熱量が薄まっていく。決められないのは選ぶ力じゃなくて、人数の決め方の問題です。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-12T19:52:00+09:00",
+          "registered_at": "2026-09-09",
           "views": null
         }
       ]

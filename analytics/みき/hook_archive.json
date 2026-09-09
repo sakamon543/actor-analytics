@@ -1756,6 +1756,11 @@
           "scheduled_at": "2026-09-07T21:47:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-11T11:08:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
         }
       ]
     },
@@ -1798,6 +1803,11 @@
           "scheduled_at": "2026-09-07T16:33:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-10T16:33:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
         }
       ]
     },
@@ -1826,6 +1836,11 @@
         {
           "scheduled_at": "2026-09-02T11:08:00+09:00",
           "registered_at": "2026-08-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-10T21:47:00+09:00",
+          "registered_at": "2026-09-09",
           "views": null
         }
       ]
@@ -2525,6 +2540,114 @@
         {
           "scheduled_at": "2026-09-09T19:52:00+09:00",
           "registered_at": "2026-09-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e5ce7834c9": {
+      "text": "後輩に「彼氏いないんですか？」って聞かれて「いないですよー」で流してる人、それ脈ありの探りを自分で潰してるんですよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-10T14:42:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_353a441e4d": {
+      "text": "職場の年下後輩を好きになった人へ。バレたらどうしようという不安で動けないなら、職場恋愛を隠して付き合ってる人が83.7%という数字を見てください。",
+      "structure_label": "数字型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-10T19:52:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1898793f0b": {
+      "text": "年下の後輩が動かないのは、あなたに興味がないからじゃなくて「どうせ相手にされない」と思い込んでいるからです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-11T14:42:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ba09d370e6": {
+      "text": "話しかける回数を増やせば距離が縮まる、って思ってませんか。年下後輩相手だと、実は話しかけない日を作った方が向こうから来ます。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-11T19:52:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fd17895b71": {
+      "text": "後輩から「彼氏いないんですか？」を2回以上聞かれているなら、それは雑談じゃなくて確認です。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-11T21:47:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fa64d0bf20": {
+      "text": "職場のランチは大チャンスですけど、2人になりそうな時に「みんなで行きましょう」と他の人を巻き込むのは逆効果です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-12T11:08:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f13c397e80": {
+      "text": "年下の後輩は、あなたを最初から恋愛対象として見ています。若いか若くないかで見ていません。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-12T14:42:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2b3e614c50": {
+      "text": "年下の後輩は、「4歳上だから無理」とは思っていません。思っているのは「先輩に相手にされるわけない」の方です。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-12T16:33:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9d761c62d1": {
+      "text": "結局、年下から告白される人って『年齢の話を自分からしない人』なんです。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-12T19:52:00+09:00",
+          "registered_at": "2026-09-09",
           "views": null
         }
       ]

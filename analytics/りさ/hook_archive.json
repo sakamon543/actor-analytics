@@ -197,6 +197,11 @@
           "scheduled_at": "2026-09-07T16:33:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-10T14:42:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
         }
       ]
     },
@@ -452,6 +457,11 @@
           "scheduled_at": "2026-09-08T21:47:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-11T14:42:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
         }
       ]
     },
@@ -546,6 +556,11 @@
           "scheduled_at": "2026-09-09T14:42:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-11T11:08:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
         }
       ]
     },
@@ -579,7 +594,8 @@
         {
           "scheduled_at": "2026-07-28T11:08:00+09:00",
           "registered_at": "2026-07-26",
-          "views": null
+          "views": 3557,
+          "posted_at": "2026-09-02T12:51:33.133+00:00"
         },
         {
           "scheduled_at": "2026-07-30T20:28:00+09:00",
@@ -1004,6 +1020,11 @@
           "scheduled_at": "2026-09-07T21:47:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-10T19:52:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
         }
       ]
     },
@@ -1249,6 +1270,16 @@
           "scheduled_at": "2026-09-08T11:08:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-10T16:33:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-12T16:33:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
         }
       ]
     },
@@ -1484,6 +1515,11 @@
         {
           "scheduled_at": "2026-09-08T19:52:00+09:00",
           "registered_at": "2026-09-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-10T21:47:00+09:00",
+          "registered_at": "2026-09-09",
           "views": null
         }
       ]
@@ -1764,6 +1800,11 @@
           "registered_at": "2026-08-16",
           "views": 6133,
           "posted_at": "2026-08-19T02:15:19.345+00:00"
+        },
+        {
+          "scheduled_at": "2026-09-12T11:08:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
         }
       ]
     },
@@ -2076,6 +2117,54 @@
         {
           "scheduled_at": "2026-09-09T19:52:00+09:00",
           "registered_at": "2026-09-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1ecf7a41ce": {
+      "text": "年下男子の距離感は、興味がないサインじゃないんです。むしろ逆で、あなたに惹かれ始めた彼ほど一回距離を置きます。『年上にがっついたらダサい』『重いって思われたくない』って、彼の中でブレーキを踏んでるだけ。そっけない返信の裏で、指は動きたがってます。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-11T19:52:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_61ede7e80b": {
+      "text": "意外かもだけど、年下男子は『年上がふっと弱音をこぼした瞬間に落ちる』生き物。完璧に見えてる間は、そもそも手を伸ばす発想すら出てこないんです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-11T21:47:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9f4deaed0c": {
+      "text": "年下男子は、「よく気がつく年上」を恋愛対象だとは思っていない",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-12T14:42:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2fd9320898": {
+      "text": "「年上なんだから余裕を見せなきゃ」はウソ。その余裕が、彼に『この人、俺いなくても平気そう』って思わせてます。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-12T19:52:00+09:00",
+          "registered_at": "2026-09-09",
           "views": null
         }
       ]

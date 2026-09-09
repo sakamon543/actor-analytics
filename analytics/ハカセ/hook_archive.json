@@ -1047,6 +1047,11 @@
           "scheduled_at": "2026-09-07T19:52:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-10T21:47:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
         }
       ]
     },
@@ -1156,6 +1161,11 @@
         {
           "scheduled_at": "2026-09-09T11:08:00+09:00",
           "registered_at": "2026-09-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-12T11:08:00+09:00",
+          "registered_at": "2026-09-09",
           "views": null
         }
       ]
@@ -1279,6 +1289,11 @@
         {
           "scheduled_at": "2026-09-08T14:42:00+09:00",
           "registered_at": "2026-09-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-11T19:52:00+09:00",
+          "registered_at": "2026-09-09",
           "views": null
         }
       ]
@@ -3328,6 +3343,11 @@
           "scheduled_at": "2026-09-07T16:33:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-10T19:52:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
         }
       ]
     },
@@ -4868,6 +4888,11 @@
           "scheduled_at": "2026-09-09T16:33:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-12T16:33:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
         }
       ]
     },
@@ -5281,6 +5306,54 @@
         {
           "scheduled_at": "2026-09-09T19:52:00+09:00",
           "registered_at": "2026-09-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6340d5318a": {
+      "text": "振った側の男だから言うけど、別れたあと『俺のことまだ好きなんだろうな』ってどこかで勝手に思ってた時期があるんだよね。\n・別れ際に泣いてた",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-10T16:33:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_90992b1456": {
+      "text": "振った側の男だから言うけど、別れた日は『もう会うこともないだろうな』って思ってたんだよね。\n・連絡先もそのまま",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-11T11:08:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_36b4b2e7fb": {
+      "text": "元カレとの関係、一度ちゃんとリセットした方がいい人が実際にいる。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-11T21:47:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_50b789e186": {
+      "text": "男の別れ際の「もう無理」は、嫌いになった合図じゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-12T19:52:00+09:00",
+          "registered_at": "2026-09-09",
           "views": null
         }
       ]

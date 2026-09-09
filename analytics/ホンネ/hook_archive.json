@@ -105,6 +105,11 @@
           "scheduled_at": "2026-09-07T21:47:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-11T21:47:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
         }
       ]
     },
@@ -262,6 +267,11 @@
         {
           "scheduled_at": "2026-09-08T14:42:00+09:00",
           "registered_at": "2026-09-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-10T19:52:00+09:00",
+          "registered_at": "2026-09-09",
           "views": null
         }
       ]
@@ -648,6 +658,11 @@
           "scheduled_at": "2026-09-07T14:42:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-10T16:33:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
         }
       ]
     },
@@ -852,6 +867,11 @@
         {
           "scheduled_at": "2026-09-09T14:42:00+09:00",
           "registered_at": "2026-09-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-11T11:08:00+09:00",
+          "registered_at": "2026-09-09",
           "views": null
         }
       ]
@@ -1409,6 +1429,11 @@
           "scheduled_at": "2026-09-09T11:08:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-12T16:33:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
         }
       ]
     },
@@ -1565,6 +1590,11 @@
         {
           "scheduled_at": "2026-09-08T11:08:00+09:00",
           "registered_at": "2026-09-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-11T19:52:00+09:00",
+          "registered_at": "2026-09-09",
           "views": null
         }
       ]
@@ -2912,6 +2942,11 @@
         {
           "scheduled_at": "2026-09-07T16:33:00+09:00",
           "registered_at": "2026-09-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-10T21:47:00+09:00",
+          "registered_at": "2026-09-09",
           "views": null
         }
       ]
@@ -5189,6 +5224,30 @@
         {
           "scheduled_at": "2026-09-09T19:52:00+09:00",
           "registered_at": "2026-09-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_17a3945fdd": {
+      "text": "彼が既読つけたまま返さない時、女性側が2通目を送ると、男目線では完全に逃がす動きになるんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-12T11:08:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_35a48f41ce": {
+      "text": "男の本音を言うと、丁寧に接してくる年上は同僚のまま終わる",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-12T19:52:00+09:00",
+          "registered_at": "2026-09-09",
           "views": null
         }
       ]

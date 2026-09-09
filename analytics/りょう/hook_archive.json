@@ -152,6 +152,21 @@
           "scheduled_at": "2026-09-09T16:33:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-10T14:42:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-11T14:42:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-12T14:42:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
         }
       ]
     },
@@ -250,6 +265,11 @@
         {
           "scheduled_at": "2026-09-08T11:08:00+09:00",
           "registered_at": "2026-09-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-11T11:08:00+09:00",
+          "registered_at": "2026-09-09",
           "views": null
         }
       ]
@@ -385,6 +405,11 @@
         {
           "scheduled_at": "2026-09-09T19:52:00+09:00",
           "registered_at": "2026-09-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-10T19:52:00+09:00",
+          "registered_at": "2026-09-09",
           "views": null
         }
       ]
@@ -1341,6 +1366,11 @@
           "scheduled_at": "2026-09-07T16:33:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-10T16:33:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
         }
       ]
     },
@@ -1907,6 +1937,11 @@
           "scheduled_at": "2026-09-07T21:47:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-10T21:47:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
         }
       ]
     },
@@ -2141,7 +2176,8 @@
         {
           "scheduled_at": "2026-09-06T11:08:00+09:00",
           "registered_at": "2026-09-03",
-          "views": null
+          "views": 10,
+          "posted_at": "2026-09-06T02:15:15.208+00:00"
         }
       ]
     },
@@ -2177,6 +2213,66 @@
         {
           "scheduled_at": "2026-09-09T14:42:00+09:00",
           "registered_at": "2026-09-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ddb1444b6a": {
+      "text": "「2回目に誘われた＝脈あり」はウソ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-11T19:52:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ac0129f75f": {
+      "text": "「また会おうね」と送った日の夜には、もう会わないと決めていました。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-11T21:47:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_49d09efb9b": {
+      "text": "「いい子だった」で消される子が一番多い。悪いところが無いことと、最後まで残ることは別。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-12T11:08:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cd5ed31bd7": {
+      "text": "マチアプ3年で100人以上と会って、そのほとんどを俺から切りました。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-12T16:33:00+09:00",
+          "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0c3909cc0f": {
+      "text": "男は、「一番いい子を選ぶ」とは思っていない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-09",
+      "history": [
+        {
+          "scheduled_at": "2026-09-12T19:52:00+09:00",
+          "registered_at": "2026-09-09",
           "views": null
         }
       ]
