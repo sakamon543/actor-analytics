@@ -55,6 +55,11 @@
           "scheduled_at": "2026-09-06T16:33:00+09:00",
           "registered_at": "2026-09-05",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-12T21:47:00+09:00",
+          "registered_at": "2026-09-11",
+          "views": null
         }
       ]
     },
@@ -221,6 +226,11 @@
         {
           "scheduled_at": "2026-07-24T20:28:00+09:00",
           "registered_at": "2026-07-23",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-13T14:42:00+09:00",
+          "registered_at": "2026-09-11",
           "views": null
         }
       ]
@@ -403,6 +413,11 @@
           "registered_at": "2026-07-26",
           "views": 2210,
           "posted_at": "2026-07-27T13:26:57.803+00:00"
+        },
+        {
+          "scheduled_at": "2026-09-13T19:52:00+09:00",
+          "registered_at": "2026-09-11",
+          "views": null
         }
       ]
     },
@@ -587,6 +602,11 @@
         {
           "scheduled_at": "2026-09-07T19:52:00+09:00",
           "registered_at": "2026-09-05",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-12T19:52:00+09:00",
+          "registered_at": "2026-09-11",
           "views": null
         }
       ]
@@ -1185,11 +1205,17 @@
         {
           "scheduled_at": "2026-08-07T19:17:00+09:00",
           "registered_at": "2026-08-04",
-          "views": null
+          "views": 3,
+          "posted_at": "2026-09-04T05:45:31.166+00:00"
         },
         {
           "scheduled_at": "2026-09-08T19:52:00+09:00",
           "registered_at": "2026-09-05",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-13T11:08:00+09:00",
+          "registered_at": "2026-09-11",
           "views": null
         }
       ]
@@ -2244,7 +2270,8 @@
         {
           "scheduled_at": "2026-08-31T21:47:00+09:00",
           "registered_at": "2026-08-30",
-          "views": null
+          "views": 7,
+          "posted_at": "2026-09-04T10:55:40.411+00:00"
         },
         {
           "scheduled_at": "2026-09-04T19:52:00+09:00",
@@ -2274,7 +2301,8 @@
         {
           "scheduled_at": "2026-09-01T21:47:00+09:00",
           "registered_at": "2026-08-30",
-          "views": null
+          "views": 2,
+          "posted_at": "2026-09-05T05:45:48.435+00:00"
         },
         {
           "scheduled_at": "2026-09-05T14:42:00+09:00",
@@ -2328,7 +2356,8 @@
         {
           "scheduled_at": "2026-09-04T21:47:00+09:00",
           "registered_at": "2026-09-02",
-          "views": null
+          "views": 4,
+          "posted_at": "2026-09-04T12:56:16.31+00:00"
         },
         {
           "scheduled_at": "2026-09-07T11:08:00+09:00",
@@ -2506,6 +2535,90 @@
         {
           "scheduled_at": "2026-09-11T19:52:00+09:00",
           "registered_at": "2026-09-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cb374c2c02": {
+      "text": "一方的に振られたら言いたいことも伝えられないし、話し合う時間さえ取ってくれないほど私のことどうでも良くなったんだって思うよね。私も振られた理由が分からず納得できなくて、別れた後も彼にずっと連絡してたんだよね。でも今思うと、あの時の私は彼の気持ちがどう変化していくのかを知らないまま",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-11",
+      "history": [
+        {
+          "scheduled_at": "2026-09-12T14:42:00+09:00",
+          "registered_at": "2026-09-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ebe1dc0a5c": {
+      "text": "別れてからどのぐらい経ったら元彼に連絡してもいいですか😭？？って悩んでいる人は見てみて！",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-11",
+      "history": [
+        {
+          "scheduled_at": "2026-09-12T16:33:00+09:00",
+          "registered_at": "2026-09-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_40073963dd": {
+      "text": "ブロックされても復縁はできるよ。私がその証拠。追いLINE100通と鬼電50回を浴びせて、翌朝ブロックされて、床で泣き崩れたのが私だけど、そこから1ヶ月で彼の方から連絡が来たんだよね🥲",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-11",
+      "history": [
+        {
+          "scheduled_at": "2026-09-13T21:47:00+09:00",
+          "registered_at": "2026-09-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2e4f9ce3f3": {
+      "text": "彼のSNSを見るのがやめられないなら、気合いで我慢しても無理なんだよね。私も別れたあと、サブ垢まで作って1日に何十回も見てた。それでやめられたのは、",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-11",
+      "history": [
+        {
+          "scheduled_at": "2026-09-14T11:08:00+09:00",
+          "registered_at": "2026-09-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_91743f3007": {
+      "text": "重すぎるって振られた私が、重さを直さないまま4週目で戻れたのは今でも不思議なんだよね。結局『重さを消す』じゃなくて『出し方を変える』だけで良かった。あの時無理に軽い女を演じなくて本当に良かったと思う。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-11",
+      "history": [
+        {
+          "scheduled_at": "2026-09-14T14:42:00+09:00",
+          "registered_at": "2026-09-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8737ae287d": {
+      "text": "元彼の沈黙は『気持ちがない証拠』じゃない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-11",
+      "history": [
+        {
+          "scheduled_at": "2026-09-14T16:33:00+09:00",
+          "registered_at": "2026-09-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_59ac4c47c2": {
+      "text": "男は『好きだった相手』と簡単に友達みたいな関係には戻れない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-11",
+      "history": [
+        {
+          "scheduled_at": "2026-09-14T19:52:00+09:00",
+          "registered_at": "2026-09-11",
           "views": null
         }
       ]
