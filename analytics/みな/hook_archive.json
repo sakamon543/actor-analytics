@@ -45,6 +45,11 @@
           "scheduled_at": "2026-09-11T14:42:00+09:00",
           "registered_at": "2026-09-09",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-14T14:42:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
         }
       ]
     },
@@ -241,6 +246,11 @@
           "scheduled_at": "2026-09-10T14:42:00+09:00",
           "registered_at": "2026-09-09",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-13T14:42:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
         }
       ]
     },
@@ -300,6 +310,11 @@
         {
           "scheduled_at": "2026-09-11T11:08:00+09:00",
           "registered_at": "2026-09-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-14T11:08:00+09:00",
+          "registered_at": "2026-09-12",
           "views": null
         }
       ]
@@ -461,6 +476,11 @@
         {
           "scheduled_at": "2026-09-10T21:47:00+09:00",
           "registered_at": "2026-09-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-13T21:47:00+09:00",
+          "registered_at": "2026-09-12",
           "views": null
         }
       ]
@@ -1243,7 +1263,8 @@
         {
           "scheduled_at": "2026-08-05T18:03:00+09:00",
           "registered_at": "2026-08-04",
-          "views": null
+          "views": 1,
+          "posted_at": "2026-09-08T02:14:44.569+00:00"
         },
         {
           "scheduled_at": "2026-08-11T18:03:00+09:00",
@@ -1283,6 +1304,11 @@
         {
           "scheduled_at": "2026-09-10T16:33:00+09:00",
           "registered_at": "2026-09-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-13T16:33:00+09:00",
+          "registered_at": "2026-09-12",
           "views": null
         }
       ]
@@ -1335,6 +1361,11 @@
         {
           "scheduled_at": "2026-09-12T11:08:00+09:00",
           "registered_at": "2026-09-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-15T11:08:00+09:00",
+          "registered_at": "2026-09-12",
           "views": null
         }
       ]
@@ -1429,6 +1460,11 @@
         {
           "scheduled_at": "2026-09-10T19:52:00+09:00",
           "registered_at": "2026-09-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-13T19:52:00+09:00",
+          "registered_at": "2026-09-12",
           "views": null
         }
       ]
@@ -2346,6 +2382,66 @@
         {
           "scheduled_at": "2026-09-12T19:52:00+09:00",
           "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_683e9386ad": {
+      "text": "マッチングアプリで決まらない理由って『可愛くないから』とか『プロフが弱いから』みたいな理由じゃないの。会ってる2時間、心が他の3人に散らばってるのが相手に全部バレてるだけです。減らせば、その日のうちに戻ります。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-12",
+      "history": [
+        {
+          "scheduled_at": "2026-09-14T19:52:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c6f45ef1fa": {
+      "text": "2回目に誘われる人と、誘われない人の差は、可愛さでも会話の上手さでもありません。『この子、ちゃんとこっち見てるな』と思われたかどうか。それだけです。結婚した今の旦那に聞いて、やっと分かりました🌷",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-12",
+      "history": [
+        {
+          "scheduled_at": "2026-09-14T21:47:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5043a5d434": {
+      "text": "決めるなら、疲れる前です。疲れてから正しく選ぶことは、できないからです。私は2年と47人で、疲れ切る一歩手前まで行きました。29歳であの一言をもらえたのは、運が良かっただけです🌷",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-12",
+      "history": [
+        {
+          "scheduled_at": "2026-09-15T14:42:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9b501ec62c": {
+      "text": "男性は、『デートが続いている＝気持ちが進んでいる』とは思っていません。月1で会えているから脈あり、ではないんです。そこが一致しないまま、私は2年で47人と会って0人でした。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-12",
+      "history": [
+        {
+          "scheduled_at": "2026-09-15T16:33:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bbf333b65c": {
+      "text": "結局、3ヶ月で決まる人って『一番いいなと思った一人以外を切れた人』なんです。比べ続けている限り、誰も本命にならないから。私が絞ったのは、会う人数を5人にしてからでした。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-12",
+      "history": [
+        {
+          "scheduled_at": "2026-09-15T19:52:00+09:00",
+          "registered_at": "2026-09-12",
           "views": null
         }
       ]

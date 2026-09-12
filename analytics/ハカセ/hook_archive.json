@@ -366,6 +366,11 @@
           "scheduled_at": "2026-09-08T21:47:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-15T16:33:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
         }
       ]
     },
@@ -685,6 +690,11 @@
         {
           "scheduled_at": "2026-09-08T11:08:00+09:00",
           "registered_at": "2026-09-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-14T11:08:00+09:00",
+          "registered_at": "2026-09-12",
           "views": null
         }
       ]
@@ -1052,6 +1062,11 @@
           "scheduled_at": "2026-09-10T21:47:00+09:00",
           "registered_at": "2026-09-09",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-13T21:47:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
         }
       ]
     },
@@ -1166,6 +1181,11 @@
         {
           "scheduled_at": "2026-09-12T11:08:00+09:00",
           "registered_at": "2026-09-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-14T21:47:00+09:00",
+          "registered_at": "2026-09-12",
           "views": null
         }
       ]
@@ -3348,6 +3368,11 @@
           "scheduled_at": "2026-09-10T19:52:00+09:00",
           "registered_at": "2026-09-09",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-13T19:52:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
         }
       ]
     },
@@ -5354,6 +5379,54 @@
         {
           "scheduled_at": "2026-09-12T19:52:00+09:00",
           "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f049cb3773": {
+      "text": "別れの原因が『男側のキャパオーバー』の場合、1番NGなのが『彼が落ち着くまで待つこと』なんだよね。こういう別れは、彼の気持ちが残ってるからこそ時間勝負。『完全に冷めたから別れる』とは全然違うからだよ。余裕をなくした男が恋愛を手放すときって、彼女への恋愛感情に蓋してるだけだから、",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-12",
+      "history": [
+        {
+          "scheduled_at": "2026-09-13T16:33:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8a6d01163a": {
+      "text": "別れを切り出された次の日に、絶対やっちゃいけない行動がある。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-12",
+      "history": [
+        {
+          "scheduled_at": "2026-09-14T19:52:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9287c1124a": {
+      "text": "男の「もう連絡しないで」は、嫌いになった証拠じゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-12",
+      "history": [
+        {
+          "scheduled_at": "2026-09-15T11:08:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_529dabe11f": {
+      "text": "元カレとの関係、一度ちゃんとリセットした方がいいケースがある。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-12",
+      "history": [
+        {
+          "scheduled_at": "2026-09-15T19:52:00+09:00",
+          "registered_at": "2026-09-12",
           "views": null
         }
       ]

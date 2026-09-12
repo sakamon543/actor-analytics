@@ -167,6 +167,16 @@
           "scheduled_at": "2026-09-12T14:42:00+09:00",
           "registered_at": "2026-09-09",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-13T14:42:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-14T14:42:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
         }
       ]
     },
@@ -270,6 +280,11 @@
         {
           "scheduled_at": "2026-09-11T11:08:00+09:00",
           "registered_at": "2026-09-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-13T21:47:00+09:00",
+          "registered_at": "2026-09-12",
           "views": null
         }
       ]
@@ -410,6 +425,11 @@
         {
           "scheduled_at": "2026-09-10T19:52:00+09:00",
           "registered_at": "2026-09-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-13T19:52:00+09:00",
+          "registered_at": "2026-09-12",
           "views": null
         }
       ]
@@ -1942,6 +1962,11 @@
           "scheduled_at": "2026-09-10T21:47:00+09:00",
           "registered_at": "2026-09-09",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-14T11:08:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
         }
       ]
     },
@@ -2128,6 +2153,11 @@
           "registered_at": "2026-08-31",
           "views": 30,
           "posted_at": "2026-09-03T07:39:25.654+00:00"
+        },
+        {
+          "scheduled_at": "2026-09-13T16:33:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
         }
       ]
     },
@@ -2226,6 +2256,11 @@
           "scheduled_at": "2026-09-11T19:52:00+09:00",
           "registered_at": "2026-09-09",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-14T21:47:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
         }
       ]
     },
@@ -2237,6 +2272,11 @@
         {
           "scheduled_at": "2026-09-11T21:47:00+09:00",
           "registered_at": "2026-09-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-15T16:33:00+09:00",
+          "registered_at": "2026-09-12",
           "views": null
         }
       ]
@@ -2273,6 +2313,54 @@
         {
           "scheduled_at": "2026-09-12T19:52:00+09:00",
           "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_580d7ff23a": {
+      "text": "即レスも、断らないことも、男の中では加点になってません。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-12",
+      "history": [
+        {
+          "scheduled_at": "2026-09-14T19:52:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_18144d3423": {
+      "text": "男は、あなたを選んでるんじゃなくて、消してるだけです。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-12",
+      "history": [
+        {
+          "scheduled_at": "2026-09-15T11:08:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f75748aaf9": {
+      "text": "結局、最後まで残るのは『こっちに合わせてこない子』なんだよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-12",
+      "history": [
+        {
+          "scheduled_at": "2026-09-15T14:42:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_45f6c1323d": {
+      "text": "「いい子だった」で消される子が一番多い。悪いところが無いことと、残ることは別。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-12",
+      "history": [
+        {
+          "scheduled_at": "2026-09-15T19:52:00+09:00",
+          "registered_at": "2026-09-12",
           "views": null
         }
       ]

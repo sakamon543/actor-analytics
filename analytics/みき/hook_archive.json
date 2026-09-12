@@ -1761,6 +1761,11 @@
           "scheduled_at": "2026-09-11T11:08:00+09:00",
           "registered_at": "2026-09-09",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-13T19:52:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
         }
       ]
     },
@@ -1808,6 +1813,11 @@
           "scheduled_at": "2026-09-10T16:33:00+09:00",
           "registered_at": "2026-09-09",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-13T16:33:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
         }
       ]
     },
@@ -1841,6 +1851,11 @@
         {
           "scheduled_at": "2026-09-10T21:47:00+09:00",
           "registered_at": "2026-09-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-15T19:52:00+09:00",
+          "registered_at": "2026-09-12",
           "views": null
         }
       ]
@@ -1963,6 +1978,11 @@
         {
           "scheduled_at": "2026-09-09T11:08:00+09:00",
           "registered_at": "2026-09-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-13T14:42:00+09:00",
+          "registered_at": "2026-09-12",
           "views": null
         }
       ]
@@ -2228,6 +2248,11 @@
         {
           "scheduled_at": "2026-08-30T14:42:00+09:00",
           "registered_at": "2026-08-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-14T11:08:00+09:00",
+          "registered_at": "2026-09-12",
           "views": null
         }
       ]
@@ -2553,6 +2578,11 @@
           "scheduled_at": "2026-09-10T14:42:00+09:00",
           "registered_at": "2026-09-09",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-14T14:42:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
         }
       ]
     },
@@ -2648,6 +2678,78 @@
         {
           "scheduled_at": "2026-09-12T19:52:00+09:00",
           "registered_at": "2026-09-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a38575a8fa": {
+      "text": "年下後輩の『先輩』呼びは、線を引かれてるんじゃなくて、ただの予防線です。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-12",
+      "history": [
+        {
+          "scheduled_at": "2026-09-13T21:47:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_65ed6e09cd": {
+      "text": "好きな人ほど自分から誘うべき、って思ってませんか。年下の後輩相手だと、誘わない方が早いです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-12",
+      "history": [
+        {
+          "scheduled_at": "2026-09-14T19:52:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a9916e43ef": {
+      "text": "年下後輩のそっけない態度は、興味がない証拠じゃないです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-12",
+      "history": [
+        {
+          "scheduled_at": "2026-09-14T21:47:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0c00fcb14c": {
+      "text": "職場恋愛を隠して付き合ってる人は83.7%です。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-12",
+      "history": [
+        {
+          "scheduled_at": "2026-09-15T11:08:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ddb66c4a1e": {
+      "text": "「彼氏いないんですか？」って後輩に聞かれて笑って流した人、あれ探りじゃなくて最後の確認ですからね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-12",
+      "history": [
+        {
+          "scheduled_at": "2026-09-15T14:42:00+09:00",
+          "registered_at": "2026-09-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_00ad914a3f": {
+      "text": "職場の飲み会で彼の隣を2時間キープするのは、いちばんの逆効果です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-12",
+      "history": [
+        {
+          "scheduled_at": "2026-09-15T16:33:00+09:00",
+          "registered_at": "2026-09-12",
           "views": null
         }
       ]
