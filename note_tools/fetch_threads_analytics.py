@@ -56,7 +56,11 @@ def fetch_performance(token, days, limit=50):
         return None
 
     # ai-report 互換に整形
-    summary = raw.get("summary", {}) or {}
+    # データ無しのとき summary は dict でなく文字列（例「該当期間の投稿データがありません」）で
+    # 返るため、dict 以外は空扱いにして .get() クラッシュを防ぐ（2026-09-13・ハクオウで発生）。
+    summary = raw.get("summary")
+    if not isinstance(summary, dict):
+        summary = {}
     return {
         "account_name": raw.get("account"),
         "period_days": days,
