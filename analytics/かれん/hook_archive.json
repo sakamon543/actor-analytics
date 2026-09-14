@@ -910,6 +910,11 @@
           "scheduled_at": "2026-09-09T21:47:00+09:00",
           "registered_at": "2026-09-08",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-15T16:33:00+09:00",
+          "registered_at": "2026-09-14",
+          "views": null
         }
       ]
     },
@@ -965,6 +970,11 @@
         {
           "scheduled_at": "2026-09-10T14:42:00+09:00",
           "registered_at": "2026-09-08",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-17T19:52:00+09:00",
+          "registered_at": "2026-09-14",
           "views": null
         }
       ]
@@ -1300,6 +1310,11 @@
           "scheduled_at": "2026-09-11T14:42:00+09:00",
           "registered_at": "2026-09-08",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-16T21:47:00+09:00",
+          "registered_at": "2026-09-14",
+          "views": null
         }
       ]
     },
@@ -1409,6 +1424,11 @@
         {
           "scheduled_at": "2026-09-09T16:33:00+09:00",
           "registered_at": "2026-09-08",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-15T19:52:00+09:00",
+          "registered_at": "2026-09-14",
           "views": null
         }
       ]
@@ -1735,6 +1755,11 @@
         {
           "scheduled_at": "2026-08-17T19:52:00+09:00",
           "registered_at": "2026-08-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-16T11:08:00+09:00",
+          "registered_at": "2026-09-14",
           "views": null
         }
       ]
@@ -2619,6 +2644,90 @@
         {
           "scheduled_at": "2026-09-14T19:52:00+09:00",
           "registered_at": "2026-09-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8516509876": {
+      "text": "「もう決めたことだからごめんね」って振られたあとに話し合いすらしてもらえなかったなら、まだ彼の中に気持ちが残ってる可能性が高いよ。復縁した彼が言ってたけど、顔を見て話したら決意が揺らぎそうだったから断るんだって。でも本当に冷めたら嫌いになったなら、ちゃんと話をして",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-14",
+      "history": [
+        {
+          "scheduled_at": "2026-09-15T14:42:00+09:00",
+          "registered_at": "2026-09-14",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a25f59ecbc": {
+      "text": "元彼のブロックは『拒絶の最終宣告』じゃない",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-14",
+      "history": [
+        {
+          "scheduled_at": "2026-09-15T21:47:00+09:00",
+          "registered_at": "2026-09-14",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e4653d665d": {
+      "text": "男が別れた後に吹っ切れて見えるのは、喪失感を隠すために平静を装ってるだけなんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-14",
+      "history": [
+        {
+          "scheduled_at": "2026-09-16T14:42:00+09:00",
+          "registered_at": "2026-09-14",
+          "views": null
+        }
+      ]
+    },
+    "fookid_12154bf824": {
+      "text": "ブロックされても復縁はできる。私が証拠。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-14",
+      "history": [
+        {
+          "scheduled_at": "2026-09-16T19:52:00+09:00",
+          "registered_at": "2026-09-14",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3e599b8f58": {
+      "text": "別れてからどのぐらい経ったら元彼に連絡してもいいですか？？って悩んでいる人は見てみて！",
+      "structure_label": "具体策型",
+      "first_used_at": "2026-09-14",
+      "history": [
+        {
+          "scheduled_at": "2026-09-17T11:08:00+09:00",
+          "registered_at": "2026-09-14",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d46435085a": {
+      "text": "元彼のインスタを見るのがやめられないなら、気持ちの強さで我慢しようとしても無理だよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-14",
+      "history": [
+        {
+          "scheduled_at": "2026-09-17T14:42:00+09:00",
+          "registered_at": "2026-09-14",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9d696a8e36": {
+      "text": "『友達からやり直すのが安全』はウソ",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-14",
+      "history": [
+        {
+          "scheduled_at": "2026-09-17T16:33:00+09:00",
+          "registered_at": "2026-09-14",
           "views": null
         }
       ]
