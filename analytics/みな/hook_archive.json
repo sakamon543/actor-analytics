@@ -615,6 +615,11 @@
           "scheduled_at": "2026-08-17T14:42:00+09:00",
           "registered_at": "2026-08-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-16T14:42:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -656,6 +661,11 @@
         {
           "scheduled_at": "2026-09-05T11:08:00+09:00",
           "registered_at": "2026-09-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-17T11:08:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]
@@ -699,6 +709,11 @@
           "scheduled_at": "2026-09-04T19:52:00+09:00",
           "registered_at": "2026-09-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-16T16:33:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -736,6 +751,11 @@
           "scheduled_at": "2026-09-05T19:52:00+09:00",
           "registered_at": "2026-09-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-17T21:47:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -763,6 +783,11 @@
           "scheduled_at": "2026-08-22T19:52:00+09:00",
           "registered_at": "2026-08-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-16T21:47:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -780,6 +805,11 @@
           "scheduled_at": "2026-07-31T19:52:00+09:00",
           "registered_at": "2026-07-29",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-16T19:52:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -791,6 +821,11 @@
         {
           "scheduled_at": "2026-07-28T14:42:00+09:00",
           "registered_at": "2026-07-26",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-18T11:08:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]
@@ -814,6 +849,11 @@
           "scheduled_at": "2026-08-19T16:33:00+09:00",
           "registered_at": "2026-08-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-17T14:42:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -835,6 +875,11 @@
         {
           "scheduled_at": "2026-09-06T19:52:00+09:00",
           "registered_at": "2026-09-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-18T14:42:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]
@@ -1346,7 +1391,8 @@
         {
           "scheduled_at": "2026-08-27T14:42:00+09:00",
           "registered_at": "2026-08-25",
-          "views": null
+          "views": 27,
+          "posted_at": "2026-09-12T02:13:09.217+00:00"
         },
         {
           "scheduled_at": "2026-08-31T11:08:00+09:00",
@@ -2442,6 +2488,42 @@
         {
           "scheduled_at": "2026-09-15T19:52:00+09:00",
           "registered_at": "2026-09-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c1e033dc88": {
+      "text": "『会う人数を増やせば決まる』は嘘です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-17T19:52:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fad9612654": {
+      "text": "2回目に誘われない理由は、可愛さでも年齢でもありません。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-18T16:33:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_328fca86ea": {
+      "text": "旦那が言ってたけど『アプリの子は大体どこか上の空』ということを毎回感じてたらしい。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-18T19:52:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]

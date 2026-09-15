@@ -1766,6 +1766,11 @@
           "scheduled_at": "2026-09-13T19:52:00+09:00",
           "registered_at": "2026-09-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-17T14:42:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -1818,6 +1823,11 @@
           "scheduled_at": "2026-09-13T16:33:00+09:00",
           "registered_at": "2026-09-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-16T21:47:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -1857,6 +1867,11 @@
           "scheduled_at": "2026-09-15T19:52:00+09:00",
           "registered_at": "2026-09-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-16T16:33:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -1881,6 +1896,11 @@
           "scheduled_at": "2026-08-18T19:52:00+09:00",
           "registered_at": "2026-08-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-17T19:52:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -1902,6 +1922,11 @@
         {
           "scheduled_at": "2026-09-05T14:42:00+09:00",
           "registered_at": "2026-09-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-18T19:52:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]
@@ -1938,7 +1963,8 @@
         {
           "scheduled_at": "2026-08-20T14:42:00+09:00",
           "registered_at": "2026-08-19",
-          "views": null
+          "views": 46,
+          "posted_at": "2026-09-13T05:46:20.963+00:00"
         },
         {
           "scheduled_at": "2026-08-22T14:42:00+09:00",
@@ -2446,6 +2472,11 @@
           "scheduled_at": "2026-09-06T11:08:00+09:00",
           "registered_at": "2026-09-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-18T16:33:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -2583,6 +2614,11 @@
           "scheduled_at": "2026-09-14T14:42:00+09:00",
           "registered_at": "2026-09-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-16T14:42:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -2642,6 +2678,11 @@
         {
           "scheduled_at": "2026-09-12T11:08:00+09:00",
           "registered_at": "2026-09-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-17T21:47:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]
@@ -2750,6 +2791,54 @@
         {
           "scheduled_at": "2026-09-15T16:33:00+09:00",
           "registered_at": "2026-09-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cd6e7b613f": {
+      "text": "年下の後輩は、先輩って呼びながら「この人、彼氏いるのかな」ってちゃんと気にしています。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-16T19:52:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5233768cb1": {
+      "text": "後輩の前で「私もう来年30だしね」って自分から言ってる人、それ自分で恋愛対象から降りてるだけです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-17T11:08:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cb613c1b32": {
+      "text": "年下が動かないのは脈がないからじゃなくて、どうせ先輩に相手にされないと思い込んでるからです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-18T11:08:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_26157ef0a6": {
+      "text": "女として見られない理由って「もう若くないから」とか「相手が4歳下だから」みたいな理由じゃないんです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-18T14:42:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]

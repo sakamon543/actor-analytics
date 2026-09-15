@@ -177,6 +177,16 @@
           "scheduled_at": "2026-09-14T14:42:00+09:00",
           "registered_at": "2026-09-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-16T14:42:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-18T11:08:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -285,6 +295,11 @@
         {
           "scheduled_at": "2026-09-13T21:47:00+09:00",
           "registered_at": "2026-09-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-17T11:08:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]
@@ -430,6 +445,11 @@
         {
           "scheduled_at": "2026-09-13T19:52:00+09:00",
           "registered_at": "2026-09-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-16T19:52:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]
@@ -1391,6 +1411,11 @@
           "scheduled_at": "2026-09-10T16:33:00+09:00",
           "registered_at": "2026-09-09",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-16T21:47:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -2289,7 +2314,8 @@
         {
           "scheduled_at": "2026-09-12T11:08:00+09:00",
           "registered_at": "2026-09-09",
-          "views": null
+          "views": 31,
+          "posted_at": "2026-09-12T02:13:50.55+00:00"
         }
       ]
     },
@@ -2361,6 +2387,90 @@
         {
           "scheduled_at": "2026-09-15T19:52:00+09:00",
           "registered_at": "2026-09-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_87145a74c3": {
+      "text": "男は、「一番いい子」を選んでいません。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-16T16:33:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e20a538e00": {
+      "text": "マチアプ3年、100人以上会って、そのほとんどを俺から切ってきた。今思うと最低だと思います。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-17T14:42:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_02e70895f3": {
+      "text": "男からの2回目の誘いは、脈ありのサインじゃない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-17T19:52:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dd99920f94": {
+      "text": "切られた理由は、「可愛くなかったから」みたいな理由じゃないです。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-17T21:47:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9678e0f610": {
+      "text": "俺が消した子で一番多かったのは『思い出せる会話がひとつも無い子』でした。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-18T14:42:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8f1caef5f4": {
+      "text": "男が2回目を誘わないとき「タイプじゃない」より多いのが『一瞬引っかかった』",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-18T16:33:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1157f20ab8": {
+      "text": "「また会おうね」と言われた日の夜に、男はもう会わないと決めてます。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-18T19:52:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]

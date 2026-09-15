@@ -125,8 +125,8 @@
       "first_seen_views": 8459,
       "first_seen_at": "2026-08-10T10:25:13.559+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-08-13T10:52:27.873400+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-09-15T10:10:25.635323+09:00",
       "sales_followed": false
     },
     "rcyc_2a687595f6": {
@@ -144,7 +144,7 @@
       "recycle_id": "rcyc_ff20d0a3e2",
       "text": "年下相手は甘えたもん勝ち←これマジだった",
       "thread": [],
-      "first_seen_views": 4911,
+      "first_seen_views": 9496,
       "first_seen_at": "2026-09-11T07:37:34.424+00:00",
       "status": "used",
       "used_count": 1,
@@ -152,5 +152,5 @@
       "sales_followed": false
     }
   },
-  "updated_at": "2026-09-12T10:06:26.067664+09:00"
+  "updated_at": "2026-09-15T10:10:25.635323+09:00"
 }

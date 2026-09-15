@@ -173,8 +173,8 @@
       "first_seen_views": 5596,
       "first_seen_at": "2026-08-10T09:08:40.491+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-08-13T09:34:43.337496+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-09-15T09:21:42.993117+09:00",
       "sales_followed": true
     },
     "rcyc_89206f8e61": {
@@ -279,9 +279,9 @@
       "thread": [],
       "first_seen_views": 2053,
       "first_seen_at": "2026-08-30T10:56:22.37+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null,
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-09-15T09:21:42.993117+09:00",
       "sales_followed": false
     },
     "rcyc_3c2ec86113": {
@@ -311,5 +311,5 @@
       "sales_followed": false
     }
   },
-  "updated_at": "2026-09-12T09:20:39.607340+09:00"
+  "updated_at": "2026-09-15T09:21:42.993117+09:00"
 }

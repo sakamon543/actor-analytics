@@ -555,7 +555,8 @@
         {
           "scheduled_at": "2026-08-02T19:52:00+09:00",
           "registered_at": "2026-08-01",
-          "views": null
+          "views": 21,
+          "posted_at": "2026-09-13T05:47:17.873+00:00"
         },
         {
           "scheduled_at": "2026-08-05T13:17:00+09:00",
@@ -707,6 +708,11 @@
           "scheduled_at": "2026-09-10T16:33:00+09:00",
           "registered_at": "2026-09-09",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-16T19:52:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -817,6 +823,11 @@
         {
           "scheduled_at": "2026-09-11T14:42:00+09:00",
           "registered_at": "2026-09-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-17T19:52:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]
@@ -2169,6 +2180,11 @@
           "scheduled_at": "2026-08-27T19:52:00+09:00",
           "registered_at": "2026-08-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-16T21:47:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -2625,6 +2641,11 @@
           "scheduled_at": "2026-09-10T21:47:00+09:00",
           "registered_at": "2026-09-09",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-17T14:42:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -2636,7 +2657,8 @@
         {
           "scheduled_at": "2026-09-11T11:08:00+09:00",
           "registered_at": "2026-09-09",
-          "views": null
+          "views": 2,
+          "posted_at": "2026-09-13T07:35:49.757+00:00"
         },
         {
           "scheduled_at": "2026-09-13T16:33:00+09:00",
@@ -2797,6 +2819,102 @@
         {
           "scheduled_at": "2026-09-15T19:52:00+09:00",
           "registered_at": "2026-09-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8d5c66d64c": {
+      "text": "男がすぐに復縁しない理由って、これなんだよね",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-16T14:42:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bf12576996": {
+      "text": "復縁の連絡は「何日空けるか」より「何を書かないか」で決まる。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-16T16:33:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5cd8ac2b3c": {
+      "text": "復縁したいなら「友達でもいい」みたいな中途半端な考えはやめた方がいいよ。セフレでもいいから繋がってたい、みたいな気持ちで接してたら本当にセフレ止まりだし、いつでも切られる状態が続くってこと。セフレでもいいと妥協した時点でセフレ以上の関係はありえないし、絶対に復縁なんて叶わないんだよね。だから",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-17T11:08:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9b01398654": {
+      "text": "男にとって「重いくらい一途だった元カノ」はガチで特別だし、忘れられないんだよね",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-17T21:47:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5f92e2aaa7": {
+      "text": "冷却期間って、耐える期間じゃなくて追うのをやめる期間だよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-18T11:08:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f4b2a90186": {
+      "text": "「男は冷却期間中に元カノを忘れる」は100%ないよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-18T14:42:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_310efda10a": {
+      "text": "男の「もう戻れない」は、気持ちが消えた証拠じゃない",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-18T16:33:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ca0245857f": {
+      "text": "回避型の「距離を置きたい」は本気の決意じゃなくて、ただの『一時避難』",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-18T19:52:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]

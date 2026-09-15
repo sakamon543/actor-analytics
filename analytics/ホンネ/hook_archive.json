@@ -115,6 +115,11 @@
           "scheduled_at": "2026-09-14T21:47:00+09:00",
           "registered_at": "2026-09-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-17T21:47:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -282,6 +287,11 @@
         {
           "scheduled_at": "2026-09-14T11:08:00+09:00",
           "registered_at": "2026-09-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-17T11:08:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]
@@ -677,6 +687,11 @@
         {
           "scheduled_at": "2026-09-13T16:33:00+09:00",
           "registered_at": "2026-09-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-16T16:33:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]
@@ -1449,6 +1464,11 @@
           "scheduled_at": "2026-09-12T16:33:00+09:00",
           "registered_at": "2026-09-09",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-18T16:33:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -1615,6 +1635,11 @@
         {
           "scheduled_at": "2026-09-14T19:52:00+09:00",
           "registered_at": "2026-09-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-17T19:52:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]
@@ -1924,6 +1949,11 @@
         {
           "scheduled_at": "2026-09-13T21:47:00+09:00",
           "registered_at": "2026-09-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-16T21:47:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]
@@ -2978,6 +3008,11 @@
           "scheduled_at": "2026-09-13T19:52:00+09:00",
           "registered_at": "2026-09-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-16T19:52:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -3690,7 +3725,8 @@
         {
           "scheduled_at": "2026-07-26T20:28:00+09:00",
           "registered_at": "2026-07-23",
-          "views": null
+          "views": 2,
+          "posted_at": "2026-09-14T05:46:19.964+00:00"
         }
       ]
     },
@@ -5278,7 +5314,8 @@
         {
           "scheduled_at": "2026-09-12T19:52:00+09:00",
           "registered_at": "2026-09-09",
-          "views": null
+          "views": 35,
+          "posted_at": "2026-09-12T10:56:56.58+00:00"
         }
       ]
     },
@@ -5314,6 +5351,30 @@
         {
           "scheduled_at": "2026-09-15T19:52:00+09:00",
           "registered_at": "2026-09-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3d111274cd": {
+      "text": "職場の男の素っ気ない態度は、年上女性に興味ないサインじゃない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-18T11:08:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0cffb97eab": {
+      "text": "男は、『毎日職場で話せてる＝進展してる』とは思っていない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-18T19:52:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]

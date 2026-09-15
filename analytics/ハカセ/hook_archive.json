@@ -29,6 +29,11 @@
           "scheduled_at": "2026-09-07T21:47:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-17T19:52:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -141,6 +146,11 @@
         {
           "scheduled_at": "2026-08-31T14:42:00+09:00",
           "registered_at": "2026-08-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-17T11:08:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]
@@ -370,6 +380,11 @@
         {
           "scheduled_at": "2026-09-15T16:33:00+09:00",
           "registered_at": "2026-09-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-16T21:47:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]
@@ -695,6 +710,11 @@
         {
           "scheduled_at": "2026-09-14T11:08:00+09:00",
           "registered_at": "2026-09-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-18T14:42:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]
@@ -1067,6 +1087,11 @@
           "scheduled_at": "2026-09-13T21:47:00+09:00",
           "registered_at": "2026-09-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-18T11:08:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -1186,6 +1211,11 @@
         {
           "scheduled_at": "2026-09-14T21:47:00+09:00",
           "registered_at": "2026-09-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-17T14:42:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]
@@ -1314,6 +1344,11 @@
         {
           "scheduled_at": "2026-09-11T19:52:00+09:00",
           "registered_at": "2026-09-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-17T21:47:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]
@@ -3373,6 +3408,11 @@
           "scheduled_at": "2026-09-13T19:52:00+09:00",
           "registered_at": "2026-09-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-16T19:52:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
         }
       ]
     },
@@ -5427,6 +5467,42 @@
         {
           "scheduled_at": "2026-09-15T19:52:00+09:00",
           "registered_at": "2026-09-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f197931798": {
+      "text": "別れの原因が「男側のキャパオーバー」の場合、1番NGなのが「彼が落ち着くまで待つこと」なんだよね。こういう別れは、彼の気持ちが残ってるからこそ時間勝負。なぜなら「完全に冷めたから別れる」とは少し違うから。余裕をなくした男が恋愛を手放すときって、彼女への恋愛感情に蓋してるだけだから、",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-16T16:33:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a1ffc9b10a": {
+      "text": "復縁の正解は「3週間動かない」で、これだけは例外がなかった。動かない3週間が「重い女」ラベルを書き換える唯一の方法。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-18T16:33:00+09:00",
+          "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_14811f0110": {
+      "text": "男が別れを決めるとき「冷めた」より圧倒的に多いのが『彼女の期待に応えられない』だよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-15",
+      "history": [
+        {
+          "scheduled_at": "2026-09-18T19:52:00+09:00",
+          "registered_at": "2026-09-15",
           "views": null
         }
       ]
