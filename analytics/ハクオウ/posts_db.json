@@ -2369,10 +2369,16 @@
       "period_days": 7,
       "total_posts": 0,
       "avg_impressions": null
+    },
+    {
+      "fetched_at": "2026-09-16T09:00:06+09:00",
+      "period_days": 7,
+      "total_posts": 0,
+      "avg_impressions": null
     }
   ],
   "latest_summary": {
-    "fetched_at": "2026-09-13T14:17:05+09:00",
+    "fetched_at": "2026-09-16T09:00:06+09:00",
     "time_analysis": null,
     "type_analysis": null,
     "hooks_analysis": null,
