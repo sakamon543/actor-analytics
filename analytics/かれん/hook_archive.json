@@ -915,6 +915,11 @@
           "scheduled_at": "2026-09-15T16:33:00+09:00",
           "registered_at": "2026-09-14",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-18T16:33:00+09:00",
+          "registered_at": "2026-09-17",
+          "views": null
         }
       ]
     },
@@ -975,6 +980,11 @@
         {
           "scheduled_at": "2026-09-17T19:52:00+09:00",
           "registered_at": "2026-09-14",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-19T11:08:00+09:00",
+          "registered_at": "2026-09-17",
           "views": null
         }
       ]
@@ -1315,6 +1325,11 @@
           "scheduled_at": "2026-09-16T21:47:00+09:00",
           "registered_at": "2026-09-14",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-19T21:47:00+09:00",
+          "registered_at": "2026-09-17",
+          "views": null
         }
       ]
     },
@@ -1429,6 +1444,11 @@
         {
           "scheduled_at": "2026-09-15T19:52:00+09:00",
           "registered_at": "2026-09-14",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-18T19:52:00+09:00",
+          "registered_at": "2026-09-17",
           "views": null
         }
       ]
@@ -1761,6 +1781,11 @@
           "scheduled_at": "2026-09-16T11:08:00+09:00",
           "registered_at": "2026-09-14",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-20T19:52:00+09:00",
+          "registered_at": "2026-09-17",
+          "views": null
         }
       ]
     },
@@ -1796,6 +1821,11 @@
         {
           "scheduled_at": "2026-08-18T11:08:00+09:00",
           "registered_at": "2026-08-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-20T11:08:00+09:00",
+          "registered_at": "2026-09-17",
           "views": null
         }
       ]
@@ -2728,6 +2758,78 @@
         {
           "scheduled_at": "2026-09-17T16:33:00+09:00",
           "registered_at": "2026-09-14",
+          "views": null
+        }
+      ]
+    },
+    "fookid_928561a8a7": {
+      "text": "全復縁したい女性に聞いて欲しいんだけど、不安にならなくても元彼はあなたのことまだ好きです。「じゃあなんで離れたんだよ」って言うかもですが、それが男の特性なんです。めんどくさいことから逃げてるだけで、向き合うきっかけがあれば再びまた向き合います。なので、復縁したいなら",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-17",
+      "history": [
+        {
+          "scheduled_at": "2026-09-18T14:42:00+09:00",
+          "registered_at": "2026-09-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a93e361f44": {
+      "text": "『友達から始めた方が安全』はウソ",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-17",
+      "history": [
+        {
+          "scheduled_at": "2026-09-18T21:47:00+09:00",
+          "registered_at": "2026-09-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bf1d14a517": {
+      "text": "ブロックされても復縁はできるんだよね。追いLINE100通と鬼電50回を送りつけて翌朝ブロックされた私が証拠。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-17",
+      "history": [
+        {
+          "scheduled_at": "2026-09-19T14:42:00+09:00",
+          "registered_at": "2026-09-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3e92b6a91a": {
+      "text": "これ！！！別れたあとに彼から連絡来ないかなってめっちゃ期待してたけど、連絡が来るどころか返信すら来なかったその後も連絡しまくってたけど反応なくて完全沈黙したら、2ヶ月後に彼から連絡がきたんだよね。でもずっと彼からの連絡を待ってるだけだったら、この連絡は来なかったと思うから、こっ",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-17",
+      "history": [
+        {
+          "scheduled_at": "2026-09-19T19:52:00+09:00",
+          "registered_at": "2026-09-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3de4f4d50b": {
+      "text": "男の既読スルーは、もう終わったサインじゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-17",
+      "history": [
+        {
+          "scheduled_at": "2026-09-20T14:42:00+09:00",
+          "registered_at": "2026-09-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ea12cb933a": {
+      "text": "元彼のインスタを見るのがやめられないなら、気合いで我慢しようとしても無理なんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-17",
+      "history": [
+        {
+          "scheduled_at": "2026-09-20T16:33:00+09:00",
+          "registered_at": "2026-09-17",
           "views": null
         }
       ]

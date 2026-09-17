@@ -3766,7 +3766,10 @@
       "likes": 130,
       "source": "https://x.com/nagikoi1/status/2099269218072158495",
       "source_handle": "nagikoi1",
-      "collected_at": "2026-09-16"
+      "collected_at": "2026-09-16",
+      "used_by": {
+        "かれん": "2026-09-17"
+      }
     },
     {
       "pool_id": "hp_60ecef8b78",
@@ -7911,7 +7914,10 @@
       "likes": 91,
       "source": "https://x.com/okoteruyo1/status/2098945787409686767",
       "source_handle": "okoteruyo1",
-      "collected_at": "2026-09-15"
+      "collected_at": "2026-09-15",
+      "used_by": {
+        "かれん": "2026-09-17"
+      }
     },
     {
       "pool_id": "hp_5da982e581",
@@ -23928,5 +23934,5 @@
       "collected_at": "2026-09-15"
     }
   ],
-  "updated_at": "2026-09-17T01:24:45.744089+09:00"
+  "updated_at": "2026-09-17T09:09:37.018761+09:00"
 }
