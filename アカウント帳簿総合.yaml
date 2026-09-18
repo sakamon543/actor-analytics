@@ -98,7 +98,7 @@ accounts:
     account_setting: accounts/みな/アカウント情報総合管理.md
     start_date: 2026-07-22
     end_date: 2026-08-21
-    enabled: true
+    enabled: false
     notes: 【2026-07-09 新規登録】本体アカウント運用型（みな│マチアプ婚活・handle @quin_ouji＝旧クイン①枠を転用）。手動予約が2026-07-21まで→start_date=7/22。実績40本/90日（thread3.7倍）。勝ち筋=思い込み否定+本人の具体数字(2年47人0人→3ヶ月5人)+旦那の本音。復縁ネタ禁止。masterは未生成
 
   - name: りさ
