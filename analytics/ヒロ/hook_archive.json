@@ -3122,6 +3122,11 @@
           "scheduled_at": "2026-09-17T19:52:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-21T16:33:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -3169,7 +3174,7 @@
         {
           "scheduled_at": "2026-09-08T21:47:00+09:00",
           "registered_at": "2026-09-06",
-          "views": 5822,
+          "views": 5831,
           "posted_at": "2026-09-13T05:47:43.169+00:00"
         }
       ]
@@ -3275,6 +3280,11 @@
           "scheduled_at": "2026-09-18T11:08:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-21T19:52:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -3344,7 +3354,8 @@
         {
           "scheduled_at": "2026-09-13T16:33:00+09:00",
           "registered_at": "2026-09-12",
-          "views": null
+          "views": 5885,
+          "posted_at": "2026-09-13T07:39:08.327+00:00"
         }
       ]
     },
@@ -3361,6 +3372,11 @@
         {
           "scheduled_at": "2026-09-16T19:52:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-20T11:08:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]
@@ -3415,6 +3431,11 @@
           "scheduled_at": "2026-09-17T11:08:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-20T19:52:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -3426,6 +3447,11 @@
         {
           "scheduled_at": "2026-09-17T21:47:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-21T11:08:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]
@@ -3450,6 +3476,66 @@
         {
           "scheduled_at": "2026-09-18T19:52:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4f26088aa2": {
+      "text": "別れの原因が「男側のキャパオーバー」の場合、1番NGなのは「彼が落ち着くまで待つこと」なんですよね。こういう別れは、彼の気持ちが残ってるからこそ時間勝負なんです。なぜなら「完全に冷めたから別れる」とは少し違うから。余裕をなくした男が恋愛を手放すときって、彼女への恋愛感情に蓋してるだけなので、",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-19T16:33:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6dabde8ea7": {
+      "text": "振った側の男だから言うけど、別れたあと元カノに言われて一番引っかかったのは「まだ好き」じゃなかった。\n・「楽しかったよ」",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-19T19:52:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_442c6aebed": {
+      "text": "振った側の男だから言うけど、別れたあと元カノに言われて地味に刺さったのが「前より今の方が楽」だった。\n・好きなことを好きなときにできる",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-19T21:47:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d9f12616bf": {
+      "text": "振った側の男だから言うけど、別れたあと元カノに言われて妙に気になったのが「いい人いたら付き合うよ」だった。\n・俺を待つとは言わない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-20T21:47:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_08a0dc9c60": {
+      "text": "【振った側の僕が自分からLINEするまで】\n①別れる",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-21T14:42:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]

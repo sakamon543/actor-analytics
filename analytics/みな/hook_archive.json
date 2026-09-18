@@ -620,6 +620,11 @@
           "scheduled_at": "2026-09-16T14:42:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-19T14:42:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -666,6 +671,11 @@
         {
           "scheduled_at": "2026-09-17T11:08:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-19T19:52:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]
@@ -714,6 +724,11 @@
           "scheduled_at": "2026-09-16T16:33:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-19T16:33:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -756,6 +771,11 @@
           "scheduled_at": "2026-09-17T21:47:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-20T11:08:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -788,6 +808,11 @@
           "scheduled_at": "2026-09-16T21:47:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-19T21:47:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -810,6 +835,11 @@
           "scheduled_at": "2026-09-16T19:52:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-20T14:42:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -826,6 +856,11 @@
         {
           "scheduled_at": "2026-09-18T11:08:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-21T11:08:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]
@@ -2464,7 +2499,8 @@
         {
           "scheduled_at": "2026-09-15T14:42:00+09:00",
           "registered_at": "2026-09-12",
-          "views": null
+          "views": 1,
+          "posted_at": "2026-09-15T05:47:25.6+00:00"
         }
       ]
     },
@@ -2524,6 +2560,66 @@
         {
           "scheduled_at": "2026-09-18T19:52:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_74303bf642": {
+      "text": "『会う人数は多いほど有利』って言われてるけど、それ嘘です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-20T19:52:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b87a13a8f3": {
+      "text": "男性は、「会った人数が多い＝見る目が育つ」とは思っていない。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-20T21:47:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_652c21fdf5": {
+      "text": "婚活して分かったんだけど、『会う人数が多い人ほど決められない』って話は本当。",
+      "structure_label": "経験者の暴露系",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-21T14:42:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6fd7197546": {
+      "text": "マッチングアプリで一番時間を溶かすのは、進めるでも切るでもない人を抱えている時間です。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-21T16:33:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_836c02e259": {
+      "text": "男が2回目を誘わないとき「タイプじゃない」より圧倒的に多いのが『他にも会ってるな』です",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-21T19:52:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]

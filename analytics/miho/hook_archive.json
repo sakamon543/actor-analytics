@@ -2900,7 +2900,8 @@
         {
           "scheduled_at": "2026-09-17T14:42:00+09:00",
           "registered_at": "2026-09-15",
-          "views": null
+          "views": 1,
+          "posted_at": "2026-09-17T05:46:52.288+00:00"
         }
       ]
     },
@@ -2936,6 +2937,150 @@
         {
           "scheduled_at": "2026-09-18T19:52:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0672ee0054": {
+      "text": "復縁を目指してる方はすでに知っていると思いますが「振った側が自分から戻ってくること」ってほぼないんですよね",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-19T14:42:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_72116e97f8": {
+      "text": "これ本当にそうだと思う。私も振られた直後は「どうしたらもう一度好きになってもらえるんだろう」って、そればっかり考えてました泣いて縋って、占いに行って、高いパワーストーンまで買って。でも彼が戻らなかったのって私への好きを完全に失ったからじゃなくて、彼の中に「別れた方がいい」という",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-19T16:33:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b9fa78a876": {
+      "text": "復縁までにかかる期間は、待った長さでは決まりません。動き方で決まります。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-19T19:52:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d05c795f14": {
+      "text": "｢別に嫌いじゃないけど｣って元彼に言われたことある人いない？？これ私も「嫌いじゃないなら、なんで別れるの？」って意味分からなかったんだよね好きなら一緒にいればいいじゃんってまーじで思ってた。でも復縁して分かったのは、男性の「嫌いじゃない」と「今すぐ戻りたい」の間には",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-19T21:47:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a6b3666948": {
+      "text": "彼の冷たい態度は、あなたを嫌いになったサインじゃないんです",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-20T11:08:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ae2cef3f69": {
+      "text": "ブロックされて、もう終わったと思っていませんか",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-20T14:42:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7d7fe3d062": {
+      "text": "既読無視で終わったと思ってる人、まだ諦めなくていいです",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-20T19:52:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3a5ebf9b7b": {
+      "text": "復縁できる人とできない人の差は、可愛さでも運でもなくて「自分の不安をコントロールできたか」だけなんです",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-20T21:47:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_159baf17a0": {
+      "text": "回避型は自己防衛で別れを選ぶから、振った瞬間から後悔が始まるんだよね",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-21T11:08:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7079855624": {
+      "text": "「もう未練ない」って言い切る男ほど、未練しか残ってません",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-21T14:42:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fe47fccc91": {
+      "text": "男は、「一度好きだった相手」と友達みたいな関係には戻れません",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-21T16:33:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ac30d45123": {
+      "text": "結局、復縁できる人って『復縁に期待しすぎないで元彼と話せる人』なんです",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-21T19:52:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]

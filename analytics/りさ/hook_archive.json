@@ -212,6 +212,11 @@
           "scheduled_at": "2026-09-16T16:33:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-19T14:42:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -1335,6 +1340,11 @@
           "scheduled_at": "2026-09-16T19:52:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-19T19:52:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -1585,6 +1595,11 @@
         {
           "scheduled_at": "2026-09-18T19:52:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-20T11:08:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]
@@ -2278,6 +2293,12 @@
         {
           "scheduled_at": "2026-09-17T19:52:00+09:00",
           "registered_at": "2026-09-15",
+          "views": 19927,
+          "posted_at": "2026-09-14T05:46:12.741+00:00"
+        },
+        {
+          "scheduled_at": "2026-09-19T16:33:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]
@@ -2326,6 +2347,102 @@
         {
           "scheduled_at": "2026-09-18T16:33:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_80f4ce4bf9": {
+      "text": "年下男子の距離感は、興味がないサインじゃないんです。むしろ逆で、あなたに惹かれ始めた男ほど、一回距離を置きます。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-19T21:47:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9b3c947fba": {
+      "text": "年下男子の脈は、素直な言葉には出てきません。彼らは年上に軽く見られたくない意識がまず先に立つから、『好き』も『会いたい』もぐっと飲み込むんです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-20T14:42:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fa31731884": {
+      "text": "年下男子が「この人じゃなきゃ」って本気になる年上には、共通点があるんです。若さでも、完璧さでも、包容力でもない。むしろ逆で、「ちゃんと甘えられる」ってこと。",
+      "structure_label": "共通点否定列挙型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-20T19:52:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_95755b0cc7": {
+      "text": "年下男子が年上から離れるとき、「年の差がしんどい」より圧倒的に多いのが『俺なんていなくても平気そう』です",
+      "structure_label": "常識否定型（本当の理由暴露）",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-20T21:47:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_10bf779402": {
+      "text": "年下男子が『この人から離れられない』と沼る年上には、はっきりした共通点があるんです。若さでも、美貌でも、包容力でもありません。それは、余裕を『見せない』人。",
+      "structure_label": "共通点否定列挙型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-21T11:08:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0339b942e1": {
+      "text": "年下相手は、先に弱音を出した方が勝ち←これマジだった",
+      "structure_label": "命題型（短文断言）",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-21T14:42:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a54260913a": {
+      "text": "年下男子は、「頼られてる=好かれてる」とは思っていない",
+      "structure_label": "命題型（男性心理暴露型）",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-21T16:33:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_905a2080f5": {
+      "text": "年下男子の本音を言うと、完璧に見えてる間は口説く気になりません",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-21T19:52:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]

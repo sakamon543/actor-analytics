@@ -74,8 +74,8 @@
       "first_seen_views": 4445,
       "first_seen_at": "2026-06-03T13:51:10.344+00:00",
       "status": "used",
-      "used_count": 2,
-      "last_used_at": "2026-08-10T09:11:37.042311+09:00",
+      "used_count": 3,
+      "last_used_at": "2026-09-18T09:06:08.406021+09:00",
       "sales_followed": true
     },
     "rcyc_67b8a145bd": {
@@ -109,8 +109,8 @@
       "first_seen_views": 2952,
       "first_seen_at": "2026-06-09T13:45:34.433+00:00",
       "status": "used",
-      "used_count": 2,
-      "last_used_at": "2026-08-10T09:11:37.042311+09:00",
+      "used_count": 3,
+      "last_used_at": "2026-09-18T09:06:08.406021+09:00",
       "sales_followed": true
     },
     "rcyc_170fa67777": {
@@ -293,8 +293,8 @@
       "first_seen_views": 76368,
       "first_seen_at": "2026-08-14T10:56:33.625+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-08-16T09:10:06.694691+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-09-18T09:06:08.406021+09:00",
       "sales_followed": true
     },
     "rcyc_c1b02f5ec9": {
@@ -377,7 +377,18 @@
       "used_count": 0,
       "last_used_at": null,
       "sales_followed": false
+    },
+    "rcyc_046ba6ae68": {
+      "recycle_id": "rcyc_046ba6ae68",
+      "text": "『元彼は死んだ』と思うと復縁に近づくのよ。これは、「彼がもうこの世に存在しないと思い込んで、完全に執着を手放す」という意味。なぜそんな極端な発想が、むしろ復縁を近づけるのか。ここには、男性心理のリアルな構造があるのよ。男性ってね、追われてる間は『失う』って感覚が一生こないの。今あなたが毎日既読ついたか確認してるうちは、彼の中であなたはずっと『いる人』のままなのよ。",
+      "thread": [],
+      "first_seen_views": 7466,
+      "first_seen_at": "2026-09-13T12:51:08.745+00:00",
+      "status": "ready",
+      "used_count": 0,
+      "last_used_at": null,
+      "sales_followed": false
     }
   },
-  "updated_at": "2026-09-15T09:07:01.355268+09:00"
+  "updated_at": "2026-09-18T09:06:08.406021+09:00"
 }

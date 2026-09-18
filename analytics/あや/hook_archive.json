@@ -561,7 +561,8 @@
         {
           "scheduled_at": "2026-08-05T13:17:00+09:00",
           "registered_at": "2026-08-04",
-          "views": null
+          "views": 26,
+          "posted_at": "2026-09-13T05:47:17.873+00:00"
         },
         {
           "scheduled_at": "2026-08-08T14:42:00+09:00",
@@ -713,6 +714,11 @@
           "scheduled_at": "2026-09-16T19:52:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-20T11:08:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -765,6 +771,11 @@
         {
           "scheduled_at": "2026-08-27T11:08:00+09:00",
           "registered_at": "2026-08-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-21T16:33:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]
@@ -828,6 +839,11 @@
         {
           "scheduled_at": "2026-09-17T19:52:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-20T14:42:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]
@@ -2646,6 +2662,11 @@
           "scheduled_at": "2026-09-17T14:42:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-19T21:47:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -2687,6 +2708,11 @@
         {
           "scheduled_at": "2026-09-11T21:47:00+09:00",
           "registered_at": "2026-09-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-21T11:08:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]
@@ -2880,6 +2906,11 @@
           "scheduled_at": "2026-09-18T11:08:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-21T19:52:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -2915,6 +2946,78 @@
         {
           "scheduled_at": "2026-09-18T19:52:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a2193b1881": {
+      "text": "復縁の連絡は『何日空けるか』より『何を書かないか』で決まる。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-19T14:42:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d105bce891": {
+      "text": "未読スルーされてる時、彼の中で起きてるのは『無関心』じゃない。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-19T16:33:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4786158c74": {
+      "text": "男は『好きだった相手』と簡単に友達みたいな関係には戻れないんだよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-19T19:52:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_68806789aa": {
+      "text": "実は、女性より男の方が復縁否定派は少ないんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-20T19:52:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e8e31291d8": {
+      "text": "回避型の『別れよう』は本気の決意じゃなくて、ただの『一時避難』。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-20T21:47:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_da3a5c4e47": {
+      "text": "男にとって『一途に尽くしてくれた元カノ』はガチで特別だし忘れられないんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-21T14:42:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]

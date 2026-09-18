@@ -386,6 +386,11 @@
           "scheduled_at": "2026-09-16T21:47:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-20T19:52:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -715,6 +720,11 @@
         {
           "scheduled_at": "2026-09-18T14:42:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-20T11:08:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]
@@ -1092,6 +1102,11 @@
           "scheduled_at": "2026-09-18T11:08:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-19T19:52:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -1216,6 +1231,11 @@
         {
           "scheduled_at": "2026-09-17T14:42:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-20T14:42:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]
@@ -1349,6 +1369,11 @@
         {
           "scheduled_at": "2026-09-17T21:47:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-20T21:47:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]
@@ -1647,6 +1672,11 @@
         {
           "scheduled_at": "2026-09-06T11:08:00+09:00",
           "registered_at": "2026-09-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-21T14:42:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]
@@ -3412,6 +3442,11 @@
         {
           "scheduled_at": "2026-09-16T19:52:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-19T16:33:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]
@@ -5432,6 +5467,11 @@
           "scheduled_at": "2026-09-13T16:33:00+09:00",
           "registered_at": "2026-09-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-19T14:42:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -5503,6 +5543,54 @@
         {
           "scheduled_at": "2026-09-18T19:52:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1188b7bece": {
+      "text": "男ってこれしない元カノには100%未練たらたらになるよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-19T21:47:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1821cca25c": {
+      "text": "「彼が変わってくれれば復縁できる」って思想、220件見てきて完全に逆だったんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-21T11:08:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cf624d2519": {
+      "text": "男は、「好きだった相手」と簡単に友達みたいな関係には戻れない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-21T16:33:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8737ae287d": {
+      "text": "元彼の沈黙は『気持ちがない証拠』じゃない",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-21T19:52:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]

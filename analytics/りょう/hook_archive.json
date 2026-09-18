@@ -187,6 +187,21 @@
           "scheduled_at": "2026-09-18T11:08:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-19T14:42:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-20T14:42:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-21T16:33:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -300,6 +315,11 @@
         {
           "scheduled_at": "2026-09-17T11:08:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-19T19:52:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]
@@ -450,6 +470,11 @@
         {
           "scheduled_at": "2026-09-16T19:52:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-19T16:33:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]
@@ -1192,6 +1217,11 @@
           "scheduled_at": "2026-09-08T21:47:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-21T14:42:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -1415,6 +1445,11 @@
         {
           "scheduled_at": "2026-09-16T21:47:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-20T11:08:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]
@@ -1992,6 +2027,11 @@
           "scheduled_at": "2026-09-14T11:08:00+09:00",
           "registered_at": "2026-09-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-20T19:52:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -2303,6 +2343,11 @@
           "scheduled_at": "2026-09-15T16:33:00+09:00",
           "registered_at": "2026-09-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-20T21:47:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -2471,6 +2516,42 @@
         {
           "scheduled_at": "2026-09-18T19:52:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_48fc1cb102": {
+      "text": "男は、「一番いい子を選ぼう」とは思っていない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-19T21:47:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b5f65db1ee": {
+      "text": "男の「また連絡するね」は、社交辞令じゃなくて保留です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-21T11:08:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fa2880f3a8": {
+      "text": "「いい子だった」で切られるのが一番多い。減点がないのと、最後まで残るのは別。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-21T19:52:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]

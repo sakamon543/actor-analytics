@@ -1098,6 +1098,11 @@
           "scheduled_at": "2026-09-05T19:52:00+09:00",
           "registered_at": "2026-09-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-20T19:52:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -2148,6 +2153,11 @@
           "scheduled_at": "2026-09-14T21:47:00+09:00",
           "registered_at": "2026-09-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-20T21:47:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -2696,6 +2706,11 @@
         {
           "scheduled_at": "2026-09-04T21:47:00+09:00",
           "registered_at": "2026-09-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-19T19:52:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]
@@ -5573,6 +5588,11 @@
           "registered_at": "2026-09-03",
           "views": 9315,
           "posted_at": "2026-09-07T05:46:17.613+00:00"
+        },
+        {
+          "scheduled_at": "2026-09-19T16:33:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -5620,6 +5640,11 @@
         {
           "scheduled_at": "2026-09-18T11:08:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-19T21:47:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]
@@ -6095,6 +6120,11 @@
           "scheduled_at": "2026-09-05T11:08:00+09:00",
           "registered_at": "2026-09-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-20T11:08:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
         }
       ]
     },
@@ -6106,6 +6136,11 @@
         {
           "scheduled_at": "2026-09-06T14:42:00+09:00",
           "registered_at": "2026-09-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-21T11:08:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]
@@ -6301,7 +6336,8 @@
         {
           "scheduled_at": "2026-09-12T19:52:00+09:00",
           "registered_at": "2026-09-09",
-          "views": null
+          "views": 102,
+          "posted_at": "2026-09-12T10:56:36.673+00:00"
         }
       ]
     },
@@ -6313,7 +6349,8 @@
         {
           "scheduled_at": "2026-09-13T21:47:00+09:00",
           "registered_at": "2026-09-12",
-          "views": null
+          "views": 7466,
+          "posted_at": "2026-09-13T12:51:08.745+00:00"
         }
       ]
     },
@@ -6385,6 +6422,30 @@
         {
           "scheduled_at": "2026-09-18T19:52:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d208a150f9": {
+      "text": "復縁して一番長続きしてるのって、決まって『男が頭下げて戻ってきた』カップルなのよ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-21T16:33:00+09:00",
+          "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_45c279aeb9": {
+      "text": "元彼の沈黙は、『気持ちがない証拠』じゃないのよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-18",
+      "history": [
+        {
+          "scheduled_at": "2026-09-21T19:52:00+09:00",
+          "registered_at": "2026-09-18",
           "views": null
         }
       ]
