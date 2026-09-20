@@ -920,6 +920,11 @@
           "scheduled_at": "2026-09-18T16:33:00+09:00",
           "registered_at": "2026-09-17",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-21T21:47:00+09:00",
+          "registered_at": "2026-09-20",
+          "views": null
         }
       ]
     },
@@ -985,6 +990,11 @@
         {
           "scheduled_at": "2026-09-19T11:08:00+09:00",
           "registered_at": "2026-09-17",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-23T11:08:00+09:00",
+          "registered_at": "2026-09-20",
           "views": null
         }
       ]
@@ -1330,6 +1340,11 @@
           "scheduled_at": "2026-09-19T21:47:00+09:00",
           "registered_at": "2026-09-17",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-23T14:42:00+09:00",
+          "registered_at": "2026-09-20",
+          "views": null
         }
       ]
     },
@@ -1449,6 +1464,11 @@
         {
           "scheduled_at": "2026-09-18T19:52:00+09:00",
           "registered_at": "2026-09-17",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-21T16:33:00+09:00",
+          "registered_at": "2026-09-20",
           "views": null
         }
       ]
@@ -2830,6 +2850,102 @@
         {
           "scheduled_at": "2026-09-20T16:33:00+09:00",
           "registered_at": "2026-09-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f049cb3773": {
+      "text": "別れの原因が『男側のキャパオーバー』の場合、1番NGなのが『彼が落ち着くまで待つこと』なんだよね。こういう別れは、彼の気持ちが残ってるからこそ時間勝負。『完全に冷めたから別れる』とは少し違うから。余裕をなくした男が恋愛を手放すときって、彼女への恋愛感情に蓋してるだけだから、",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-20",
+      "history": [
+        {
+          "scheduled_at": "2026-09-21T14:42:00+09:00",
+          "registered_at": "2026-09-20",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5718125f55": {
+      "text": "知らない女性多いけど、男は元カノに未練がある時ほど『連絡しない』を選択をするんですよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-20",
+      "history": [
+        {
+          "scheduled_at": "2026-09-21T19:52:00+09:00",
+          "registered_at": "2026-09-20",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4d8becd426": {
+      "text": "ブロックされたら復縁はもう無理、って思うよね。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-20",
+      "history": [
+        {
+          "scheduled_at": "2026-09-22T11:08:00+09:00",
+          "registered_at": "2026-09-20",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e95aa0c926": {
+      "text": "元彼の既読無視は『もう気持ちがない証拠』じゃないんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-20",
+      "history": [
+        {
+          "scheduled_at": "2026-09-22T14:42:00+09:00",
+          "registered_at": "2026-09-20",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8c0a1bafe4": {
+      "text": "男って別れた後吹っ切れるの早く感じることあると思うけど、それは平静を装ってるだけで内心彼女を失った喪失感で一杯なんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-20",
+      "history": [
+        {
+          "scheduled_at": "2026-09-22T19:52:00+09:00",
+          "registered_at": "2026-09-20",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4d7a80428b": {
+      "text": "彼のSNSを見るのがやめられないなら、意志で我慢しても無理だと思う。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-20",
+      "history": [
+        {
+          "scheduled_at": "2026-09-22T21:47:00+09:00",
+          "registered_at": "2026-09-20",
+          "views": null
+        }
+      ]
+    },
+    "fookid_436f8002ff": {
+      "text": "男は、『好きだった相手』と簡単に友達みたいな関係には戻れないんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-20",
+      "history": [
+        {
+          "scheduled_at": "2026-09-23T16:33:00+09:00",
+          "registered_at": "2026-09-20",
+          "views": null
+        }
+      ]
+    },
+    "fookid_719a8c378e": {
+      "text": "追いLINEで関係を壊したと思ってても、そこから戻すことはできるんだよね。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-20",
+      "history": [
+        {
+          "scheduled_at": "2026-09-23T19:52:00+09:00",
+          "registered_at": "2026-09-20",
           "views": null
         }
       ]
