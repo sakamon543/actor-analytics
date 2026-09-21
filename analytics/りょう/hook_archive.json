@@ -202,6 +202,11 @@
           "scheduled_at": "2026-09-21T16:33:00+09:00",
           "registered_at": "2026-09-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-22T14:42:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
         }
       ]
     },
@@ -320,6 +325,11 @@
         {
           "scheduled_at": "2026-09-19T19:52:00+09:00",
           "registered_at": "2026-09-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-23T11:08:00+09:00",
+          "registered_at": "2026-09-21",
           "views": null
         }
       ]
@@ -475,6 +485,11 @@
         {
           "scheduled_at": "2026-09-19T16:33:00+09:00",
           "registered_at": "2026-09-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-22T16:33:00+09:00",
+          "registered_at": "2026-09-21",
           "views": null
         }
       ]
@@ -920,6 +935,11 @@
           "scheduled_at": "2026-08-22T14:42:00+09:00",
           "registered_at": "2026-08-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-24T16:33:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
         }
       ]
     },
@@ -986,6 +1006,11 @@
         {
           "scheduled_at": "2026-08-20T14:42:00+09:00",
           "registered_at": "2026-08-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-23T14:42:00+09:00",
+          "registered_at": "2026-09-21",
           "views": null
         }
       ]
@@ -1119,6 +1144,11 @@
         {
           "scheduled_at": "2026-08-21T19:52:00+09:00",
           "registered_at": "2026-08-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-22T19:52:00+09:00",
+          "registered_at": "2026-09-21",
           "views": null
         }
       ]
@@ -1450,6 +1480,11 @@
         {
           "scheduled_at": "2026-09-20T11:08:00+09:00",
           "registered_at": "2026-09-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-23T19:52:00+09:00",
+          "registered_at": "2026-09-21",
           "views": null
         }
       ]
@@ -2552,6 +2587,66 @@
         {
           "scheduled_at": "2026-09-21T19:52:00+09:00",
           "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_523fb0b9a8": {
+      "text": "『2回目に誘われた＝脈あり』はウソ",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-22T21:47:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c60ffbb8d4": {
+      "text": "「また連絡するね」と送った日の夜に、もう連絡しないと決めていました。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-23T21:47:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d7774f142c": {
+      "text": "男が急に消えるのは、嫌いになったサインじゃない。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-24T11:08:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e40b80b3e9": {
+      "text": "マチアプ3年で100人以上会って、そのほとんどを俺から切りました。今思えば最低だと思います。ただ切った側だから言えることがあって、消される子の共通点はいつも同じなんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-24T14:42:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f7f3b8ebfd": {
+      "text": "「私のどこがダメだったの」の答えは、「ダメなところは無かった」です。だから直す場所を探しても、一生出てきません。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-24T19:52:00+09:00",
+          "registered_at": "2026-09-21",
           "views": null
         }
       ]

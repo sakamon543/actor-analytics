@@ -308,6 +308,11 @@
           "scheduled_at": "2026-08-26T16:33:00+09:00",
           "registered_at": "2026-08-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-22T16:33:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
         }
       ]
     },
@@ -2974,6 +2979,11 @@
           "scheduled_at": "2026-09-19T19:52:00+09:00",
           "registered_at": "2026-09-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-24T19:52:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
         }
       ]
     },
@@ -3021,7 +3031,8 @@
         {
           "scheduled_at": "2026-09-20T19:52:00+09:00",
           "registered_at": "2026-09-18",
-          "views": null
+          "views": 8,
+          "posted_at": "2026-09-20T10:58:35.74+00:00"
         }
       ]
     },
@@ -3081,6 +3092,126 @@
         {
           "scheduled_at": "2026-09-21T19:52:00+09:00",
           "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_888e25e4c3": {
+      "text": "｢別に嫌いじゃないけど｣って元彼に言われたことある人いない？？😭😭😭これ私も「嫌いじゃないなら、なんで別れるの？」って意味分からなかったんだよね🥺好きなら一緒にいればいいじゃんってまーじで思ってた。でも復縁して分かったのは、男性の「嫌いじゃない」と「今すぐ戻りたい」の間には",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-22T14:42:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_22ecb86819": {
+      "text": "復縁までの期間は、待った月数じゃなくて、待ってる間に何をやめたかで決まります。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-22T19:52:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ae8f4f337b": {
+      "text": "ブロックされて、もう終わったと思っていませんか。でもブロックは、拒絶の最終宣告ではありません。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-22T21:47:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d26a5dbc7c": {
+      "text": "別れ際に彼が冷たかったのは、あなたを嫌いになった証拠じゃないです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-23T11:08:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_353b8f9af6": {
+      "text": "既読無視で終わったと思ってる人、まだ諦めなくていいです。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-23T14:42:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_beeaec4bf6": {
+      "text": "これ夫も復縁したときに言ってたしほんとにそうだと思う。別れたあとって返信が冷たいと嫌われたって一喜一憂しちゃうよね私もそうだったからすごい分かる。でも彼が警戒してるのって「返信したらまた復縁を迫られるかも」という空気。だから",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-23T19:52:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_56758ebe8d": {
+      "text": "「未練ない」って言い切る男に限って未練しかないです。ほんとに。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-23T21:47:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c1b42bcdcd": {
+      "text": "回避型は自己防衛で別れを選ぶから、振った瞬間から後悔が始まるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-24T11:08:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e05312121f": {
+      "text": "男は「好きだった相手」と、そう簡単に友達みたいな関係には戻れないです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-24T14:42:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ceb8126a04": {
+      "text": "彼が自分から戻ってくるのを待ってる時間は、彼の中の「別れて正解だった」を固めてる時間です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-24T16:33:00+09:00",
+          "registered_at": "2026-09-21",
           "views": null
         }
       ]

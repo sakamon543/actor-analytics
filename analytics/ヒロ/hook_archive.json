@@ -3127,6 +3127,11 @@
           "scheduled_at": "2026-09-21T16:33:00+09:00",
           "registered_at": "2026-09-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-24T19:52:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
         }
       ]
     },
@@ -3378,6 +3383,11 @@
           "scheduled_at": "2026-09-20T11:08:00+09:00",
           "registered_at": "2026-09-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-23T11:08:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
         }
       ]
     },
@@ -3418,7 +3428,8 @@
         {
           "scheduled_at": "2026-09-16T16:33:00+09:00",
           "registered_at": "2026-09-15",
-          "views": null
+          "views": 5899,
+          "posted_at": "2026-09-16T07:38:55.717+00:00"
         }
       ]
     },
@@ -3436,6 +3447,11 @@
           "scheduled_at": "2026-09-20T19:52:00+09:00",
           "registered_at": "2026-09-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-23T19:52:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
         }
       ]
     },
@@ -3452,6 +3468,11 @@
         {
           "scheduled_at": "2026-09-21T11:08:00+09:00",
           "registered_at": "2026-09-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-24T14:42:00+09:00",
+          "registered_at": "2026-09-21",
           "views": null
         }
       ]
@@ -3501,6 +3522,11 @@
           "scheduled_at": "2026-09-19T19:52:00+09:00",
           "registered_at": "2026-09-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-22T19:52:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
         }
       ]
     },
@@ -3512,6 +3538,11 @@
         {
           "scheduled_at": "2026-09-19T21:47:00+09:00",
           "registered_at": "2026-09-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-22T21:47:00+09:00",
+          "registered_at": "2026-09-21",
           "views": null
         }
       ]
@@ -3525,6 +3556,11 @@
           "scheduled_at": "2026-09-20T21:47:00+09:00",
           "registered_at": "2026-09-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-23T21:47:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
         }
       ]
     },
@@ -3536,6 +3572,42 @@
         {
           "scheduled_at": "2026-09-21T14:42:00+09:00",
           "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ca7e4e21fe": {
+      "text": "別れの原因が「男側のキャパオーバー」の場合、1番NGなのは「彼が落ち着くまで待つこと」なんですよね。こういう別れは、彼の気持ちが残っているからこそ時間勝負。「完全に冷めたから別れる」とは少し違うので。余裕をなくした男が恋愛を手放すときって、彼女への恋愛感情に蓋してるだけなんですよ。だから、",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-22T16:33:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_711bf7b315": {
+      "text": "振った側の男だから言うけど、別れたあと元カノに言われて一番ムカついたのが「次はもっと大事にしてくれる人と付き合う」だった。\n・俺の悪口は言わない",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-24T11:08:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f5b225d2d1": {
+      "text": "【振った男の僕が自分からLINEを送るまで】\n①別れる",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-24T16:33:00+09:00",
+          "registered_at": "2026-09-21",
           "views": null
         }
       ]

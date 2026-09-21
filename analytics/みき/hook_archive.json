@@ -1776,6 +1776,11 @@
           "scheduled_at": "2026-09-19T16:33:00+09:00",
           "registered_at": "2026-09-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-22T19:52:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
         }
       ]
     },
@@ -1837,6 +1842,11 @@
         {
           "scheduled_at": "2026-09-19T19:52:00+09:00",
           "registered_at": "2026-09-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-22T16:33:00+09:00",
+          "registered_at": "2026-09-21",
           "views": null
         }
       ]
@@ -2039,6 +2049,11 @@
         {
           "scheduled_at": "2026-09-21T14:42:00+09:00",
           "registered_at": "2026-09-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-22T14:42:00+09:00",
+          "registered_at": "2026-09-21",
           "views": null
         }
       ]
@@ -2555,6 +2570,11 @@
           "scheduled_at": "2026-09-08T11:08:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-22T21:47:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
         }
       ]
     },
@@ -2648,6 +2668,11 @@
         {
           "scheduled_at": "2026-09-16T14:42:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-23T21:47:00+09:00",
+          "registered_at": "2026-09-21",
           "views": null
         }
       ]
@@ -2893,7 +2918,8 @@
         {
           "scheduled_at": "2026-09-20T19:52:00+09:00",
           "registered_at": "2026-09-18",
-          "views": null
+          "views": 20,
+          "posted_at": "2026-09-20T10:58:53.362+00:00"
         }
       ]
     },
@@ -2941,6 +2967,90 @@
         {
           "scheduled_at": "2026-09-21T19:52:00+09:00",
           "registered_at": "2026-09-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_018dda8299": {
+      "text": "年下が動かない理由って「先輩に興味がない」より圧倒的に多いのが『どうせ相手にされない』です。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-23T11:08:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7850a969ef": {
+      "text": "職場恋愛を隠して付き合ってる人は83.7%です。バレる前提で動けなくなってるの、順番が逆です。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-23T14:42:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_624267f624": {
+      "text": "職場のランチは大チャンスですけど、2人になりそうな時に「みんなで行きましょう」と言うのは逆効果です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-23T19:52:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a1b1e43916": {
+      "text": "年下の後輩って「先輩は自分を後輩としか見てない」と本気で思い込んでいます。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-24T11:08:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ab037f00bd": {
+      "text": "若く見せる努力は、年上のいちばんの武器を自分で消す行為です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-24T14:42:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1c11114d54": {
+      "text": "恋愛は動いた方が勝ち、って思ってませんか。年下の後輩相手だと、実は「動きすぎない」方がうまくいきます。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-24T16:33:00+09:00",
+          "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e28427ca0c": {
+      "text": "「今日こそ誘おう」ってスマホを握ってる人ほど、彼から動く余白を自分で埋めています。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-21",
+      "history": [
+        {
+          "scheduled_at": "2026-09-24T19:52:00+09:00",
+          "registered_at": "2026-09-21",
           "views": null
         }
       ]
