@@ -925,6 +925,11 @@
           "scheduled_at": "2026-09-21T21:47:00+09:00",
           "registered_at": "2026-09-20",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-24T19:52:00+09:00",
+          "registered_at": "2026-09-23",
+          "views": null
         }
       ]
     },
@@ -995,6 +1000,11 @@
         {
           "scheduled_at": "2026-09-23T11:08:00+09:00",
           "registered_at": "2026-09-20",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-24T21:47:00+09:00",
+          "registered_at": "2026-09-23",
           "views": null
         }
       ]
@@ -1345,6 +1355,11 @@
           "scheduled_at": "2026-09-23T14:42:00+09:00",
           "registered_at": "2026-09-20",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-26T11:08:00+09:00",
+          "registered_at": "2026-09-23",
+          "views": null
         }
       ]
     },
@@ -1469,6 +1484,11 @@
         {
           "scheduled_at": "2026-09-21T16:33:00+09:00",
           "registered_at": "2026-09-20",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-24T14:42:00+09:00",
+          "registered_at": "2026-09-23",
           "views": null
         }
       ]
@@ -1805,6 +1825,11 @@
         {
           "scheduled_at": "2026-09-20T19:52:00+09:00",
           "registered_at": "2026-09-17",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-25T14:42:00+09:00",
+          "registered_at": "2026-09-23",
           "views": null
         }
       ]
@@ -2887,6 +2912,11 @@
           "scheduled_at": "2026-09-22T11:08:00+09:00",
           "registered_at": "2026-09-20",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-25T19:52:00+09:00",
+          "registered_at": "2026-09-23",
+          "views": null
         }
       ]
     },
@@ -2946,6 +2976,78 @@
         {
           "scheduled_at": "2026-09-23T19:52:00+09:00",
           "registered_at": "2026-09-20",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dcd99400e4": {
+      "text": "実は、男が振った側の方が復縁の確率ってめちゃくちゃ高いんだよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-23",
+      "history": [
+        {
+          "scheduled_at": "2026-09-24T16:33:00+09:00",
+          "registered_at": "2026-09-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e4cdd23dc3": {
+      "text": "元彼のインスタを見るのをやめられないのは、意志が弱いからじゃないんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-23",
+      "history": [
+        {
+          "scheduled_at": "2026-09-25T11:08:00+09:00",
+          "registered_at": "2026-09-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f972993579": {
+      "text": "彼の『今は付き合う気ない』は本気の決意じゃなくて、ただの『一時避難』",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-23",
+      "history": [
+        {
+          "scheduled_at": "2026-09-25T21:47:00+09:00",
+          "registered_at": "2026-09-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1c0080917c": {
+      "text": "男って別れた後吹っ切れるの早く感じることあると思うけど、それは平静を装ってるだけなんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-23",
+      "history": [
+        {
+          "scheduled_at": "2026-09-26T14:42:00+09:00",
+          "registered_at": "2026-09-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_db87355c2f": {
+      "text": "復縁が出来ない理由って『可愛くないから』とか『今カノの方が可愛いから』みたいな理由じゃないの。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-23",
+      "history": [
+        {
+          "scheduled_at": "2026-09-26T16:33:00+09:00",
+          "registered_at": "2026-09-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_05901d55ae": {
+      "text": "追いLINE100通送ってブロックされた女でも、復縁はできるんだよね。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-23",
+      "history": [
+        {
+          "scheduled_at": "2026-09-26T19:52:00+09:00",
+          "registered_at": "2026-09-23",
           "views": null
         }
       ]
