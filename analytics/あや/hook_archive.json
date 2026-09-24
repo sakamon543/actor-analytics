@@ -739,6 +739,11 @@
           "scheduled_at": "2026-09-20T11:08:00+09:00",
           "registered_at": "2026-09-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-25T16:33:00+09:00",
+          "registered_at": "2026-09-24",
+          "views": null
         }
       ]
     },
@@ -796,6 +801,11 @@
         {
           "scheduled_at": "2026-09-21T16:33:00+09:00",
           "registered_at": "2026-09-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-27T14:42:00+09:00",
+          "registered_at": "2026-09-24",
           "views": null
         }
       ]
@@ -864,6 +874,11 @@
         {
           "scheduled_at": "2026-09-20T14:42:00+09:00",
           "registered_at": "2026-09-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-26T11:08:00+09:00",
+          "registered_at": "2026-09-24",
           "views": null
         }
       ]
@@ -2692,6 +2707,11 @@
           "scheduled_at": "2026-09-19T21:47:00+09:00",
           "registered_at": "2026-09-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-25T21:47:00+09:00",
+          "registered_at": "2026-09-24",
+          "views": null
         }
       ]
     },
@@ -2738,6 +2758,11 @@
         {
           "scheduled_at": "2026-09-21T11:08:00+09:00",
           "registered_at": "2026-09-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-26T21:47:00+09:00",
+          "registered_at": "2026-09-24",
           "views": null
         }
       ]
@@ -3051,6 +3076,11 @@
           "scheduled_at": "2026-09-21T14:42:00+09:00",
           "registered_at": "2026-09-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-26T19:52:00+09:00",
+          "registered_at": "2026-09-24",
+          "views": null
         }
       ]
     },
@@ -3122,6 +3152,54 @@
         {
           "scheduled_at": "2026-09-24T19:52:00+09:00",
           "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e708a19aff": {
+      "text": "女性はLINEの頻度や反応で気持ちを測るけど、男性はLINEを感情のバロメーターだとは思っていません。女性にとっては既読無視＝拒絶に感じても、男性側はただ向き合う余裕がない、返したら何かを決めなきゃいけなくなる、その負担から止まっているだけのことも多いです。特に",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-24",
+      "history": [
+        {
+          "scheduled_at": "2026-09-25T19:52:00+09:00",
+          "registered_at": "2026-09-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8f7fd9a093": {
+      "text": "元彼の既読無視は、気持ちが冷めたサインじゃない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-24",
+      "history": [
+        {
+          "scheduled_at": "2026-09-27T11:08:00+09:00",
+          "registered_at": "2026-09-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7972282c44": {
+      "text": "復縁できない理由って『今カノの方が可愛いから』みたいな理由じゃないよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-24",
+      "history": [
+        {
+          "scheduled_at": "2026-09-27T16:33:00+09:00",
+          "registered_at": "2026-09-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_132736ff19": {
+      "text": "冷却期間って、日数を数えて耐える期間じゃなくて、追うのをやめる期間だよ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-24",
+      "history": [
+        {
+          "scheduled_at": "2026-09-27T19:52:00+09:00",
+          "registered_at": "2026-09-24",
           "views": null
         }
       ]

@@ -313,6 +313,11 @@
           "scheduled_at": "2026-09-22T16:33:00+09:00",
           "registered_at": "2026-09-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-25T14:42:00+09:00",
+          "registered_at": "2026-09-24",
+          "views": null
         }
       ]
     },
@@ -1363,6 +1368,11 @@
         {
           "scheduled_at": "2026-08-19T16:33:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-27T19:52:00+09:00",
+          "registered_at": "2026-09-24",
           "views": null
         }
       ]
@@ -2984,6 +2994,11 @@
           "scheduled_at": "2026-09-24T19:52:00+09:00",
           "registered_at": "2026-09-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-27T11:08:00+09:00",
+          "registered_at": "2026-09-24",
+          "views": null
         }
       ]
     },
@@ -3031,7 +3046,7 @@
         {
           "scheduled_at": "2026-09-20T19:52:00+09:00",
           "registered_at": "2026-09-18",
-          "views": 8,
+          "views": 9,
           "posted_at": "2026-09-20T10:58:35.74+00:00"
         }
       ]
@@ -3080,7 +3095,8 @@
         {
           "scheduled_at": "2026-09-21T16:33:00+09:00",
           "registered_at": "2026-09-18",
-          "views": null
+          "views": 11,
+          "posted_at": "2026-09-21T07:38:59.925+00:00"
         }
       ]
     },
@@ -3153,6 +3169,11 @@
           "scheduled_at": "2026-09-23T14:42:00+09:00",
           "registered_at": "2026-09-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-26T14:42:00+09:00",
+          "registered_at": "2026-09-24",
+          "views": null
         }
       ]
     },
@@ -3212,6 +3233,102 @@
         {
           "scheduled_at": "2026-09-24T16:33:00+09:00",
           "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1f57352be9": {
+      "text": "別れ際の彼の冷たさは、あなたを嫌いになった証拠じゃないです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-24",
+      "history": [
+        {
+          "scheduled_at": "2026-09-25T16:33:00+09:00",
+          "registered_at": "2026-09-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e219a68e18": {
+      "text": "私が復縁する前一番考えてたのは「どうやって追わないようにするか」より「どうしたら彼がまた連絡したくなるか」ってこと。私も朝起きたらLINEを確認、仕事中も送りたくなる。夜は「このまま何もしなかったら忘れられるかも」って怖くて理由を作って連絡したくなってただから「私が追わなければ",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-24",
+      "history": [
+        {
+          "scheduled_at": "2026-09-25T19:52:00+09:00",
+          "registered_at": "2026-09-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_874f2cd447": {
+      "text": "ブロックされて、もう終わったと思っていませんか。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-24",
+      "history": [
+        {
+          "scheduled_at": "2026-09-25T21:47:00+09:00",
+          "registered_at": "2026-09-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_061995c25c": {
+      "text": "「友達からやり直すのが安全」って常識、嘘です",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-24",
+      "history": [
+        {
+          "scheduled_at": "2026-09-26T11:08:00+09:00",
+          "registered_at": "2026-09-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_747270769b": {
+      "text": "復縁できる女性って彼自身に「俺まだ好きじゃん」って気づかせるのがマジで上手い。私は最初完全に逆の動きしてた彼が離れるほど「どれだけ好きか分かってほしい」って泣いて縋る。長文を送る。急に引いて駆け引きする。返信が来たら嬉しくてまた距離を詰める。でも彼が「別れたい」と思ってる時に",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-24",
+      "history": [
+        {
+          "scheduled_at": "2026-09-26T19:52:00+09:00",
+          "registered_at": "2026-09-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ca068621e2": {
+      "text": "回避型は自己防衛で別れを選ぶから、彼の後悔は振った瞬間からもう始まってます。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-24",
+      "history": [
+        {
+          "scheduled_at": "2026-09-26T21:47:00+09:00",
+          "registered_at": "2026-09-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ff43422a48": {
+      "text": "実は、冷却期間を置かない方が復縁の確率が高いです",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-24",
+      "history": [
+        {
+          "scheduled_at": "2026-09-27T14:42:00+09:00",
+          "registered_at": "2026-09-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_86f4be5c95": {
+      "text": "復縁できる人とできない人の差は、外見でも運でもなくて「不安に飲まれずに動けたか」だけです。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-24",
+      "history": [
+        {
+          "scheduled_at": "2026-09-27T16:33:00+09:00",
+          "registered_at": "2026-09-24",
           "views": null
         }
       ]

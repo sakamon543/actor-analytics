@@ -1781,6 +1781,11 @@
           "scheduled_at": "2026-09-22T19:52:00+09:00",
           "registered_at": "2026-09-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-25T21:47:00+09:00",
+          "registered_at": "2026-09-24",
+          "views": null
         }
       ]
     },
@@ -1847,6 +1852,11 @@
         {
           "scheduled_at": "2026-09-22T16:33:00+09:00",
           "registered_at": "2026-09-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-25T19:52:00+09:00",
+          "registered_at": "2026-09-24",
           "views": null
         }
       ]
@@ -1926,6 +1936,11 @@
           "scheduled_at": "2026-09-20T11:08:00+09:00",
           "registered_at": "2026-09-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-26T11:08:00+09:00",
+          "registered_at": "2026-09-24",
+          "views": null
         }
       ]
     },
@@ -1957,6 +1972,11 @@
         {
           "scheduled_at": "2026-09-20T14:42:00+09:00",
           "registered_at": "2026-09-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-26T19:52:00+09:00",
+          "registered_at": "2026-09-24",
           "views": null
         }
       ]
@@ -2054,6 +2074,11 @@
         {
           "scheduled_at": "2026-09-22T14:42:00+09:00",
           "registered_at": "2026-09-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-25T16:33:00+09:00",
+          "registered_at": "2026-09-24",
           "views": null
         }
       ]
@@ -2918,7 +2943,7 @@
         {
           "scheduled_at": "2026-09-20T19:52:00+09:00",
           "registered_at": "2026-09-18",
-          "views": 20,
+          "views": 27,
           "posted_at": "2026-09-20T10:58:53.362+00:00"
         }
       ]
@@ -3051,6 +3076,66 @@
         {
           "scheduled_at": "2026-09-24T19:52:00+09:00",
           "registered_at": "2026-09-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6e17ab5568": {
+      "text": "年下の後輩は、「4歳も上だから恋愛対象じゃない」とは思っていません。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-24",
+      "history": [
+        {
+          "scheduled_at": "2026-09-26T21:47:00+09:00",
+          "registered_at": "2026-09-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_155aa0710e": {
+      "text": "後輩からの「彼氏いないんですか？」を「いないですよー」で流した時点で、恋愛対象から自分で降りてます。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-24",
+      "history": [
+        {
+          "scheduled_at": "2026-09-27T11:08:00+09:00",
+          "registered_at": "2026-09-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_453cd55dc2": {
+      "text": "年下の彼が年上に求めてるのは、若く見える見た目じゃなくて、一緒にいて肩の力が抜ける安心感です。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-24",
+      "history": [
+        {
+          "scheduled_at": "2026-09-27T14:42:00+09:00",
+          "registered_at": "2026-09-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f2c1e5aabb": {
+      "text": "「年下の男の子は年下同士がいい」はウソです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-24",
+      "history": [
+        {
+          "scheduled_at": "2026-09-27T16:33:00+09:00",
+          "registered_at": "2026-09-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_449873c5c8": {
+      "text": "年下後輩は、動けば動くほど遠ざかります。自分から誘うのをやめた瞬間に、向こうから誘ってきます。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-24",
+      "history": [
+        {
+          "scheduled_at": "2026-09-27T19:52:00+09:00",
+          "registered_at": "2026-09-24",
           "views": null
         }
       ]

@@ -8,8 +8,8 @@
       "first_seen_views": 7223,
       "first_seen_at": "2026-07-15T13:38:31.827+00:00",
       "status": "used",
-      "used_count": 2,
-      "last_used_at": "2026-08-22T10:07:55.356612+09:00",
+      "used_count": 3,
+      "last_used_at": "2026-09-24T09:43:10.246578+09:00",
       "sales_followed": true
     },
     "rcyc_effb6f2d54": {
@@ -150,7 +150,29 @@
       "used_count": 1,
       "last_used_at": "2026-09-12T10:06:26.067664+09:00",
       "sales_followed": false
+    },
+    "rcyc_caf5c83f66": {
+      "recycle_id": "rcyc_caf5c83f66",
+      "text": "年下男子が『この人から離れられない』と沼る年上には、はっきりした共通点があるんです。若さでも、美貌でも、包容力でもありません。それは、余裕を『見せない』人。今、彼の前で笑顔を崩さないようにしてるあなた。その完璧さが、恋愛対象から外されてる理由です。",
+      "thread": [],
+      "first_seen_views": 6135,
+      "first_seen_at": "2026-09-21T02:13:38.532+00:00",
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-09-24T09:43:10.246578+09:00",
+      "sales_followed": false
+    },
+    "rcyc_e7eb07aab5": {
+      "recycle_id": "rcyc_e7eb07aab5",
+      "text": "年下男子の距離感は、興味がないサインじゃないんです。むしろ逆で、あなたに惹かれ始めた男ほど、一回距離を置きます。今、既読が遅くなって『重かったかな』と一歩引いてるあなた。そこで大人の余裕を見せた瞬間に、彼は安心して離れていきます。",
+      "thread": [],
+      "first_seen_views": 5398,
+      "first_seen_at": "2026-09-19T12:53:18.479+00:00",
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-09-24T09:43:10.246578+09:00",
+      "sales_followed": false
     }
   },
-  "updated_at": "2026-09-21T09:40:07.392967+09:00"
+  "updated_at": "2026-09-24T09:43:10.246578+09:00"
 }
