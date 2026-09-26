@@ -4320,7 +4320,10 @@
       "likes": 125,
       "source": "https://x.com/nagikoi1/status/2099855850101977345",
       "source_handle": "nagikoi1",
-      "collected_at": "2026-09-19"
+      "collected_at": "2026-09-19",
+      "used_by": {
+        "かれん": "2026-09-26"
+      }
     },
     {
       "pool_id": "hp_a0f37a3c70",
@@ -5089,7 +5092,8 @@
       "collected_at": "2026-09-24",
       "used_by": {
         "あや": "2026-09-24"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_5599871489",
@@ -26192,5 +26196,5 @@
       "collected_at": "2026-09-25"
     }
   ],
-  "updated_at": "2026-09-26T01:16:39.632704+09:00"
+  "updated_at": "2026-09-26T09:11:41.418369+09:00"
 }
