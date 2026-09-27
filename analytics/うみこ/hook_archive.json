@@ -1108,6 +1108,11 @@
           "scheduled_at": "2026-09-20T19:52:00+09:00",
           "registered_at": "2026-09-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-29T21:47:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
         }
       ]
     },
@@ -2731,6 +2736,11 @@
         {
           "scheduled_at": "2026-09-19T19:52:00+09:00",
           "registered_at": "2026-09-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-28T21:47:00+09:00",
+          "registered_at": "2026-09-27",
           "views": null
         }
       ]
@@ -5638,6 +5648,11 @@
           "scheduled_at": "2026-09-19T16:33:00+09:00",
           "registered_at": "2026-09-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-29T11:08:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
         }
       ]
     },
@@ -5700,6 +5715,11 @@
         {
           "scheduled_at": "2026-09-25T21:47:00+09:00",
           "registered_at": "2026-09-24",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-28T19:52:00+09:00",
+          "registered_at": "2026-09-27",
           "views": null
         }
       ]
@@ -6185,6 +6205,11 @@
           "scheduled_at": "2026-09-20T11:08:00+09:00",
           "registered_at": "2026-09-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-29T19:52:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
         }
       ]
     },
@@ -6578,6 +6603,54 @@
         {
           "scheduled_at": "2026-09-27T19:52:00+09:00",
           "registered_at": "2026-09-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8eca381c7b": {
+      "text": "これは男の核心ついててエグい。復縁しない男の心理ってマジでこれです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-27",
+      "history": [
+        {
+          "scheduled_at": "2026-09-28T16:33:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d5c61411ad": {
+      "text": "男にとって『振ったのに戻りたくなる元カノ』は特別すぎるのよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-27",
+      "history": [
+        {
+          "scheduled_at": "2026-09-30T11:08:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_33d49f4c0c": {
+      "text": "復縁して一番長続きしてるカップルって、決まって『男が頭下げて戻ってきた』パターンなのよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-27",
+      "history": [
+        {
+          "scheduled_at": "2026-09-30T16:33:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_989195686c": {
+      "text": "男は『好きだった相手』と簡単に友達みたいな関係には戻れないのよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-27",
+      "history": [
+        {
+          "scheduled_at": "2026-09-30T19:52:00+09:00",
+          "registered_at": "2026-09-27",
           "views": null
         }
       ]

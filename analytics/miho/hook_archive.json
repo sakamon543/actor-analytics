@@ -1374,6 +1374,11 @@
           "scheduled_at": "2026-09-27T19:52:00+09:00",
           "registered_at": "2026-09-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-28T21:47:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
         }
       ]
     },
@@ -2965,6 +2970,11 @@
           "scheduled_at": "2026-09-19T14:42:00+09:00",
           "registered_at": "2026-09-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-28T14:42:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
         }
       ]
     },
@@ -2999,6 +3009,11 @@
           "scheduled_at": "2026-09-27T11:08:00+09:00",
           "registered_at": "2026-09-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-29T11:08:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
         }
       ]
     },
@@ -3023,6 +3038,11 @@
           "scheduled_at": "2026-09-20T11:08:00+09:00",
           "registered_at": "2026-09-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-28T19:52:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
         }
       ]
     },
@@ -3034,6 +3054,11 @@
         {
           "scheduled_at": "2026-09-20T14:42:00+09:00",
           "registered_at": "2026-09-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-28T16:33:00+09:00",
+          "registered_at": "2026-09-27",
           "views": null
         }
       ]
@@ -3048,6 +3073,11 @@
           "registered_at": "2026-09-18",
           "views": 9,
           "posted_at": "2026-09-20T10:58:35.74+00:00"
+        },
+        {
+          "scheduled_at": "2026-09-29T14:42:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
         }
       ]
     },
@@ -3060,6 +3090,11 @@
           "scheduled_at": "2026-09-20T21:47:00+09:00",
           "registered_at": "2026-09-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-29T21:47:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
         }
       ]
     },
@@ -3071,6 +3106,11 @@
         {
           "scheduled_at": "2026-09-21T11:08:00+09:00",
           "registered_at": "2026-09-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-29T19:52:00+09:00",
+          "registered_at": "2026-09-27",
           "views": null
         }
       ]
@@ -3168,7 +3208,8 @@
         {
           "scheduled_at": "2026-09-23T14:42:00+09:00",
           "registered_at": "2026-09-21",
-          "views": null
+          "views": 11,
+          "posted_at": "2026-09-26T05:48:19.56+00:00"
         },
         {
           "scheduled_at": "2026-09-26T14:42:00+09:00",
@@ -3329,6 +3370,54 @@
         {
           "scheduled_at": "2026-09-27T16:33:00+09:00",
           "registered_at": "2026-09-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c941054fc1": {
+      "text": "ブロックされたまま3ヶ月経ってても、それは終わったことにはならないです",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-27",
+      "history": [
+        {
+          "scheduled_at": "2026-09-30T11:08:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6cefe7a028": {
+      "text": "振った側の彼が自分から戻ってくるのを待つのは、いちばん確率が低い選び方です",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-27",
+      "history": [
+        {
+          "scheduled_at": "2026-09-30T14:42:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bb352df3b4": {
+      "text": "彼は、「返信が続いてる＝復縁に近づいてる」とは思っていません",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-27",
+      "history": [
+        {
+          "scheduled_at": "2026-09-30T16:33:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2e78dd1038": {
+      "text": "復縁に「冷却期間3ヶ月」は必要ないです",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-27",
+      "history": [
+        {
+          "scheduled_at": "2026-09-30T19:52:00+09:00",
+          "registered_at": "2026-09-27",
           "views": null
         }
       ]

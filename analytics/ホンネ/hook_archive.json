@@ -120,6 +120,11 @@
           "scheduled_at": "2026-09-17T21:47:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-29T11:08:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
         }
       ]
     },
@@ -302,6 +307,11 @@
         {
           "scheduled_at": "2026-09-26T19:52:00+09:00",
           "registered_at": "2026-09-24",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-29T19:52:00+09:00",
+          "registered_at": "2026-09-27",
           "views": null
         }
       ]
@@ -718,6 +728,11 @@
           "scheduled_at": "2026-09-25T16:33:00+09:00",
           "registered_at": "2026-09-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-28T19:52:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
         }
       ]
     },
@@ -932,6 +947,11 @@
         {
           "scheduled_at": "2026-09-22T21:47:00+09:00",
           "registered_at": "2026-09-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-28T21:47:00+09:00",
+          "registered_at": "2026-09-27",
           "views": null
         }
       ]
@@ -1509,6 +1529,11 @@
           "scheduled_at": "2026-09-26T21:47:00+09:00",
           "registered_at": "2026-09-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-29T21:47:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
         }
       ]
     },
@@ -1695,6 +1720,11 @@
         {
           "scheduled_at": "2026-09-26T11:08:00+09:00",
           "registered_at": "2026-09-24",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-30T11:08:00+09:00",
+          "registered_at": "2026-09-27",
           "views": null
         }
       ]
@@ -3012,7 +3042,8 @@
         {
           "scheduled_at": "2026-07-16T22:17:00+09:00",
           "registered_at": "2026-07-13",
-          "views": null
+          "views": 25,
+          "posted_at": "2026-09-25T10:56:48.463+00:00"
         },
         {
           "scheduled_at": "2026-08-05T20:28:00+09:00",
@@ -3097,6 +3128,11 @@
         {
           "scheduled_at": "2026-09-25T19:52:00+09:00",
           "registered_at": "2026-09-24",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-28T16:33:00+09:00",
+          "registered_at": "2026-09-27",
           "views": null
         }
       ]
@@ -3528,7 +3564,8 @@
         {
           "scheduled_at": "2026-07-23T14:42:00+09:00",
           "registered_at": "2026-07-20",
-          "views": null
+          "views": 5,
+          "posted_at": "2026-09-24T05:45:56.397+00:00"
         }
       ]
     },
@@ -5580,6 +5617,30 @@
         {
           "scheduled_at": "2026-09-27T19:52:00+09:00",
           "registered_at": "2026-09-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bb9edd6802": {
+      "text": "男が目を合わせてこないのは、年上女性に興味ないサインじゃない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-27",
+      "history": [
+        {
+          "scheduled_at": "2026-09-30T16:33:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9b1426502b": {
+      "text": "男は、「一度意識した年上の人」と簡単に元の距離には戻れない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-27",
+      "history": [
+        {
+          "scheduled_at": "2026-09-30T19:52:00+09:00",
+          "registered_at": "2026-09-27",
           "views": null
         }
       ]

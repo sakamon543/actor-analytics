@@ -825,7 +825,16 @@
       "likes": 188,
       "source": "https://x.com/momo_fukuen/status/2100340197686927837",
       "source_handle": "momo_fukuen",
-      "collected_at": "2026-09-20"
+      "collected_at": "2026-09-20",
+      "used_by": {
+        "ハカセ": "2026-09-27"
+      },
+      "results": {
+        "ハカセ": {
+          "views": 58,
+          "at": "2026-09-27"
+        }
+      }
     },
     {
       "pool_id": "hp_ab5c79d1d4",
@@ -880,7 +889,11 @@
       "likes": 109,
       "source": "https://x.com/momo_fukuen/status/2102307714592649421",
       "source_handle": "momo_fukuen",
-      "collected_at": "2026-09-23"
+      "collected_at": "2026-09-23",
+      "used_by": {
+        "ハカセ": "2026-09-27"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_f014575036",
@@ -1000,8 +1013,8 @@
       },
       "results": {
         "ヒロ": {
-          "views": 14683,
-          "at": "2026-09-24"
+          "views": 14731,
+          "at": "2026-09-27"
         }
       }
     },
@@ -2736,7 +2749,11 @@
       "likes": 68,
       "source": "https://x.com/haru_motokare/status/2103431573794431281",
       "source_handle": "haru_motokare",
-      "collected_at": "2026-09-27"
+      "collected_at": "2026-09-27",
+      "used_by": {
+        "うみこ": "2026-09-27"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_4214a170ca",
@@ -3003,7 +3020,11 @@
       "likes": 25,
       "source": "https://x.com/Kei_zoon/status/2101624077102567646",
       "source_handle": "kei_zoon",
-      "collected_at": "2026-09-21"
+      "collected_at": "2026-09-21",
+      "used_by": {
+        "ヒロ": "2026-09-27"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_a4a7084d23",
@@ -3481,7 +3502,11 @@
       "likes": 91,
       "source": "https://x.com/reuni10v/status/2102921410146656269",
       "source_handle": "reuni10v",
-      "collected_at": "2026-09-26"
+      "collected_at": "2026-09-26",
+      "used_by": {
+        "ヒロ": "2026-09-27"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_90568ef51e",
@@ -4422,7 +4447,8 @@
       "collected_at": "2026-09-19",
       "used_by": {
         "かれん": "2026-09-26"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_a0f37a3c70",
@@ -5413,7 +5439,11 @@
       "likes": 61,
       "source": "https://x.com/reuni10v/status/2100783513629053294",
       "source_handle": "reuni10v",
-      "collected_at": "2026-09-20"
+      "collected_at": "2026-09-20",
+      "used_by": {
+        "ヒロ": "2026-09-27"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_849643f964",
@@ -5509,7 +5539,11 @@
       "likes": 54,
       "source": "https://x.com/reuni10v/status/2101496491428962542",
       "source_handle": "reuni10v",
-      "collected_at": "2026-09-23"
+      "collected_at": "2026-09-23",
+      "used_by": {
+        "ヒロ": "2026-09-27"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_ccb511f2b5",
@@ -5791,7 +5825,11 @@
       "likes": 75,
       "source": "https://x.com/reuni10v/status/2102198594438901962",
       "source_handle": "reuni10v",
-      "collected_at": "2026-09-23"
+      "collected_at": "2026-09-23",
+      "used_by": {
+        "ヒロ": "2026-09-27"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_de2100d43d",
@@ -6834,7 +6872,11 @@
       "likes": 30,
       "source": "https://x.com/reuni10v/status/2098935833797742794",
       "source_handle": "reuni10v",
-      "collected_at": "2026-09-16"
+      "collected_at": "2026-09-16",
+      "used_by": {
+        "ヒロ": "2026-09-27"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_4bb4ffb7d1",
@@ -26574,5 +26616,5 @@
       "collected_at": "2026-09-25"
     }
   ],
-  "updated_at": "2026-09-27T01:26:30.331819+09:00"
+  "updated_at": "2026-09-27T09:26:45.389308+09:00"
 }

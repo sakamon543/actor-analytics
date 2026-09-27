@@ -35,6 +35,11 @@
           "scheduled_at": "2026-09-23T14:42:00+09:00",
           "registered_at": "2026-09-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-29T14:42:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
         }
       ]
     },
@@ -284,6 +289,11 @@
           "scheduled_at": "2026-09-22T19:52:00+09:00",
           "registered_at": "2026-09-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-28T21:47:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
         }
       ]
     },
@@ -409,6 +419,11 @@
           "scheduled_at": "2026-09-12T11:08:00+09:00",
           "registered_at": "2026-09-09",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-30T11:08:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
         }
       ]
     },
@@ -490,6 +505,11 @@
         {
           "scheduled_at": "2026-09-23T21:47:00+09:00",
           "registered_at": "2026-09-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-29T19:52:00+09:00",
+          "registered_at": "2026-09-27",
           "views": null
         }
       ]
@@ -632,6 +652,11 @@
         {
           "scheduled_at": "2026-09-22T14:42:00+09:00",
           "registered_at": "2026-09-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-28T16:33:00+09:00",
+          "registered_at": "2026-09-27",
           "views": null
         }
       ]
@@ -1338,6 +1363,11 @@
         {
           "scheduled_at": "2026-09-22T21:47:00+09:00",
           "registered_at": "2026-09-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-30T16:33:00+09:00",
+          "registered_at": "2026-09-27",
           "views": null
         }
       ]
@@ -3200,6 +3230,66 @@
         {
           "scheduled_at": "2026-09-27T19:52:00+09:00",
           "registered_at": "2026-09-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c28b42e599": {
+      "text": "冷却期間って、彼を待つ期間じゃなくて追うのをやめる期間だよ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-27",
+      "history": [
+        {
+          "scheduled_at": "2026-09-28T19:52:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_415b84fb96": {
+      "text": "男の既読スルーは、もう興味ないサインじゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-27",
+      "history": [
+        {
+          "scheduled_at": "2026-09-29T11:08:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f3d04f85b3": {
+      "text": "実は、復縁を否定するのは女性の方で、男は復縁したい派の方がずっと多いんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-27",
+      "history": [
+        {
+          "scheduled_at": "2026-09-29T21:47:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bb92a74d9b": {
+      "text": "「友達からやり直すのが安全」はウソ",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-27",
+      "history": [
+        {
+          "scheduled_at": "2026-09-30T14:42:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d83c93546e": {
+      "text": "復縁できるかどうかって、彼の気持ちより別れた後のこっちの動き方で決まるんだよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-09-27",
+      "history": [
+        {
+          "scheduled_at": "2026-09-30T19:52:00+09:00",
+          "registered_at": "2026-09-27",
           "views": null
         }
       ]

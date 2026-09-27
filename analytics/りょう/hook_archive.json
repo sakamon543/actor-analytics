@@ -217,6 +217,11 @@
           "scheduled_at": "2026-09-27T19:52:00+09:00",
           "registered_at": "2026-09-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-28T14:42:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
         }
       ]
     },
@@ -346,6 +351,11 @@
           "scheduled_at": "2026-09-25T19:52:00+09:00",
           "registered_at": "2026-09-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-29T11:08:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
         }
       ]
     },
@@ -375,7 +385,8 @@
         {
           "scheduled_at": "2026-07-25T22:17:00+09:00",
           "registered_at": "2026-07-22",
-          "views": null
+          "views": 17,
+          "posted_at": "2026-09-26T05:46:14.481+00:00"
         },
         {
           "scheduled_at": "2026-07-30T19:52:00+09:00",
@@ -510,6 +521,11 @@
         {
           "scheduled_at": "2026-09-25T21:47:00+09:00",
           "registered_at": "2026-09-24",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-28T19:52:00+09:00",
+          "registered_at": "2026-09-27",
           "views": null
         }
       ]
@@ -960,6 +976,11 @@
           "scheduled_at": "2026-09-24T16:33:00+09:00",
           "registered_at": "2026-09-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-29T19:52:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
         }
       ]
     },
@@ -1031,6 +1052,11 @@
         {
           "scheduled_at": "2026-09-23T14:42:00+09:00",
           "registered_at": "2026-09-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-28T21:47:00+09:00",
+          "registered_at": "2026-09-27",
           "views": null
         }
       ]
@@ -1169,6 +1195,11 @@
         {
           "scheduled_at": "2026-09-22T19:52:00+09:00",
           "registered_at": "2026-09-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-09-29T14:42:00+09:00",
+          "registered_at": "2026-09-27",
           "views": null
         }
       ]
@@ -2288,6 +2319,11 @@
           "scheduled_at": "2026-09-13T16:33:00+09:00",
           "registered_at": "2026-09-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-28T16:33:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
         }
       ]
     },
@@ -2725,6 +2761,66 @@
         {
           "scheduled_at": "2026-09-27T16:33:00+09:00",
           "registered_at": "2026-09-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8da34ccf2a": {
+      "text": "「私のどこがダメだったの」の答えは、切ってきた側から言うと「ダメなところはなかった」です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-27",
+      "history": [
+        {
+          "scheduled_at": "2026-09-29T21:47:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a02453ad06": {
+      "text": "「いい子だったな」で終わった子が一番多い。悪いところが無いことと、最後まで残ることは別。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-27",
+      "history": [
+        {
+          "scheduled_at": "2026-09-30T11:08:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bea4e79b20": {
+      "text": "マチアプ3年で100人以上会って、そのほとんどを俺から切ってきました。今思うと最低だと思います。ただ切ってきた側だから分かることがあって、消される子には毎回おなじ共通点があるんです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-27",
+      "history": [
+        {
+          "scheduled_at": "2026-09-30T14:42:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fb356486ec": {
+      "text": "男のフェードアウトは、他にいい子がいたからじゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-27",
+      "history": [
+        {
+          "scheduled_at": "2026-09-30T16:33:00+09:00",
+          "registered_at": "2026-09-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_75de65ea7d": {
+      "text": "2回目が来ない理由って『可愛くないから』とか『会話がつまらないから』みたいな理由じゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-27",
+      "history": [
+        {
+          "scheduled_at": "2026-09-30T19:52:00+09:00",
+          "registered_at": "2026-09-27",
           "views": null
         }
       ]
