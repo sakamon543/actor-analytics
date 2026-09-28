@@ -8,8 +8,8 @@
       "first_seen_views": 4156,
       "first_seen_at": "2026-04-29T12:56:41.29+00:00",
       "status": "used",
-      "used_count": 2,
-      "last_used_at": "2026-08-26T09:00:06.497317+09:00"
+      "used_count": 3,
+      "last_used_at": "2026-09-28T09:00:07.556807+09:00"
     },
     "rcyc_d31f701d27": {
       "recycle_id": "rcyc_d31f701d27",
@@ -222,8 +222,8 @@
       "first_seen_at": "2026-06-13T17:19:48.987076+09:00",
       "source_threads_post_id": "17861749359625273",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-08-26T09:00:06.497317+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-09-28T09:00:07.556807+09:00",
       "last_used_month": null,
       "test_results": [],
       "needs_thread": true
@@ -237,8 +237,8 @@
       "first_seen_at": "2026-06-13T17:19:55.787706+09:00",
       "source_threads_post_id": "17971856636880501",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-08-26T09:00:06.497317+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-09-28T09:00:07.556807+09:00",
       "last_used_month": null,
       "test_results": [],
       "needs_thread": true
@@ -582,8 +582,8 @@
       "first_seen_at": "2026-06-13T17:22:02.248783+09:00",
       "source_threads_post_id": "18076256189536098",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-08-26T09:00:06.497317+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-09-28T09:00:07.556807+09:00",
       "last_used_month": null,
       "test_results": [],
       "needs_thread": true
@@ -857,8 +857,8 @@
       "first_seen_at": "2026-06-13T17:24:11.058951+09:00",
       "source_threads_post_id": "17926711605033927",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-08-26T09:00:06.497317+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-09-28T09:00:07.556807+09:00",
       "last_used_month": null,
       "test_results": [],
       "needs_thread": true
@@ -1577,8 +1577,8 @@
       "first_seen_at": "2026-06-13T17:25:54.789525+09:00",
       "source_threads_post_id": "18032826653399414",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-08-26T09:00:06.497317+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-09-28T09:00:07.556807+09:00",
       "last_used_month": null,
       "test_results": [],
       "needs_thread": true
@@ -1632,8 +1632,8 @@
       "first_seen_at": "2026-06-13T17:25:59.892541+09:00",
       "source_threads_post_id": "18111824014447279",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-08-26T09:00:06.497317+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-09-28T09:00:07.556807+09:00",
       "last_used_month": null,
       "test_results": [],
       "needs_thread": true
@@ -2057,8 +2057,8 @@
       "first_seen_at": "2026-06-13T17:27:22.124242+09:00",
       "source_threads_post_id": "18046916408038134",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-08-26T09:00:06.497317+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-09-28T09:00:07.556807+09:00",
       "last_used_month": null,
       "test_results": [],
       "needs_thread": true
@@ -2872,8 +2872,8 @@
       "first_seen_at": "2026-06-13T17:28:30.145441+09:00",
       "source_threads_post_id": "18071498680540785",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-08-26T09:00:06.497317+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-09-28T09:00:07.556807+09:00",
       "last_used_month": null,
       "test_results": [],
       "needs_thread": true
@@ -3117,8 +3117,8 @@
       "first_seen_at": "2026-06-13T17:29:14.515011+09:00",
       "source_threads_post_id": "18064052284630920",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-08-26T09:00:06.497317+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-09-28T09:00:07.556807+09:00",
       "last_used_month": null,
       "test_results": [],
       "needs_thread": true
@@ -3157,8 +3157,8 @@
       "first_seen_at": "2026-06-13T17:29:26.028386+09:00",
       "source_threads_post_id": "18016996355614674",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-08-26T09:00:06.497317+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-09-28T09:00:07.556807+09:00",
       "last_used_month": null,
       "test_results": [],
       "needs_thread": true
@@ -3172,8 +3172,8 @@
       "first_seen_at": "2026-06-13T17:29:29.707164+09:00",
       "source_threads_post_id": "18057201256782916",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-08-26T09:00:06.497317+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-09-28T09:00:07.556807+09:00",
       "last_used_month": null,
       "test_results": [],
       "needs_thread": true
@@ -3489,5 +3489,5 @@
       "needs_thread": true
     }
   },
-  "updated_at": "2026-09-25T09:00:07.989466+09:00"
+  "updated_at": "2026-09-28T09:00:07.556807+09:00"
 }
