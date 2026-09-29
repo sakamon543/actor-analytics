@@ -1120,7 +1120,10 @@
       "likes": 43,
       "source": "https://x.com/nagikoi1/status/2104049021895786511",
       "source_handle": "nagikoi1",
-      "collected_at": "2026-09-29"
+      "collected_at": "2026-09-29",
+      "used_by": {
+        "かれん": "2026-09-29"
+      }
     },
     {
       "pool_id": "hp_3780e8c37f",
@@ -1590,7 +1593,10 @@
       "likes": 23,
       "source": "https://x.com/nagikoi1/status/2103483061153550722",
       "source_handle": "nagikoi1",
-      "collected_at": "2026-09-29"
+      "collected_at": "2026-09-29",
+      "used_by": {
+        "かれん": "2026-09-29"
+      }
     },
     {
       "pool_id": "hp_71458627fa",
@@ -26985,5 +26991,5 @@
       "collected_at": "2026-09-28"
     }
   ],
-  "updated_at": "2026-09-29T01:15:44.088810+09:00"
+  "updated_at": "2026-09-29T09:08:17.655240+09:00"
 }

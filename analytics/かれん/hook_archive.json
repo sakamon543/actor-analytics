@@ -935,6 +935,11 @@
           "scheduled_at": "2026-09-27T19:52:00+09:00",
           "registered_at": "2026-09-26",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-01T21:47:00+09:00",
+          "registered_at": "2026-09-29",
+          "views": null
         }
       ]
     },
@@ -1015,6 +1020,11 @@
         {
           "scheduled_at": "2026-09-28T14:42:00+09:00",
           "registered_at": "2026-09-26",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-02T11:08:00+09:00",
+          "registered_at": "2026-09-29",
           "views": null
         }
       ]
@@ -1510,6 +1520,11 @@
           "scheduled_at": "2026-09-27T14:42:00+09:00",
           "registered_at": "2026-09-26",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-30T19:52:00+09:00",
+          "registered_at": "2026-09-29",
+          "views": null
         }
       ]
     },
@@ -1856,6 +1871,11 @@
           "scheduled_at": "2026-09-29T11:08:00+09:00",
           "registered_at": "2026-09-26",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-01T11:08:00+09:00",
+          "registered_at": "2026-09-29",
+          "views": null
         }
       ]
     },
@@ -1901,6 +1921,11 @@
         {
           "scheduled_at": "2026-09-29T19:52:00+09:00",
           "registered_at": "2026-09-26",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-02T16:33:00+09:00",
+          "registered_at": "2026-09-29",
           "views": null
         }
       ]
@@ -2947,6 +2972,11 @@
           "scheduled_at": "2026-09-25T19:52:00+09:00",
           "registered_at": "2026-09-23",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-09-30T21:47:00+09:00",
+          "registered_at": "2026-09-29",
+          "views": null
         }
       ]
     },
@@ -3150,6 +3180,54 @@
         {
           "scheduled_at": "2026-09-29T16:33:00+09:00",
           "registered_at": "2026-09-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7ee344986e": {
+      "text": "復縁した後で彼に聞いた話なんだけど、実は振った後めちゃくちゃ引きずってたらしい。別れた直後は平気そうに見えたり、むしろ冷たくなる男性もいるけど、あれで気持ちがゼロになったとは限らないんだよね。私の彼も別れたあと飲みに行ったりして遊んだりして前を向いてる感じだったのに、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-29",
+      "history": [
+        {
+          "scheduled_at": "2026-09-30T16:33:00+09:00",
+          "registered_at": "2026-09-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f0504aa800": {
+      "text": "どんな理由があっても振られた以上はもう私のことは必要ないんだって思っちゃうけど、男性って『好きだからこそ離れる』選択をする人もいるんだよね。私の彼も別れた時は「重いのがしんどい」「復縁はしない」って言われたし、未読無視までされてたから、もう終わりだって何回も思った。でも",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-29",
+      "history": [
+        {
+          "scheduled_at": "2026-10-01T19:52:00+09:00",
+          "registered_at": "2026-09-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0032e04418": {
+      "text": "「本当に好きなら手放さない」はウソなんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-29",
+      "history": [
+        {
+          "scheduled_at": "2026-10-02T14:42:00+09:00",
+          "registered_at": "2026-09-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bed3b56fd3": {
+      "text": "復縁できる人とできない人の違いって、可愛さでも連絡のうまさでもないんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-29",
+      "history": [
+        {
+          "scheduled_at": "2026-10-02T19:52:00+09:00",
+          "registered_at": "2026-09-29",
           "views": null
         }
       ]
