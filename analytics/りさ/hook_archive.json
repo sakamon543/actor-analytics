@@ -227,6 +227,11 @@
           "scheduled_at": "2026-09-28T19:52:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-01T16:33:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
         }
       ]
     },
@@ -507,6 +512,11 @@
           "scheduled_at": "2026-09-29T21:47:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-02T21:47:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
         }
       ]
     },
@@ -625,6 +635,11 @@
         {
           "scheduled_at": "2026-09-29T19:52:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-01T19:52:00+09:00",
+          "registered_at": "2026-09-30",
           "views": null
         }
       ]
@@ -1110,6 +1125,11 @@
           "scheduled_at": "2026-09-29T11:08:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-02T19:52:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
         }
       ]
     },
@@ -1400,6 +1420,16 @@
           "scheduled_at": "2026-09-28T21:47:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-02T11:08:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-03T16:33:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
         }
       ]
     },
@@ -1670,6 +1700,11 @@
         {
           "scheduled_at": "2026-09-30T11:08:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-03T11:08:00+09:00",
+          "registered_at": "2026-09-30",
           "views": null
         }
       ]
@@ -2390,6 +2425,11 @@
           "scheduled_at": "2026-09-28T16:33:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-01T21:47:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
         }
       ]
     },
@@ -2641,7 +2681,8 @@
         {
           "scheduled_at": "2026-09-27T16:33:00+09:00",
           "registered_at": "2026-09-24",
-          "views": null
+          "views": 87,
+          "posted_at": "2026-09-27T07:38:20.472+00:00"
         }
       ]
     },
@@ -2689,6 +2730,18 @@
         {
           "scheduled_at": "2026-09-30T19:52:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0da4db8169": {
+      "text": "年下男子のそっけなさは、興味がない証拠じゃない",
+      "structure_label": "常識否定型／現象の意味否定型",
+      "first_used_at": "2026-09-30",
+      "history": [
+        {
+          "scheduled_at": "2026-10-03T19:52:00+09:00",
+          "registered_at": "2026-09-30",
           "views": null
         }
       ]

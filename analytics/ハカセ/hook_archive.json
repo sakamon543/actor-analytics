@@ -1137,6 +1137,11 @@
           "scheduled_at": "2026-09-29T19:52:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-01T21:47:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
         }
       ]
     },
@@ -1281,6 +1286,11 @@
         {
           "scheduled_at": "2026-09-29T14:42:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-02T14:42:00+09:00",
+          "registered_at": "2026-09-30",
           "views": null
         }
       ]
@@ -1748,6 +1758,11 @@
           "scheduled_at": "2026-09-24T11:08:00+09:00",
           "registered_at": "2026-09-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-02T21:47:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
         }
       ]
     },
@@ -1804,6 +1819,11 @@
         {
           "scheduled_at": "2026-09-03T19:52:00+09:00",
           "registered_at": "2026-08-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-03T16:33:00+09:00",
+          "registered_at": "2026-09-30",
           "views": null
         }
       ]
@@ -3532,6 +3552,11 @@
         {
           "scheduled_at": "2026-09-28T19:52:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-01T19:52:00+09:00",
+          "registered_at": "2026-09-30",
           "views": null
         }
       ]
@@ -5840,6 +5865,78 @@
         {
           "scheduled_at": "2026-09-30T16:33:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a8f3823e23": {
+      "text": "俺も振った側の男だから言うけど、別れたあと元カノから連絡が来なくても、最初は全然焦らなかったんだよね。\n・まあそのうち来るだろ",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-30",
+      "history": [
+        {
+          "scheduled_at": "2026-10-01T16:33:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1cbb29edab": {
+      "text": "俺も振った側の男だから言うけど、別れたあと元カノに言われて一番引っかかったのは「まだ好き」じゃなかったんだよね。\n・「楽しかったよ」",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-30",
+      "history": [
+        {
+          "scheduled_at": "2026-10-02T11:08:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
+        }
+      ]
+    },
+    "fookid_85e9af8050": {
+      "text": "別れを告げられたその夜に、絶対やっちゃいけない行動がひとつある。",
+      "structure_label": "恐怖警告型",
+      "first_used_at": "2026-09-30",
+      "history": [
+        {
+          "scheduled_at": "2026-10-02T19:52:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ddbe8de582": {
+      "text": "俺も振った側の男だから言うけど、別れたあと元カノに言われて意外と引っかかったのが「次付き合う人とは結婚したい」だったんだよね。\n・俺のことは責めない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-30",
+      "history": [
+        {
+          "scheduled_at": "2026-10-03T11:08:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d49f796321": {
+      "text": "「彼を変えれば復縁できる」って思想、220件聞いてきて完全に逆だったんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-30",
+      "history": [
+        {
+          "scheduled_at": "2026-10-03T14:42:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e58521efeb": {
+      "text": "男は『1回好きになった相手』と友達からやり直すなんてできない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-30",
+      "history": [
+        {
+          "scheduled_at": "2026-10-03T19:52:00+09:00",
+          "registered_at": "2026-09-30",
           "views": null
         }
       ]

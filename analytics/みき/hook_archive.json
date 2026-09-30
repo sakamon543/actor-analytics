@@ -181,6 +181,11 @@
           "scheduled_at": "2026-09-28T14:42:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-01T16:33:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
         }
       ]
     },
@@ -1796,6 +1801,11 @@
           "scheduled_at": "2026-09-28T19:52:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-01T21:47:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
         }
       ]
     },
@@ -1872,6 +1882,16 @@
         {
           "scheduled_at": "2026-09-28T16:33:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-01T19:52:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-03T14:42:00+09:00",
+          "registered_at": "2026-09-30",
           "views": null
         }
       ]
@@ -2007,6 +2027,11 @@
         {
           "scheduled_at": "2026-09-29T14:42:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-02T11:08:00+09:00",
+          "registered_at": "2026-09-30",
           "views": null
         }
       ]
@@ -3196,6 +3221,11 @@
           "scheduled_at": "2026-09-29T21:47:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-02T21:47:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
         }
       ]
     },
@@ -3231,6 +3261,66 @@
         {
           "scheduled_at": "2026-09-30T19:52:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9cdada64d5": {
+      "text": "職場の年下後輩を好きになった人へ。バレたらどうしよう、という不安で動けないなら、この数字を見てください。職場恋愛を隠して付き合ってる人は83.7%です。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-30",
+      "history": [
+        {
+          "scheduled_at": "2026-10-02T14:42:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f20e31d06b": {
+      "text": "後輩のそっけない態度は、脈なしのサインじゃないです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-30",
+      "history": [
+        {
+          "scheduled_at": "2026-10-02T19:52:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
+        }
+      ]
+    },
+    "fookid_330d246bf3": {
+      "text": "好きな人ほど自分から動くべき、って思ってませんか。年下後輩相手だと、実は「自分から動かない」方がうまくいくんですよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-30",
+      "history": [
+        {
+          "scheduled_at": "2026-10-03T11:08:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
+        }
+      ]
+    },
+    "fookid_45790ce180": {
+      "text": "付き合ってから分かったのは、年下ほど自分からは動けないということです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-30",
+      "history": [
+        {
+          "scheduled_at": "2026-10-03T16:33:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
+        }
+      ]
+    },
+    "fookid_db32783686": {
+      "text": "職場の年下後輩を好きになった人へ。周りにバレるのが怖くて動けないなら、この数字だけ見てください。職場恋愛アリ派は61.8%です。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-09-30",
+      "history": [
+        {
+          "scheduled_at": "2026-10-03T19:52:00+09:00",
+          "registered_at": "2026-09-30",
           "views": null
         }
       ]

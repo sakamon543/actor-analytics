@@ -125,6 +125,11 @@
           "scheduled_at": "2026-09-29T11:08:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-02T21:47:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
         }
       ]
     },
@@ -312,6 +317,11 @@
         {
           "scheduled_at": "2026-09-29T19:52:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-02T11:08:00+09:00",
+          "registered_at": "2026-09-30",
           "views": null
         }
       ]
@@ -547,7 +557,8 @@
         {
           "scheduled_at": "2026-06-09T21:03:00+09:00",
           "registered_at": "2026-06-07",
-          "views": null
+          "views": 29,
+          "posted_at": "2026-09-28T10:58:48.449+00:00"
         },
         {
           "scheduled_at": "2026-06-11T14:42:00+09:00",
@@ -732,6 +743,11 @@
         {
           "scheduled_at": "2026-09-28T19:52:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-01T16:33:00+09:00",
+          "registered_at": "2026-09-30",
           "views": null
         }
       ]
@@ -952,6 +968,11 @@
         {
           "scheduled_at": "2026-09-28T21:47:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-01T21:47:00+09:00",
+          "registered_at": "2026-09-30",
           "views": null
         }
       ]
@@ -1725,6 +1746,11 @@
         {
           "scheduled_at": "2026-09-30T11:08:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-02T19:52:00+09:00",
+          "registered_at": "2026-09-30",
           "views": null
         }
       ]
@@ -3048,7 +3074,8 @@
         {
           "scheduled_at": "2026-08-05T20:28:00+09:00",
           "registered_at": "2026-08-04",
-          "views": null
+          "views": 28,
+          "posted_at": "2026-09-25T10:56:48.463+00:00"
         },
         {
           "scheduled_at": "2026-08-08T18:03:00+09:00",
@@ -3133,6 +3160,11 @@
         {
           "scheduled_at": "2026-09-28T16:33:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-01T19:52:00+09:00",
+          "registered_at": "2026-09-30",
           "views": null
         }
       ]
@@ -5594,6 +5626,11 @@
           "scheduled_at": "2026-09-27T11:08:00+09:00",
           "registered_at": "2026-09-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-03T14:42:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
         }
       ]
     },
@@ -5641,6 +5678,42 @@
         {
           "scheduled_at": "2026-09-30T19:52:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a9ce6fe9e3": {
+      "text": "意外かもだけど、男は『年上の女性に急かされずに待たれる』と意識し始める生き物。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-30",
+      "history": [
+        {
+          "scheduled_at": "2026-10-03T11:08:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9fcf8fccaf": {
+      "text": "彼が振り向かない理由って『若い子の方が可愛いから』みたいな理由じゃないんだよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-09-30",
+      "history": [
+        {
+          "scheduled_at": "2026-10-03T16:33:00+09:00",
+          "registered_at": "2026-09-30",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9cc10c1d7d": {
+      "text": "男の本音を言うと、即レスが続く相手のことは考えない。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-09-30",
+      "history": [
+        {
+          "scheduled_at": "2026-10-03T19:52:00+09:00",
+          "registered_at": "2026-09-30",
           "views": null
         }
       ]
