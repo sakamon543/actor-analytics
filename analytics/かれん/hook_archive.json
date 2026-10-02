@@ -940,6 +940,11 @@
           "scheduled_at": "2026-10-01T21:47:00+09:00",
           "registered_at": "2026-09-29",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-03T14:42:00+09:00",
+          "registered_at": "2026-10-02",
+          "views": null
         }
       ]
     },
@@ -1025,6 +1030,11 @@
         {
           "scheduled_at": "2026-10-02T11:08:00+09:00",
           "registered_at": "2026-09-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-04T21:47:00+09:00",
+          "registered_at": "2026-10-02",
           "views": null
         }
       ]
@@ -1385,6 +1395,11 @@
           "scheduled_at": "2026-09-28T19:52:00+09:00",
           "registered_at": "2026-09-26",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-04T11:08:00+09:00",
+          "registered_at": "2026-10-02",
+          "views": null
         }
       ]
     },
@@ -1524,6 +1539,11 @@
         {
           "scheduled_at": "2026-09-30T19:52:00+09:00",
           "registered_at": "2026-09-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-03T19:52:00+09:00",
+          "registered_at": "2026-10-02",
           "views": null
         }
       ]
@@ -1876,6 +1896,11 @@
           "scheduled_at": "2026-10-01T11:08:00+09:00",
           "registered_at": "2026-09-29",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-04T19:52:00+09:00",
+          "registered_at": "2026-10-02",
+          "views": null
         }
       ]
     },
@@ -1926,6 +1951,11 @@
         {
           "scheduled_at": "2026-10-02T16:33:00+09:00",
           "registered_at": "2026-09-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-05T14:42:00+09:00",
+          "registered_at": "2026-10-02",
           "views": null
         }
       ]
@@ -2977,6 +3007,11 @@
           "scheduled_at": "2026-09-30T21:47:00+09:00",
           "registered_at": "2026-09-29",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-03T16:33:00+09:00",
+          "registered_at": "2026-10-02",
+          "views": null
         }
       ]
     },
@@ -3228,6 +3263,66 @@
         {
           "scheduled_at": "2026-10-02T19:52:00+09:00",
           "registered_at": "2026-09-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0485a3bedc": {
+      "text": "男の「幸せになってね」は本気の決意じゃなくて、ただの『言い訳』",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-02",
+      "history": [
+        {
+          "scheduled_at": "2026-10-03T21:47:00+09:00",
+          "registered_at": "2026-10-02",
+          "views": null
+        }
+      ]
+    },
+    "fookid_216577c54b": {
+      "text": "元彼のインスタを見るのがやめられないなら、気合いで我慢しても無理だと思う。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-02",
+      "history": [
+        {
+          "scheduled_at": "2026-10-04T14:42:00+09:00",
+          "registered_at": "2026-10-02",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3e44b6feef": {
+      "text": "復縁率が1番高いのは『男が振った側』ってほんとなんだよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-02",
+      "history": [
+        {
+          "scheduled_at": "2026-10-05T11:08:00+09:00",
+          "registered_at": "2026-10-02",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1235c266b9": {
+      "text": "ブロックされても復縁はできるんだよね。私が証拠。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-02",
+      "history": [
+        {
+          "scheduled_at": "2026-10-05T16:33:00+09:00",
+          "registered_at": "2026-10-02",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1a7ad41f0e": {
+      "text": "男が別れを決めるとき「冷めた」より圧倒的に多いのが『愛が強くなりすぎた』なんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-02",
+      "history": [
+        {
+          "scheduled_at": "2026-10-05T19:52:00+09:00",
+          "registered_at": "2026-10-02",
           "views": null
         }
       ]
