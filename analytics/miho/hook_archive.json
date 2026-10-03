@@ -1389,6 +1389,11 @@
           "scheduled_at": "2026-10-01T21:47:00+09:00",
           "registered_at": "2026-09-30",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-05T19:52:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
         }
       ]
     },
@@ -2986,6 +2991,16 @@
           "scheduled_at": "2026-09-28T14:42:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-04T16:33:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-06T11:08:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
         }
       ]
     },
@@ -3076,6 +3091,11 @@
           "scheduled_at": "2026-09-28T16:33:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-04T19:52:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
         }
       ]
     },
@@ -3093,6 +3113,11 @@
         {
           "scheduled_at": "2026-09-29T14:42:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-05T11:08:00+09:00",
+          "registered_at": "2026-10-03",
           "views": null
         }
       ]
@@ -3127,6 +3152,11 @@
         {
           "scheduled_at": "2026-09-29T19:52:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-06T16:33:00+09:00",
+          "registered_at": "2026-10-03",
           "views": null
         }
       ]
@@ -3505,6 +3535,78 @@
         {
           "scheduled_at": "2026-10-03T19:52:00+09:00",
           "registered_at": "2026-09-30",
+          "views": null
+        }
+      ]
+    },
+    "fookid_22af3ab238": {
+      "text": "自分から振ったくせに「やっぱり戻りたい」って言ってくる男って想像してるよりめっちゃ多いんだよね。しかもそうなる元カノって、美人とか忘れられない女とかじゃなくて、彼の中である感情を作れた女性。 その感情って何かというと",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-04T14:42:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e359bd212d": {
+      "text": "復縁までにかかる期間は、待った長さでは決まりません。動き方で決まります",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-04T21:47:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b57325c37d": {
+      "text": "回避型は自分を守るために別れを選ぶから、別れを決めた瞬間から後悔が始まってるんだよね",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-05T14:42:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_88bfde657a": {
+      "text": "実は、『復縁はしない』と言い切った彼ほど後から揺らぐ確率が高いです",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-05T21:47:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5791cc6e1d": {
+      "text": "ブロックされた時点で、もう終わったと思っていませんか",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-06T14:42:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2c06bba966": {
+      "text": "男が復縁を決意する時、『気持ち』より圧倒的に動かすのが『失う怖さ』",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-06T19:52:00+09:00",
+          "registered_at": "2026-10-03",
           "views": null
         }
       ]

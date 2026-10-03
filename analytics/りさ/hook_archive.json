@@ -232,6 +232,11 @@
           "scheduled_at": "2026-10-01T16:33:00+09:00",
           "registered_at": "2026-09-30",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-04T16:33:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
         }
       ]
     },
@@ -517,6 +522,11 @@
           "scheduled_at": "2026-10-02T21:47:00+09:00",
           "registered_at": "2026-09-30",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-06T14:42:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
         }
       ]
     },
@@ -640,6 +650,11 @@
         {
           "scheduled_at": "2026-10-01T19:52:00+09:00",
           "registered_at": "2026-09-30",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-04T19:52:00+09:00",
+          "registered_at": "2026-10-03",
           "views": null
         }
       ]
@@ -1430,6 +1445,16 @@
           "scheduled_at": "2026-10-03T16:33:00+09:00",
           "registered_at": "2026-09-30",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-05T19:52:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-06T19:52:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
         }
       ]
     },
@@ -1705,6 +1730,11 @@
         {
           "scheduled_at": "2026-10-03T11:08:00+09:00",
           "registered_at": "2026-09-30",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-06T11:08:00+09:00",
+          "registered_at": "2026-10-03",
           "views": null
         }
       ]
@@ -2430,6 +2460,11 @@
           "scheduled_at": "2026-10-01T21:47:00+09:00",
           "registered_at": "2026-09-30",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-04T21:47:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
         }
       ]
     },
@@ -2742,6 +2777,42 @@
         {
           "scheduled_at": "2026-10-03T19:52:00+09:00",
           "registered_at": "2026-09-30",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d6411776ce": {
+      "text": "『年上は大人の余裕を見せろ』はウソ",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-05T11:08:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_98dd384537": {
+      "text": "年下男子の脈は、はっきりした言葉には出てきません。彼らは年上に軽く見られたくない気持ちが先に立つから、『好き』も『会いたい』も飲み込むんです。あなたが待ってる分かりやすい合図は、たぶんずっと来ないままです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-05T21:47:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_18df33c9c2": {
+      "text": "年下男子の本音を言うと、完璧な年上は口説けない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-06T16:33:00+09:00",
+          "registered_at": "2026-10-03",
           "views": null
         }
       ]

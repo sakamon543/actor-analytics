@@ -502,6 +502,11 @@
           "scheduled_at": "2026-09-28T21:47:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-04T19:52:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
         }
       ]
     },
@@ -3338,6 +3343,11 @@
           "scheduled_at": "2026-09-15T14:42:00+09:00",
           "registered_at": "2026-09-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-06T16:33:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
         }
       ]
     },
@@ -3354,6 +3364,11 @@
         {
           "scheduled_at": "2026-09-15T19:52:00+09:00",
           "registered_at": "2026-09-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-04T16:33:00+09:00",
+          "registered_at": "2026-10-03",
           "views": null
         }
       ]
@@ -3435,6 +3450,11 @@
         {
           "scheduled_at": "2026-09-16T21:47:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-05T19:52:00+09:00",
+          "registered_at": "2026-10-03",
           "views": null
         }
       ]
@@ -3804,7 +3824,8 @@
         {
           "scheduled_at": "2026-10-01T19:52:00+09:00",
           "registered_at": "2026-09-30",
-          "views": null
+          "views": 11,
+          "posted_at": "2026-10-01T10:57:40.253+00:00"
         }
       ]
     },
@@ -3852,6 +3873,66 @@
         {
           "scheduled_at": "2026-10-03T19:52:00+09:00",
           "registered_at": "2026-09-30",
+          "views": null
+        }
+      ]
+    },
+    "fookid_432104be88": {
+      "text": "女性はLINEの頻度で気持ちを測るけど、男性にとってLINEは感情のバロメーターじゃないんですよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-04T21:47:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e46f413848": {
+      "text": "振った側の男だから言うけど、別れたあと「元カノに彼氏ができた」と聞くより、こっちの方が地味に嫌だった↓\n・僕の知らない友達が増えてる",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-05T11:08:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fb654a327d": {
+      "text": "男って一度冷めた相手にでも初恋のような感情を何度も復活させることがあるんだよね。しかもそのきっかけは、「追われた時」じゃなくて、「もう自分のものじゃない」と気づいた時が多いです。別れた直後に何度もLINEしたり、会いたい気持ちをぶつけ続けると、男は",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-05T21:47:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_df406aaf1e": {
+      "text": "彼からLINEが来ない理由、実は「男脳の癖」を知るだけで解けるんですよね。\n・こっちから送ればちゃんと返ってくる",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-06T11:08:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a3c2e08e61": {
+      "text": "追わないより、消えない方が100倍効くんですよね。元回避型の僕が言うんだから間違いないです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-06T19:52:00+09:00",
+          "registered_at": "2026-10-03",
           "views": null
         }
       ]

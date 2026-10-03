@@ -203,6 +203,11 @@
           "scheduled_at": "2026-08-15T14:42:00+09:00",
           "registered_at": "2026-08-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-04T19:52:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
         }
       ]
     },
@@ -266,6 +271,11 @@
           "scheduled_at": "2026-08-27T14:42:00+09:00",
           "registered_at": "2026-08-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-04T16:33:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
         }
       ]
     },
@@ -303,6 +313,11 @@
         {
           "scheduled_at": "2026-08-26T21:47:00+09:00",
           "registered_at": "2026-08-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-05T11:08:00+09:00",
+          "registered_at": "2026-10-03",
           "views": null
         }
       ]
@@ -351,6 +366,16 @@
         {
           "scheduled_at": "2026-08-26T19:52:00+09:00",
           "registered_at": "2026-08-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-04T21:47:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-05T21:47:00+09:00",
+          "registered_at": "2026-10-03",
           "views": null
         }
       ]
@@ -408,6 +433,11 @@
         {
           "scheduled_at": "2026-08-27T11:08:00+09:00",
           "registered_at": "2026-08-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-06T11:08:00+09:00",
+          "registered_at": "2026-10-03",
           "views": null
         }
       ]
@@ -704,6 +734,16 @@
         {
           "scheduled_at": "2026-08-26T14:42:00+09:00",
           "registered_at": "2026-08-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-04T14:42:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-06T16:33:00+09:00",
+          "registered_at": "2026-10-03",
           "views": null
         }
       ]
@@ -3321,6 +3361,54 @@
         {
           "scheduled_at": "2026-10-03T19:52:00+09:00",
           "registered_at": "2026-09-30",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b06bbea422": {
+      "text": "恋愛は動いた方が勝ち、って思ってませんか。職場の年下後輩相手だと、実は「動きすぎない」方がうまくいくんですよね。私も半年動きまくって空回りして、やめた瞬間に彼の方から動き出しました",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-05T14:42:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f4d7141a13": {
+      "text": "年下の後輩が動かないとき「興味がないから」より圧倒的に多いのが「どうせ相手にされないから」です。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-05T19:52:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e34979cc56": {
+      "text": "年下の彼の本音を言うと、先輩から誘われてる間は自分から告白しようとは思いません。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-06T14:42:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8314e2a185": {
+      "text": "好きな人ほど自分から誘うべき、って思ってませんか。職場の年下後輩相手だと、実は「自分から誘わない」方がうまくいくんですよね。私も何度も自分から誘って反応が薄かったのに、やめた瞬間に彼の方から誘ってきました。誘う文章を打ったまま送れずにいる人こそ、一回止まってください。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-06T19:52:00+09:00",
+          "registered_at": "2026-10-03",
           "views": null
         }
       ]

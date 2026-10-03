@@ -1118,6 +1118,11 @@
           "scheduled_at": "2026-10-02T19:52:00+09:00",
           "registered_at": "2026-09-30",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-05T19:52:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
         }
       ]
     },
@@ -2757,6 +2762,11 @@
         {
           "scheduled_at": "2026-10-01T19:52:00+09:00",
           "registered_at": "2026-09-30",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-04T19:52:00+09:00",
+          "registered_at": "2026-10-03",
           "views": null
         }
       ]
@@ -4704,6 +4714,11 @@
           "scheduled_at": "2026-08-13T22:17:00+09:00",
           "registered_at": "2026-08-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-05T21:47:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
         }
       ]
     },
@@ -5674,6 +5689,11 @@
           "scheduled_at": "2026-10-01T21:47:00+09:00",
           "registered_at": "2026-09-30",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-04T16:33:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
         }
       ]
     },
@@ -5746,6 +5766,11 @@
         {
           "scheduled_at": "2026-10-01T16:33:00+09:00",
           "registered_at": "2026-09-30",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-04T21:47:00+09:00",
+          "registered_at": "2026-10-03",
           "views": null
         }
       ]
@@ -6241,6 +6266,11 @@
           "scheduled_at": "2026-10-02T11:08:00+09:00",
           "registered_at": "2026-09-30",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-05T11:08:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
         }
       ]
     },
@@ -6664,6 +6694,11 @@
           "scheduled_at": "2026-09-30T11:08:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-06T19:52:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
         }
       ]
     },
@@ -6704,6 +6739,30 @@
         {
           "scheduled_at": "2026-10-02T21:47:00+09:00",
           "registered_at": "2026-09-30",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9ca36f6ffc": {
+      "text": "『モテる女』と『沼らせる女』は、男から見たら全くの別モノなのよ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-06T11:08:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_447135a115": {
+      "text": "復縁したカップルで一番長続きしてるパターンって決まって「男が頭下げて戻ってきた」やつです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-06T16:33:00+09:00",
+          "registered_at": "2026-10-03",
           "views": null
         }
       ]

@@ -232,6 +232,11 @@
           "scheduled_at": "2026-10-03T19:52:00+09:00",
           "registered_at": "2026-09-30",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-04T21:47:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
         }
       ]
     },
@@ -370,6 +375,11 @@
         {
           "scheduled_at": "2026-10-02T11:08:00+09:00",
           "registered_at": "2026-09-30",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-04T16:33:00+09:00",
+          "registered_at": "2026-10-03",
           "views": null
         }
       ]
@@ -547,6 +557,11 @@
         {
           "scheduled_at": "2026-10-01T21:47:00+09:00",
           "registered_at": "2026-09-30",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-04T19:52:00+09:00",
+          "registered_at": "2026-10-03",
           "views": null
         }
       ]
@@ -1002,6 +1017,11 @@
           "scheduled_at": "2026-09-29T19:52:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-05T19:52:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
         }
       ]
     },
@@ -1078,6 +1098,16 @@
         {
           "scheduled_at": "2026-09-28T21:47:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-04T14:42:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-06T14:42:00+09:00",
+          "registered_at": "2026-10-03",
           "views": null
         }
       ]
@@ -1221,6 +1251,11 @@
         {
           "scheduled_at": "2026-09-29T14:42:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-05T14:42:00+09:00",
+          "registered_at": "2026-10-03",
           "views": null
         }
       ]
@@ -2350,6 +2385,11 @@
           "scheduled_at": "2026-09-28T16:33:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-05T11:08:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
         }
       ]
     },
@@ -2823,7 +2863,8 @@
         {
           "scheduled_at": "2026-09-30T14:42:00+09:00",
           "registered_at": "2026-09-27",
-          "views": null
+          "views": 1,
+          "posted_at": "2026-09-30T05:46:42.779+00:00"
         }
       ]
     },
@@ -2907,6 +2948,54 @@
         {
           "scheduled_at": "2026-10-03T16:33:00+09:00",
           "registered_at": "2026-09-30",
+          "views": null
+        }
+      ]
+    },
+    "fookid_42a8238476": {
+      "text": "経験者367人に聞いて、『この人とは二度目はない』と感じたことがある男は91.1%でした。",
+      "structure_label": "男性心理暴露型（数字型）",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-05T21:47:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a6f0384007": {
+      "text": "「私のどこがダメだったの」の答えは、「ダメなところは一つも無かった」です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-06T11:08:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_422dc1f694": {
+      "text": "マチアプ3年、100人以上会って、そのほとんどを俺から切ってきました。今思うと最低だと思います。ただ切ってきた側だから分かるけど、消される子の共通点は毎回おなじでした。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-06T16:33:00+09:00",
+          "registered_at": "2026-10-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_830ff58f33": {
+      "text": "「2回目に誘われた＝脈あり」はウソです。俺は、もう無いと決めた子にも普通に2回目を誘ってました。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-03",
+      "history": [
+        {
+          "scheduled_at": "2026-10-06T19:52:00+09:00",
+          "registered_at": "2026-10-03",
           "views": null
         }
       ]
