@@ -154,6 +154,11 @@
           "scheduled_at": "2026-07-24T19:52:00+09:00",
           "registered_at": "2026-07-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-08T19:52:00+09:00",
+          "registered_at": "2026-10-06",
+          "views": null
         }
       ]
     },
@@ -197,7 +202,8 @@
         {
           "scheduled_at": "2026-07-24T21:03:00+09:00",
           "registered_at": "2026-07-22",
-          "views": null
+          "views": 3,
+          "posted_at": "2026-10-04T10:59:07.021+00:00"
         },
         {
           "scheduled_at": "2026-08-15T14:42:00+09:00",
@@ -1846,6 +1852,11 @@
           "scheduled_at": "2026-10-01T21:47:00+09:00",
           "registered_at": "2026-09-30",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-07T21:47:00+09:00",
+          "registered_at": "2026-10-06",
+          "views": null
         }
       ]
     },
@@ -1933,6 +1944,11 @@
           "scheduled_at": "2026-10-03T14:42:00+09:00",
           "registered_at": "2026-09-30",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-07T16:33:00+09:00",
+          "registered_at": "2026-10-06",
+          "views": null
         }
       ]
     },
@@ -1982,6 +1998,11 @@
           "scheduled_at": "2026-09-29T11:08:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-07T19:52:00+09:00",
+          "registered_at": "2026-10-06",
+          "views": null
         }
       ]
     },
@@ -2025,6 +2046,11 @@
         {
           "scheduled_at": "2026-09-28T21:47:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-08T11:08:00+09:00",
+          "registered_at": "2026-10-06",
           "views": null
         }
       ]
@@ -2072,6 +2098,11 @@
         {
           "scheduled_at": "2026-10-02T11:08:00+09:00",
           "registered_at": "2026-09-30",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-09T11:08:00+09:00",
+          "registered_at": "2026-10-06",
           "views": null
         }
       ]
@@ -3260,11 +3291,17 @@
         {
           "scheduled_at": "2026-09-29T21:47:00+09:00",
           "registered_at": "2026-09-27",
-          "views": null
+          "views": 3,
+          "posted_at": "2026-09-29T12:51:11.34+00:00"
         },
         {
           "scheduled_at": "2026-10-02T21:47:00+09:00",
           "registered_at": "2026-09-30",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-07T14:42:00+09:00",
+          "registered_at": "2026-10-06",
           "views": null
         }
       ]
@@ -3373,7 +3410,8 @@
         {
           "scheduled_at": "2026-10-05T14:42:00+09:00",
           "registered_at": "2026-10-03",
-          "views": null
+          "views": 2,
+          "posted_at": "2026-10-05T05:46:54.271+00:00"
         }
       ]
     },
@@ -3409,6 +3447,66 @@
         {
           "scheduled_at": "2026-10-06T19:52:00+09:00",
           "registered_at": "2026-10-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_494f71c3a6": {
+      "text": "後輩の「彼氏いないんですか？」に「いないですよー」で答えてる人、あれ世間話じゃなくて「先輩は恋愛対象じゃないですよね？」の最後の確認です。",
+      "structure_label": "常識否定型（読者のNG行動名指し）",
+      "first_used_at": "2026-10-06",
+      "history": [
+        {
+          "scheduled_at": "2026-10-08T14:42:00+09:00",
+          "registered_at": "2026-10-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2dea478622": {
+      "text": "『先輩』呼びは、恋愛対象外のサインじゃないです。",
+      "structure_label": "男性心理暴露型（現象の再解釈）",
+      "first_used_at": "2026-10-06",
+      "history": [
+        {
+          "scheduled_at": "2026-10-08T21:47:00+09:00",
+          "registered_at": "2026-10-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a6777d91b7": {
+      "text": "職場の飲み会で彼の隣を確保して話し続けるのは、大チャンスどころか逆効果です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-06",
+      "history": [
+        {
+          "scheduled_at": "2026-10-09T14:42:00+09:00",
+          "registered_at": "2026-10-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_562e7cffed": {
+      "text": "年下の男性は、『手が届かない先輩』に自分から動けません。",
+      "structure_label": "男性心理暴露型（命題型）",
+      "first_used_at": "2026-10-06",
+      "history": [
+        {
+          "scheduled_at": "2026-10-09T16:33:00+09:00",
+          "registered_at": "2026-10-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f09e4c189f": {
+      "text": "年下男性が年上に求めてるのは、見た目の若さじゃなくて安心感です。",
+      "structure_label": "命題型（二項断定）",
+      "first_used_at": "2026-10-06",
+      "history": [
+        {
+          "scheduled_at": "2026-10-09T19:52:00+09:00",
+          "registered_at": "2026-10-06",
           "views": null
         }
       ]

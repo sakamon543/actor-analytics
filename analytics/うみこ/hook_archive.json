@@ -1123,6 +1123,11 @@
           "scheduled_at": "2026-10-05T19:52:00+09:00",
           "registered_at": "2026-10-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-08T21:47:00+09:00",
+          "registered_at": "2026-10-06",
+          "views": null
         }
       ]
     },
@@ -2767,6 +2772,11 @@
         {
           "scheduled_at": "2026-10-04T19:52:00+09:00",
           "registered_at": "2026-10-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-08T11:08:00+09:00",
+          "registered_at": "2026-10-06",
           "views": null
         }
       ]
@@ -5694,6 +5704,11 @@
           "scheduled_at": "2026-10-04T16:33:00+09:00",
           "registered_at": "2026-10-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-07T19:52:00+09:00",
+          "registered_at": "2026-10-06",
+          "views": null
         }
       ]
     },
@@ -5771,6 +5786,11 @@
         {
           "scheduled_at": "2026-10-04T21:47:00+09:00",
           "registered_at": "2026-10-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-07T21:47:00+09:00",
+          "registered_at": "2026-10-06",
           "views": null
         }
       ]
@@ -6191,6 +6211,11 @@
           "scheduled_at": "2026-09-02T21:47:00+09:00",
           "registered_at": "2026-08-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-09T16:33:00+09:00",
+          "registered_at": "2026-10-06",
+          "views": null
         }
       ]
     },
@@ -6270,6 +6295,11 @@
         {
           "scheduled_at": "2026-10-05T11:08:00+09:00",
           "registered_at": "2026-10-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-08T19:52:00+09:00",
+          "registered_at": "2026-10-06",
           "views": null
         }
       ]
@@ -6763,6 +6793,35 @@
         {
           "scheduled_at": "2026-10-06T16:33:00+09:00",
           "registered_at": "2026-10-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-09T11:08:00+09:00",
+          "registered_at": "2026-10-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_39aa84cb1a": {
+      "text": "正直、振った男の「元カノへの執着心」ってガチで強い。男は別れた後も元カノの存在をずっと意識してるし、特に自分から振った相手には「この子は俺のことをずっと好きでいてくれるだろう」って感覚が残り続けるんです。でも振った側から本命だった元カノに連絡するのは100%無理です。男からすると、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-06",
+      "history": [
+        {
+          "scheduled_at": "2026-10-07T16:33:00+09:00",
+          "registered_at": "2026-10-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fab980e851": {
+      "text": "男はね、『好きだった相手』と友達みたいな関係には戻れないのよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-06",
+      "history": [
+        {
+          "scheduled_at": "2026-10-09T19:52:00+09:00",
+          "registered_at": "2026-10-06",
           "views": null
         }
       ]

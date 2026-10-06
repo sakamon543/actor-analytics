@@ -39,6 +39,11 @@
           "scheduled_at": "2026-09-28T21:47:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-08T14:42:00+09:00",
+          "registered_at": "2026-10-06",
+          "views": null
         }
       ]
     },
@@ -751,6 +756,11 @@
           "scheduled_at": "2026-10-06T14:42:00+09:00",
           "registered_at": "2026-10-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-08T21:47:00+09:00",
+          "registered_at": "2026-10-06",
+          "views": null
         }
       ]
     },
@@ -1157,6 +1167,11 @@
           "scheduled_at": "2026-10-04T19:52:00+09:00",
           "registered_at": "2026-10-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-09T11:08:00+09:00",
+          "registered_at": "2026-10-06",
+          "views": null
         }
       ]
     },
@@ -1311,6 +1326,11 @@
         {
           "scheduled_at": "2026-10-06T11:08:00+09:00",
           "registered_at": "2026-10-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-09T14:42:00+09:00",
+          "registered_at": "2026-10-06",
           "views": null
         }
       ]
@@ -1469,6 +1489,11 @@
         {
           "scheduled_at": "2026-10-05T11:08:00+09:00",
           "registered_at": "2026-10-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-09T16:33:00+09:00",
+          "registered_at": "2026-10-06",
           "views": null
         }
       ]
@@ -3587,6 +3612,11 @@
         {
           "scheduled_at": "2026-10-04T16:33:00+09:00",
           "registered_at": "2026-10-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-08T11:08:00+09:00",
+          "registered_at": "2026-10-06",
           "views": null
         }
       ]
@@ -5745,7 +5775,8 @@
         {
           "scheduled_at": "2026-09-21T16:33:00+09:00",
           "registered_at": "2026-09-18",
-          "views": null
+          "views": 11,
+          "posted_at": "2026-09-30T10:58:30.881+00:00"
         },
         {
           "scheduled_at": "2026-09-30T19:52:00+09:00",
@@ -6032,6 +6063,78 @@
         {
           "scheduled_at": "2026-10-06T19:52:00+09:00",
           "registered_at": "2026-10-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0f53bf3196": {
+      "text": "振った側の男だから言うけど、別れたあと元カノから連絡が来なくても、最初は焦りもしなかったんだよね。\n・まあそのうち来るだろ",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-06",
+      "history": [
+        {
+          "scheduled_at": "2026-10-07T14:42:00+09:00",
+          "registered_at": "2026-10-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b3194a458d": {
+      "text": "俺も振った側だから言うけど、別れたあと元カノに言われて意外と引っかかったのが「次付き合う人とは結婚したい」だったんだよね。\n・俺のことは責めない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-06",
+      "history": [
+        {
+          "scheduled_at": "2026-10-07T16:33:00+09:00",
+          "registered_at": "2026-10-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f4defb5504": {
+      "text": "振った経験がある男として言うけど、別れたあと元カノに言われて一番引っかかったのは「まだ好き」じゃないんだよね。\n・「楽しかったよ」",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-06",
+      "history": [
+        {
+          "scheduled_at": "2026-10-07T19:52:00+09:00",
+          "registered_at": "2026-10-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5869d5dae7": {
+      "text": "男って本当に気持ちが冷めてたら、ちゃんと話し合いしてお互い納得して終わらせる。逆に一方的に別れを突きつけるときは『感情が揺れまくってるサイン』。俺も元カノに「これ以上話すことはない」って話し合いを拒否ったけど、顔見て声聞いたら気持ちが揺らぎそうだったからなんだよね。気持ちが残ってる男ほど、",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-06",
+      "history": [
+        {
+          "scheduled_at": "2026-10-07T21:47:00+09:00",
+          "registered_at": "2026-10-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fbfbd61dfd": {
+      "text": "復縁した彼に「もし私が連絡してなかったらどうしてた？」って聞いてみた。「自分から動くことは絶対になかった」って",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-06",
+      "history": [
+        {
+          "scheduled_at": "2026-10-08T19:52:00+09:00",
+          "registered_at": "2026-10-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7c26e8404d": {
+      "text": "「彼を変えれば復縁できる」って考え方、俺が元彼に直接聞いてきた本音だと完全に逆なんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-06",
+      "history": [
+        {
+          "scheduled_at": "2026-10-09T19:52:00+09:00",
+          "registered_at": "2026-10-06",
           "views": null
         }
       ]
