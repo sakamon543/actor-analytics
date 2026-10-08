@@ -3045,6 +3045,11 @@
           "scheduled_at": "2026-10-02T19:52:00+09:00",
           "registered_at": "2026-09-30",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-09T19:52:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
         }
       ]
     },
@@ -3267,6 +3272,11 @@
           "scheduled_at": "2026-10-03T11:08:00+09:00",
           "registered_at": "2026-09-30",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-10T11:08:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
         }
       ]
     },
@@ -3302,6 +3312,11 @@
         {
           "scheduled_at": "2026-09-24T11:08:00+09:00",
           "registered_at": "2026-09-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-10T14:42:00+09:00",
+          "registered_at": "2026-10-08",
           "views": null
         }
       ]
@@ -3367,6 +3382,11 @@
         {
           "scheduled_at": "2026-10-02T11:08:00+09:00",
           "registered_at": "2026-09-30",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-09T21:47:00+09:00",
+          "registered_at": "2026-10-08",
           "views": null
         }
       ]
@@ -3548,6 +3568,11 @@
           "scheduled_at": "2026-10-04T14:42:00+09:00",
           "registered_at": "2026-10-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-09T14:42:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
         }
       ]
     },
@@ -3607,6 +3632,90 @@
         {
           "scheduled_at": "2026-10-06T19:52:00+09:00",
           "registered_at": "2026-10-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_74c9ebab22": {
+      "text": "復縁を目指してる方はすでに知っていると思いますが『振った側が自分から戻ってくること』ってほぼないんですよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-08",
+      "history": [
+        {
+          "scheduled_at": "2026-10-09T16:33:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9e108fa6c3": {
+      "text": "『未練ない』って言い張る男に限って未練しかない。ほんとに。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-08",
+      "history": [
+        {
+          "scheduled_at": "2026-10-10T19:52:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1559a850a6": {
+      "text": "振った側の彼の頭の中では『自分の判断は正しかった』の正当化が毎日進んでるので、待ってるほど不利になります。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-08",
+      "history": [
+        {
+          "scheduled_at": "2026-10-10T21:47:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_08e4947431": {
+      "text": "既読無視は『もう無理』の返事じゃなくて、彼がなんて返すか決めきれてないだけです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-08",
+      "history": [
+        {
+          "scheduled_at": "2026-10-11T11:08:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a49012fae3": {
+      "text": "回避型の彼が別れを選ぶのは自己防衛だから、後悔が始まるのは振った瞬間からです。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-08",
+      "history": [
+        {
+          "scheduled_at": "2026-10-11T14:42:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fadb1e3e8f": {
+      "text": "男の別れ際の冷たさは、嫌いになった証拠じゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-08",
+      "history": [
+        {
+          "scheduled_at": "2026-10-11T16:33:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b5578c2f08": {
+      "text": "結局、復縁できる女性って『待つのをやめて先に動いた人』なんです",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-08",
+      "history": [
+        {
+          "scheduled_at": "2026-10-11T19:52:00+09:00",
+          "registered_at": "2026-10-08",
           "views": null
         }
       ]

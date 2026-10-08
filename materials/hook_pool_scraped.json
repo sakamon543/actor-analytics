@@ -2261,7 +2261,10 @@
       "likes": 196,
       "source": "https://x.com/ShannonRoe12187/status/2104770641232564512",
       "source_handle": "ShannonRoe12187",
-      "collected_at": "2026-10-02"
+      "collected_at": "2026-10-02",
+      "used_by": {
+        "miho": "2026-10-08"
+      }
     },
     {
       "pool_id": "hp_271b36c599",
@@ -7623,7 +7626,16 @@
       "likes": 70,
       "source": "https://x.com/reuni10v/status/2097504101215199579",
       "source_handle": "reuni10v",
-      "collected_at": "2026-09-10"
+      "collected_at": "2026-09-10",
+      "used_by": {
+        "ヒロ": "2026-10-08"
+      },
+      "results": {
+        "ヒロ": {
+          "views": 68,
+          "at": "2026-10-08"
+        }
+      }
     },
     {
       "pool_id": "hp_00463ebd8c",
@@ -7715,8 +7727,8 @@
       },
       "results": {
         "ヒロ": {
-          "views": 39,
-          "at": "2026-09-30",
+          "views": 41,
+          "at": "2026-10-08",
           "sale_48h": true
         }
       }
@@ -8379,7 +8391,11 @@
       "likes": 26,
       "source": "https://x.com/reuni10v/status/2105855754398019683",
       "source_handle": "reuni10v",
-      "collected_at": "2026-10-03"
+      "collected_at": "2026-10-03",
+      "used_by": {
+        "ヒロ": "2026-10-08"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_3e599b8f58",
@@ -8732,7 +8748,11 @@
       "likes": 39,
       "source": "https://x.com/reuni10v/status/2099724838802002426",
       "source_handle": "reuni10v",
-      "collected_at": "2026-09-16"
+      "collected_at": "2026-09-16",
+      "used_by": {
+        "ヒロ": "2026-10-08"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_e64636c0d8",
@@ -9232,7 +9252,11 @@
       "likes": 53,
       "source": "https://x.com/reuni10v/status/2104354969516466178",
       "source_handle": "reuni10v",
-      "collected_at": "2026-09-30"
+      "collected_at": "2026-09-30",
+      "used_by": {
+        "ヒロ": "2026-10-08"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_fe49f924c9",
@@ -9241,7 +9265,11 @@
       "likes": 34,
       "source": "https://x.com/reuni10v/status/2105829725998584259",
       "source_handle": "reuni10v",
-      "collected_at": "2026-10-03"
+      "collected_at": "2026-10-03",
+      "used_by": {
+        "ヒロ": "2026-10-08"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_cbe76b18fd",
@@ -9748,7 +9776,11 @@
       "likes": 35,
       "source": "https://x.com/8_ludr7/status/2098946262905078187",
       "source_handle": "8_ludr7",
-      "collected_at": "2026-09-14"
+      "collected_at": "2026-09-14",
+      "used_by": {
+        "ヒロ": "2026-10-08"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_d044deb956",
@@ -9819,7 +9851,11 @@
       "likes": 49,
       "source": "https://x.com/reuni10v/status/2088570472162373813",
       "source_handle": "reuni10v",
-      "collected_at": "2026-09-02"
+      "collected_at": "2026-09-02",
+      "used_by": {
+        "ヒロ": "2026-10-08"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_b069e37ecc",
@@ -9987,7 +10023,11 @@
       "likes": 42,
       "source": "https://x.com/reuni10v/status/2101623544967041127",
       "source_handle": "reuni10v",
-      "collected_at": "2026-09-23"
+      "collected_at": "2026-09-23",
+      "used_by": {
+        "ヒロ": "2026-10-08"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_febb1831e3",
@@ -10032,7 +10072,11 @@
       "likes": 45,
       "source": "https://x.com/reuni10v/status/2102702720256029182",
       "source_handle": "reuni10v",
-      "collected_at": "2026-09-26"
+      "collected_at": "2026-09-26",
+      "used_by": {
+        "ヒロ": "2026-10-08"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_e54014532f",
@@ -29130,5 +29174,5 @@
       "collected_at": "2026-09-14"
     }
   ],
-  "updated_at": "2026-10-08T01:18:39.720115+09:00"
+  "updated_at": "2026-10-08T09:52:08.884038+09:00"
 }

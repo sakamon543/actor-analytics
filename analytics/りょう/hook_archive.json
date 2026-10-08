@@ -237,6 +237,21 @@
           "scheduled_at": "2026-10-04T21:47:00+09:00",
           "registered_at": "2026-10-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-09T14:42:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-10T14:42:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-11T19:52:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
         }
       ]
     },
@@ -380,6 +395,11 @@
         {
           "scheduled_at": "2026-10-04T16:33:00+09:00",
           "registered_at": "2026-10-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-09T21:47:00+09:00",
+          "registered_at": "2026-10-08",
           "views": null
         }
       ]
@@ -562,6 +582,16 @@
         {
           "scheduled_at": "2026-10-04T19:52:00+09:00",
           "registered_at": "2026-10-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-09T19:52:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-11T11:08:00+09:00",
+          "registered_at": "2026-10-08",
           "views": null
         }
       ]
@@ -1602,6 +1632,11 @@
         {
           "scheduled_at": "2026-10-01T16:33:00+09:00",
           "registered_at": "2026-09-30",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-09T16:33:00+09:00",
+          "registered_at": "2026-10-08",
           "views": null
         }
       ]
@@ -2900,7 +2935,8 @@
         {
           "scheduled_at": "2026-10-02T19:52:00+09:00",
           "registered_at": "2026-09-30",
-          "views": null
+          "views": 2,
+          "posted_at": "2026-10-02T11:04:00.662+00:00"
         }
       ]
     },
@@ -2996,6 +3032,67 @@
         {
           "scheduled_at": "2026-10-06T19:52:00+09:00",
           "registered_at": "2026-10-03",
+          "views": 12,
+          "posted_at": "2026-10-06T11:00:01.936+00:00"
+        }
+      ]
+    },
+    "fookid_9d5456d13f": {
+      "text": "「また会おうね」と言った帰り道に、もう会わないと決めていました。",
+      "structure_label": "セリフ反転型（男性心理暴露型）",
+      "first_used_at": "2026-10-08",
+      "history": [
+        {
+          "scheduled_at": "2026-10-10T11:08:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_17265d1079": {
+      "text": "男は、「2回目に会えた＝本命候補」とは思っていない",
+      "structure_label": "常識否定型（等式否定）",
+      "first_used_at": "2026-10-08",
+      "history": [
+        {
+          "scheduled_at": "2026-10-10T19:52:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d3f25777fb": {
+      "text": "「いい子だった」で終わる子が一番多い。悪いところがないのと、最後まで残るのは別。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-08",
+      "history": [
+        {
+          "scheduled_at": "2026-10-10T21:47:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_57a69f8481": {
+      "text": "「私のどこがダメだったの」の答えは、どこもダメじゃなかった、です。",
+      "structure_label": "常識否定型（問への即答）",
+      "first_used_at": "2026-10-08",
+      "history": [
+        {
+          "scheduled_at": "2026-10-11T14:42:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_64e5867419": {
+      "text": "男の『また連絡するね』は、次がある合図じゃない",
+      "structure_label": "常識否定型（セリフの意味否定）",
+      "first_used_at": "2026-10-08",
+      "history": [
+        {
+          "scheduled_at": "2026-10-11T16:33:00+09:00",
+          "registered_at": "2026-10-08",
           "views": null
         }
       ]

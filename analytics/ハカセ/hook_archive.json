@@ -411,6 +411,11 @@
           "scheduled_at": "2026-10-05T14:42:00+09:00",
           "registered_at": "2026-10-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-12T11:08:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
         }
       ]
     },
@@ -760,6 +765,11 @@
         {
           "scheduled_at": "2026-10-08T21:47:00+09:00",
           "registered_at": "2026-10-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-11T21:47:00+09:00",
+          "registered_at": "2026-10-08",
           "views": null
         }
       ]
@@ -1172,6 +1182,11 @@
           "scheduled_at": "2026-10-09T11:08:00+09:00",
           "registered_at": "2026-10-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-10T16:33:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
         }
       ]
     },
@@ -1331,6 +1346,11 @@
         {
           "scheduled_at": "2026-10-09T14:42:00+09:00",
           "registered_at": "2026-10-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-12T16:33:00+09:00",
+          "registered_at": "2026-10-08",
           "views": null
         }
       ]
@@ -1494,6 +1514,11 @@
         {
           "scheduled_at": "2026-10-09T16:33:00+09:00",
           "registered_at": "2026-10-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-11T11:08:00+09:00",
+          "registered_at": "2026-10-08",
           "views": null
         }
       ]
@@ -3618,6 +3643,11 @@
           "scheduled_at": "2026-10-08T11:08:00+09:00",
           "registered_at": "2026-10-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-10T19:52:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
         }
       ]
     },
@@ -5085,6 +5115,11 @@
           "scheduled_at": "2026-08-19T19:52:00+09:00",
           "registered_at": "2026-08-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-12T14:42:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
         }
       ]
     },
@@ -6135,6 +6170,66 @@
         {
           "scheduled_at": "2026-10-09T19:52:00+09:00",
           "registered_at": "2026-10-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_be33e3841f": {
+      "text": "振った側の男だから言うけど、別れたあと元カノから連絡が来なくても、俺は最初全然焦らなかったんだよね。\n・まあそのうち来るだろ",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-08",
+      "history": [
+        {
+          "scheduled_at": "2026-10-10T14:42:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7466030e5e": {
+      "text": "振った側の男だから言うけど、別れたあと元カノに言われて意外と引っかかったのは『次付き合う人とは結婚したい』だったんだよね。\n・俺のことは責めない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-08",
+      "history": [
+        {
+          "scheduled_at": "2026-10-10T21:47:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4a2aa60cab": {
+      "text": "「彼を変えれば復縁できる」って思想、俺が元彼に聞いてきた220件だと完全に逆なんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-08",
+      "history": [
+        {
+          "scheduled_at": "2026-10-11T14:42:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b44ddd58c1": {
+      "text": "振った側の男だから言うけど、別れたあと元カノに言われて一番引っかかったのは『まだ好き』じゃなかったんだよね。\n・『楽しかったよ』",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-08",
+      "history": [
+        {
+          "scheduled_at": "2026-10-11T19:52:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_14afa7b35f": {
+      "text": "元カレとの今の関係、一度ちゃんとリセットした方がいい場合があるんだよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-08",
+      "history": [
+        {
+          "scheduled_at": "2026-10-12T19:52:00+09:00",
+          "registered_at": "2026-10-08",
           "views": null
         }
       ]

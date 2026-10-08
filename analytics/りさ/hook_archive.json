@@ -14,6 +14,11 @@
           "scheduled_at": "2026-08-02T18:03:00+09:00",
           "registered_at": "2026-08-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-09T16:33:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
         }
       ]
     },
@@ -107,6 +112,11 @@
         {
           "scheduled_at": "2026-08-04T22:17:00+09:00",
           "registered_at": "2026-08-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-10T19:52:00+09:00",
+          "registered_at": "2026-10-08",
           "views": null
         }
       ]
@@ -236,6 +246,11 @@
         {
           "scheduled_at": "2026-10-04T16:33:00+09:00",
           "registered_at": "2026-10-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-09T19:52:00+09:00",
+          "registered_at": "2026-10-08",
           "views": null
         }
       ]
@@ -695,7 +710,8 @@
         {
           "scheduled_at": "2026-07-30T20:28:00+09:00",
           "registered_at": "2026-07-29",
-          "views": null
+          "views": 3648,
+          "posted_at": "2026-10-05T05:47:13.179+00:00"
         },
         {
           "scheduled_at": "2026-08-02T22:17:00+09:00",
@@ -805,6 +821,11 @@
         {
           "scheduled_at": "2026-07-28T21:03:00+09:00",
           "registered_at": "2026-07-26",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-10T11:08:00+09:00",
+          "registered_at": "2026-10-08",
           "views": null
         }
       ]
@@ -1736,6 +1757,11 @@
           "scheduled_at": "2026-10-06T11:08:00+09:00",
           "registered_at": "2026-10-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-10T21:47:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
         }
       ]
     },
@@ -2465,6 +2491,11 @@
           "scheduled_at": "2026-10-04T21:47:00+09:00",
           "registered_at": "2026-10-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-09T21:47:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
         }
       ]
     },
@@ -2789,7 +2820,8 @@
         {
           "scheduled_at": "2026-10-05T11:08:00+09:00",
           "registered_at": "2026-10-03",
-          "views": null
+          "views": 144,
+          "posted_at": "2026-10-05T02:14:26.407+00:00"
         }
       ]
     },
@@ -2813,6 +2845,54 @@
         {
           "scheduled_at": "2026-10-06T16:33:00+09:00",
           "registered_at": "2026-10-03",
+          "views": null
+        }
+      ]
+    },
+    "fookid_331e0020b3": {
+      "text": "年下男子が『この人から離れられない』と沼る年上には、はっきりした共通点があるんです。若さでも、美貌でも、気づかいでもありません。それは、余裕を『見せない』人",
+      "structure_label": "常識否定型（否定三段列挙＋答え提示）",
+      "first_used_at": "2026-10-08",
+      "history": [
+        {
+          "scheduled_at": "2026-10-11T11:08:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8c5e762db7": {
+      "text": "年下男子の距離感は、興味がないサインじゃないんです",
+      "structure_label": "常識否定型（サインの読み替え）",
+      "first_used_at": "2026-10-08",
+      "history": [
+        {
+          "scheduled_at": "2026-10-11T14:42:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_011ee61fd0": {
+      "text": "年下男子は、「頼れる存在」と「好きな人」を同じ枠に入れていない",
+      "structure_label": "命題型（心理断言）",
+      "first_used_at": "2026-10-08",
+      "history": [
+        {
+          "scheduled_at": "2026-10-11T16:33:00+09:00",
+          "registered_at": "2026-10-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6c25d24536": {
+      "text": "年下男子の「頼りになります」は好意じゃなくて、ただの『線引き』",
+      "structure_label": "命題型（セリフの本当の意味）",
+      "first_used_at": "2026-10-08",
+      "history": [
+        {
+          "scheduled_at": "2026-10-11T19:52:00+09:00",
+          "registered_at": "2026-10-08",
           "views": null
         }
       ]
