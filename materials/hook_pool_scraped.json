@@ -1520,7 +1520,16 @@
       "likes": 53,
       "source": "https://x.com/haru_motokare/status/2104898987119546871",
       "source_handle": "haru_motokare",
-      "collected_at": "2026-09-30"
+      "collected_at": "2026-09-30",
+      "used_by": {
+        "うみこ": "2026-10-11"
+      },
+      "results": {
+        "うみこ": {
+          "views": 25,
+          "at": "2026-10-11"
+        }
+      }
     },
     {
       "pool_id": "hp_4c68eee5ad",
@@ -2264,7 +2273,8 @@
       "collected_at": "2026-10-02",
       "used_by": {
         "miho": "2026-10-08"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_271b36c599",
@@ -29228,5 +29238,5 @@
       "collected_at": "2026-09-14"
     }
   ],
-  "updated_at": "2026-10-11T01:10:27.494215+09:00"
+  "updated_at": "2026-10-11T09:41:35.126889+09:00"
 }

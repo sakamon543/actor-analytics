@@ -140,6 +140,11 @@
           "scheduled_at": "2026-10-11T14:42:00+09:00",
           "registered_at": "2026-10-08",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-14T21:47:00+09:00",
+          "registered_at": "2026-10-11",
+          "views": null
         }
       ]
     },
@@ -342,6 +347,11 @@
         {
           "scheduled_at": "2026-10-10T19:52:00+09:00",
           "registered_at": "2026-10-08",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-14T11:08:00+09:00",
+          "registered_at": "2026-10-11",
           "views": null
         }
       ]
@@ -583,7 +593,8 @@
         {
           "scheduled_at": "2026-06-11T14:42:00+09:00",
           "registered_at": "2026-06-10",
-          "views": null
+          "views": 70,
+          "posted_at": "2026-10-10T05:46:08.704+00:00"
         },
         {
           "scheduled_at": "2026-06-12T14:42:00+09:00",
@@ -783,6 +794,11 @@
         {
           "scheduled_at": "2026-10-10T14:42:00+09:00",
           "registered_at": "2026-10-08",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-13T14:42:00+09:00",
+          "registered_at": "2026-10-11",
           "views": null
         }
       ]
@@ -1013,6 +1029,11 @@
         {
           "scheduled_at": "2026-10-11T11:08:00+09:00",
           "registered_at": "2026-10-08",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-13T21:47:00+09:00",
+          "registered_at": "2026-10-11",
           "views": null
         }
       ]
@@ -1610,6 +1631,11 @@
           "scheduled_at": "2026-10-11T19:52:00+09:00",
           "registered_at": "2026-10-08",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-14T14:42:00+09:00",
+          "registered_at": "2026-10-11",
+          "views": null
         }
       ]
     },
@@ -1821,6 +1847,11 @@
         {
           "scheduled_at": "2026-10-10T21:47:00+09:00",
           "registered_at": "2026-10-08",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-13T19:52:00+09:00",
+          "registered_at": "2026-10-11",
           "views": null
         }
       ]
@@ -2160,6 +2191,11 @@
         {
           "scheduled_at": "2026-10-08T11:08:00+09:00",
           "registered_at": "2026-10-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-14T19:52:00+09:00",
+          "registered_at": "2026-10-11",
           "views": null
         }
       ]
@@ -3260,6 +3296,11 @@
         {
           "scheduled_at": "2026-10-10T16:33:00+09:00",
           "registered_at": "2026-10-08",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-13T16:33:00+09:00",
+          "registered_at": "2026-10-11",
           "views": null
         }
       ]
@@ -5726,6 +5767,11 @@
           "scheduled_at": "2026-10-03T14:42:00+09:00",
           "registered_at": "2026-09-30",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-15T14:42:00+09:00",
+          "registered_at": "2026-10-11",
+          "views": null
         }
       ]
     },
@@ -5870,6 +5916,11 @@
           "scheduled_at": "2026-10-09T11:08:00+09:00",
           "registered_at": "2026-10-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-15T11:08:00+09:00",
+          "registered_at": "2026-10-11",
+          "views": null
         }
       ]
     },
@@ -5905,7 +5956,8 @@
         {
           "scheduled_at": "2026-10-09T19:52:00+09:00",
           "registered_at": "2026-10-06",
-          "views": null
+          "views": 20,
+          "posted_at": "2026-10-09T10:56:40.84+00:00"
         }
       ]
     },
@@ -5965,6 +6017,30 @@
         {
           "scheduled_at": "2026-10-12T19:52:00+09:00",
           "registered_at": "2026-10-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_afaa3f6fa2": {
+      "text": "男性って年上の落ち着いた女性に一番弱いからね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-11",
+      "history": [
+        {
+          "scheduled_at": "2026-10-15T16:33:00+09:00",
+          "registered_at": "2026-10-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0efa211266": {
+      "text": "男の本音を言うと、ガツガツ来られた相手は一回も意識しない。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-11",
+      "history": [
+        {
+          "scheduled_at": "2026-10-15T19:52:00+09:00",
+          "registered_at": "2026-10-11",
           "views": null
         }
       ]

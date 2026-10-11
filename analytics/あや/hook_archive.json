@@ -784,6 +784,11 @@
           "scheduled_at": "2026-10-09T14:42:00+09:00",
           "registered_at": "2026-10-08",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-12T14:42:00+09:00",
+          "registered_at": "2026-10-11",
+          "views": null
         }
       ]
     },
@@ -861,6 +866,11 @@
         {
           "scheduled_at": "2026-10-10T11:08:00+09:00",
           "registered_at": "2026-10-08",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-12T21:47:00+09:00",
+          "registered_at": "2026-10-11",
           "views": null
         }
       ]
@@ -959,6 +969,11 @@
         {
           "scheduled_at": "2026-10-09T19:52:00+09:00",
           "registered_at": "2026-10-08",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-12T16:33:00+09:00",
+          "registered_at": "2026-10-11",
           "views": null
         }
       ]
@@ -2341,6 +2356,11 @@
           "scheduled_at": "2026-10-06T14:42:00+09:00",
           "registered_at": "2026-10-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-13T21:47:00+09:00",
+          "registered_at": "2026-10-11",
+          "views": null
         }
       ]
     },
@@ -2369,6 +2389,11 @@
         {
           "scheduled_at": "2026-10-01T21:47:00+09:00",
           "registered_at": "2026-09-30",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-13T14:42:00+09:00",
+          "registered_at": "2026-10-11",
           "views": null
         }
       ]
@@ -3037,6 +3062,11 @@
           "scheduled_at": "2026-09-16T16:33:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-13T11:08:00+09:00",
+          "registered_at": "2026-10-11",
+          "views": null
         }
       ]
     },
@@ -3092,6 +3122,11 @@
         {
           "scheduled_at": "2026-10-10T21:47:00+09:00",
           "registered_at": "2026-10-08",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-14T14:42:00+09:00",
+          "registered_at": "2026-10-11",
           "views": null
         }
       ]
@@ -3561,6 +3596,66 @@
         {
           "scheduled_at": "2026-10-11T16:33:00+09:00",
           "registered_at": "2026-10-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_792c358328": {
+      "text": "「友達からやり直すのが安全」はウソ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-11",
+      "history": [
+        {
+          "scheduled_at": "2026-10-12T19:52:00+09:00",
+          "registered_at": "2026-10-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_19aff883e8": {
+      "text": "「男は冷却期間中に元カノを忘れる」はウソ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-11",
+      "history": [
+        {
+          "scheduled_at": "2026-10-13T19:52:00+09:00",
+          "registered_at": "2026-10-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d3044a91f7": {
+      "text": "復縁して分かったんだけど、「未練が残るのは男」って話は本当。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-11",
+      "history": [
+        {
+          "scheduled_at": "2026-10-14T11:08:00+09:00",
+          "registered_at": "2026-10-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ea226971b3": {
+      "text": "回避型ほど、気持ちが残ってるほど自分から動けなくなるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-11",
+      "history": [
+        {
+          "scheduled_at": "2026-10-14T16:33:00+09:00",
+          "registered_at": "2026-10-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f2d4704254": {
+      "text": "彼にブロックされて終わったと思ってる人へ。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-11",
+      "history": [
+        {
+          "scheduled_at": "2026-10-14T19:52:00+09:00",
+          "registered_at": "2026-10-11",
           "views": null
         }
       ]
