@@ -145,6 +145,11 @@
           "scheduled_at": "2026-10-14T21:47:00+09:00",
           "registered_at": "2026-10-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-16T21:47:00+09:00",
+          "registered_at": "2026-10-12",
+          "views": null
         }
       ]
     },
@@ -599,7 +604,8 @@
         {
           "scheduled_at": "2026-06-12T14:42:00+09:00",
           "registered_at": "2026-06-10",
-          "views": null
+          "views": 71,
+          "posted_at": "2026-10-10T05:46:08.704+00:00"
         },
         {
           "scheduled_at": "2026-06-13T14:42:00+09:00",
@@ -799,6 +805,11 @@
         {
           "scheduled_at": "2026-10-13T14:42:00+09:00",
           "registered_at": "2026-10-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-16T14:42:00+09:00",
+          "registered_at": "2026-10-12",
           "views": null
         }
       ]
@@ -1391,6 +1402,11 @@
           "scheduled_at": "2026-07-10T14:42:00+09:00",
           "registered_at": "2026-07-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-16T19:52:00+09:00",
+          "registered_at": "2026-10-12",
+          "views": null
         }
       ]
     },
@@ -1853,6 +1869,11 @@
           "scheduled_at": "2026-10-13T19:52:00+09:00",
           "registered_at": "2026-10-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-17T11:08:00+09:00",
+          "registered_at": "2026-10-12",
+          "views": null
         }
       ]
     },
@@ -1944,6 +1965,11 @@
         {
           "scheduled_at": "2026-07-09T21:03:00+09:00",
           "registered_at": "2026-07-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-18T14:42:00+09:00",
+          "registered_at": "2026-10-12",
           "views": null
         }
       ]
@@ -2461,6 +2487,11 @@
           "scheduled_at": "2026-07-04T20:28:00+09:00",
           "registered_at": "2026-07-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-17T14:42:00+09:00",
+          "registered_at": "2026-10-12",
+          "views": null
         }
       ]
     },
@@ -2616,6 +2647,11 @@
         {
           "scheduled_at": "2026-07-07T22:17:00+09:00",
           "registered_at": "2026-07-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-18T11:08:00+09:00",
+          "registered_at": "2026-10-12",
           "views": null
         }
       ]
@@ -3301,6 +3337,11 @@
         {
           "scheduled_at": "2026-10-13T16:33:00+09:00",
           "registered_at": "2026-10-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-16T16:33:00+09:00",
+          "registered_at": "2026-10-12",
           "views": null
         }
       ]
@@ -6041,6 +6082,54 @@
         {
           "scheduled_at": "2026-10-15T19:52:00+09:00",
           "registered_at": "2026-10-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e30cdb578e": {
+      "text": "実は、男の8割は職場の年上女性を一度は意識してる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-12",
+      "history": [
+        {
+          "scheduled_at": "2026-10-17T19:52:00+09:00",
+          "registered_at": "2026-10-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_957f13c13e": {
+      "text": "意外かもだけど、男は『年上の女性に用件だけで会話を切られる』と意識し始める生き物。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-12",
+      "history": [
+        {
+          "scheduled_at": "2026-10-17T21:47:00+09:00",
+          "registered_at": "2026-10-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f1dbef5c60": {
+      "text": "職場の年下の彼に意識される30-40代女性の最強の武器、男目線で言うと『焦らなさ』なんだよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-12",
+      "history": [
+        {
+          "scheduled_at": "2026-10-18T16:33:00+09:00",
+          "registered_at": "2026-10-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f00297dfc1": {
+      "text": "男が年上の女性を意識する瞬間、『優しくされた』より多いのが『急に素っ気なくされた』。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-12",
+      "history": [
+        {
+          "scheduled_at": "2026-10-18T19:52:00+09:00",
+          "registered_at": "2026-10-12",
           "views": null
         }
       ]

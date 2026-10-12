@@ -252,6 +252,16 @@
           "scheduled_at": "2026-10-11T19:52:00+09:00",
           "registered_at": "2026-10-08",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-13T14:42:00+09:00",
+          "registered_at": "2026-10-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-14T19:52:00+09:00",
+          "registered_at": "2026-10-12",
+          "views": null
         }
       ]
     },
@@ -400,6 +410,11 @@
         {
           "scheduled_at": "2026-10-09T21:47:00+09:00",
           "registered_at": "2026-10-08",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-13T16:33:00+09:00",
+          "registered_at": "2026-10-12",
           "views": null
         }
       ]
@@ -592,6 +607,16 @@
         {
           "scheduled_at": "2026-10-11T11:08:00+09:00",
           "registered_at": "2026-10-08",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-13T19:52:00+09:00",
+          "registered_at": "2026-10-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-15T16:33:00+09:00",
+          "registered_at": "2026-10-12",
           "views": null
         }
       ]
@@ -1638,6 +1663,11 @@
           "scheduled_at": "2026-10-09T16:33:00+09:00",
           "registered_at": "2026-10-08",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-14T14:42:00+09:00",
+          "registered_at": "2026-10-12",
+          "views": null
         }
       ]
     },
@@ -2224,6 +2254,11 @@
           "scheduled_at": "2026-09-26T21:47:00+09:00",
           "registered_at": "2026-09-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-13T21:47:00+09:00",
+          "registered_at": "2026-10-12",
+          "views": null
         }
       ]
     },
@@ -2527,6 +2562,11 @@
         {
           "scheduled_at": "2026-09-14T21:47:00+09:00",
           "registered_at": "2026-09-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-15T14:42:00+09:00",
+          "registered_at": "2026-10-12",
           "views": null
         }
       ]
@@ -3093,6 +3133,54 @@
         {
           "scheduled_at": "2026-10-11T16:33:00+09:00",
           "registered_at": "2026-10-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_34d682eea8": {
+      "text": "実は、男の9割は1回目で『二度目はない』と決めてる",
+      "structure_label": "数字型（常識否定）",
+      "first_used_at": "2026-10-12",
+      "history": [
+        {
+          "scheduled_at": "2026-10-14T11:08:00+09:00",
+          "registered_at": "2026-10-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_10077c7c39": {
+      "text": "3年で100人以上と会って、そのほとんどを俺から切ってきました。",
+      "structure_label": "男性心理暴露型（当事者告白）",
+      "first_used_at": "2026-10-12",
+      "history": [
+        {
+          "scheduled_at": "2026-10-14T21:47:00+09:00",
+          "registered_at": "2026-10-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7a400101a5": {
+      "text": "「私のどこがダメだったの」の答えは、ダメなところが無かったからです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-12",
+      "history": [
+        {
+          "scheduled_at": "2026-10-15T11:08:00+09:00",
+          "registered_at": "2026-10-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4cb979d5e1": {
+      "text": "「いい子だったな」で終わる子が一番多い。嫌われて切られる子より、ずっと多い。",
+      "structure_label": "命題型（比較断言）",
+      "first_used_at": "2026-10-12",
+      "history": [
+        {
+          "scheduled_at": "2026-10-15T19:52:00+09:00",
+          "registered_at": "2026-10-12",
           "views": null
         }
       ]

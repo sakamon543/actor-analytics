@@ -507,6 +507,11 @@
           "scheduled_at": "2026-10-04T19:52:00+09:00",
           "registered_at": "2026-10-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-13T19:52:00+09:00",
+          "registered_at": "2026-10-12",
+          "views": null
         }
       ]
     },
@@ -1364,8 +1369,8 @@
         {
           "scheduled_at": "2026-07-31T18:03:00+09:00",
           "registered_at": "2026-07-29",
-          "views": 2345,
-          "posted_at": "2026-07-31T09:08:53.554+00:00"
+          "views": 3063,
+          "posted_at": "2026-10-11T05:46:08.066+00:00"
         }
       ]
     },
@@ -2871,6 +2876,11 @@
           "scheduled_at": "2026-09-01T21:47:00+09:00",
           "registered_at": "2026-08-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-14T21:47:00+09:00",
+          "registered_at": "2026-10-12",
+          "views": null
         }
       ]
     },
@@ -3196,6 +3206,11 @@
         {
           "scheduled_at": "2026-09-29T19:52:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-14T19:52:00+09:00",
+          "registered_at": "2026-10-12",
           "views": null
         }
       ]
@@ -3801,6 +3816,11 @@
           "registered_at": "2026-09-27",
           "views": 5360,
           "posted_at": "2026-10-03T05:47:05.458+00:00"
+        },
+        {
+          "scheduled_at": "2026-10-15T19:52:00+09:00",
+          "registered_at": "2026-10-12",
+          "views": null
         }
       ]
     },
@@ -4029,6 +4049,66 @@
         {
           "scheduled_at": "2026-10-11T19:52:00+09:00",
           "registered_at": "2026-10-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8d8b8a0d3e": {
+      "text": "振った側の男だから言うけど、別れたあと一番困るのは「未練」じゃない。\n・嫌いになったわけじゃない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-12",
+      "history": [
+        {
+          "scheduled_at": "2026-10-13T16:33:00+09:00",
+          "registered_at": "2026-10-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_759440d1ba": {
+      "text": "彼の方から連絡してきて、会いたがって、最後は「やっぱり戻りたい」と言わせたいなら、『男が復縁を決める瞬間』を知った方がいい。ほとんどの人は好きにさせれば戻ると思っているけど、男は好きな気持ちが残っていても「また同じことになる」と思えば戻らない。逆に、",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-12",
+      "history": [
+        {
+          "scheduled_at": "2026-10-13T21:47:00+09:00",
+          "registered_at": "2026-10-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5fc03fa232": {
+      "text": "振った側の男だから言うけど、別れたあと「やっぱり好きかも」と思ったのは、寂しくなったときじゃなかった。\n・久しぶりに話して普通に笑えた",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-12",
+      "history": [
+        {
+          "scheduled_at": "2026-10-14T11:08:00+09:00",
+          "registered_at": "2026-10-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f7f4702b0b": {
+      "text": "【「嫌いじゃない」と振った僕が復縁するまで】\n①「嫌いになったわけじゃない」と別れる",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-10-12",
+      "history": [
+        {
+          "scheduled_at": "2026-10-15T11:08:00+09:00",
+          "registered_at": "2026-10-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2bd1543346": {
+      "text": "振った側の男だから言うけど、別れたあと元カノにされて意外と嫌だったのが「全部僕に合わせられること」だった。\n・返信は僕のペース",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-12",
+      "history": [
+        {
+          "scheduled_at": "2026-10-15T16:33:00+09:00",
+          "registered_at": "2026-10-12",
           "views": null
         }
       ]
