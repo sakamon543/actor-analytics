@@ -159,6 +159,11 @@
           "scheduled_at": "2026-10-08T19:52:00+09:00",
           "registered_at": "2026-10-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-14T14:42:00+09:00",
+          "registered_at": "2026-10-13",
+          "views": null
         }
       ]
     },
@@ -1857,6 +1862,11 @@
           "scheduled_at": "2026-10-07T21:47:00+09:00",
           "registered_at": "2026-10-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-14T19:52:00+09:00",
+          "registered_at": "2026-10-13",
+          "views": null
         }
       ]
     },
@@ -1949,6 +1959,11 @@
           "scheduled_at": "2026-10-07T16:33:00+09:00",
           "registered_at": "2026-10-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-14T16:33:00+09:00",
+          "registered_at": "2026-10-13",
+          "views": null
         }
       ]
     },
@@ -2002,6 +2017,11 @@
         {
           "scheduled_at": "2026-10-07T19:52:00+09:00",
           "registered_at": "2026-10-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-15T14:42:00+09:00",
+          "registered_at": "2026-10-13",
           "views": null
         }
       ]
@@ -2103,6 +2123,11 @@
         {
           "scheduled_at": "2026-10-09T11:08:00+09:00",
           "registered_at": "2026-10-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-14T21:47:00+09:00",
+          "registered_at": "2026-10-13",
           "views": null
         }
       ]
@@ -3303,6 +3328,11 @@
           "scheduled_at": "2026-10-07T14:42:00+09:00",
           "registered_at": "2026-10-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-15T19:52:00+09:00",
+          "registered_at": "2026-10-13",
+          "views": null
         }
       ]
     },
@@ -3350,6 +3380,11 @@
         {
           "scheduled_at": "2026-10-02T14:42:00+09:00",
           "registered_at": "2026-09-30",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-15T11:08:00+09:00",
+          "registered_at": "2026-10-13",
           "views": null
         }
       ]
@@ -3495,7 +3530,8 @@
         {
           "scheduled_at": "2026-10-09T16:33:00+09:00",
           "registered_at": "2026-10-06",
-          "views": null
+          "views": 25,
+          "posted_at": "2026-10-09T07:37:43.56+00:00"
         }
       ]
     },
@@ -3507,6 +3543,66 @@
         {
           "scheduled_at": "2026-10-09T19:52:00+09:00",
           "registered_at": "2026-10-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c4ef9dd4fc": {
+      "text": "年下の後輩が年上の先輩に求めてるのは、若く見える努力じゃなくて一緒にいて肩の力が抜ける時間です。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-13",
+      "history": [
+        {
+          "scheduled_at": "2026-10-15T21:47:00+09:00",
+          "registered_at": "2026-10-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6c00cf4aa4": {
+      "text": "年下後輩相手は、好きなほど自分から誘わない方がうまくいきます。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-13",
+      "history": [
+        {
+          "scheduled_at": "2026-10-16T11:08:00+09:00",
+          "registered_at": "2026-10-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_03a18c15e5": {
+      "text": "職場恋愛アリ派は61.8%です。周りが思ってるほど、みんな否定的じゃないんですよね。",
+      "structure_label": "数字型",
+      "first_used_at": "2026-10-13",
+      "history": [
+        {
+          "scheduled_at": "2026-10-16T14:42:00+09:00",
+          "registered_at": "2026-10-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7708cee4a2": {
+      "text": "年下の後輩は、「年上の先輩は恋愛対象にならない」とは思っていない。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-13",
+      "history": [
+        {
+          "scheduled_at": "2026-10-16T16:33:00+09:00",
+          "registered_at": "2026-10-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_77685284cd": {
+      "text": "後輩の急なよそよそしさは、興味がなくなったサインじゃないです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-13",
+      "history": [
+        {
+          "scheduled_at": "2026-10-16T19:52:00+09:00",
+          "registered_at": "2026-10-13",
           "views": null
         }
       ]

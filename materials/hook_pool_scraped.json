@@ -2986,7 +2986,10 @@
       "likes": 102,
       "source": "https://x.com/nagikoi1/status/2105776271573897276",
       "source_handle": "nagikoi1",
-      "collected_at": "2026-10-06"
+      "collected_at": "2026-10-06",
+      "used_by": {
+        "かれん": "2026-10-13"
+      }
     },
     {
       "pool_id": "hp_0bc8d72b23",
@@ -29273,5 +29276,5 @@
       "collected_at": "2026-09-14"
     }
   ],
-  "updated_at": "2026-10-13T01:10:26.418003+09:00"
+  "updated_at": "2026-10-13T09:39:33.544733+09:00"
 }
