@@ -965,6 +965,11 @@
           "scheduled_at": "2026-10-18T21:47:00+09:00",
           "registered_at": "2026-10-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-21T14:42:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
         }
       ]
     },
@@ -1070,6 +1075,11 @@
         {
           "scheduled_at": "2026-10-19T14:42:00+09:00",
           "registered_at": "2026-10-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-23T11:08:00+09:00",
+          "registered_at": "2026-10-14",
           "views": null
         }
       ]
@@ -1455,6 +1465,11 @@
           "scheduled_at": "2026-10-19T21:47:00+09:00",
           "registered_at": "2026-10-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-22T11:08:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
         }
       ]
     },
@@ -1619,6 +1634,11 @@
         {
           "scheduled_at": "2026-10-18T16:33:00+09:00",
           "registered_at": "2026-10-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-21T16:33:00+09:00",
+          "registered_at": "2026-10-14",
           "views": null
         }
       ]
@@ -1991,6 +2011,11 @@
           "scheduled_at": "2026-10-18T19:52:00+09:00",
           "registered_at": "2026-10-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-22T14:42:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
         }
       ]
     },
@@ -2051,6 +2076,11 @@
         {
           "scheduled_at": "2026-10-16T19:52:00+09:00",
           "registered_at": "2026-10-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-23T14:42:00+09:00",
+          "registered_at": "2026-10-14",
           "views": null
         }
       ]
@@ -3132,6 +3162,11 @@
           "scheduled_at": "2026-10-16T14:42:00+09:00",
           "registered_at": "2026-10-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-21T19:52:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
         }
       ]
     },
@@ -3679,6 +3714,66 @@
         {
           "scheduled_at": "2026-10-20T19:52:00+09:00",
           "registered_at": "2026-10-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_26019f53c7": {
+      "text": "元彼の既読無視は、嫌いになった証拠じゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-14",
+      "history": [
+        {
+          "scheduled_at": "2026-10-21T21:47:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c11f3daddd": {
+      "text": "別れて3ヶ月後に復縁できたけど、それまではほぼ連絡できない状態だったよ。既読もつかずブロックされたかも…とか、連絡も取れないなら復縁なんて無理でしょ😂って思ってました。しかも私が送るのをやめればそのまま関係は切れて終わりだと思うと、怖くて連絡することが",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-14",
+      "history": [
+        {
+          "scheduled_at": "2026-10-22T19:52:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dc24b531ed": {
+      "text": "元彼のインスタを見るのがやめられないなら、意志で我慢しても無理なんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-14",
+      "history": [
+        {
+          "scheduled_at": "2026-10-22T21:47:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
+        }
+      ]
+    },
+    "fookid_29d72a4179": {
+      "text": "復縁した彼いわく『男は追われてる間は復縁なんて考えない』らしい",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-14",
+      "history": [
+        {
+          "scheduled_at": "2026-10-23T16:33:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
+        }
+      ]
+    },
+    "fookid_173b3a2069": {
+      "text": "ブロックされても復縁はできるよ。追いLINE100通と鬼電50回やった私が証拠。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-14",
+      "history": [
+        {
+          "scheduled_at": "2026-10-23T19:52:00+09:00",
+          "registered_at": "2026-10-14",
           "views": null
         }
       ]

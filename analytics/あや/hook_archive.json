@@ -789,6 +789,11 @@
           "scheduled_at": "2026-10-12T14:42:00+09:00",
           "registered_at": "2026-10-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-16T11:08:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
         }
       ]
     },
@@ -905,6 +910,11 @@
         {
           "scheduled_at": "2026-10-10T14:42:00+09:00",
           "registered_at": "2026-10-08",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-15T14:42:00+09:00",
+          "registered_at": "2026-10-14",
           "views": null
         }
       ]
@@ -2361,6 +2371,11 @@
           "scheduled_at": "2026-10-13T21:47:00+09:00",
           "registered_at": "2026-10-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-17T11:08:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
         }
       ]
     },
@@ -2394,6 +2409,11 @@
         {
           "scheduled_at": "2026-10-13T14:42:00+09:00",
           "registered_at": "2026-10-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-17T19:52:00+09:00",
+          "registered_at": "2026-10-14",
           "views": null
         }
       ]
@@ -3067,6 +3087,11 @@
           "scheduled_at": "2026-10-13T11:08:00+09:00",
           "registered_at": "2026-10-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-16T19:52:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
         }
       ]
     },
@@ -3656,6 +3681,90 @@
         {
           "scheduled_at": "2026-10-14T19:52:00+09:00",
           "registered_at": "2026-10-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_41ba67a14d": {
+      "text": "男は新しい人と出会うたびに、重いくらい一途だった元カノと比べてるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-14",
+      "history": [
+        {
+          "scheduled_at": "2026-10-15T16:33:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3fb7bd1995": {
+      "text": "復縁するために外見磨きは必要ない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-14",
+      "history": [
+        {
+          "scheduled_at": "2026-10-15T19:52:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8e1befe3b1": {
+      "text": "彼から連絡が来ない期間の長さと、彼の気持ちの大きさは関係ないよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-14",
+      "history": [
+        {
+          "scheduled_at": "2026-10-15T21:47:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ed60b4f5ca": {
+      "text": "男って、追われてる間は復縁を一度も考えないんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-14",
+      "history": [
+        {
+          "scheduled_at": "2026-10-16T14:42:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d2417d1d9d": {
+      "text": "ブロックされても終わりじゃないよ。彼が切ったのは連絡手段で、気持ちじゃない。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-14",
+      "history": [
+        {
+          "scheduled_at": "2026-10-16T21:47:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
+        }
+      ]
+    },
+    "fookid_45919ff9dc": {
+      "text": "回避型の『別れよう』は、気持ちが終わった合図じゃないんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-14",
+      "history": [
+        {
+          "scheduled_at": "2026-10-17T14:42:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
+        }
+      ]
+    },
+    "fookid_655ec9f2d7": {
+      "text": "男の未練って別れた直後より、時間が経ってからの方が強くなるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-14",
+      "history": [
+        {
+          "scheduled_at": "2026-10-17T16:33:00+09:00",
+          "registered_at": "2026-10-14",
           "views": null
         }
       ]

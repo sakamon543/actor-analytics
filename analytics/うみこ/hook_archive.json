@@ -644,6 +644,11 @@
           "scheduled_at": "2026-09-26T21:47:00+09:00",
           "registered_at": "2026-09-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-16T19:52:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
         }
       ]
     },
@@ -1671,6 +1676,11 @@
           "scheduled_at": "2026-10-12T21:47:00+09:00",
           "registered_at": "2026-10-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-16T11:08:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
         }
       ]
     },
@@ -2219,6 +2229,11 @@
         {
           "scheduled_at": "2026-10-14T11:08:00+09:00",
           "registered_at": "2026-10-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-17T14:42:00+09:00",
+          "registered_at": "2026-10-14",
           "views": null
         }
       ]
@@ -3713,6 +3728,11 @@
         {
           "scheduled_at": "2026-10-13T19:52:00+09:00",
           "registered_at": "2026-10-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-16T21:47:00+09:00",
+          "registered_at": "2026-10-14",
           "views": null
         }
       ]
@@ -5483,6 +5503,11 @@
           "scheduled_at": "2026-10-12T16:33:00+09:00",
           "registered_at": "2026-10-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-15T21:47:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
         }
       ]
     },
@@ -5825,6 +5850,11 @@
           "scheduled_at": "2026-10-12T19:52:00+09:00",
           "registered_at": "2026-10-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-15T19:52:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
         }
       ]
     },
@@ -5842,6 +5872,11 @@
         {
           "scheduled_at": "2026-09-24T11:08:00+09:00",
           "registered_at": "2026-09-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-17T11:08:00+09:00",
+          "registered_at": "2026-10-14",
           "views": null
         }
       ]
@@ -6626,6 +6661,11 @@
           "scheduled_at": "2026-09-17T21:47:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-17T16:33:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
         }
       ]
     },
@@ -6870,7 +6910,8 @@
         {
           "scheduled_at": "2026-10-13T11:08:00+09:00",
           "registered_at": "2026-10-11",
-          "views": null
+          "views": 19,
+          "posted_at": "2026-10-13T02:14:55.747+00:00"
         }
       ]
     },
@@ -6894,6 +6935,30 @@
         {
           "scheduled_at": "2026-10-14T19:52:00+09:00",
           "registered_at": "2026-10-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_461b13cb41": {
+      "text": "ぶっちゃけ「元カノに戻る男」と「絶対戻らない男」って、かなり簡単に見分けられます。戻る男ほど別れ方が中途半端なんですよね。「嫌いになったわけじゃない」「今は余裕がない」「幸せにできない」みたいに、元カノへの気持ちを残したまま離れる。逆に本当に戻らない男は、別れの理由が明確で、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-14",
+      "history": [
+        {
+          "scheduled_at": "2026-10-15T16:33:00+09:00",
+          "registered_at": "2026-10-14",
+          "views": null
+        }
+      ]
+    },
+    "fookid_faf754094a": {
+      "text": "男の別れ際の冷たさは、嫌いになった証拠じゃないのよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-14",
+      "history": [
+        {
+          "scheduled_at": "2026-10-17T19:52:00+09:00",
+          "registered_at": "2026-10-14",
           "views": null
         }
       ]
