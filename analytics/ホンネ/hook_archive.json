@@ -150,6 +150,11 @@
           "scheduled_at": "2026-10-16T21:47:00+09:00",
           "registered_at": "2026-10-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-20T14:42:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
         }
       ]
     },
@@ -357,6 +362,11 @@
         {
           "scheduled_at": "2026-10-14T11:08:00+09:00",
           "registered_at": "2026-10-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-19T21:47:00+09:00",
+          "registered_at": "2026-10-15",
           "views": null
         }
       ]
@@ -610,7 +620,8 @@
         {
           "scheduled_at": "2026-06-13T14:42:00+09:00",
           "registered_at": "2026-06-10",
-          "views": null
+          "views": 77,
+          "posted_at": "2026-10-10T05:46:08.704+00:00"
         },
         {
           "scheduled_at": "2026-06-13T22:48:00+09:00",
@@ -810,6 +821,11 @@
         {
           "scheduled_at": "2026-10-16T14:42:00+09:00",
           "registered_at": "2026-10-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-19T14:42:00+09:00",
+          "registered_at": "2026-10-15",
           "views": null
         }
       ]
@@ -1045,6 +1061,11 @@
         {
           "scheduled_at": "2026-10-13T21:47:00+09:00",
           "registered_at": "2026-10-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-21T16:33:00+09:00",
+          "registered_at": "2026-10-15",
           "views": null
         }
       ]
@@ -1652,6 +1673,11 @@
           "scheduled_at": "2026-10-14T14:42:00+09:00",
           "registered_at": "2026-10-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-21T11:08:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
         }
       ]
     },
@@ -1873,6 +1899,11 @@
         {
           "scheduled_at": "2026-10-17T11:08:00+09:00",
           "registered_at": "2026-10-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-20T11:08:00+09:00",
+          "registered_at": "2026-10-15",
           "views": null
         }
       ]
@@ -2222,6 +2253,11 @@
         {
           "scheduled_at": "2026-10-14T19:52:00+09:00",
           "registered_at": "2026-10-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-19T19:52:00+09:00",
+          "registered_at": "2026-10-15",
           "views": null
         }
       ]
@@ -3342,6 +3378,11 @@
         {
           "scheduled_at": "2026-10-16T16:33:00+09:00",
           "registered_at": "2026-10-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-19T16:33:00+09:00",
+          "registered_at": "2026-10-15",
           "views": null
         }
       ]
@@ -6130,6 +6171,54 @@
         {
           "scheduled_at": "2026-10-18T19:52:00+09:00",
           "registered_at": "2026-10-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_94d0536e2d": {
+      "text": "男は、「よく話す＝恋愛対象」とは思っていない。",
+      "structure_label": "命題型（等式否定）",
+      "first_used_at": "2026-10-15",
+      "history": [
+        {
+          "scheduled_at": "2026-10-20T19:52:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e088a7b35a": {
+      "text": "男の業務連絡みたいな返信は、年上女性に脈なしサインじゃない。",
+      "structure_label": "常識否定型（現象の読み替え）",
+      "first_used_at": "2026-10-15",
+      "history": [
+        {
+          "scheduled_at": "2026-10-20T21:47:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5152b303d8": {
+      "text": "彼に『今日なんか静かだね』って言わせる構造、男目線で言うとシンプルなんだよね。",
+      "structure_label": "男性心理暴露型（構造シンプル断言）",
+      "first_used_at": "2026-10-15",
+      "history": [
+        {
+          "scheduled_at": "2026-10-21T14:42:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6aab05107c": {
+      "text": "男の本音を言うと、気があると分かった年上は追いかけない",
+      "structure_label": "男性心理暴露型（本音断言）",
+      "first_used_at": "2026-10-15",
+      "history": [
+        {
+          "scheduled_at": "2026-10-21T19:52:00+09:00",
+          "registered_at": "2026-10-15",
           "views": null
         }
       ]

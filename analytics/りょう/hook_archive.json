@@ -262,6 +262,16 @@
           "scheduled_at": "2026-10-14T19:52:00+09:00",
           "registered_at": "2026-10-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-16T14:42:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-17T14:42:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
         }
       ]
     },
@@ -416,6 +426,11 @@
           "scheduled_at": "2026-10-13T16:33:00+09:00",
           "registered_at": "2026-10-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-16T16:33:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
         }
       ]
     },
@@ -457,7 +472,8 @@
         {
           "scheduled_at": "2026-08-01T20:28:00+09:00",
           "registered_at": "2026-07-29",
-          "views": null
+          "views": 20,
+          "posted_at": "2026-10-09T10:58:57.409+00:00"
         },
         {
           "scheduled_at": "2026-08-02T14:42:00+09:00",
@@ -617,6 +633,16 @@
         {
           "scheduled_at": "2026-10-15T16:33:00+09:00",
           "registered_at": "2026-10-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-16T19:52:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-18T16:33:00+09:00",
+          "registered_at": "2026-10-15",
           "views": null
         }
       ]
@@ -1668,6 +1694,11 @@
           "scheduled_at": "2026-10-14T14:42:00+09:00",
           "registered_at": "2026-10-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-16T21:47:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
         }
       ]
     },
@@ -2258,6 +2289,11 @@
         {
           "scheduled_at": "2026-10-13T21:47:00+09:00",
           "registered_at": "2026-10-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-17T19:52:00+09:00",
+          "registered_at": "2026-10-15",
           "views": null
         }
       ]
@@ -3181,6 +3217,66 @@
         {
           "scheduled_at": "2026-10-15T19:52:00+09:00",
           "registered_at": "2026-10-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0988abb194": {
+      "text": "男の「また会おうね」は、次があるって意味じゃない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-15",
+      "history": [
+        {
+          "scheduled_at": "2026-10-17T11:08:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_172ac0dbb6": {
+      "text": "「また会おうね」って送った日の夜に、もう会わないと決めてました。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-10-15",
+      "history": [
+        {
+          "scheduled_at": "2026-10-17T21:47:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1837fbf662": {
+      "text": "男は、「2回目に誘った＝脈あり」とは思っていない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-15",
+      "history": [
+        {
+          "scheduled_at": "2026-10-18T11:08:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5e226ecea5": {
+      "text": "マチアプ3年で100人以上と会って、その9割を俺から切りました。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-15",
+      "history": [
+        {
+          "scheduled_at": "2026-10-18T14:42:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d7ae2e8357": {
+      "text": "「私のどこがダメだったの」の答えは、ほとんどの場合「どこもダメじゃない」です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-15",
+      "history": [
+        {
+          "scheduled_at": "2026-10-18T19:52:00+09:00",
+          "registered_at": "2026-10-15",
           "views": null
         }
       ]

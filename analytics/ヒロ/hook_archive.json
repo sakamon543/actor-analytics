@@ -512,6 +512,11 @@
           "scheduled_at": "2026-10-13T19:52:00+09:00",
           "registered_at": "2026-10-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-17T19:52:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
         }
       ]
     },
@@ -1369,7 +1374,7 @@
         {
           "scheduled_at": "2026-07-31T18:03:00+09:00",
           "registered_at": "2026-07-29",
-          "views": 3063,
+          "views": 5178,
           "posted_at": "2026-10-11T05:46:08.066+00:00"
         }
       ]
@@ -2881,6 +2886,11 @@
           "scheduled_at": "2026-10-14T21:47:00+09:00",
           "registered_at": "2026-10-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-16T16:33:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
         }
       ]
     },
@@ -4098,6 +4108,11 @@
           "scheduled_at": "2026-10-15T11:08:00+09:00",
           "registered_at": "2026-10-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-18T16:33:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
         }
       ]
     },
@@ -4109,6 +4124,78 @@
         {
           "scheduled_at": "2026-10-15T16:33:00+09:00",
           "registered_at": "2026-10-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8e25afc4cc": {
+      "text": "振った側の男だから言うけど、別れたあと元カノに新しい彼氏ができるより、こっちの方が嫌だった。↓\n・僕といた頃より楽しそう",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-15",
+      "history": [
+        {
+          "scheduled_at": "2026-10-16T19:52:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d33b88a9a8": {
+      "text": "元カレのフォロワー数を毎日チェックして増えた人を特定するくらいのネトスト上級者でも、復縁は叶えられるんですよね。でも実は復縁が叶わない人には共通点があって、それは",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-15",
+      "history": [
+        {
+          "scheduled_at": "2026-10-16T21:47:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7d356dba19": {
+      "text": "振った側の男だから言うけど、別れるときに言ったことを、全部「男の本音」だと思わない方がいい。\n・もう好きじゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-15",
+      "history": [
+        {
+          "scheduled_at": "2026-10-17T11:08:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b6f79eaa7e": {
+      "text": "復縁しやすい元カップルの共通点、僕の実感だとこれです\n・喧嘩より『すれ違い』で別れてる",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-15",
+      "history": [
+        {
+          "scheduled_at": "2026-10-17T21:47:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b30d223861": {
+      "text": "振った側の男だから言うけど、別れたあと元カノに言われて意外と引っかかったのが「もう怒ってないよ」だった。\n・別れ方が最悪だった",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-15",
+      "history": [
+        {
+          "scheduled_at": "2026-10-18T11:08:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2cff33358b": {
+      "text": "せっかく復縁するなら、ただ戻るだけじゃなく、前より彼に大事にされて「別れなきゃよかった」と思われるところまでいきたいよな。そこを目指すなら、まず考えるべきなのはどうやって復縁を迫るかではなくて、",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-15",
+      "history": [
+        {
+          "scheduled_at": "2026-10-18T19:52:00+09:00",
+          "registered_at": "2026-10-15",
           "views": null
         }
       ]

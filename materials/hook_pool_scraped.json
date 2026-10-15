@@ -1104,7 +1104,10 @@
       "likes": 135,
       "source": "https://x.com/momo_fukuen/status/2103966089428259299",
       "source_handle": "momo_fukuen",
-      "collected_at": "2026-09-28"
+      "collected_at": "2026-09-28",
+      "used_by": {
+        "ハカセ": "2026-10-15"
+      }
     },
     {
       "pool_id": "hp_ec72befb39",
@@ -8307,7 +8310,8 @@
       "collected_at": "2026-09-09",
       "used_by": {
         "かれん": "2026-10-14"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_edee1b7507",
@@ -8814,7 +8818,12 @@
       "used_by": {
         "ヒロ": "2026-10-08"
       },
-      "results": {}
+      "results": {
+        "ヒロ": {
+          "views": 248,
+          "at": "2026-10-15"
+        }
+      }
     },
     {
       "pool_id": "hp_e64636c0d8",
@@ -10833,7 +10842,12 @@
       "used_by": {
         "ヒロ": "2026-10-12"
       },
-      "results": {}
+      "results": {
+        "ヒロ": {
+          "views": 72,
+          "at": "2026-10-15"
+        }
+      }
     },
     {
       "pool_id": "hp_75db87ffb9",
@@ -29284,5 +29298,5 @@
       "collected_at": "2026-09-14"
     }
   ],
-  "updated_at": "2026-10-15T01:10:25.332812+09:00"
+  "updated_at": "2026-10-15T09:24:30.038484+09:00"
 }

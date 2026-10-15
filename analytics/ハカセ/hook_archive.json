@@ -162,6 +162,11 @@
           "scheduled_at": "2026-09-17T11:08:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-17T21:47:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
         }
       ]
     },
@@ -781,6 +786,11 @@
           "scheduled_at": "2026-10-13T19:52:00+09:00",
           "registered_at": "2026-10-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-17T11:08:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
         }
       ]
     },
@@ -1202,6 +1212,11 @@
           "scheduled_at": "2026-10-13T21:47:00+09:00",
           "registered_at": "2026-10-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-16T19:52:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
         }
       ]
     },
@@ -1371,6 +1386,11 @@
         {
           "scheduled_at": "2026-10-14T19:52:00+09:00",
           "registered_at": "2026-10-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-17T14:42:00+09:00",
+          "registered_at": "2026-10-15",
           "views": null
         }
       ]
@@ -1544,6 +1564,11 @@
         {
           "scheduled_at": "2026-10-14T21:47:00+09:00",
           "registered_at": "2026-10-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-17T19:52:00+09:00",
+          "registered_at": "2026-10-15",
           "views": null
         }
       ]
@@ -1863,6 +1888,11 @@
           "scheduled_at": "2026-10-02T21:47:00+09:00",
           "registered_at": "2026-09-30",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-18T11:08:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
         }
       ]
     },
@@ -1924,6 +1954,11 @@
         {
           "scheduled_at": "2026-10-03T16:33:00+09:00",
           "registered_at": "2026-09-30",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-16T21:47:00+09:00",
+          "registered_at": "2026-10-15",
           "views": null
         }
       ]
@@ -3677,6 +3712,11 @@
         {
           "scheduled_at": "2026-10-13T14:42:00+09:00",
           "registered_at": "2026-10-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-16T16:33:00+09:00",
+          "registered_at": "2026-10-15",
           "views": null
         }
       ]
@@ -6266,7 +6306,8 @@
         {
           "scheduled_at": "2026-10-12T19:52:00+09:00",
           "registered_at": "2026-10-08",
-          "views": null
+          "views": 26,
+          "posted_at": "2026-10-12T10:58:50.602+00:00"
         }
       ]
     },
@@ -6326,6 +6367,54 @@
         {
           "scheduled_at": "2026-10-15T19:52:00+09:00",
           "registered_at": "2026-10-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a0e27a2c29": {
+      "text": "復縁成功した子を見てると、5人中4人が後者に当てはまってる。",
+      "structure_label": "命題型（数字）",
+      "first_used_at": "2026-10-15",
+      "history": [
+        {
+          "scheduled_at": "2026-10-16T14:42:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a83f175bb5": {
+      "text": "元カレとの関係、一度ゼロにリセットした方がいい場合がある。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-15",
+      "history": [
+        {
+          "scheduled_at": "2026-10-18T14:42:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_744fdb49d0": {
+      "text": "復縁した彼に「もし彼女から連絡が来てなかったら？」って聞いたら、「自分から動くことは絶対なかった」って。",
+      "structure_label": "男性心理暴露型（インタビュー）",
+      "first_used_at": "2026-10-15",
+      "history": [
+        {
+          "scheduled_at": "2026-10-18T16:33:00+09:00",
+          "registered_at": "2026-10-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a234252dad": {
+      "text": "男の「もう無理」は、嫌いになった証拠じゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-15",
+      "history": [
+        {
+          "scheduled_at": "2026-10-18T19:52:00+09:00",
+          "registered_at": "2026-10-15",
           "views": null
         }
       ]
