@@ -164,6 +164,11 @@
           "scheduled_at": "2026-10-14T14:42:00+09:00",
           "registered_at": "2026-10-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-18T21:47:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
         }
       ]
     },
@@ -287,6 +292,11 @@
           "scheduled_at": "2026-10-04T16:33:00+09:00",
           "registered_at": "2026-10-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-17T16:33:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
         }
       ]
     },
@@ -329,6 +339,16 @@
         {
           "scheduled_at": "2026-10-05T11:08:00+09:00",
           "registered_at": "2026-10-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-18T11:08:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-19T19:52:00+09:00",
+          "registered_at": "2026-10-16",
           "views": null
         }
       ]
@@ -387,6 +407,11 @@
         {
           "scheduled_at": "2026-10-05T21:47:00+09:00",
           "registered_at": "2026-10-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-17T19:52:00+09:00",
+          "registered_at": "2026-10-16",
           "views": null
         }
       ]
@@ -449,6 +474,11 @@
         {
           "scheduled_at": "2026-10-06T11:08:00+09:00",
           "registered_at": "2026-10-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-17T21:47:00+09:00",
+          "registered_at": "2026-10-16",
           "views": null
         }
       ]
@@ -755,6 +785,11 @@
         {
           "scheduled_at": "2026-10-06T16:33:00+09:00",
           "registered_at": "2026-10-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-17T14:42:00+09:00",
+          "registered_at": "2026-10-16",
           "views": null
         }
       ]
@@ -3322,7 +3357,8 @@
         {
           "scheduled_at": "2026-10-02T21:47:00+09:00",
           "registered_at": "2026-09-30",
-          "views": null
+          "views": 66,
+          "posted_at": "2026-10-15T10:58:46.772+00:00"
         },
         {
           "scheduled_at": "2026-10-07T14:42:00+09:00",
@@ -3603,6 +3639,66 @@
         {
           "scheduled_at": "2026-10-16T19:52:00+09:00",
           "registered_at": "2026-10-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2e5ea948ab": {
+      "text": "職場のランチは大チャンスですけど、頑張って隣に座って話し続けるのは逆効果です。あなたが場をもたせようとしてるその時間、彼は何もしなくてよくなってます。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-16",
+      "history": [
+        {
+          "scheduled_at": "2026-10-18T14:42:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_333eb921d3": {
+      "text": "後輩のそっけなさは、興味がない証拠じゃないです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-16",
+      "history": [
+        {
+          "scheduled_at": "2026-10-18T19:52:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2b16dea964": {
+      "text": "年下の後輩は、『年上の先輩は恋愛対象外』とは思っていない",
+      "structure_label": "男性心理暴露型（命題型）",
+      "first_used_at": "2026-10-16",
+      "history": [
+        {
+          "scheduled_at": "2026-10-19T11:08:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7e1c81b16c": {
+      "text": "好きな人ほどLINEは自分から送るべき、って思ってませんか。年下後輩相手だと、実は「送りすぎない」方がうまくいくんですよね。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-16",
+      "history": [
+        {
+          "scheduled_at": "2026-10-19T14:42:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2845932439": {
+      "text": "年下の後輩が年上に求めてるのは、若く見えることじゃなくて一緒にいて肩の力が抜けることです。",
+      "structure_label": "命題型（努力の方向否定）",
+      "first_used_at": "2026-10-16",
+      "history": [
+        {
+          "scheduled_at": "2026-10-19T16:33:00+09:00",
+          "registered_at": "2026-10-16",
           "views": null
         }
       ]

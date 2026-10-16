@@ -83,6 +83,11 @@
           "scheduled_at": "2026-09-16T21:47:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-19T16:33:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
         }
       ]
     },
@@ -254,6 +259,11 @@
         {
           "scheduled_at": "2026-09-17T11:08:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-20T11:08:00+09:00",
+          "registered_at": "2026-10-16",
           "views": null
         }
       ]
@@ -791,6 +801,11 @@
           "scheduled_at": "2026-09-16T16:33:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-19T14:42:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
         }
       ]
     },
@@ -1264,6 +1279,11 @@
           "scheduled_at": "2026-09-17T19:52:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-21T11:08:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
         }
       ]
     },
@@ -1418,6 +1438,11 @@
         {
           "scheduled_at": "2026-10-16T21:47:00+09:00",
           "registered_at": "2026-10-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-20T14:42:00+09:00",
+          "registered_at": "2026-10-16",
           "views": null
         }
       ]
@@ -1929,6 +1954,11 @@
         {
           "scheduled_at": "2026-09-05T21:47:00+09:00",
           "registered_at": "2026-09-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-19T21:47:00+09:00",
+          "registered_at": "2026-10-16",
           "views": null
         }
       ]
@@ -3907,6 +3937,78 @@
         {
           "scheduled_at": "2026-10-18T19:52:00+09:00",
           "registered_at": "2026-10-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_58458802e9": {
+      "text": "既読無視で終わったと思ってる人、まだ諦めなくていいです。彼が返さないのは嫌いだからじゃなくて、何て送れば正解か本人も分かってないだけです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-16",
+      "history": [
+        {
+          "scheduled_at": "2026-10-19T19:52:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e702aefa09": {
+      "text": "ブロックされて、もう全部終わったと思っていませんか。ブロックは、彼が出した最終結論じゃないです。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-16",
+      "history": [
+        {
+          "scheduled_at": "2026-10-20T19:52:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_09fdfaaba4": {
+      "text": "彼が別れを決めるとき「冷めた」より圧倒的に多いのが『これ以上不安にさせたくない』です。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-16",
+      "history": [
+        {
+          "scheduled_at": "2026-10-20T21:47:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1792df9388": {
+      "text": "回避型は自己防衛で別れを選ぶから、後悔が始まるのは振った瞬間です。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-16",
+      "history": [
+        {
+          "scheduled_at": "2026-10-21T14:42:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3409c3ae69": {
+      "text": "実は、彼の方から振られた人の方が復縁の確率は高いです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-16",
+      "history": [
+        {
+          "scheduled_at": "2026-10-21T16:33:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c163e1f7f9": {
+      "text": "『未練ない』って言い張る男に限って、未練しか残ってない。ほんとに。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-16",
+      "history": [
+        {
+          "scheduled_at": "2026-10-21T19:52:00+09:00",
+          "registered_at": "2026-10-16",
           "views": null
         }
       ]

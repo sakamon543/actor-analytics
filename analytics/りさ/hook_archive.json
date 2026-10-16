@@ -24,6 +24,11 @@
           "scheduled_at": "2026-10-14T19:52:00+09:00",
           "registered_at": "2026-10-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-17T19:52:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
         }
       ]
     },
@@ -122,6 +127,11 @@
         {
           "scheduled_at": "2026-10-10T19:52:00+09:00",
           "registered_at": "2026-10-08",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-19T14:42:00+09:00",
+          "registered_at": "2026-10-16",
           "views": null
         }
       ]
@@ -1782,6 +1792,11 @@
           "scheduled_at": "2026-10-15T19:52:00+09:00",
           "registered_at": "2026-10-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-18T19:52:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
         }
       ]
     },
@@ -2521,6 +2536,11 @@
           "scheduled_at": "2026-10-14T21:47:00+09:00",
           "registered_at": "2026-10-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-18T11:08:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
         }
       ]
     },
@@ -2725,6 +2745,11 @@
           "scheduled_at": "2026-09-25T16:33:00+09:00",
           "registered_at": "2026-09-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-17T16:33:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
         }
       ]
     },
@@ -2895,6 +2920,11 @@
           "scheduled_at": "2026-10-11T14:42:00+09:00",
           "registered_at": "2026-10-08",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-19T11:08:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
         }
       ]
     },
@@ -2966,6 +2996,54 @@
         {
           "scheduled_at": "2026-10-16T19:52:00+09:00",
           "registered_at": "2026-10-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_eb50f97a5a": {
+      "text": "年下男子の本音は、素直な言葉には出てきません",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-16",
+      "history": [
+        {
+          "scheduled_at": "2026-10-17T21:47:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4850bcab84": {
+      "text": "年下男子が年上から離れるとき「若い子がいい」より圧倒的に多いのが『俺じゃ釣り合わない』",
+      "structure_label": "男性心理暴露型（本当の理由）",
+      "first_used_at": "2026-10-16",
+      "history": [
+        {
+          "scheduled_at": "2026-10-18T21:47:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_74f321c0b3": {
+      "text": "年下男子は、「年上の余裕＝魅力」とは思っていない",
+      "structure_label": "命題型（等式否定）",
+      "first_used_at": "2026-10-16",
+      "history": [
+        {
+          "scheduled_at": "2026-10-19T16:33:00+09:00",
+          "registered_at": "2026-10-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f3d5801126": {
+      "text": "年下男子ほど、心の中では『俺を頼ってほしい』って思ってる",
+      "structure_label": "男性心理暴露型（本音の断言）",
+      "first_used_at": "2026-10-16",
+      "history": [
+        {
+          "scheduled_at": "2026-10-19T19:52:00+09:00",
+          "registered_at": "2026-10-16",
           "views": null
         }
       ]
