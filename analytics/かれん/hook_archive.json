@@ -970,6 +970,11 @@
           "scheduled_at": "2026-10-21T14:42:00+09:00",
           "registered_at": "2026-10-14",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-24T16:33:00+09:00",
+          "registered_at": "2026-10-17",
+          "views": null
         }
       ]
     },
@@ -1080,6 +1085,11 @@
         {
           "scheduled_at": "2026-10-23T11:08:00+09:00",
           "registered_at": "2026-10-14",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-26T16:33:00+09:00",
+          "registered_at": "2026-10-17",
           "views": null
         }
       ]
@@ -1470,6 +1480,11 @@
           "scheduled_at": "2026-10-22T11:08:00+09:00",
           "registered_at": "2026-10-14",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-25T14:42:00+09:00",
+          "registered_at": "2026-10-17",
+          "views": null
         }
       ]
     },
@@ -1639,6 +1654,11 @@
         {
           "scheduled_at": "2026-10-21T16:33:00+09:00",
           "registered_at": "2026-10-14",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-24T14:42:00+09:00",
+          "registered_at": "2026-10-17",
           "views": null
         }
       ]
@@ -2016,6 +2036,11 @@
           "scheduled_at": "2026-10-22T14:42:00+09:00",
           "registered_at": "2026-10-14",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-26T11:08:00+09:00",
+          "registered_at": "2026-10-17",
+          "views": null
         }
       ]
     },
@@ -2081,6 +2106,11 @@
         {
           "scheduled_at": "2026-10-23T14:42:00+09:00",
           "registered_at": "2026-10-14",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-25T11:08:00+09:00",
+          "registered_at": "2026-10-17",
           "views": null
         }
       ]
@@ -3453,6 +3483,11 @@
           "scheduled_at": "2026-10-04T14:42:00+09:00",
           "registered_at": "2026-10-02",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-25T21:47:00+09:00",
+          "registered_at": "2026-10-17",
+          "views": null
         }
       ]
     },
@@ -3774,6 +3809,66 @@
         {
           "scheduled_at": "2026-10-23T19:52:00+09:00",
           "registered_at": "2026-10-14",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7e3e9aa466": {
+      "text": "男は元カノに執着してるって話、女性はあまり信じないけどガチ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-17",
+      "history": [
+        {
+          "scheduled_at": "2026-10-24T19:52:00+09:00",
+          "registered_at": "2026-10-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ff6ecd39f2": {
+      "text": "ブロックされても復縁はできるんだよね。別れた翌朝にブロックされた私が戻れてるから。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-17",
+      "history": [
+        {
+          "scheduled_at": "2026-10-24T21:47:00+09:00",
+          "registered_at": "2026-10-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_499ad10c7a": {
+      "text": "別れる時に「ちゃんと話し合いたい」と言って、まともに取り合ってもらえなかった人へ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-17",
+      "history": [
+        {
+          "scheduled_at": "2026-10-25T19:52:00+09:00",
+          "registered_at": "2026-10-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5efc50c620": {
+      "text": "「男は本当に好きなら手放さない」はウソなんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-17",
+      "history": [
+        {
+          "scheduled_at": "2026-10-26T14:42:00+09:00",
+          "registered_at": "2026-10-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fca88709ac": {
+      "text": "復縁って、ある日突然「進展する」って言われますが復縁した私の経験からもその通りだと思います。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-17",
+      "history": [
+        {
+          "scheduled_at": "2026-10-26T19:52:00+09:00",
+          "registered_at": "2026-10-17",
           "views": null
         }
       ]

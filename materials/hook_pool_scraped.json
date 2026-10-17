@@ -1107,7 +1107,8 @@
       "collected_at": "2026-09-28",
       "used_by": {
         "ハカセ": "2026-10-15"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_ec72befb39",
@@ -1407,7 +1408,10 @@
       "likes": 347,
       "source": "https://x.com/okoteruyo1/status/2097660192494374920",
       "source_handle": "okoteruyo1",
-      "collected_at": "2026-09-11"
+      "collected_at": "2026-09-11",
+      "used_by": {
+        "かれん": "2026-10-17"
+      }
     },
     {
       "pool_id": "hp_b5659d178d",
@@ -1519,7 +1523,10 @@
       "likes": 13,
       "source": "https://x.com/okoteruyo1/status/2101850538291999082",
       "source_handle": "okoteruyo1",
-      "collected_at": "2026-09-25"
+      "collected_at": "2026-09-25",
+      "used_by": {
+        "かれん": "2026-10-17"
+      }
     },
     {
       "pool_id": "hp_9ba1fb8921",
@@ -29298,5 +29305,5 @@
       "collected_at": "2026-09-14"
     }
   ],
-  "updated_at": "2026-10-17T01:10:25.919755+09:00"
+  "updated_at": "2026-10-17T09:24:33.138690+09:00"
 }

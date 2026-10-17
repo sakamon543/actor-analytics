@@ -794,6 +794,11 @@
           "scheduled_at": "2026-10-16T11:08:00+09:00",
           "registered_at": "2026-10-14",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-18T21:47:00+09:00",
+          "registered_at": "2026-10-17",
+          "views": null
         }
       ]
     },
@@ -877,6 +882,11 @@
           "scheduled_at": "2026-10-12T21:47:00+09:00",
           "registered_at": "2026-10-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-20T14:42:00+09:00",
+          "registered_at": "2026-10-17",
+          "views": null
         }
       ]
     },
@@ -915,6 +925,11 @@
         {
           "scheduled_at": "2026-10-15T14:42:00+09:00",
           "registered_at": "2026-10-14",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-19T21:47:00+09:00",
+          "registered_at": "2026-10-17",
           "views": null
         }
       ]
@@ -984,6 +999,11 @@
         {
           "scheduled_at": "2026-10-12T16:33:00+09:00",
           "registered_at": "2026-10-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-18T16:33:00+09:00",
+          "registered_at": "2026-10-17",
           "views": null
         }
       ]
@@ -2376,6 +2396,11 @@
           "scheduled_at": "2026-10-17T11:08:00+09:00",
           "registered_at": "2026-10-14",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-19T14:42:00+09:00",
+          "registered_at": "2026-10-17",
+          "views": null
         }
       ]
     },
@@ -2872,6 +2897,11 @@
           "scheduled_at": "2026-10-09T16:33:00+09:00",
           "registered_at": "2026-10-08",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-18T19:52:00+09:00",
+          "registered_at": "2026-10-17",
+          "views": null
         }
       ]
     },
@@ -3091,6 +3121,11 @@
         {
           "scheduled_at": "2026-10-16T19:52:00+09:00",
           "registered_at": "2026-10-14",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-18T14:42:00+09:00",
+          "registered_at": "2026-10-17",
           "views": null
         }
       ]
@@ -3765,6 +3800,66 @@
         {
           "scheduled_at": "2026-10-17T16:33:00+09:00",
           "registered_at": "2026-10-14",
+          "views": null
+        }
+      ]
+    },
+    "fookid_054172b3f8": {
+      "text": "男は「好きだった相手」と友達からやり直すなんてできないよ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-17",
+      "history": [
+        {
+          "scheduled_at": "2026-10-19T11:08:00+09:00",
+          "registered_at": "2026-10-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_678e59d95d": {
+      "text": "男にとって「重いくらい一途だった元カノ」はガチで特別だし、忘れられないんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-17",
+      "history": [
+        {
+          "scheduled_at": "2026-10-19T19:52:00+09:00",
+          "registered_at": "2026-10-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8db44b6589": {
+      "text": "冷却期間って、何日耐えたかじゃなくて追うのをやめられたかで決まるよ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-17",
+      "history": [
+        {
+          "scheduled_at": "2026-10-20T11:08:00+09:00",
+          "registered_at": "2026-10-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6f84d1e7ef": {
+      "text": "回避型の元彼は、気持ちが残ってるほど自分から連絡できなくなるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-17",
+      "history": [
+        {
+          "scheduled_at": "2026-10-20T16:33:00+09:00",
+          "registered_at": "2026-10-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f07dbc9966": {
+      "text": "復縁するために痩せる必要も、髪を変える必要もないよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-17",
+      "history": [
+        {
+          "scheduled_at": "2026-10-20T19:52:00+09:00",
+          "registered_at": "2026-10-17",
           "views": null
         }
       ]
