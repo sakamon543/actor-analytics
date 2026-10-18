@@ -44,6 +44,11 @@
           "scheduled_at": "2026-10-08T14:42:00+09:00",
           "registered_at": "2026-10-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-20T11:08:00+09:00",
+          "registered_at": "2026-10-18",
+          "views": null
         }
       ]
     },
@@ -426,6 +431,11 @@
           "scheduled_at": "2026-10-14T11:08:00+09:00",
           "registered_at": "2026-10-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-20T19:52:00+09:00",
+          "registered_at": "2026-10-18",
+          "views": null
         }
       ]
     },
@@ -791,6 +801,11 @@
           "scheduled_at": "2026-10-17T11:08:00+09:00",
           "registered_at": "2026-10-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-21T11:08:00+09:00",
+          "registered_at": "2026-10-18",
+          "views": null
         }
       ]
     },
@@ -1046,7 +1061,8 @@
         {
           "scheduled_at": "2026-06-29T11:08:00+09:00",
           "registered_at": "2026-06-28",
-          "views": null
+          "views": 28,
+          "posted_at": "2026-10-16T10:59:11.209+00:00"
         },
         {
           "scheduled_at": "2026-07-02T11:08:00+09:00",
@@ -1216,6 +1232,11 @@
         {
           "scheduled_at": "2026-10-16T19:52:00+09:00",
           "registered_at": "2026-10-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-19T19:52:00+09:00",
+          "registered_at": "2026-10-18",
           "views": null
         }
       ]
@@ -1569,6 +1590,11 @@
         {
           "scheduled_at": "2026-10-17T19:52:00+09:00",
           "registered_at": "2026-10-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-19T21:47:00+09:00",
+          "registered_at": "2026-10-18",
           "views": null
         }
       ]
@@ -3717,6 +3743,11 @@
         {
           "scheduled_at": "2026-10-16T16:33:00+09:00",
           "registered_at": "2026-10-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-19T16:33:00+09:00",
+          "registered_at": "2026-10-18",
           "views": null
         }
       ]
@@ -6415,6 +6446,78 @@
         {
           "scheduled_at": "2026-10-18T19:52:00+09:00",
           "registered_at": "2026-10-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_182da7788d": {
+      "text": "男が振った側の場合、ほぼ100％当てはまると思う。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-18",
+      "history": [
+        {
+          "scheduled_at": "2026-10-19T14:42:00+09:00",
+          "registered_at": "2026-10-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c5290d1231": {
+      "text": "「彼を変えれば復縁できる」って思想、聞いてきた元彼の話だと完全に逆なんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-18",
+      "history": [
+        {
+          "scheduled_at": "2026-10-20T14:42:00+09:00",
+          "registered_at": "2026-10-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e000f529a7": {
+      "text": "男の未読スルーは、嫌いになったサインじゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-18",
+      "history": [
+        {
+          "scheduled_at": "2026-10-20T21:47:00+09:00",
+          "registered_at": "2026-10-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_daf2372db8": {
+      "text": "「3週間動かない」が復縁の正解、これは例外なく効いた。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-18",
+      "history": [
+        {
+          "scheduled_at": "2026-10-21T14:42:00+09:00",
+          "registered_at": "2026-10-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4b41429f18": {
+      "text": "男は、「ブロックした＝もう無理」とは思っていない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-18",
+      "history": [
+        {
+          "scheduled_at": "2026-10-21T16:33:00+09:00",
+          "registered_at": "2026-10-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5a54d4ad11": {
+      "text": "振った男が「戻りたい」って思い出すまで、俺が聞いた限り平均55日だったんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-18",
+      "history": [
+        {
+          "scheduled_at": "2026-10-21T19:52:00+09:00",
+          "registered_at": "2026-10-18",
           "views": null
         }
       ]

@@ -173,8 +173,8 @@
       "first_seen_views": 5596,
       "first_seen_at": "2026-08-10T09:08:40.491+00:00",
       "status": "used",
-      "used_count": 2,
-      "last_used_at": "2026-09-15T09:21:42.993117+09:00",
+      "used_count": 3,
+      "last_used_at": "2026-10-18T09:14:14.228485+09:00",
       "sales_followed": true
     },
     "rcyc_89206f8e61": {
@@ -221,8 +221,8 @@
       "first_seen_views": 4421,
       "first_seen_at": "2026-08-18T05:46:28.052+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-08-28T09:26:42.841569+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-10-18T09:14:14.228485+09:00",
       "sales_followed": false
     },
     "rcyc_6240dbb05c": {
@@ -392,7 +392,18 @@
       "used_count": 1,
       "last_used_at": "2026-10-03T09:21:59.173192+09:00",
       "sales_followed": true
+    },
+    "rcyc_696881d60e": {
+      "recycle_id": "rcyc_696881d60e",
+      "text": "追わないより、消えない方が100倍効きます。元回避型の僕が言うんだから間違いないです。追うのをやめた瞬間に、きれいに姿を消してませんか。既読もつけない、ストーリーも見ない、誕生日もスルー。今あなたがやってるその『正しい冷却期間』が、彼の中であなたを過去にしてます。",
+      "thread": [],
+      "first_seen_views": 5466,
+      "first_seen_at": "2026-10-15T10:57:21.254+00:00",
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-10-18T09:14:14.228485+09:00",
+      "sales_followed": true
     }
   },
-  "updated_at": "2026-10-15T09:14:48.631106+09:00"
+  "updated_at": "2026-10-18T09:14:14.228485+09:00"
 }

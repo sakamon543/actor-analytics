@@ -2891,6 +2891,11 @@
           "scheduled_at": "2026-10-16T16:33:00+09:00",
           "registered_at": "2026-10-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-21T19:52:00+09:00",
+          "registered_at": "2026-10-18",
+          "views": null
         }
       ]
     },
@@ -4113,6 +4118,11 @@
           "scheduled_at": "2026-10-18T16:33:00+09:00",
           "registered_at": "2026-10-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-21T16:33:00+09:00",
+          "registered_at": "2026-10-18",
+          "views": null
         }
       ]
     },
@@ -4125,6 +4135,11 @@
           "scheduled_at": "2026-10-15T16:33:00+09:00",
           "registered_at": "2026-10-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-19T16:33:00+09:00",
+          "registered_at": "2026-10-18",
+          "views": null
         }
       ]
     },
@@ -4136,6 +4151,11 @@
         {
           "scheduled_at": "2026-10-16T19:52:00+09:00",
           "registered_at": "2026-10-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-19T21:47:00+09:00",
+          "registered_at": "2026-10-18",
           "views": null
         }
       ]
@@ -4161,6 +4181,11 @@
           "scheduled_at": "2026-10-17T11:08:00+09:00",
           "registered_at": "2026-10-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-21T11:08:00+09:00",
+          "registered_at": "2026-10-18",
+          "views": null
         }
       ]
     },
@@ -4185,6 +4210,11 @@
           "scheduled_at": "2026-10-18T11:08:00+09:00",
           "registered_at": "2026-10-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-20T11:08:00+09:00",
+          "registered_at": "2026-10-18",
+          "views": null
         }
       ]
     },
@@ -4196,6 +4226,42 @@
         {
           "scheduled_at": "2026-10-18T19:52:00+09:00",
           "registered_at": "2026-10-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ff7a934fa0": {
+      "text": "元カレのフォロワー数を毎日チェックして増えた人を特定するくらいのネトスト上級者でも、復縁は叶えられます。でも復縁が叶わない人には共通点があるんですよね。それは",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-18",
+      "history": [
+        {
+          "scheduled_at": "2026-10-19T19:52:00+09:00",
+          "registered_at": "2026-10-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_41535a17a0": {
+      "text": "復縁しやすい元カップルの共通点、これなんですよね\n・喧嘩より『すれ違い』で別れてる",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-18",
+      "history": [
+        {
+          "scheduled_at": "2026-10-20T19:52:00+09:00",
+          "registered_at": "2026-10-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8fe13f9b70": {
+      "text": "振った側の男だから言うけど、別れたあと元カノに変わってほしいと思ってたわけじゃない。\n・もっと優しくしてほしい",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-18",
+      "history": [
+        {
+          "scheduled_at": "2026-10-20T21:47:00+09:00",
+          "registered_at": "2026-10-18",
           "views": null
         }
       ]
