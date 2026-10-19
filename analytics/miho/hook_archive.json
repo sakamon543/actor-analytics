@@ -348,6 +348,11 @@
           "scheduled_at": "2026-10-18T11:08:00+09:00",
           "registered_at": "2026-10-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-22T14:42:00+09:00",
+          "registered_at": "2026-10-19",
+          "views": null
         }
       ]
     },
@@ -1403,7 +1408,8 @@
         {
           "scheduled_at": "2026-08-07T20:28:00+09:00",
           "registered_at": "2026-08-04",
-          "views": null
+          "views": 64,
+          "posted_at": "2026-10-16T12:51:30.424+00:00"
         },
         {
           "scheduled_at": "2026-08-19T16:33:00+09:00",
@@ -1443,6 +1449,11 @@
         {
           "scheduled_at": "2026-10-20T14:42:00+09:00",
           "registered_at": "2026-10-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-23T19:52:00+09:00",
+          "registered_at": "2026-10-19",
           "views": null
         }
       ]
@@ -3115,6 +3126,11 @@
           "scheduled_at": "2026-10-17T11:08:00+09:00",
           "registered_at": "2026-10-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-22T21:47:00+09:00",
+          "registered_at": "2026-10-19",
+          "views": null
         }
       ]
     },
@@ -3353,6 +3369,11 @@
           "scheduled_at": "2026-10-17T14:42:00+09:00",
           "registered_at": "2026-10-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-23T11:08:00+09:00",
+          "registered_at": "2026-10-19",
+          "views": null
         }
       ]
     },
@@ -3403,6 +3424,11 @@
         {
           "scheduled_at": "2026-10-17T19:52:00+09:00",
           "registered_at": "2026-10-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-24T16:33:00+09:00",
+          "registered_at": "2026-10-19",
           "views": null
         }
       ]
@@ -3483,6 +3509,11 @@
         {
           "scheduled_at": "2026-10-16T19:52:00+09:00",
           "registered_at": "2026-10-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-22T16:33:00+09:00",
+          "registered_at": "2026-10-19",
           "views": null
         }
       ]
@@ -3794,6 +3825,11 @@
           "scheduled_at": "2026-10-11T14:42:00+09:00",
           "registered_at": "2026-10-08",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-23T14:42:00+09:00",
+          "registered_at": "2026-10-19",
+          "views": null
         }
       ]
     },
@@ -4009,6 +4045,66 @@
         {
           "scheduled_at": "2026-10-21T19:52:00+09:00",
           "registered_at": "2026-10-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_004869a294": {
+      "text": "実は、彼から振られた方が復縁の確率はめちゃくちゃ高いです",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-19",
+      "history": [
+        {
+          "scheduled_at": "2026-10-22T19:52:00+09:00",
+          "registered_at": "2026-10-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_77fcbc03f9": {
+      "text": "復縁を目指してる方ならもう知ってると思いますが「振った側から戻ってくる」ってほぼ起きないんですよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-19",
+      "history": [
+        {
+          "scheduled_at": "2026-10-23T21:47:00+09:00",
+          "registered_at": "2026-10-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fabdcd7ec3": {
+      "text": "結局、復縁できる人って『期待を隠して彼と普通に話せる人』なんです",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-19",
+      "history": [
+        {
+          "scheduled_at": "2026-10-24T11:08:00+09:00",
+          "registered_at": "2026-10-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_01c9417a81": {
+      "text": "復縁にかかる期間は、待った月数では決まりません。動き方で決まります。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-19",
+      "history": [
+        {
+          "scheduled_at": "2026-10-24T14:42:00+09:00",
+          "registered_at": "2026-10-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_100fc53a7d": {
+      "text": "既読だけついて終わったと思ってる人、まだ諦めなくていいです。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-19",
+      "history": [
+        {
+          "scheduled_at": "2026-10-24T19:52:00+09:00",
+          "registered_at": "2026-10-19",
           "views": null
         }
       ]

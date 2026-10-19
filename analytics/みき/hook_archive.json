@@ -2290,6 +2290,11 @@
           "scheduled_at": "2026-08-20T19:52:00+09:00",
           "registered_at": "2026-08-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-20T16:33:00+09:00",
+          "registered_at": "2026-10-19",
+          "views": null
         }
       ]
     },
@@ -2326,6 +2331,11 @@
           "scheduled_at": "2026-08-21T14:42:00+09:00",
           "registered_at": "2026-08-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-20T21:47:00+09:00",
+          "registered_at": "2026-10-19",
+          "views": null
         }
       ]
     },
@@ -2337,6 +2347,11 @@
         {
           "scheduled_at": "2026-08-21T19:52:00+09:00",
           "registered_at": "2026-08-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-20T19:52:00+09:00",
+          "registered_at": "2026-10-19",
           "views": null
         }
       ]
@@ -2385,6 +2400,11 @@
         {
           "scheduled_at": "2026-08-22T19:52:00+09:00",
           "registered_at": "2026-08-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-22T11:08:00+09:00",
+          "registered_at": "2026-10-19",
           "views": null
         }
       ]
@@ -3363,11 +3383,17 @@
         {
           "scheduled_at": "2026-10-07T14:42:00+09:00",
           "registered_at": "2026-10-06",
-          "views": null
+          "views": 67,
+          "posted_at": "2026-10-15T10:58:46.772+00:00"
         },
         {
           "scheduled_at": "2026-10-15T19:52:00+09:00",
           "registered_at": "2026-10-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-21T19:52:00+09:00",
+          "registered_at": "2026-10-19",
           "views": null
         }
       ]
@@ -3699,6 +3725,90 @@
         {
           "scheduled_at": "2026-10-19T16:33:00+09:00",
           "registered_at": "2026-10-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6ff90fe337": {
+      "text": "後輩に「彼氏いないんですか？」って聞かれて「いないですよー」で流してる人、それ脈ありの探りを自分で潰してるんですよね",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-19",
+      "history": [
+        {
+          "scheduled_at": "2026-10-20T14:42:00+09:00",
+          "registered_at": "2026-10-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a03394fae0": {
+      "text": "年下の後輩が動かないのは、興味がないんじゃなくて「どうせ相手にされない」と思い込んでるからです",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-19",
+      "history": [
+        {
+          "scheduled_at": "2026-10-21T11:08:00+09:00",
+          "registered_at": "2026-10-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_05468a82a4": {
+      "text": "職場恋愛を隠して付き合ってる人は83.7%です。バレたらどうしようで動けないのは、数字を知らないだけなんですよね",
+      "structure_label": "数字型",
+      "first_used_at": "2026-10-19",
+      "history": [
+        {
+          "scheduled_at": "2026-10-21T14:42:00+09:00",
+          "registered_at": "2026-10-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8988f68bc5": {
+      "text": "職場のランチは大チャンスですけど、2人になりそうな時に「みんなで行きましょう」と他の人を巻き込むのは逆効果です",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-19",
+      "history": [
+        {
+          "scheduled_at": "2026-10-21T21:47:00+09:00",
+          "registered_at": "2026-10-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_32e2f54642": {
+      "text": "年下の後輩は、「先輩と仲がいい＝恋愛対象」とは思っていません",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-19",
+      "history": [
+        {
+          "scheduled_at": "2026-10-22T14:42:00+09:00",
+          "registered_at": "2026-10-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5b060dc4a7": {
+      "text": "年下の後輩に女として見られる人って、外見を磨いた人でも若く見せた人でもなくて「年齢の話を自分から出さない人」です",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-19",
+      "history": [
+        {
+          "scheduled_at": "2026-10-22T16:33:00+09:00",
+          "registered_at": "2026-10-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3fade83996": {
+      "text": "年下が年上に惹かれるのは、若さでも可愛さでもなくて一緒にいて肩の力が抜けることです",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-19",
+      "history": [
+        {
+          "scheduled_at": "2026-10-22T19:52:00+09:00",
+          "registered_at": "2026-10-19",
           "views": null
         }
       ]
