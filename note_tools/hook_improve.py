@@ -27,6 +27,7 @@ import json
 import os
 import random
 import re
+import difflib
 import subprocess
 import sys
 import time
@@ -122,6 +123,7 @@ RECYCLE_ONLY_PER_DAY = 4         # 回復運転中は1日4本に落とす（頻�
 
 # ===== 収集フック（x_scraperの実績フック・2026-07-05 阪本さん指示）=====
 # 「1〜2行目は実際に伸びた人間のフックをそのまま。本文はスキルで生成」。
+# ※2026-10-20〜 借りるのは冒頭1文だけ（hook_only）。本文の流用は禁止。
 # プールは全演者共通（materials/hook_pool_scraped.json）。x-to-threads の収集から push される。
 SCRAPED_POOL_PATH = "materials/hook_pool_scraped.json"
 SCRAPED_PER_DAY = 4              # 1日に使う収集フックの本数（プールが薄ければ自動で減る）
@@ -320,12 +322,15 @@ def select_recycle_items(pool, max_count):
     2026-07-31: 並び順を views 単独から「売上追随あり優先 → views」に変更（売れる文面を優先再投稿）。"""
     now = datetime.now(tz=JST)
     heads = blocked_heads()
+    sidx = scraped_index()
     ready = []
     for it in pool.get("items", {}).values():
         if it.get("used_count", 0) >= RECYCLE_MAX_USES:
             continue
         if is_blocked_text(it.get("text", ""), heads):
             continue   # ブロック収集元由来の文面は再投稿しない（2026-10-20）
+        if copy_ratio(it.get("text", ""), sidx) >= COPY_RATIO_LIMIT:
+            continue   # 他人の本文を写した過去ポストは再投稿しない（2026-10-20）
         last = it.get("last_used_at")
         if last:
             try:
@@ -634,6 +639,46 @@ def is_blocked_text(text, heads):
     return any(h in t for h in heads)
 
 
+# ===== 本文丸写し防止（2026-10-20 阪本さん指示：冒頭フックを借りるのはOK・本文まで写すのはNG）=====
+# first_lines は実質ポスト全文（中央値129字）が入っていて、それを一字一句使わせていたため
+# 本文の9割一致が出ていた（scraped由来1005本中 90%以上一致67本・70%以上356本）。
+# → AIに渡すのは冒頭1文だけにし、出力前に元ポストとの一致率で最終チェックする。
+HOOK_MAX_CHARS = 45        # 借りるのは冒頭1文（長い1文は読点で切る）
+COPY_RATIO_LIMIT = 0.5     # 投稿本文のこの割合以上が元ポストと一致したら落とす
+
+
+def hook_only(first_lines):
+    """収集フックから冒頭1文だけ取り出す。"""
+    line = next((l.strip() for l in (first_lines or "").split("\n") if l.strip()), "")
+    m = re.search(r"[。！？!?]", line)
+    if m and m.end() <= HOOK_MAX_CHARS:
+        return line[:m.end()]
+    if len(line) <= HOOK_MAX_CHARS:
+        return line
+    cut = line.rfind("、", 0, HOOK_MAX_CHARS)
+    return line[:cut + 1] if cut >= 15 else line[:HOOK_MAX_CHARS]
+
+
+def scraped_index(pool=None):
+    pool = pool or load_scraped_pool()
+    idx = {}
+    for h in pool.get("hooks", []):
+        fl = _norm_text(h.get("first_lines"))
+        if len(fl) >= 12:
+            idx.setdefault(fl[:12], []).append(fl)
+    return idx
+
+
+def copy_ratio(text, idx):
+    """投稿本文のうち、冒頭が同じ収集元ポストと一致している文字の割合（最大値）。"""
+    t = _norm_text(text)
+    best = 0.0
+    for src in idx.get(t[:12], []):
+        sm = difflib.SequenceMatcher(None, t, src, autojunk=False)
+        best = max(best, sum(b.size for b in sm.get_matching_blocks()) / max(1, len(t)))
+    return best
+
+
 def update_scraped_results(pool):
     """使用済みフックに「うちで使って伸びたか」の実測viewsを書き戻す（2026-07-31・阪本さん方針：
     使用済みかどうかではなく、使って伸びるかが大事。伸びた実績をプールに蓄積して横展開の判断に使う）。
@@ -882,7 +927,7 @@ def build_phase1_prompt(actor, account_info, target_research, eval_criteria,
         lines = []
         has_second = False
         for s in scraped_hooks:
-            fl = s.get("first_lines", "").replace("\n", "\\n")
+            fl = hook_only(s.get("first_lines", ""))   # 借りるのは冒頭1文だけ（2026-10-20）
             mark = " ★他アカ使用済み→口調リライト必須" if s.get("_second_use") else ""
             if s.get("_second_use"):
                 has_second = True
@@ -897,7 +942,7 @@ def build_phase1_prompt(actor, account_info, target_research, eval_criteria,
 ## 収集済み実績フック（実際にX/Threadsで伸びた人間のフック・最優先で使う）
 
 以下の {len(scraped_hooks)} 本は **hooks に全部含める**こと。ルール：
-- hook_text は**一字一句そのまま使う**（改行 \\n も保持。言い換え・要約・整形は一切禁止）{second_rule}
+- hook_text は**この1文を一字一句そのまま使う**（言い換え・要約・整形は禁止。この1文の後ろに元ポストの続きを想像して足すのも禁止＝本文はPhase2で演者自身の体験から書く）{second_rule}
 - **一人称・性別の検品（唯一の除外事由）**：フックの語り手の一人称・性別がこの演者のキャラと矛盾する場合
   （例：女性演者に「僕も元カノから〜」の男性語り）、そのフックは**採用せずスキップしてよい**。
   過去に女性アカへ男性一人称フックがそのまま出て信用を壊した事故があるため。
@@ -1683,9 +1728,11 @@ def run(actor, phase1_only=False, limit=None, reuse_phase1=False):
     # === 収集元ブロックの最終ガード（repost 等の経路で混ざった分も落とす・2026-10-20）===
     heads = blocked_heads(scraped_pool)
     n_before = len(posts)
-    posts = [p for p in posts if not is_blocked_text(p.get("text", ""), heads)]
+    sidx = scraped_index(scraped_pool)
+    posts = [p for p in posts if not is_blocked_text(p.get("text", ""), heads)
+             and copy_ratio(p.get("text", ""), sidx) < COPY_RATIO_LIMIT]
     if len(posts) < n_before:
-        print(f"  ✓ 収集元ブロック: {n_before - len(posts)}本を除外")
+        print(f"  ✓ 収集元ブロック・丸写し検査: {n_before - len(posts)}本を除外")
 
     # === Phase 3: 出力前検査（機械チェック→違反のみ修正→再NGはドロップ）===
     posts, _dropped = verify_and_fix_posts(actor, posts, account_info, analytics_dir)
