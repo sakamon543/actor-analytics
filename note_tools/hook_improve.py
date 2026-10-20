@@ -319,10 +319,13 @@ def select_recycle_items(pool, max_count):
     """クールダウン明け＆使用上限内のアイテムを選ぶ。
     2026-07-31: 並び順を views 単独から「売上追随あり優先 → views」に変更（売れる文面を優先再投稿）。"""
     now = datetime.now(tz=JST)
+    heads = blocked_heads()
     ready = []
     for it in pool.get("items", {}).values():
         if it.get("used_count", 0) >= RECYCLE_MAX_USES:
             continue
+        if is_blocked_text(it.get("text", ""), heads):
+            continue   # ブロック収集元由来の文面は再投稿しない（2026-10-20）
         last = it.get("last_used_at")
         if last:
             try:
@@ -609,6 +612,28 @@ def _norm_text(t):
     return re.sub(r"\s+", "", (t or ""))
 
 
+# ===== 収集元ブロック（2026-10-20 阪本さん指示：@reuni10v 本人からDMで「パクりやめて」）=====
+# この収集元のフックは新規採用しない＋その冒頭を含む過去ポスト（リサイクル・再投稿）も出さない。
+BLOCKED_SOURCE_HANDLES = {"reuni10v"}
+BLOCKED_HEAD_LEN = 15   # 元フック冒頭この字数が本文に含まれたらブロック（語尾リライト版も拾える長さ）
+
+
+def blocked_heads(pool=None):
+    pool = pool or load_scraped_pool()
+    heads = set()
+    for h in pool.get("hooks", []):
+        if (h.get("source_handle") or "").lstrip("@") in BLOCKED_SOURCE_HANDLES:
+            head = _norm_text(h.get("first_lines"))[:BLOCKED_HEAD_LEN]
+            if len(head) >= BLOCKED_HEAD_LEN:
+                heads.add(head)
+    return heads
+
+
+def is_blocked_text(text, heads):
+    t = _norm_text(text)
+    return any(h in t for h in heads)
+
+
 def update_scraped_results(pool):
     """使用済みフックに「うちで使って伸びたか」の実測viewsを書き戻す（2026-07-31・阪本さん方針：
     使用済みかどうかではなく、使って伸びるかが大事。伸びた実績をプールに蓄積して横展開の判断に使う）。
@@ -682,13 +707,13 @@ def hook_result_rank(h):
 ACTOR_SOURCE_PREF = {
     "あや":   {"hiro_kaihigata", "8_ludr7", "okoteruyo1", "u_ne_c"},          # 回避型元カレと復縁
     "うみこ": {"hiro_kaihigata", "8_ludr7", "okoteruyo1", "haru_motokare"},   # 回避型男の脳・音信不通
-    "ヒロ":   {"hiro_kaihigata", "reuni10v", "kei_zoon", "8_ludr7"},          # 元回避型男（男当事者）
+    "ヒロ":   {"hiro_kaihigata", "kei_zoon", "8_ludr7"},          # 元回避型男（男当事者）
     "かれん": {"karen_fukuen", "okoteruyo1", "nagikoi1", "LHubrig65806"},     # メンヘラ復縁（重い女でも復縁）
     "miho":   {"LHubrig65806", "ShannonRoe12187", "karen_fukuen", "pederson287"},  # 復縁否定派の彼と復縁
     "みさき": {"yr_uaz", "momo_fukuen", "kei_zoon", "haru_motokare"},         # 追わせる復縁（放置・惚れ直させる）
     "ハカセ": {"momo_fukuen", "yr_uaz", "haru_motokare", "MorganSuza12082"},  # 元カレ中毒の仕掛け人
-    "リクオウ": {"haru_motokare", "1o_yyb", "que_koi", "reuni10v"},           # 本能スイッチ（男心解説）
-    "ハクオウ": {"reuni10v", "que_koi", "kei_zoon", "1o_yyb"},                # 男性心理プロ（現状リサイクル専用機なので実質未使用）
+    "リクオウ": {"haru_motokare", "1o_yyb", "que_koi"},           # 本能スイッチ（男心解説）
+    "ハクオウ": {"que_koi", "kei_zoon", "1o_yyb"},                # 男性心理プロ（現状リサイクル専用機なので実質未使用）
 }
 
 
@@ -710,6 +735,8 @@ def select_scraped_hooks(pool, actor, max_count):
     for h in pool.get("hooks", []):
         if not (h.get("first_lines") or "").strip():
             continue
+        if (h.get("source_handle") or "").lstrip("@") in BLOCKED_SOURCE_HANDLES:
+            continue   # 収集元ブロック（2026-10-20）
         if h.get("hold"):
             continue   # 保留フラグ（TL産の売れない型など。2026-08-15 売上急落調査で導入）
         rank = hook_result_rank(h)
@@ -1652,6 +1679,13 @@ def run(actor, phase1_only=False, limit=None, reuse_phase1=False):
     if used_pool_ids:
         mark_scraped_used(scraped_pool, used_pool_ids, actor)
         print(f"  ✓ 収集フック {len(used_pool_ids)}本を使用済みマーク")
+
+    # === 収集元ブロックの最終ガード（repost 等の経路で混ざった分も落とす・2026-10-20）===
+    heads = blocked_heads(scraped_pool)
+    n_before = len(posts)
+    posts = [p for p in posts if not is_blocked_text(p.get("text", ""), heads)]
+    if len(posts) < n_before:
+        print(f"  ✓ 収集元ブロック: {n_before - len(posts)}本を除外")
 
     # === Phase 3: 出力前検査（機械チェック→違反のみ修正→再NGはドロップ）===
     posts, _dropped = verify_and_fix_posts(actor, posts, account_info, analytics_dir)
