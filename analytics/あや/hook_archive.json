@@ -40,6 +40,11 @@
           "scheduled_at": "2026-09-29T14:42:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-23T11:08:00+09:00",
+          "registered_at": "2026-10-20",
+          "views": null
         }
       ]
     },
@@ -294,6 +299,11 @@
           "scheduled_at": "2026-09-28T21:47:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-22T19:52:00+09:00",
+          "registered_at": "2026-10-20",
+          "views": null
         }
       ]
     },
@@ -511,6 +521,11 @@
           "scheduled_at": "2026-09-29T19:52:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-22T14:42:00+09:00",
+          "registered_at": "2026-10-20",
+          "views": null
         }
       ]
     },
@@ -657,6 +672,11 @@
         {
           "scheduled_at": "2026-09-28T16:33:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-22T11:08:00+09:00",
+          "registered_at": "2026-10-20",
           "views": null
         }
       ]
@@ -1478,6 +1498,11 @@
         {
           "scheduled_at": "2026-09-30T16:33:00+09:00",
           "registered_at": "2026-09-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-21T19:52:00+09:00",
+          "registered_at": "2026-10-20",
           "views": null
         }
       ]
@@ -3188,6 +3213,11 @@
           "scheduled_at": "2026-10-14T14:42:00+09:00",
           "registered_at": "2026-10-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-21T16:33:00+09:00",
+          "registered_at": "2026-10-20",
+          "views": null
         }
       ]
     },
@@ -3860,6 +3890,78 @@
         {
           "scheduled_at": "2026-10-20T19:52:00+09:00",
           "registered_at": "2026-10-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_66ffe98aeb": {
+      "text": "本当に別れ際に良いやつで終わろうとする男との復縁はめちゃくちゃ難しいし、その逆は復縁しやすいです。世の中的に一見脈アリほど復縁できないし、復縁できなさそうな状況ほど復縁できたりします。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-20",
+      "history": [
+        {
+          "scheduled_at": "2026-10-21T14:42:00+09:00",
+          "registered_at": "2026-10-20",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0726692574": {
+      "text": "「友達から始めればいつか戻れる」って言われてるけど、それは嘘",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-20",
+      "history": [
+        {
+          "scheduled_at": "2026-10-21T21:47:00+09:00",
+          "registered_at": "2026-10-20",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e3e1ea8ae3": {
+      "text": "男が復縁を決意する時、『好き』より圧倒的に動かすのが『焦り』",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-20",
+      "history": [
+        {
+          "scheduled_at": "2026-10-22T21:47:00+09:00",
+          "registered_at": "2026-10-20",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1314a91ea0": {
+      "text": "ブロックされても終わりじゃない。私も別れて3日で完全ブロックされて、朝までブロック画面を見ながら泣いてた。一生この人に連絡できないんだと本気で思った。でも回避型がブロックするのって、",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-20",
+      "history": [
+        {
+          "scheduled_at": "2026-10-23T14:42:00+09:00",
+          "registered_at": "2026-10-20",
+          "views": null
+        }
+      ]
+    },
+    "fookid_94d81c7b4c": {
+      "text": "復縁できるかどうかは、別れた後の女性側の行動次第だよ。男性心理をうまく使って、彼の未練や後悔を最大限引き出せるかどうかにかかってる。ここがうまい子はやっぱりみんな復縁できてるんだよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-20",
+      "history": [
+        {
+          "scheduled_at": "2026-10-23T16:33:00+09:00",
+          "registered_at": "2026-10-20",
+          "views": null
+        }
+      ]
+    },
+    "fookid_563caa297c": {
+      "text": "実は女性より男の方が復縁否定派は少ないんだよね。むしろ復縁肯定派は男の方が多くて、復縁カップルのほとんどは男側からのアプローチだったりする。復縁した彼も『別れて自由になれて良かった』って言ってた時期があったのに、結局先に動いたのは彼の方だった。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-20",
+      "history": [
+        {
+          "scheduled_at": "2026-10-23T19:52:00+09:00",
+          "registered_at": "2026-10-20",
           "views": null
         }
       ]

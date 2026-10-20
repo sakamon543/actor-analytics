@@ -764,7 +764,10 @@
       "likes": 998,
       "source": "https://x.com/u_ne_c/status/2109491049244786724",
       "source_handle": "u_ne_c",
-      "collected_at": "2026-10-20"
+      "collected_at": "2026-10-20",
+      "used_by": {
+        "あや": "2026-10-20"
+      }
     },
     {
       "pool_id": "hp_30449a4fee",
@@ -1623,7 +1626,11 @@
       "likes": 258,
       "source": "https://x.com/8_ludr7/status/2111810528809013713",
       "source_handle": "8_ludr7",
-      "collected_at": "2026-10-20"
+      "collected_at": "2026-10-20",
+      "used_by": {
+        "うみこ": "2026-10-20"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_2924acf021",
@@ -29721,5 +29728,5 @@
       "collected_at": "2026-09-14"
     }
   ],
-  "updated_at": "2026-10-20T01:18:16.865064+09:00"
+  "updated_at": "2026-10-20T09:18:04.517223+09:00"
 }
