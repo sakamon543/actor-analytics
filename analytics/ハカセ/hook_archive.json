@@ -1824,6 +1824,11 @@
           "scheduled_at": "2026-09-24T16:33:00+09:00",
           "registered_at": "2026-09-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-24T11:08:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
         }
       ]
     },
@@ -1919,6 +1924,11 @@
           "scheduled_at": "2026-10-18T11:08:00+09:00",
           "registered_at": "2026-10-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-22T19:52:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
         }
       ]
     },
@@ -1985,6 +1995,11 @@
         {
           "scheduled_at": "2026-10-16T21:47:00+09:00",
           "registered_at": "2026-10-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-23T11:08:00+09:00",
+          "registered_at": "2026-10-21",
           "views": null
         }
       ]
@@ -3748,6 +3763,11 @@
         {
           "scheduled_at": "2026-10-19T16:33:00+09:00",
           "registered_at": "2026-10-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-24T16:33:00+09:00",
+          "registered_at": "2026-10-21",
           "views": null
         }
       ]
@@ -6459,6 +6479,11 @@
           "scheduled_at": "2026-10-19T14:42:00+09:00",
           "registered_at": "2026-10-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-24T19:52:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
         }
       ]
     },
@@ -6518,6 +6543,90 @@
         {
           "scheduled_at": "2026-10-21T19:52:00+09:00",
           "registered_at": "2026-10-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5c9c38a881": {
+      "text": "男って本当に気持ちが冷めてたら、ちゃんと話し合いしてお互い納得して終わらせる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-21",
+      "history": [
+        {
+          "scheduled_at": "2026-10-22T14:42:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9d696a8e36": {
+      "text": "『友達からやり直すのが安全』はウソ",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-21",
+      "history": [
+        {
+          "scheduled_at": "2026-10-22T16:33:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bdd021bc91": {
+      "text": "男が最後に選ぶのは『安心感がある女性』より『向き合わないとやばいと思わせる女性』だよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-21",
+      "history": [
+        {
+          "scheduled_at": "2026-10-22T21:47:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dfc2339980": {
+      "text": "元カレに『もう気持ちない』って言われた子が、3週間で復縁した。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-21",
+      "history": [
+        {
+          "scheduled_at": "2026-10-23T14:42:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_94b6cdbe86": {
+      "text": "男は、『連絡が続いてる＝復縁に近づいてる』とは思っていない",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-21",
+      "history": [
+        {
+          "scheduled_at": "2026-10-23T19:52:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a013877b02": {
+      "text": "とりあえずご報告があります。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-10-21",
+      "history": [
+        {
+          "scheduled_at": "2026-10-23T21:47:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a4116d41d0": {
+      "text": "ご飯の準備してたら！",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-10-21",
+      "history": [
+        {
+          "scheduled_at": "2026-10-24T14:42:00+09:00",
+          "registered_at": "2026-10-21",
           "views": null
         }
       ]

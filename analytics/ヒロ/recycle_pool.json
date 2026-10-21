@@ -61,8 +61,8 @@
       "first_seen_views": 2797,
       "first_seen_at": "2026-06-13T02:13:05.39+00:00",
       "status": "used",
-      "used_count": 2,
-      "last_used_at": "2026-08-31T09:25:04.297294+09:00"
+      "used_count": 3,
+      "last_used_at": "2026-10-21T09:13:25.362126+09:00"
     },
     "rcyc_5a9d1a7969": {
       "recycle_id": "rcyc_5a9d1a7969",
@@ -186,8 +186,8 @@
       "first_seen_views": 11843,
       "first_seen_at": "2026-08-14T13:24:23.095+00:00",
       "status": "used",
-      "used_count": 2,
-      "last_used_at": "2026-09-18T09:19:42.041756+09:00",
+      "used_count": 3,
+      "last_used_at": "2026-10-21T09:13:25.362126+09:00",
       "sales_followed": true
     },
     "rcyc_8ba229d2b7": {
@@ -317,20 +317,20 @@
       "first_seen_views": 5885,
       "first_seen_at": "2026-09-13T07:39:08.327+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-09-18T09:19:42.041756+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-10-21T09:13:25.362126+09:00",
       "sales_followed": false
     },
     "rcyc_b979166d24": {
       "recycle_id": "rcyc_b979166d24",
       "text": "別れの原因が『男側のキャパオーバー』の場合、1番NGなのが『彼が落ち着くまで待つこと』なんですよね。こういう別れは、彼の気持ちが残ってるからこそ時間勝負。『完全に冷めたから別れる』とは全然違うので。余裕をなくした男が恋愛を手放すときって、彼女への恋愛感情に蓋してるだけなんですけど、その蓋って放っておくと勝手に外れるものじゃなくて、時間が経つほど『あのとき終わらせて正解だった』って自分の中で辻褄合わせが始まるんですよ。僕も別れた直後は、彼女のこと考えないようにしてたら本当に考えなくなってきて、自分でも怖かった。",
       "thread": [],
-      "first_seen_views": 5899,
+      "first_seen_views": 18096,
       "first_seen_at": "2026-09-16T07:38:55.717+00:00",
       "status": "used",
       "used_count": 1,
       "last_used_at": "2026-10-15T09:14:48.631106+09:00",
-      "sales_followed": false
+      "sales_followed": true
     },
     "rcyc_8bf21d8812": {
       "recycle_id": "rcyc_8bf21d8812",
@@ -405,5 +405,5 @@
       "sales_followed": true
     }
   },
-  "updated_at": "2026-10-18T09:14:14.228485+09:00"
+  "updated_at": "2026-10-21T09:13:25.362126+09:00"
 }

@@ -258,7 +258,16 @@
       "likes": 1045,
       "source": "https://x.com/momo_fukuen/status/2092799510183333900",
       "source_handle": "momo_fukuen",
-      "collected_at": "2026-09-02"
+      "collected_at": "2026-09-02",
+      "used_by": {
+        "ハカセ": "2026-10-21"
+      },
+      "results": {
+        "ハカセ": {
+          "views": 14,
+          "at": "2026-10-21"
+        }
+      }
     },
     {
       "pool_id": "hp_66c9c7aba7",
@@ -727,7 +736,11 @@
       "likes": 664,
       "source": "https://x.com/yr_uaz/status/1838512439329231141",
       "source_handle": "yr_uaz",
-      "collected_at": "2026-08-25"
+      "collected_at": "2026-08-25",
+      "used_by": {
+        "ハカセ": "2026-10-21"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_cf64b8cf49",
@@ -767,7 +780,8 @@
       "collected_at": "2026-10-20",
       "used_by": {
         "あや": "2026-10-20"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_30449a4fee",
@@ -974,7 +988,11 @@
       "likes": 249,
       "source": "https://x.com/yr_uaz/status/1832379349028503751",
       "source_handle": "yr_uaz",
-      "collected_at": "2026-08-25"
+      "collected_at": "2026-08-25",
+      "used_by": {
+        "ハカセ": "2026-10-21"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_9c7d27c271",
@@ -1042,7 +1060,11 @@
       "likes": 476,
       "source": "https://x.com/momo_fukuen/status/2090263801920720989",
       "source_handle": "momo_fukuen",
-      "collected_at": "2026-09-02"
+      "collected_at": "2026-09-02",
+      "used_by": {
+        "ハカセ": "2026-10-21"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_6dabde8ea7",
@@ -1355,7 +1377,11 @@
       "likes": 101,
       "source": "https://x.com/momo_fukuen/status/2101068496595464218",
       "source_handle": "momo_fukuen",
-      "collected_at": "2026-09-20"
+      "collected_at": "2026-09-20",
+      "used_by": {
+        "ハカセ": "2026-10-21"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_7bc673c184",
@@ -29728,5 +29754,5 @@
       "collected_at": "2026-09-14"
     }
   ],
-  "updated_at": "2026-10-21T01:13:35.908231+09:00"
+  "updated_at": "2026-10-21T09:21:43.030997+09:00"
 }

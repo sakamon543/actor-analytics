@@ -282,6 +282,11 @@
           "scheduled_at": "2026-10-20T19:52:00+09:00",
           "registered_at": "2026-10-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-22T14:42:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
         }
       ]
     },
@@ -445,6 +450,11 @@
         {
           "scheduled_at": "2026-10-19T19:52:00+09:00",
           "registered_at": "2026-10-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-22T21:47:00+09:00",
+          "registered_at": "2026-10-21",
           "views": null
         }
       ]
@@ -663,6 +673,11 @@
         {
           "scheduled_at": "2026-10-21T14:42:00+09:00",
           "registered_at": "2026-10-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-22T16:33:00+09:00",
+          "registered_at": "2026-10-21",
           "views": null
         }
       ]
@@ -1724,6 +1739,11 @@
           "scheduled_at": "2026-10-20T11:08:00+09:00",
           "registered_at": "2026-10-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-23T11:08:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
         }
       ]
     },
@@ -2324,6 +2344,11 @@
         {
           "scheduled_at": "2026-10-20T14:42:00+09:00",
           "registered_at": "2026-10-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-22T19:52:00+09:00",
+          "registered_at": "2026-10-21",
           "views": null
         }
       ]
@@ -3372,6 +3397,90 @@
         {
           "scheduled_at": "2026-10-21T19:52:00+09:00",
           "registered_at": "2026-10-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8c55cb7aa8": {
+      "text": "男は、あなただけを見ていません。俺は3年で100人以上会ってきて、そのほとんどを自分から切った側です。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-21",
+      "history": [
+        {
+          "scheduled_at": "2026-10-23T14:42:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3dc84fdac6": {
+      "text": "「私のどこがダメだったの」の答えを、切った側の男は持ってません。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-21",
+      "history": [
+        {
+          "scheduled_at": "2026-10-23T19:52:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e63497c706": {
+      "text": "「いい子だった」で切られる子が一番多い。悪いところがないのと、最後まで残るのは別です。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-21",
+      "history": [
+        {
+          "scheduled_at": "2026-10-23T21:47:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_18feedbe05": {
+      "text": "マチアプ3年で100人以上会って、そのほとんどを俺から切りました。切った基準は、あなたが今直そうとしてる所じゃないです。",
+      "structure_label": "経験者暴露型",
+      "first_used_at": "2026-10-21",
+      "history": [
+        {
+          "scheduled_at": "2026-10-24T11:08:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0a983f2f49": {
+      "text": "男は、あなただけを見ていません。俺は同時に3人〜5人と会っていて、全員に『また会おうね』と言ってました。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-21",
+      "history": [
+        {
+          "scheduled_at": "2026-10-24T14:42:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4fd04244e8": {
+      "text": "「2回目に誘われたら脈あり」はウソ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-21",
+      "history": [
+        {
+          "scheduled_at": "2026-10-24T16:33:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d152e53fd0": {
+      "text": "男は、「一番いい子」を探していません。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-21",
+      "history": [
+        {
+          "scheduled_at": "2026-10-24T19:52:00+09:00",
+          "registered_at": "2026-10-21",
           "views": null
         }
       ]

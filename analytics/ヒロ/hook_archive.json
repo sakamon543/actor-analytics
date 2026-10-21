@@ -517,6 +517,11 @@
           "scheduled_at": "2026-10-17T19:52:00+09:00",
           "registered_at": "2026-10-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-22T21:47:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
         }
       ]
     },
@@ -3519,8 +3524,8 @@
         {
           "scheduled_at": "2026-09-16T16:33:00+09:00",
           "registered_at": "2026-09-15",
-          "views": 5899,
-          "posted_at": "2026-09-16T07:38:55.717+00:00"
+          "views": 18096,
+          "posted_at": "2026-10-18T05:46:04.047+00:00"
         }
       ]
     },
@@ -4262,6 +4267,102 @@
         {
           "scheduled_at": "2026-10-20T21:47:00+09:00",
           "registered_at": "2026-10-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e758f111f6": {
+      "text": "男って「自分から振った恋」はずっと引きずります。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-21",
+      "history": [
+        {
+          "scheduled_at": "2026-10-22T16:33:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9186911e85": {
+      "text": "信じられないかもしれないけど、既読無視中でも男はLINE来ることを喜んでる。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-21",
+      "history": [
+        {
+          "scheduled_at": "2026-10-22T19:52:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_385348f32a": {
+      "text": "男が別れを切り出す時、実は「自分じゃ幸せにできない」って絶望してるケースがマジで多い。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-21",
+      "history": [
+        {
+          "scheduled_at": "2026-10-23T11:08:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d79755d7e9": {
+      "text": "連絡を絶った回避型の男ほど、実はまだ気持ちを引きずってます。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-21",
+      "history": [
+        {
+          "scheduled_at": "2026-10-23T19:52:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d7d322de3b": {
+      "text": "絶対に気をつけるべき、復縁を遠ざけてしまう行動って、マジでこれだけなんですよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-21",
+      "history": [
+        {
+          "scheduled_at": "2026-10-23T21:47:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a41bc46e03": {
+      "text": "男は本気で好きだった女性を忘れることはない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-21",
+      "history": [
+        {
+          "scheduled_at": "2026-10-24T11:08:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a10bd4102b": {
+      "text": "回避型との復縁は『彼が惚れた素直な自分』を取り戻すのが近道。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-21",
+      "history": [
+        {
+          "scheduled_at": "2026-10-24T16:33:00+09:00",
+          "registered_at": "2026-10-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8451d64342": {
+      "text": "男って本命への気持ちが大きくなりすぎると、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-21",
+      "history": [
+        {
+          "scheduled_at": "2026-10-24T19:52:00+09:00",
+          "registered_at": "2026-10-21",
           "views": null
         }
       ]
