@@ -353,6 +353,11 @@
           "scheduled_at": "2026-10-22T14:42:00+09:00",
           "registered_at": "2026-10-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-25T16:33:00+09:00",
+          "registered_at": "2026-10-22",
+          "views": null
         }
       ]
     },
@@ -1454,6 +1459,11 @@
         {
           "scheduled_at": "2026-10-23T19:52:00+09:00",
           "registered_at": "2026-10-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-26T21:47:00+09:00",
+          "registered_at": "2026-10-22",
           "views": null
         }
       ]
@@ -3131,6 +3141,11 @@
           "scheduled_at": "2026-10-22T21:47:00+09:00",
           "registered_at": "2026-10-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-27T19:52:00+09:00",
+          "registered_at": "2026-10-22",
+          "views": null
         }
       ]
     },
@@ -3374,6 +3389,11 @@
           "scheduled_at": "2026-10-23T11:08:00+09:00",
           "registered_at": "2026-10-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-25T21:47:00+09:00",
+          "registered_at": "2026-10-22",
+          "views": null
         }
       ]
     },
@@ -3429,6 +3449,11 @@
         {
           "scheduled_at": "2026-10-24T16:33:00+09:00",
           "registered_at": "2026-10-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-26T19:52:00+09:00",
+          "registered_at": "2026-10-22",
           "views": null
         }
       ]
@@ -4105,6 +4130,90 @@
         {
           "scheduled_at": "2026-10-24T19:52:00+09:00",
           "registered_at": "2026-10-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d6d62745ab": {
+      "text": "「もう無理」と言った男に、「やっぱりお前がいい」と言わせるのが復縁です。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-22",
+      "history": [
+        {
+          "scheduled_at": "2026-10-25T14:42:00+09:00",
+          "registered_at": "2026-10-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1b4164cfd1": {
+      "text": "振られちゃった後って「彼以上の人なんていない」ってめっちゃ思うよね。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-22",
+      "history": [
+        {
+          "scheduled_at": "2026-10-25T19:52:00+09:00",
+          "registered_at": "2026-10-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b76342ba04": {
+      "text": "復縁できる人とできない人の差は、運でも可愛さでもなくて「自分の不安をコントロールできたか」だけなんです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-22",
+      "history": [
+        {
+          "scheduled_at": "2026-10-26T11:08:00+09:00",
+          "registered_at": "2026-10-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dc4470e011": {
+      "text": "女性は別れてすぐに後悔の感情がピークに来るけど男は違って、最初に来る感情は解放感。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-22",
+      "history": [
+        {
+          "scheduled_at": "2026-10-26T14:42:00+09:00",
+          "registered_at": "2026-10-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5ab41bafda": {
+      "text": "男は、「別れを決めた＝気持ちが終わった」とは思っていない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-22",
+      "history": [
+        {
+          "scheduled_at": "2026-10-27T11:08:00+09:00",
+          "registered_at": "2026-10-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_07779431f9": {
+      "text": "元彼には一回「別れてよかった」と思わせておけばいい。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-22",
+      "history": [
+        {
+          "scheduled_at": "2026-10-27T14:42:00+09:00",
+          "registered_at": "2026-10-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_61b272cc7f": {
+      "text": "彼にブロックされて、もう終わったと思っていませんか。でもブロックは、拒絶の最終宣告ではありません。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-22",
+      "history": [
+        {
+          "scheduled_at": "2026-10-27T16:33:00+09:00",
+          "registered_at": "2026-10-22",
           "views": null
         }
       ]

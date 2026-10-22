@@ -277,6 +277,11 @@
           "scheduled_at": "2026-10-20T16:33:00+09:00",
           "registered_at": "2026-10-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-23T16:33:00+09:00",
+          "registered_at": "2026-10-22",
+          "views": null
         }
       ]
     },
@@ -567,6 +572,11 @@
           "scheduled_at": "2026-10-06T14:42:00+09:00",
           "registered_at": "2026-10-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-25T11:08:00+09:00",
+          "registered_at": "2026-10-22",
+          "views": null
         }
       ]
     },
@@ -696,6 +706,11 @@
           "scheduled_at": "2026-10-04T19:52:00+09:00",
           "registered_at": "2026-10-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-23T21:47:00+09:00",
+          "registered_at": "2026-10-22",
+          "views": null
         }
       ]
     },
@@ -762,6 +777,11 @@
           "scheduled_at": "2026-09-02T21:47:00+09:00",
           "registered_at": "2026-08-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-24T21:47:00+09:00",
+          "registered_at": "2026-10-22",
+          "views": null
         }
       ]
     },
@@ -817,7 +837,8 @@
         {
           "scheduled_at": "2026-08-10T22:17:00+09:00",
           "registered_at": "2026-08-07",
-          "views": null
+          "views": 81,
+          "posted_at": "2026-10-20T05:47:27.676+00:00"
         },
         {
           "scheduled_at": "2026-08-13T22:17:00+09:00",
@@ -1196,6 +1217,11 @@
           "scheduled_at": "2026-10-15T11:08:00+09:00",
           "registered_at": "2026-10-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-24T11:08:00+09:00",
+          "registered_at": "2026-10-22",
+          "views": null
         }
       ]
     },
@@ -1516,6 +1542,11 @@
           "scheduled_at": "2026-10-22T14:42:00+09:00",
           "registered_at": "2026-10-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-24T14:42:00+09:00",
+          "registered_at": "2026-10-22",
+          "views": null
         }
       ]
     },
@@ -1816,6 +1847,11 @@
         {
           "scheduled_at": "2026-10-21T21:47:00+09:00",
           "registered_at": "2026-10-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-24T19:52:00+09:00",
+          "registered_at": "2026-10-22",
           "views": null
         }
       ]
@@ -2566,6 +2602,11 @@
           "scheduled_at": "2026-10-21T11:08:00+09:00",
           "registered_at": "2026-10-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-23T19:52:00+09:00",
+          "registered_at": "2026-10-22",
+          "views": null
         }
       ]
     },
@@ -3116,6 +3157,42 @@
         {
           "scheduled_at": "2026-10-22T19:52:00+09:00",
           "registered_at": "2026-10-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b5305f6721": {
+      "text": "年下男子は、「頼れる年上=付き合いたい年上」とは思っていない",
+      "structure_label": "命題型（等式否定）",
+      "first_used_at": "2026-10-22",
+      "history": [
+        {
+          "scheduled_at": "2026-10-25T14:42:00+09:00",
+          "registered_at": "2026-10-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_309fb151a1": {
+      "text": "年下男子の脈は、わかりやすい言葉には出てきません。彼らは年上に軽く見られたくない意識がまず先に立つから、『好き』も『会いたい』も最後まで飲み込むんです。今のあなたが待ってる、はっきりした一言は、たぶんずっと来ないままだと思ってください。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-22",
+      "history": [
+        {
+          "scheduled_at": "2026-10-25T16:33:00+09:00",
+          "registered_at": "2026-10-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_11a6188bc8": {
+      "text": "年下男子の恋愛対象に入れない理由って「若くないから」とか「今の子の方が可愛いから」みたいな理由じゃないんです",
+      "structure_label": "常識否定型（誤解二択の否定）",
+      "first_used_at": "2026-10-22",
+      "history": [
+        {
+          "scheduled_at": "2026-10-25T19:52:00+09:00",
+          "registered_at": "2026-10-22",
           "views": null
         }
       ]

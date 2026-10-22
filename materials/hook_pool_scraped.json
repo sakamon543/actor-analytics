@@ -6932,7 +6932,10 @@
       "likes": 54,
       "source": "https://x.com/ShannonRoe12187/status/2096425998510412244",
       "source_handle": "ShannonRoe12187",
-      "collected_at": "2026-09-08"
+      "collected_at": "2026-09-08",
+      "used_by": {
+        "miho": "2026-10-22"
+      }
     },
     {
       "pool_id": "hp_ed782128a5",
@@ -6961,7 +6964,10 @@
       "likes": 110,
       "source": "https://x.com/ShannonRoe12187/status/2101617858199576790",
       "source_handle": "ShannonRoe12187",
-      "collected_at": "2026-09-22"
+      "collected_at": "2026-09-22",
+      "used_by": {
+        "miho": "2026-10-22"
+      }
     },
     {
       "pool_id": "hp_b956920ffd",
@@ -6979,7 +6985,10 @@
       "likes": 71,
       "source": "https://x.com/pederson287/status/2081290758271955268",
       "source_handle": "pederson287",
-      "collected_at": "2026-08-25"
+      "collected_at": "2026-08-25",
+      "used_by": {
+        "miho": "2026-10-22"
+      }
     },
     {
       "pool_id": "hp_b03f23cdb8",
@@ -6997,7 +7006,10 @@
       "likes": 154,
       "source": "https://x.com/ShannonRoe12187/status/2091734644240818323",
       "source_handle": "ShannonRoe12187",
-      "collected_at": "2026-08-25"
+      "collected_at": "2026-08-25",
+      "used_by": {
+        "miho": "2026-10-22"
+      }
     },
     {
       "pool_id": "hp_26e21bae1f",
@@ -29754,5 +29766,5 @@
       "collected_at": "2026-09-14"
     }
   ],
-  "updated_at": "2026-10-22T01:10:26.229107+09:00"
+  "updated_at": "2026-10-22T09:08:29.885617+09:00"
 }
