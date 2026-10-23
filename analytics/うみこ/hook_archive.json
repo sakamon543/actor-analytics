@@ -2125,6 +2125,11 @@
           "scheduled_at": "2026-10-22T21:47:00+09:00",
           "registered_at": "2026-10-20",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-26T16:33:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
         }
       ]
     },
@@ -2795,7 +2800,8 @@
         {
           "scheduled_at": "2026-06-30T14:42:00+09:00",
           "registered_at": "2026-06-28",
-          "views": null
+          "views": 710,
+          "posted_at": "2026-10-22T02:12:49.434+00:00"
         },
         {
           "scheduled_at": "2026-07-01T11:08:00+09:00",
@@ -5802,6 +5808,11 @@
           "scheduled_at": "2026-10-21T19:52:00+09:00",
           "registered_at": "2026-10-20",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-26T11:08:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
         }
       ]
     },
@@ -5904,6 +5915,11 @@
         {
           "scheduled_at": "2026-10-21T21:47:00+09:00",
           "registered_at": "2026-10-20",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-26T14:42:00+09:00",
+          "registered_at": "2026-10-23",
           "views": null
         }
       ]
@@ -7099,6 +7115,102 @@
         {
           "scheduled_at": "2026-10-23T19:52:00+09:00",
           "registered_at": "2026-10-20",
+          "views": null
+        }
+      ]
+    },
+    "fookid_47f8a22127": {
+      "text": "別れる時に『ちゃんと話し合いたい』と言って、まともに取り合ってもらえなかった人へ伝えたいのよ。",
+      "structure_label": "共感直撃型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-24T16:33:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0c8161272b": {
+      "text": "男は元カノに執着してるって話、女性はあまり信じないけどガチなのよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-24T19:52:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_febb376e8c": {
+      "text": "男にとって「一度本気で愛した元カノ」はマジで特別です。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-24T21:47:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7378bad38c": {
+      "text": "自分から別れを選んだのに「よりを戻したい」とお願いしたのは、",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-25T11:08:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6927a3fe1a": {
+      "text": "復縁しない男って完全にこれ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-25T14:42:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d80ae39d50": {
+      "text": "男が未練ゼロのときって、はっきりわかる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-25T19:52:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b8c361cdac": {
+      "text": "男が彼女を振るときってほぼ100%「キャパオーバー状態」なんです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-25T21:47:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f909274eda": {
+      "text": "復縁して一番長続きしてるのって、決まって「男が頭下げて戻ってきた」パターンなのよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-26T19:52:00+09:00",
+          "registered_at": "2026-10-23",
           "views": null
         }
       ]

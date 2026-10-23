@@ -980,6 +980,11 @@
           "scheduled_at": "2026-10-27T19:52:00+09:00",
           "registered_at": "2026-10-20",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-30T16:33:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
         }
       ]
     },
@@ -1500,6 +1505,11 @@
           "scheduled_at": "2026-10-28T14:42:00+09:00",
           "registered_at": "2026-10-20",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-31T14:42:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
         }
       ]
     },
@@ -1679,6 +1689,11 @@
         {
           "scheduled_at": "2026-10-27T14:42:00+09:00",
           "registered_at": "2026-10-20",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T11:08:00+09:00",
+          "registered_at": "2026-10-23",
           "views": null
         }
       ]
@@ -3957,6 +3972,114 @@
         {
           "scheduled_at": "2026-10-29T19:52:00+09:00",
           "registered_at": "2026-10-20",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6024661161": {
+      "text": "男が別れ際に言う「幸せになってね」は、あなたのために言ってる言葉じゃないです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-30T14:42:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6b3929eacd": {
+      "text": "復縁したいなら一度、「元彼が戻ってくる前提」で生活するのをやめた方がいいです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-30T19:52:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0fae341e67": {
+      "text": "自分から別れを切り出した男性って必死で「別れてよかったんだ」って思おうとするんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-30T21:47:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_37b31c0061": {
+      "text": "別れてから一度も連絡を取ってなくて、いきなり元彼から連絡がくるケースってほぼないと思う。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-31T11:08:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b7eded13be": {
+      "text": "別れた原因は全部自分にあった、と思って今も自分を責め続けている人へ。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-31T19:52:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f1a95f4864": {
+      "text": "復縁って、ある日突然「進展する」って言われますが、",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-31T21:47:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dbb8587968": {
+      "text": "復縁って焦らなくても実現する。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-11-01T14:42:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_433e1e015c": {
+      "text": "男性って本気で好きだった元カノほど、何年経っても絶対忘れないからね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-11-01T16:33:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2873f6d3fa": {
+      "text": "復縁して初めて気づいたこと。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-11-01T19:52:00+09:00",
+          "registered_at": "2026-10-23",
           "views": null
         }
       ]

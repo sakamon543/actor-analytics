@@ -819,6 +819,11 @@
           "scheduled_at": "2026-10-18T21:47:00+09:00",
           "registered_at": "2026-10-17",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-26T11:08:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
         }
       ]
     },
@@ -906,6 +911,11 @@
         {
           "scheduled_at": "2026-10-20T14:42:00+09:00",
           "registered_at": "2026-10-17",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-26T14:42:00+09:00",
+          "registered_at": "2026-10-23",
           "views": null
         }
       ]
@@ -1094,6 +1104,11 @@
         {
           "scheduled_at": "2026-10-06T16:33:00+09:00",
           "registered_at": "2026-10-03",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-26T16:33:00+09:00",
+          "registered_at": "2026-10-23",
           "views": null
         }
       ]
@@ -3962,6 +3977,114 @@
         {
           "scheduled_at": "2026-10-23T19:52:00+09:00",
           "registered_at": "2026-10-20",
+          "views": null
+        }
+      ]
+    },
+    "fookid_686de8a140": {
+      "text": "別れ際に『ちゃんと話し合いたい』って言って、まともに取り合ってもらえなかった人へ。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-24T14:42:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f59a25f51e": {
+      "text": "男が元カノに執着してるって話、女性はあまり信じないけどガチなんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-24T16:33:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c6efcf6052": {
+      "text": "男って本気で何も感じてない相手には『もういいや』で済ませるんだよね、",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-24T19:52:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6024661161": {
+      "text": "男が別れ際に言う「幸せになってね」は、あなたのために言ってる言葉じゃないです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-24T21:47:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6b3929eacd": {
+      "text": "復縁したいなら一度、「元彼が戻ってくる前提」で生活するのをやめた方がいいです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-25T11:08:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b7eded13be": {
+      "text": "別れた原因は全部自分にあった、と思って今も自分を責め続けている人へ。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-25T14:42:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fb9dcc9655": {
+      "text": "切るしかない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-25T19:52:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f1a95f4864": {
+      "text": "復縁って、ある日突然「進展する」って言われますが、",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-25T21:47:00+09:00",
+          "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8118b37f66": {
+      "text": "男にとって「重いくらい一途だった元カノ」はガチで特別だし忘れられないんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-23",
+      "history": [
+        {
+          "scheduled_at": "2026-10-26T19:52:00+09:00",
+          "registered_at": "2026-10-23",
           "views": null
         }
       ]
