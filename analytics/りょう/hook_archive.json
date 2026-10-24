@@ -287,6 +287,16 @@
           "scheduled_at": "2026-10-22T14:42:00+09:00",
           "registered_at": "2026-10-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-25T14:42:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-27T19:52:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
         }
       ]
     },
@@ -455,6 +465,11 @@
         {
           "scheduled_at": "2026-10-22T21:47:00+09:00",
           "registered_at": "2026-10-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-25T19:52:00+09:00",
+          "registered_at": "2026-10-24",
           "views": null
         }
       ]
@@ -678,6 +693,11 @@
         {
           "scheduled_at": "2026-10-22T16:33:00+09:00",
           "registered_at": "2026-10-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-25T16:33:00+09:00",
+          "registered_at": "2026-10-24",
           "views": null
         }
       ]
@@ -1744,6 +1764,16 @@
           "scheduled_at": "2026-10-23T11:08:00+09:00",
           "registered_at": "2026-10-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-25T21:47:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-27T14:42:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
         }
       ]
     },
@@ -2289,7 +2319,8 @@
         {
           "scheduled_at": "2026-08-24T21:47:00+09:00",
           "registered_at": "2026-08-22",
-          "views": null
+          "views": 27,
+          "posted_at": "2026-10-17T10:57:48.144+00:00"
         },
         {
           "scheduled_at": "2026-08-27T14:42:00+09:00",
@@ -2349,6 +2380,11 @@
         {
           "scheduled_at": "2026-10-22T19:52:00+09:00",
           "registered_at": "2026-10-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-26T11:08:00+09:00",
+          "registered_at": "2026-10-24",
           "views": null
         }
       ]
@@ -3314,6 +3350,11 @@
           "scheduled_at": "2026-10-18T11:08:00+09:00",
           "registered_at": "2026-10-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-27T11:08:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
         }
       ]
     },
@@ -3398,6 +3439,11 @@
           "scheduled_at": "2026-10-21T19:52:00+09:00",
           "registered_at": "2026-10-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-26T19:52:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
         }
       ]
     },
@@ -3481,6 +3527,42 @@
         {
           "scheduled_at": "2026-10-24T19:52:00+09:00",
           "registered_at": "2026-10-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e333a07bf2": {
+      "text": "男の「また会おうね」は、次があるサインじゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-24",
+      "history": [
+        {
+          "scheduled_at": "2026-10-26T14:42:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cab63b08c4": {
+      "text": "「また会おうね」と言った日の夜に、もう会わないと決めてました。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-24",
+      "history": [
+        {
+          "scheduled_at": "2026-10-26T21:47:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_82739c0b05": {
+      "text": "マチアプ3年で100人以上会って、そのほとんどを俺から切ってきた。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-24",
+      "history": [
+        {
+          "scheduled_at": "2026-10-27T16:33:00+09:00",
+          "registered_at": "2026-10-24",
           "views": null
         }
       ]

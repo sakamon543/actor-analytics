@@ -49,6 +49,11 @@
           "scheduled_at": "2026-10-20T11:08:00+09:00",
           "registered_at": "2026-10-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-25T21:47:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
         }
       ]
     },
@@ -806,6 +811,11 @@
           "scheduled_at": "2026-10-21T11:08:00+09:00",
           "registered_at": "2026-10-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-26T19:52:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
         }
       ]
     },
@@ -1238,6 +1248,11 @@
           "scheduled_at": "2026-10-19T19:52:00+09:00",
           "registered_at": "2026-10-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-25T19:52:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
         }
       ]
     },
@@ -1412,6 +1427,11 @@
         {
           "scheduled_at": "2026-10-17T14:42:00+09:00",
           "registered_at": "2026-10-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-26T21:47:00+09:00",
+          "registered_at": "2026-10-24",
           "views": null
         }
       ]
@@ -1928,6 +1948,11 @@
         {
           "scheduled_at": "2026-10-22T19:52:00+09:00",
           "registered_at": "2026-10-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-26T11:08:00+09:00",
+          "registered_at": "2026-10-24",
           "views": null
         }
       ]
@@ -3768,6 +3793,11 @@
         {
           "scheduled_at": "2026-10-24T16:33:00+09:00",
           "registered_at": "2026-10-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-25T14:42:00+09:00",
+          "registered_at": "2026-10-24",
           "views": null
         }
       ]
@@ -5726,6 +5756,11 @@
           "scheduled_at": "2026-09-08T19:52:00+09:00",
           "registered_at": "2026-09-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-27T14:42:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
         }
       ]
     },
@@ -6531,7 +6566,8 @@
         {
           "scheduled_at": "2026-10-21T16:33:00+09:00",
           "registered_at": "2026-10-18",
-          "views": null
+          "views": 22,
+          "posted_at": "2026-10-21T07:38:00.783+00:00"
         }
       ]
     },
@@ -6603,7 +6639,8 @@
         {
           "scheduled_at": "2026-10-23T19:52:00+09:00",
           "registered_at": "2026-10-21",
-          "views": null
+          "views": 1,
+          "posted_at": "2026-10-23T10:58:46.183+00:00"
         }
       ]
     },
@@ -6627,6 +6664,66 @@
         {
           "scheduled_at": "2026-10-24T14:42:00+09:00",
           "registered_at": "2026-10-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_03fed32e48": {
+      "text": "ぶっちゃけ『元カノに戻る男』と『もう二度と戻らない男』は、別れ方を見ればほぼわかる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-24",
+      "history": [
+        {
+          "scheduled_at": "2026-10-25T16:33:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_05b54bdb09": {
+      "text": "男が元カノを死ぬほど引きずるときって、女性側が確実にこれ仕掛けてる",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-24",
+      "history": [
+        {
+          "scheduled_at": "2026-10-26T14:42:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9c9f72a319": {
+      "text": "別れを告げられた日の、男の本心を話す。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-24",
+      "history": [
+        {
+          "scheduled_at": "2026-10-27T11:08:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6efc8c273f": {
+      "text": "元カレとの関係、一度ちゃんとリセットした方がいい時期がある。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-24",
+      "history": [
+        {
+          "scheduled_at": "2026-10-27T16:33:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_15320bdebb": {
+      "text": "男の既読スルーは、答えが出たサインじゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-24",
+      "history": [
+        {
+          "scheduled_at": "2026-10-27T19:52:00+09:00",
+          "registered_at": "2026-10-24",
           "views": null
         }
       ]

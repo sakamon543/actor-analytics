@@ -4280,6 +4280,11 @@
           "scheduled_at": "2026-10-22T16:33:00+09:00",
           "registered_at": "2026-10-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-26T21:47:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
         }
       ]
     },
@@ -4291,6 +4296,11 @@
         {
           "scheduled_at": "2026-10-22T19:52:00+09:00",
           "registered_at": "2026-10-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-25T21:47:00+09:00",
+          "registered_at": "2026-10-24",
           "views": null
         }
       ]
@@ -4316,6 +4326,11 @@
           "scheduled_at": "2026-10-23T19:52:00+09:00",
           "registered_at": "2026-10-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-26T19:52:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
         }
       ]
     },
@@ -4340,6 +4355,11 @@
           "scheduled_at": "2026-10-24T11:08:00+09:00",
           "registered_at": "2026-10-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-25T19:52:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
         }
       ]
     },
@@ -4352,6 +4372,11 @@
           "scheduled_at": "2026-10-24T16:33:00+09:00",
           "registered_at": "2026-10-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-27T11:08:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
         }
       ]
     },
@@ -4363,6 +4388,47 @@
         {
           "scheduled_at": "2026-10-24T19:52:00+09:00",
           "registered_at": "2026-10-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-27T16:33:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e154ddbb89": {
+      "text": "男って本気で何も感じてない相手には「もういいや」で済ませるんですけど、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-24",
+      "history": [
+        {
+          "scheduled_at": "2026-10-25T16:33:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f8d525a708": {
+      "text": "絶対に気をつけるべき、復縁を遠ざけてしまう行動ってマジでこれだけなんですよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-24",
+      "history": [
+        {
+          "scheduled_at": "2026-10-26T11:08:00+09:00",
+          "registered_at": "2026-10-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fb9dcc9655": {
+      "text": "切るしかない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-24",
+      "history": [
+        {
+          "scheduled_at": "2026-10-27T19:52:00+09:00",
+          "registered_at": "2026-10-24",
           "views": null
         }
       ]
