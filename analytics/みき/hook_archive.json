@@ -1907,6 +1907,11 @@
           "scheduled_at": "2026-10-23T19:52:00+09:00",
           "registered_at": "2026-10-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-26T19:52:00+09:00",
+          "registered_at": "2026-10-25",
+          "views": null
         }
       ]
     },
@@ -2009,6 +2014,11 @@
           "scheduled_at": "2026-10-23T16:33:00+09:00",
           "registered_at": "2026-10-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-26T16:33:00+09:00",
+          "registered_at": "2026-10-25",
+          "views": null
         }
       ]
     },
@@ -2072,6 +2082,11 @@
         {
           "scheduled_at": "2026-10-23T21:47:00+09:00",
           "registered_at": "2026-10-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-26T21:47:00+09:00",
+          "registered_at": "2026-10-25",
           "views": null
         }
       ]
@@ -2184,6 +2199,11 @@
           "scheduled_at": "2026-10-25T14:42:00+09:00",
           "registered_at": "2026-10-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-27T19:52:00+09:00",
+          "registered_at": "2026-10-25",
+          "views": null
         }
       ]
     },
@@ -2285,6 +2305,11 @@
         {
           "scheduled_at": "2026-09-25T16:33:00+09:00",
           "registered_at": "2026-09-24",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-26T14:42:00+09:00",
+          "registered_at": "2026-10-25",
           "views": null
         }
       ]
@@ -2575,6 +2600,11 @@
         {
           "scheduled_at": "2026-09-14T11:08:00+09:00",
           "registered_at": "2026-09-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-28T11:08:00+09:00",
+          "registered_at": "2026-10-25",
           "views": null
         }
       ]
@@ -2929,6 +2959,11 @@
         {
           "scheduled_at": "2026-10-23T14:42:00+09:00",
           "registered_at": "2026-10-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-27T14:42:00+09:00",
+          "registered_at": "2026-10-25",
           "views": null
         }
       ]
@@ -3904,6 +3939,66 @@
         {
           "scheduled_at": "2026-10-25T19:52:00+09:00",
           "registered_at": "2026-10-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ef13f6a50d": {
+      "text": "後輩の『先輩』呼びは、女扱いしてないサインじゃない",
+      "structure_label": "常識否定型（現象の再解釈）",
+      "first_used_at": "2026-10-25",
+      "history": [
+        {
+          "scheduled_at": "2026-10-27T11:08:00+09:00",
+          "registered_at": "2026-10-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_eb6d40a83b": {
+      "text": "年下が動かないとき『興味ない』より圧倒的に多いのが『どうせ相手にされない』",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-25",
+      "history": [
+        {
+          "scheduled_at": "2026-10-27T21:47:00+09:00",
+          "registered_at": "2026-10-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_40e2ee3deb": {
+      "text": "「職場恋愛はバレたら終わり」って思ってませんか。隠して付き合ってる人は83.7%です。",
+      "structure_label": "常識否定型＋数字型",
+      "first_used_at": "2026-10-25",
+      "history": [
+        {
+          "scheduled_at": "2026-10-28T14:42:00+09:00",
+          "registered_at": "2026-10-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a31b50c600": {
+      "text": "職場の飲み会で、彼の隣をキープして話しかけ続けるのは逆効果です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-25",
+      "history": [
+        {
+          "scheduled_at": "2026-10-28T16:33:00+09:00",
+          "registered_at": "2026-10-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bba7edc1ae": {
+      "text": "年下の後輩が年上に求めてるのは、若さじゃなくて安心感です。",
+      "structure_label": "命題型（二択否定）",
+      "first_used_at": "2026-10-25",
+      "history": [
+        {
+          "scheduled_at": "2026-10-28T19:52:00+09:00",
+          "registered_at": "2026-10-25",
           "views": null
         }
       ]

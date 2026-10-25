@@ -358,6 +358,11 @@
           "scheduled_at": "2026-10-25T16:33:00+09:00",
           "registered_at": "2026-10-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-28T16:33:00+09:00",
+          "registered_at": "2026-10-25",
+          "views": null
         }
       ]
     },
@@ -1465,6 +1470,11 @@
           "scheduled_at": "2026-10-26T21:47:00+09:00",
           "registered_at": "2026-10-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-29T21:47:00+09:00",
+          "registered_at": "2026-10-25",
+          "views": null
         }
       ]
     },
@@ -2401,6 +2411,11 @@
           "scheduled_at": "2026-08-27T14:42:00+09:00",
           "registered_at": "2026-08-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-30T11:08:00+09:00",
+          "registered_at": "2026-10-25",
+          "views": null
         }
       ]
     },
@@ -2621,6 +2636,11 @@
         {
           "scheduled_at": "2026-09-03T19:52:00+09:00",
           "registered_at": "2026-08-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-30T19:52:00+09:00",
+          "registered_at": "2026-10-25",
           "views": null
         }
       ]
@@ -3394,6 +3414,11 @@
           "scheduled_at": "2026-10-25T21:47:00+09:00",
           "registered_at": "2026-10-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-30T14:42:00+09:00",
+          "registered_at": "2026-10-25",
+          "views": null
         }
       ]
     },
@@ -3540,6 +3565,11 @@
           "scheduled_at": "2026-10-22T16:33:00+09:00",
           "registered_at": "2026-10-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-29T14:42:00+09:00",
+          "registered_at": "2026-10-25",
+          "views": null
         }
       ]
     },
@@ -3664,6 +3694,11 @@
         {
           "scheduled_at": "2026-10-15T11:08:00+09:00",
           "registered_at": "2026-10-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-28T21:47:00+09:00",
+          "registered_at": "2026-10-25",
           "views": null
         }
       ]
@@ -4214,6 +4249,66 @@
         {
           "scheduled_at": "2026-10-27T16:33:00+09:00",
           "registered_at": "2026-10-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_05f10703eb": {
+      "text": "復縁で一番もったいないのは「追わない女になろう」として、ただ彼からの連絡を待つこと。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-25",
+      "history": [
+        {
+          "scheduled_at": "2026-10-28T14:42:00+09:00",
+          "registered_at": "2026-10-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_61a4a3862d": {
+      "text": "これ私の周りの復縁経験者も本当に同じ！",
+      "structure_label": "共感同調型",
+      "first_used_at": "2026-10-25",
+      "history": [
+        {
+          "scheduled_at": "2026-10-28T19:52:00+09:00",
+          "registered_at": "2026-10-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_684e234e57": {
+      "text": "「これ以上関わるとまたしんどくなる」って警戒してた部分も大きかったんだと思います。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-25",
+      "history": [
+        {
+          "scheduled_at": "2026-10-29T11:08:00+09:00",
+          "registered_at": "2026-10-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f847b4af86": {
+      "text": "これ彼も似たようなこと言ってたし本当にそうだと思う！",
+      "structure_label": "共感同調型",
+      "first_used_at": "2026-10-25",
+      "history": [
+        {
+          "scheduled_at": "2026-10-29T19:52:00+09:00",
+          "registered_at": "2026-10-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_22c828a3af": {
+      "text": "回避型は自分を守るために別れを選ぶから、振った瞬間から後悔が始まるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-25",
+      "history": [
+        {
+          "scheduled_at": "2026-10-30T16:33:00+09:00",
+          "registered_at": "2026-10-25",
           "views": null
         }
       ]
