@@ -985,6 +985,11 @@
           "scheduled_at": "2026-10-30T16:33:00+09:00",
           "registered_at": "2026-10-23",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-02T16:33:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
         }
       ]
     },
@@ -1105,6 +1110,11 @@
         {
           "scheduled_at": "2026-10-27T21:47:00+09:00",
           "registered_at": "2026-10-20",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-02T21:47:00+09:00",
+          "registered_at": "2026-10-26",
           "views": null
         }
       ]
@@ -1694,6 +1704,11 @@
         {
           "scheduled_at": "2026-11-01T11:08:00+09:00",
           "registered_at": "2026-10-23",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-03T19:52:00+09:00",
+          "registered_at": "2026-10-26",
           "views": null
         }
       ]
@@ -3063,6 +3078,11 @@
           "scheduled_at": "2026-10-20T11:08:00+09:00",
           "registered_at": "2026-10-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-04T19:52:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
         }
       ]
     },
@@ -4080,6 +4100,95 @@
         {
           "scheduled_at": "2026-11-01T19:52:00+09:00",
           "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5a86b0d81c": {
+      "text": "「彼はもう私のことなんて、とっくに忘れてるんだろうな」と思ってる人へ。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-26",
+      "history": [
+        {
+          "scheduled_at": "2026-11-02T14:42:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2e8f662fa3": {
+      "text": "元彼から「友達ならいいよ」と言われても、そこで友達になりきらない方がいいです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-26",
+      "history": [
+        {
+          "scheduled_at": "2026-11-02T19:52:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9a16515ed0": {
+      "text": "復縁してからの方がラブラブになるカップルって意外と多いよね。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-26",
+      "history": [
+        {
+          "scheduled_at": "2026-11-03T11:08:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ba20af7ca5": {
+      "text": "これ知らないとほんとにドツボにはまって、",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-26",
+      "history": [
+        {
+          "scheduled_at": "2026-11-03T14:42:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-04T16:33:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_48e9a7efb8": {
+      "text": "「距離を置こう」と言われた人へ。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-26",
+      "history": [
+        {
+          "scheduled_at": "2026-11-03T21:47:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_aa8299d84b": {
+      "text": "私たちもこれに当てはまったからこそ一度離れたけど戻れたしかも、",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-10-26",
+      "history": [
+        {
+          "scheduled_at": "2026-11-04T11:08:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_78dab87919": {
+      "text": "復縁できる人とできない人の違いって、可愛さでも連絡を我慢できた期間でもないんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-26",
+      "history": [
+        {
+          "scheduled_at": "2026-11-04T14:42:00+09:00",
+          "registered_at": "2026-10-26",
           "views": null
         }
       ]

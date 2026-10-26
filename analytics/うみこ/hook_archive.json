@@ -684,7 +684,8 @@
         {
           "scheduled_at": "2026-06-03T19:17:00+09:00",
           "registered_at": "2026-06-02",
-          "views": null
+          "views": 27,
+          "posted_at": "2026-10-19T05:46:49.796+00:00"
         },
         {
           "scheduled_at": "2026-06-05T19:17:00+09:00",
@@ -2259,6 +2260,11 @@
         {
           "scheduled_at": "2026-10-22T19:52:00+09:00",
           "registered_at": "2026-10-20",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-28T21:47:00+09:00",
+          "registered_at": "2026-10-26",
           "views": null
         }
       ]
@@ -5813,6 +5819,11 @@
           "scheduled_at": "2026-10-26T11:08:00+09:00",
           "registered_at": "2026-10-23",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-28T19:52:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
         }
       ]
     },
@@ -5920,6 +5931,11 @@
         {
           "scheduled_at": "2026-10-26T14:42:00+09:00",
           "registered_at": "2026-10-23",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-27T21:47:00+09:00",
+          "registered_at": "2026-10-26",
           "views": null
         }
       ]
@@ -6902,6 +6918,11 @@
           "scheduled_at": "2026-09-30T16:33:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-29T14:42:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
         }
       ]
     },
@@ -7140,6 +7161,11 @@
           "scheduled_at": "2026-10-24T19:52:00+09:00",
           "registered_at": "2026-10-23",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-27T19:52:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
         }
       ]
     },
@@ -7187,7 +7213,8 @@
         {
           "scheduled_at": "2026-10-25T19:52:00+09:00",
           "registered_at": "2026-10-23",
-          "views": null
+          "views": 6065,
+          "posted_at": "2026-10-25T10:59:30.69+00:00"
         }
       ]
     },
@@ -7211,6 +7238,66 @@
         {
           "scheduled_at": "2026-10-26T19:52:00+09:00",
           "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_feadbb7812": {
+      "text": "別れる時に『ちゃんと話し合いたい』って言って、まともに取り合ってもらえなかった人へ。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-26",
+      "history": [
+        {
+          "scheduled_at": "2026-10-27T16:33:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_217956e278": {
+      "text": "実は男って、彼女が好きでも「この関係を続けるのがしんどい」が勝った瞬間、別れを選びます。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-26",
+      "history": [
+        {
+          "scheduled_at": "2026-10-28T11:08:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1ce5a01736": {
+      "text": "男が別れた後に「手放さなきゃよかった」と後悔する女性には共通点があります。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-26",
+      "history": [
+        {
+          "scheduled_at": "2026-10-29T11:08:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e3840173d0": {
+      "text": "復縁しやすいのは圧倒的に前者ですね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-26",
+      "history": [
+        {
+          "scheduled_at": "2026-10-29T16:33:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d9e5b93222": {
+      "text": "男は『好きだった相手』と友達みたいな関係には簡単に戻れないのよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-26",
+      "history": [
+        {
+          "scheduled_at": "2026-10-29T19:52:00+09:00",
+          "registered_at": "2026-10-26",
           "views": null
         }
       ]

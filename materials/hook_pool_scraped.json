@@ -7116,7 +7116,8 @@
       "collected_at": "2026-08-25",
       "used_by": {
         "miho": "2026-10-25"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_5b97d5983c",
@@ -7675,7 +7676,8 @@
       "collected_at": "2026-09-08",
       "used_by": {
         "miho": "2026-10-25"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_375861a3ce",
@@ -7732,7 +7734,8 @@
       "collected_at": "2026-08-25",
       "used_by": {
         "miho": "2026-10-25"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_dfa2cb57ba",
@@ -12010,7 +12013,10 @@
       "likes": 60,
       "source": "https://x.com/nagikoi1/status/2107058429647057062",
       "source_handle": "nagikoi1",
-      "collected_at": "2026-10-06"
+      "collected_at": "2026-10-06",
+      "used_by": {
+        "かれん": "2026-10-26"
+      }
     },
     {
       "pool_id": "hp_3902ed2a76",
@@ -12260,7 +12266,10 @@
       "likes": 54,
       "source": "https://x.com/okoteruyo1/status/2099834459193549094",
       "source_handle": "okoteruyo1",
-      "collected_at": "2026-09-18"
+      "collected_at": "2026-09-18",
+      "used_by": {
+        "かれん": "2026-10-26"
+      }
     },
     {
       "pool_id": "hp_2415597ec5",
@@ -12759,7 +12768,10 @@
       "likes": 19,
       "source": "https://x.com/okoteruyo1/status/2091535538235052041",
       "source_handle": "okoteruyo1",
-      "collected_at": "2026-09-08"
+      "collected_at": "2026-09-08",
+      "used_by": {
+        "かれん": "2026-10-26"
+      }
     },
     {
       "pool_id": "hp_4344b25a68",
@@ -12914,7 +12926,10 @@
       "likes": 23,
       "source": "https://x.com/nagikoi1/status/2101920691109122531",
       "source_handle": "nagikoi1",
-      "collected_at": "2026-09-22"
+      "collected_at": "2026-09-22",
+      "used_by": {
+        "かれん": "2026-10-26"
+      }
     },
     {
       "pool_id": "hp_2cb7b47a1b",
@@ -13049,7 +13064,10 @@
       "likes": 17,
       "source": "https://x.com/nagikoi1/status/2095115534388089253",
       "source_handle": "nagikoi1",
-      "collected_at": "2026-09-12"
+      "collected_at": "2026-09-12",
+      "used_by": {
+        "かれん": "2026-10-26"
+      }
     },
     {
       "pool_id": "hp_f7a1a3cdde",
@@ -13107,7 +13125,10 @@
       "likes": 43,
       "source": "https://x.com/okoteruyo1/status/2100066830807359781",
       "source_handle": "okoteruyo1",
-      "collected_at": "2026-09-18"
+      "collected_at": "2026-09-18",
+      "used_by": {
+        "かれん": "2026-10-26"
+      }
     },
     {
       "pool_id": "hp_80b8ab86d0",
@@ -13148,7 +13169,10 @@
       "likes": 17,
       "source": "https://x.com/nagikoi1/status/2095115534388089253",
       "source_handle": "nagikoi1",
-      "collected_at": "2026-09-09"
+      "collected_at": "2026-09-09",
+      "used_by": {
+        "かれん": "2026-10-26"
+      }
     },
     {
       "pool_id": "hp_e9ec429179",
@@ -29867,5 +29891,5 @@
       "collected_at": "2026-09-14"
     }
   ],
-  "updated_at": "2026-10-26T01:10:25.899705+09:00"
+  "updated_at": "2026-10-26T09:25:03.735456+09:00"
 }

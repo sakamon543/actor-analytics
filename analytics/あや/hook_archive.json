@@ -824,6 +824,11 @@
           "scheduled_at": "2026-10-26T11:08:00+09:00",
           "registered_at": "2026-10-23",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-29T11:08:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
         }
       ]
     },
@@ -916,6 +921,11 @@
         {
           "scheduled_at": "2026-10-26T14:42:00+09:00",
           "registered_at": "2026-10-23",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-29T14:42:00+09:00",
+          "registered_at": "2026-10-26",
           "views": null
         }
       ]
@@ -2994,6 +3004,11 @@
           "scheduled_at": "2026-09-26T21:47:00+09:00",
           "registered_at": "2026-09-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-29T16:33:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
         }
       ]
     },
@@ -4085,6 +4100,114 @@
         {
           "scheduled_at": "2026-10-26T19:52:00+09:00",
           "registered_at": "2026-10-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_feadbb7812": {
+      "text": "別れる時に『ちゃんと話し合いたい』って言って、まともに取り合ってもらえなかった人へ。",
+      "structure_label": "呼びかけ型（当事者名指し）",
+      "first_used_at": "2026-10-26",
+      "history": [
+        {
+          "scheduled_at": "2026-10-27T14:42:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_53fc9e07b2": {
+      "text": "男は元カノに執着してるって話、女性はあまり信じないけどガチだったりする。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-26",
+      "history": [
+        {
+          "scheduled_at": "2026-10-27T16:33:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d983c84557": {
+      "text": "男って本気で何も感じてない相手には『もういいや』で済ませるんだけど、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-26",
+      "history": [
+        {
+          "scheduled_at": "2026-10-27T19:52:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a2bec272fa": {
+      "text": "男が別れ際に言う『幸せになってね』は、あなたのために言ってる言葉じゃないよ。",
+      "structure_label": "常識否定型（セリフの本当の意味）",
+      "first_used_at": "2026-10-26",
+      "history": [
+        {
+          "scheduled_at": "2026-10-27T21:47:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_087ab624da": {
+      "text": "復縁したいなら一度、『元彼が戻ってくる前提』で生活するのをやめた方がいいよ。",
+      "structure_label": "命題型（行動の否定）",
+      "first_used_at": "2026-10-26",
+      "history": [
+        {
+          "scheduled_at": "2026-10-28T11:08:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2123e92164": {
+      "text": "別れた原因は全部自分にあった、って思って今も自分を責め続けてる人へ。",
+      "structure_label": "呼びかけ型（当事者名指し）",
+      "first_used_at": "2026-10-26",
+      "history": [
+        {
+          "scheduled_at": "2026-10-28T14:42:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f467caf3b9": {
+      "text": "復縁って、ある日突然『進展する』って言われるけど、",
+      "structure_label": "常識検証型",
+      "first_used_at": "2026-10-26",
+      "history": [
+        {
+          "scheduled_at": "2026-10-28T19:52:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_98937fddd8": {
+      "text": "復縁って焦らなくても実現するんだよね。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-26",
+      "history": [
+        {
+          "scheduled_at": "2026-10-28T21:47:00+09:00",
+          "registered_at": "2026-10-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1903f50bda": {
+      "text": "彼から全然連絡が来ないからって、気持ちが残ってない証拠にはならないよ。",
+      "structure_label": "常識否定型（沈黙の解釈）",
+      "first_used_at": "2026-10-26",
+      "history": [
+        {
+          "scheduled_at": "2026-10-29T19:52:00+09:00",
+          "registered_at": "2026-10-26",
           "views": null
         }
       ]
