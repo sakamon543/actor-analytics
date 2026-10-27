@@ -19,8 +19,8 @@
       "first_seen_views": 2194,
       "first_seen_at": "2026-05-31T05:11:33.574+00:00",
       "status": "used",
-      "used_count": 2,
-      "last_used_at": "2026-09-12T09:20:39.607340+09:00"
+      "used_count": 3,
+      "last_used_at": "2026-10-27T09:14:08.563955+09:00"
     },
     "rcyc_2c1f6e4f81": {
       "recycle_id": "rcyc_2c1f6e4f81",
@@ -403,7 +403,18 @@
       "used_count": 1,
       "last_used_at": "2026-10-18T09:14:14.228485+09:00",
       "sales_followed": true
+    },
+    "rcyc_d8edc414c1": {
+      "recycle_id": "rcyc_d8edc414c1",
+      "text": "追われると逃げたくなるのに、ほんとに消えられると死ぬほど焦る。回避型ってそういう面倒な生き物です。",
+      "thread": [],
+      "first_seen_views": 2407,
+      "first_seen_at": "2026-10-22T02:13:56.147+00:00",
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-10-27T09:14:08.563955+09:00",
+      "sales_followed": true
     }
   },
-  "updated_at": "2026-10-24T09:14:34.449881+09:00"
+  "updated_at": "2026-10-27T09:14:08.563955+09:00"
 }

@@ -4314,6 +4314,11 @@
           "scheduled_at": "2026-10-23T11:08:00+09:00",
           "registered_at": "2026-10-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-29T11:08:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
         }
       ]
     },
@@ -4342,6 +4347,11 @@
         {
           "scheduled_at": "2026-10-23T21:47:00+09:00",
           "registered_at": "2026-10-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-28T19:52:00+09:00",
+          "registered_at": "2026-10-27",
           "views": null
         }
       ]
@@ -4429,6 +4439,102 @@
         {
           "scheduled_at": "2026-10-27T19:52:00+09:00",
           "registered_at": "2026-10-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a9301f546c": {
+      "text": "男って、本気で何も感じてない相手には『もういいや』で済ませるんですよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-27",
+      "history": [
+        {
+          "scheduled_at": "2026-10-28T16:33:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_15935ff09a": {
+      "text": "思い込む必要はない。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-27",
+      "history": [
+        {
+          "scheduled_at": "2026-10-28T21:47:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b6fd63a9b7": {
+      "text": "一度振られても、回避型の男が戻るかどうかは『本音を理解してもらえたか』で決まります。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-27",
+      "history": [
+        {
+          "scheduled_at": "2026-10-29T19:52:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2b0575c61e": {
+      "text": "「追いすぎて嫌われたんだ…」って思ってる人は待ってほしい。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-27",
+      "history": [
+        {
+          "scheduled_at": "2026-10-29T21:47:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f3d0716e17": {
+      "text": "元彼に他の女がいるかもと思ってる人は、",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-27",
+      "history": [
+        {
+          "scheduled_at": "2026-10-30T11:08:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f15e4d658b": {
+      "text": "元彼の突然の無視や別れって、女性側からすると理不尽すぎて傷つく。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-27",
+      "history": [
+        {
+          "scheduled_at": "2026-10-30T14:42:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ec93e5afd5": {
+      "text": "リアルな話、連絡を断った側の方が連絡したい衝動と毎日戦ってる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-27",
+      "history": [
+        {
+          "scheduled_at": "2026-10-30T16:33:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_66c7373257": {
+      "text": "元彼から連絡来ないって人聞いて。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-27",
+      "history": [
+        {
+          "scheduled_at": "2026-10-30T19:52:00+09:00",
+          "registered_at": "2026-10-27",
           "views": null
         }
       ]

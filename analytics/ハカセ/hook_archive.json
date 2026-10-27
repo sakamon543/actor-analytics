@@ -177,6 +177,11 @@
           "scheduled_at": "2026-10-17T21:47:00+09:00",
           "registered_at": "2026-10-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-30T14:42:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
         }
       ]
     },
@@ -816,6 +821,11 @@
           "scheduled_at": "2026-10-26T19:52:00+09:00",
           "registered_at": "2026-10-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-29T14:42:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
         }
       ]
     },
@@ -1253,6 +1263,11 @@
           "scheduled_at": "2026-10-25T19:52:00+09:00",
           "registered_at": "2026-10-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-28T19:52:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
         }
       ]
     },
@@ -1432,6 +1447,11 @@
         {
           "scheduled_at": "2026-10-26T21:47:00+09:00",
           "registered_at": "2026-10-24",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-29T19:52:00+09:00",
+          "registered_at": "2026-10-27",
           "views": null
         }
       ]
@@ -1615,6 +1635,11 @@
         {
           "scheduled_at": "2026-10-19T21:47:00+09:00",
           "registered_at": "2026-10-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-29T11:08:00+09:00",
+          "registered_at": "2026-10-27",
           "views": null
         }
       ]
@@ -3799,6 +3824,11 @@
           "scheduled_at": "2026-10-25T14:42:00+09:00",
           "registered_at": "2026-10-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-28T14:42:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
         }
       ]
     },
@@ -5575,6 +5605,11 @@
           "scheduled_at": "2026-08-28T19:52:00+09:00",
           "registered_at": "2026-08-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-30T11:08:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
         }
       ]
     },
@@ -6688,7 +6723,8 @@
         {
           "scheduled_at": "2026-10-26T14:42:00+09:00",
           "registered_at": "2026-10-24",
-          "views": null
+          "views": 4,
+          "posted_at": "2026-10-26T05:48:05.821+00:00"
         }
       ]
     },
@@ -6724,6 +6760,66 @@
         {
           "scheduled_at": "2026-10-27T19:52:00+09:00",
           "registered_at": "2026-10-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_31e693f0b8": {
+      "text": "男が本命と別れるときって、9割以上これだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-27",
+      "history": [
+        {
+          "scheduled_at": "2026-10-28T16:33:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bb0dd5bc24": {
+      "text": "男の既読スルーは、気持ちが切れたサインじゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-27",
+      "history": [
+        {
+          "scheduled_at": "2026-10-28T21:47:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_90b9a3215b": {
+      "text": "元彼の「もう無理」は本気の結論じゃなくて、ただの『その場しのぎ』",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-27",
+      "history": [
+        {
+          "scheduled_at": "2026-10-29T21:47:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f5b4d3d36d": {
+      "text": "この時間だから誰も見てないと思うから独り言。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-10-27",
+      "history": [
+        {
+          "scheduled_at": "2026-10-30T16:33:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_62698c849a": {
+      "text": "別れを告げた時の、男の本心を話す。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-27",
+      "history": [
+        {
+          "scheduled_at": "2026-10-30T19:52:00+09:00",
+          "registered_at": "2026-10-27",
           "views": null
         }
       ]

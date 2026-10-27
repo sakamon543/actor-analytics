@@ -170,6 +170,11 @@
           "scheduled_at": "2026-10-29T21:47:00+09:00",
           "registered_at": "2026-10-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-31T21:47:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
         }
       ]
     },
@@ -397,6 +402,11 @@
         {
           "scheduled_at": "2026-10-28T21:47:00+09:00",
           "registered_at": "2026-10-24",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T14:42:00+09:00",
+          "registered_at": "2026-10-27",
           "views": null
         }
       ]
@@ -872,6 +882,11 @@
           "scheduled_at": "2026-10-28T14:42:00+09:00",
           "registered_at": "2026-10-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-31T14:42:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
         }
       ]
     },
@@ -1116,6 +1131,11 @@
         {
           "scheduled_at": "2026-10-25T16:33:00+09:00",
           "registered_at": "2026-10-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T21:47:00+09:00",
+          "registered_at": "2026-10-27",
           "views": null
         }
       ]
@@ -1738,6 +1758,11 @@
           "scheduled_at": "2026-10-30T14:42:00+09:00",
           "registered_at": "2026-10-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-02T14:42:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
         }
       ]
     },
@@ -1979,6 +2004,11 @@
         {
           "scheduled_at": "2026-10-29T11:08:00+09:00",
           "registered_at": "2026-10-24",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T11:08:00+09:00",
+          "registered_at": "2026-10-27",
           "views": null
         }
       ]
@@ -2348,6 +2378,11 @@
         {
           "scheduled_at": "2026-10-29T19:52:00+09:00",
           "registered_at": "2026-10-24",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-31T19:52:00+09:00",
+          "registered_at": "2026-10-27",
           "views": null
         }
       ]
@@ -3488,6 +3523,11 @@
         {
           "scheduled_at": "2026-10-28T19:52:00+09:00",
           "registered_at": "2026-10-24",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-31T16:33:00+09:00",
+          "registered_at": "2026-10-27",
           "views": null
         }
       ]
@@ -6288,7 +6328,8 @@
         {
           "scheduled_at": "2026-10-20T19:52:00+09:00",
           "registered_at": "2026-10-15",
-          "views": null
+          "views": 15,
+          "posted_at": "2026-10-20T10:55:59.326+00:00"
         }
       ]
     },
@@ -6324,7 +6365,8 @@
         {
           "scheduled_at": "2026-10-21T19:52:00+09:00",
           "registered_at": "2026-10-15",
-          "views": null
+          "views": 14,
+          "posted_at": "2026-10-21T10:56:00.668+00:00"
         }
       ]
     },
@@ -6372,7 +6414,8 @@
         {
           "scheduled_at": "2026-10-24T16:33:00+09:00",
           "registered_at": "2026-10-18",
-          "views": null
+          "views": 12,
+          "posted_at": "2026-10-24T07:36:47.666+00:00"
         }
       ]
     },
@@ -6384,7 +6427,8 @@
         {
           "scheduled_at": "2026-10-24T19:52:00+09:00",
           "registered_at": "2026-10-18",
-          "views": null
+          "views": 14,
+          "posted_at": "2026-10-24T10:58:04.904+00:00"
         }
       ]
     },
@@ -6504,6 +6548,54 @@
         {
           "scheduled_at": "2026-10-30T19:52:00+09:00",
           "registered_at": "2026-10-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8a5b975b41": {
+      "text": "男は『気になってる年上の女性』と簡単に雑談できない。",
+      "structure_label": "男性心理暴露型（できない断言）",
+      "first_used_at": "2026-10-27",
+      "history": [
+        {
+          "scheduled_at": "2026-11-01T19:52:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_eb5a60a38f": {
+      "text": "実は、年下の男性ほど『年上の落ち着いた女性』に本気になる確率が高い。",
+      "structure_label": "反転希望型（確率断言）",
+      "first_used_at": "2026-10-27",
+      "history": [
+        {
+          "scheduled_at": "2026-11-02T11:08:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1a68274ec4": {
+      "text": "男の本音を言うと、毎回すぐ返してくれる相手は意識しない。",
+      "structure_label": "男性心理暴露型（本音断言）",
+      "first_used_at": "2026-10-27",
+      "history": [
+        {
+          "scheduled_at": "2026-11-02T16:33:00+09:00",
+          "registered_at": "2026-10-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8c62929a68": {
+      "text": "彼に「今日ちょっと雰囲気違う？」って言わせる構造、男目線で言うとシンプルなんだよね。",
+      "structure_label": "男性心理暴露型（構造シンプル断言）",
+      "first_used_at": "2026-10-27",
+      "history": [
+        {
+          "scheduled_at": "2026-11-02T19:52:00+09:00",
+          "registered_at": "2026-10-27",
           "views": null
         }
       ]
