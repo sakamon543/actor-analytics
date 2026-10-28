@@ -1733,7 +1733,8 @@
       "collected_at": "2026-08-25",
       "used_by": {
         "ハカセ": "2026-10-27"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_391f94b21d",
@@ -1758,7 +1759,8 @@
       "collected_at": "2026-09-13",
       "used_by": {
         "ハカセ": "2026-10-27"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_4280f0fa64",
@@ -7038,7 +7040,12 @@
       "used_by": {
         "miho": "2026-10-22"
       },
-      "results": {}
+      "results": {
+        "miho": {
+          "views": 14,
+          "at": "2026-10-28"
+        }
+      }
     },
     {
       "pool_id": "hp_b03f23cdb8",
@@ -7464,7 +7471,10 @@
       "likes": 55,
       "source": "https://x.com/ShannonRoe12187/status/2105216974532018215",
       "source_handle": "ShannonRoe12187",
-      "collected_at": "2026-10-02"
+      "collected_at": "2026-10-02",
+      "used_by": {
+        "miho": "2026-10-28"
+      }
     },
     {
       "pool_id": "hp_25240ef2ba",
@@ -7778,7 +7788,10 @@
       "likes": 63,
       "source": "https://x.com/ShannonRoe12187/status/2094699226194493570",
       "source_handle": "ShannonRoe12187",
-      "collected_at": "2026-09-08"
+      "collected_at": "2026-09-08",
+      "used_by": {
+        "miho": "2026-10-28"
+      }
     },
     {
       "pool_id": "hp_66fcc99638",
@@ -7905,7 +7918,10 @@
       "likes": 13,
       "source": "https://x.com/ShannonRoe12187/status/2092221915251527803",
       "source_handle": "ShannonRoe12187",
-      "collected_at": "2026-09-08"
+      "collected_at": "2026-09-08",
+      "used_by": {
+        "miho": "2026-10-28"
+      }
     },
     {
       "pool_id": "hp_9fd1539fe1",
@@ -8046,7 +8062,10 @@
       "likes": 24,
       "source": "https://x.com/ShannonRoe12187/status/2101944108353016120",
       "source_handle": "ShannonRoe12187",
-      "collected_at": "2026-09-22"
+      "collected_at": "2026-09-22",
+      "used_by": {
+        "miho": "2026-10-28"
+      }
     },
     {
       "pool_id": "hp_04c8837c10",
@@ -29909,5 +29928,5 @@
       "collected_at": "2026-09-14"
     }
   ],
-  "updated_at": "2026-10-28T01:10:25.896621+09:00"
+  "updated_at": "2026-10-28T09:17:50.725452+09:00"
 }

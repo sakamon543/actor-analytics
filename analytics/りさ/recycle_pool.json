@@ -137,8 +137,8 @@
       "first_seen_views": 6133,
       "first_seen_at": "2026-08-19T02:15:19.345+00:00",
       "status": "used",
-      "used_count": 2,
-      "last_used_at": "2026-09-27T09:57:18.285148+09:00",
+      "used_count": 3,
+      "last_used_at": "2026-10-28T09:36:42.278792+09:00",
       "sales_followed": false
     },
     "rcyc_ff20d0a3e2": {
@@ -234,7 +234,18 @@
       "used_count": 1,
       "last_used_at": "2026-10-22T09:26:35.521534+09:00",
       "sales_followed": false
+    },
+    "rcyc_309fb151a1": {
+      "recycle_id": "rcyc_309fb151a1",
+      "text": "年下男子の脈は、わかりやすい言葉には出てきません。彼らは年上に軽く見られたくない意識がまず先に立つから、『好き』も『会いたい』も最後まで飲み込むんです。今のあなたが待ってる、はっきりした一言は、たぶんずっと来ないままだと思ってください。脈は言葉じゃなく、彼の頼り方に出ます。",
+      "thread": [],
+      "first_seen_views": 4822,
+      "first_seen_at": "2026-10-25T07:37:25.847+00:00",
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-10-28T09:36:42.278792+09:00",
+      "sales_followed": false
     }
   },
-  "updated_at": "2026-10-25T09:26:07.018316+09:00"
+  "updated_at": "2026-10-28T09:36:42.278792+09:00"
 }

@@ -224,6 +224,11 @@
           "scheduled_at": "2026-10-04T19:52:00+09:00",
           "registered_at": "2026-10-03",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-30T21:47:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
         }
       ]
     },
@@ -297,6 +302,11 @@
           "scheduled_at": "2026-10-17T16:33:00+09:00",
           "registered_at": "2026-10-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-29T16:33:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
         }
       ]
     },
@@ -349,6 +359,11 @@
         {
           "scheduled_at": "2026-10-19T19:52:00+09:00",
           "registered_at": "2026-10-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-30T11:08:00+09:00",
+          "registered_at": "2026-10-28",
           "views": null
         }
       ]
@@ -412,6 +427,11 @@
         {
           "scheduled_at": "2026-10-17T19:52:00+09:00",
           "registered_at": "2026-10-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-29T19:52:00+09:00",
+          "registered_at": "2026-10-28",
           "views": null
         }
       ]
@@ -479,6 +499,11 @@
         {
           "scheduled_at": "2026-10-17T21:47:00+09:00",
           "registered_at": "2026-10-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-29T21:47:00+09:00",
+          "registered_at": "2026-10-28",
           "views": null
         }
       ]
@@ -790,6 +815,11 @@
         {
           "scheduled_at": "2026-10-17T14:42:00+09:00",
           "registered_at": "2026-10-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-29T14:42:00+09:00",
+          "registered_at": "2026-10-28",
           "views": null
         }
       ]
@@ -3951,7 +3981,8 @@
         {
           "scheduled_at": "2026-10-27T11:08:00+09:00",
           "registered_at": "2026-10-25",
-          "views": null
+          "views": 1,
+          "posted_at": "2026-10-27T02:13:44.426+00:00"
         }
       ]
     },
@@ -3999,6 +4030,78 @@
         {
           "scheduled_at": "2026-10-28T19:52:00+09:00",
           "registered_at": "2026-10-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2d5bdca6dd": {
+      "text": "『私もう来年30だしね』って自分から言ってる人、それ謙遜じゃなくて、彼が女として見るのを自分で止めてる一言です。",
+      "structure_label": "命題型（読者の具体セリフ名指し）",
+      "first_used_at": "2026-10-28",
+      "history": [
+        {
+          "scheduled_at": "2026-10-30T14:42:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_893ab0626c": {
+      "text": "後輩から『彼氏いないんですか？』が来たとき、『いないですよー』で流すのが一番もったいない返しです。あれは探りじゃなくて、先輩を女として見ていいのかの最終確認なんですよね。",
+      "structure_label": "命題型（読者の具体セリフ名指し）",
+      "first_used_at": "2026-10-28",
+      "history": [
+        {
+          "scheduled_at": "2026-10-30T19:52:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_476a4a6bee": {
+      "text": "年下男性が年上に求めてるのは、若さじゃなくて安心感です。彼が測ってるのは、この人の前で気を張らなくていいかどうかだけ。若く見せる努力は、いちばんの武器を自分で消す行為です。",
+      "structure_label": "命題型（二択否定）",
+      "first_used_at": "2026-10-28",
+      "history": [
+        {
+          "scheduled_at": "2026-10-31T11:08:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_363c4679ca": {
+      "text": "職場のランチは大チャンスですけど、2人になりそうな時に『みんなで行きましょう』と他の人を巻き込むのは逆効果です。あなたが気を遣ってるつもりのその一言、彼には「距離を置かれた」としか届いてません。",
+      "structure_label": "常識否定型（期待反転）",
+      "first_used_at": "2026-10-28",
+      "history": [
+        {
+          "scheduled_at": "2026-10-31T14:42:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1c5e68efd6": {
+      "text": "結局、年下後輩から告白される人って『2人になりそうな時に他の人を巻き込まない人』なんです。",
+      "structure_label": "命題型（共通点断言）",
+      "first_used_at": "2026-10-28",
+      "history": [
+        {
+          "scheduled_at": "2026-10-31T16:33:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b15ab9ed4a": {
+      "text": "好きな人ほど自分から誘うべき、って思ってませんか。年下の後輩相手だと、実は「自分から誘わない」方がうまくいきます。誘うのをやめた週に、彼から『今日お昼行きません？』が来ました。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-28",
+      "history": [
+        {
+          "scheduled_at": "2026-10-31T19:52:00+09:00",
+          "registered_at": "2026-10-28",
           "views": null
         }
       ]

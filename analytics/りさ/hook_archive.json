@@ -34,6 +34,11 @@
           "scheduled_at": "2026-10-26T19:52:00+09:00",
           "registered_at": "2026-10-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-29T21:47:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
         }
       ]
     },
@@ -291,6 +296,11 @@
         {
           "scheduled_at": "2026-10-26T16:33:00+09:00",
           "registered_at": "2026-10-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-29T16:33:00+09:00",
+          "registered_at": "2026-10-28",
           "views": null
         }
       ]
@@ -882,6 +892,11 @@
         {
           "scheduled_at": "2026-10-10T11:08:00+09:00",
           "registered_at": "2026-10-08",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-30T19:52:00+09:00",
+          "registered_at": "2026-10-28",
           "views": null
         }
       ]
@@ -1868,6 +1883,11 @@
           "scheduled_at": "2026-10-27T19:52:00+09:00",
           "registered_at": "2026-10-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-30T11:08:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
         }
       ]
     },
@@ -2627,6 +2647,11 @@
           "scheduled_at": "2026-10-27T11:08:00+09:00",
           "registered_at": "2026-10-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-29T19:52:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
         }
       ]
     },
@@ -3026,6 +3051,11 @@
           "scheduled_at": "2026-10-19T11:08:00+09:00",
           "registered_at": "2026-10-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-30T21:47:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
         }
       ]
     },
@@ -3206,7 +3236,8 @@
         {
           "scheduled_at": "2026-10-25T16:33:00+09:00",
           "registered_at": "2026-10-22",
-          "views": null
+          "views": 4822,
+          "posted_at": "2026-10-25T07:37:25.847+00:00"
         }
       ]
     },
@@ -3278,6 +3309,54 @@
         {
           "scheduled_at": "2026-10-28T19:52:00+09:00",
           "registered_at": "2026-10-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c592f0e2fd": {
+      "text": "年下男子が「この人から離れられない」と沼る年上には、はっきりした共通点があります。若さでも、美貌でも、包容力でもありません。それは、余裕を「見せない」人",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-28",
+      "history": [
+        {
+          "scheduled_at": "2026-10-31T11:08:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e2316adebd": {
+      "text": "年下男子が「この人じゃなきゃ」って本気になる年上には、共通点があります。若さでも、完璧さでも、気遣いでもない。むしろ逆で、「ちゃんと甘えられる」ってこと",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-28",
+      "history": [
+        {
+          "scheduled_at": "2026-10-31T14:42:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7363d33789": {
+      "text": "年下男子って年上に甘えられた瞬間に「この人いいな」ってなるらしい",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-28",
+      "history": [
+        {
+          "scheduled_at": "2026-10-31T16:33:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7d65cb2118": {
+      "text": "プライドが高い年下ほど、心の中では年上に頼られたいって思ってる",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-28",
+      "history": [
+        {
+          "scheduled_at": "2026-10-31T19:52:00+09:00",
+          "registered_at": "2026-10-28",
           "views": null
         }
       ]

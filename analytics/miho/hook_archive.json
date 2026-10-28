@@ -363,6 +363,11 @@
           "scheduled_at": "2026-10-28T16:33:00+09:00",
           "registered_at": "2026-10-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-31T16:33:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
         }
       ]
     },
@@ -1474,6 +1479,11 @@
         {
           "scheduled_at": "2026-10-29T21:47:00+09:00",
           "registered_at": "2026-10-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T21:47:00+09:00",
+          "registered_at": "2026-10-28",
           "views": null
         }
       ]
@@ -3166,6 +3176,11 @@
           "scheduled_at": "2026-10-27T19:52:00+09:00",
           "registered_at": "2026-10-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-31T19:52:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
         }
       ]
     },
@@ -3419,6 +3434,11 @@
           "scheduled_at": "2026-10-30T14:42:00+09:00",
           "registered_at": "2026-10-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T14:42:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
         }
       ]
     },
@@ -3479,6 +3499,11 @@
         {
           "scheduled_at": "2026-10-26T19:52:00+09:00",
           "registered_at": "2026-10-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T19:52:00+09:00",
+          "registered_at": "2026-10-28",
           "views": null
         }
       ]
@@ -3569,6 +3594,11 @@
         {
           "scheduled_at": "2026-10-29T14:42:00+09:00",
           "registered_at": "2026-10-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T11:08:00+09:00",
+          "registered_at": "2026-10-28",
           "views": null
         }
       ]
@@ -4309,6 +4339,78 @@
         {
           "scheduled_at": "2026-10-30T16:33:00+09:00",
           "registered_at": "2026-10-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9059060240": {
+      "text": "残酷な真実なんだけど、別れた元彼に安心だけを与え続けると普通に甘えて何もしなくなります。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-28",
+      "history": [
+        {
+          "scheduled_at": "2026-10-31T14:42:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_875decba75": {
+      "text": "これ半年で振られて、その彼と復縁して結婚した私からも言いたい！",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-28",
+      "history": [
+        {
+          "scheduled_at": "2026-10-31T21:47:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a80da79114": {
+      "text": "これ本当にそう！",
+      "structure_label": "同意起点型",
+      "first_used_at": "2026-10-28",
+      "history": [
+        {
+          "scheduled_at": "2026-11-02T11:08:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4f1e4b2141": {
+      "text": "②特に私たちがまさにそうだった！",
+      "structure_label": "同意起点型",
+      "first_used_at": "2026-10-28",
+      "history": [
+        {
+          "scheduled_at": "2026-11-02T14:42:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_680457ab4f": {
+      "text": "「もう未練はない」って言い切った男ほど、未練だけが残ってます。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-28",
+      "history": [
+        {
+          "scheduled_at": "2026-11-02T16:33:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_63825fd09c": {
+      "text": "彼の別れ際の冷たさは、嫌いになった証拠じゃないです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-28",
+      "history": [
+        {
+          "scheduled_at": "2026-11-02T19:52:00+09:00",
+          "registered_at": "2026-10-28",
           "views": null
         }
       ]

@@ -297,6 +297,16 @@
           "scheduled_at": "2026-10-27T19:52:00+09:00",
           "registered_at": "2026-10-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-29T14:42:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-31T11:08:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
         }
       ]
     },
@@ -470,6 +480,11 @@
         {
           "scheduled_at": "2026-10-25T19:52:00+09:00",
           "registered_at": "2026-10-24",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-29T19:52:00+09:00",
+          "registered_at": "2026-10-28",
           "views": null
         }
       ]
@@ -698,6 +713,16 @@
         {
           "scheduled_at": "2026-10-25T16:33:00+09:00",
           "registered_at": "2026-10-24",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-29T16:33:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-31T16:33:00+09:00",
+          "registered_at": "2026-10-28",
           "views": null
         }
       ]
@@ -1774,6 +1799,11 @@
           "scheduled_at": "2026-10-27T14:42:00+09:00",
           "registered_at": "2026-10-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-29T21:47:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
         }
       ]
     },
@@ -2831,6 +2861,11 @@
           "scheduled_at": "2026-09-17T14:42:00+09:00",
           "registered_at": "2026-09-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-30T11:08:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
         }
       ]
     },
@@ -3034,6 +3069,11 @@
         {
           "scheduled_at": "2026-09-27T16:33:00+09:00",
           "registered_at": "2026-09-24",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-30T21:47:00+09:00",
+          "registered_at": "2026-10-28",
           "views": null
         }
       ]
@@ -3349,7 +3389,8 @@
         {
           "scheduled_at": "2026-10-18T11:08:00+09:00",
           "registered_at": "2026-10-15",
-          "views": null
+          "views": 1,
+          "posted_at": "2026-10-27T02:13:24.688+00:00"
         },
         {
           "scheduled_at": "2026-10-27T11:08:00+09:00",
@@ -3563,6 +3604,54 @@
         {
           "scheduled_at": "2026-10-27T16:33:00+09:00",
           "registered_at": "2026-10-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7e9ff5eb95": {
+      "text": "男は、あなただけを見ていません。俺は3年で100人以上会って、そのほとんどを自分から切った側です。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-28",
+      "history": [
+        {
+          "scheduled_at": "2026-10-30T14:42:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_20725c26b3": {
+      "text": "二度目が来ない理由って『可愛くないから』とか『会話が盛り上がらなかったから』みたいな理由じゃないんです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-28",
+      "history": [
+        {
+          "scheduled_at": "2026-10-30T19:52:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f00a5c3797": {
+      "text": "「いい子だったね」で切られるのが一番多い。悪いところがないのと、最後まで残るのは別。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-28",
+      "history": [
+        {
+          "scheduled_at": "2026-10-31T14:42:00+09:00",
+          "registered_at": "2026-10-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_278d8ff8c1": {
+      "text": "結局、最後まで残る子って『俺に合わせてこなかった子』なんです。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-28",
+      "history": [
+        {
+          "scheduled_at": "2026-10-31T19:52:00+09:00",
+          "registered_at": "2026-10-28",
           "views": null
         }
       ]
