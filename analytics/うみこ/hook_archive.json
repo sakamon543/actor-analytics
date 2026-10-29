@@ -2266,6 +2266,11 @@
           "scheduled_at": "2026-10-28T21:47:00+09:00",
           "registered_at": "2026-10-26",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T16:33:00+09:00",
+          "registered_at": "2026-10-29",
+          "views": null
         }
       ]
     },
@@ -2852,6 +2857,11 @@
         {
           "scheduled_at": "2026-10-22T11:08:00+09:00",
           "registered_at": "2026-10-20",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T14:42:00+09:00",
+          "registered_at": "2026-10-29",
           "views": null
         }
       ]
@@ -5824,6 +5834,11 @@
           "scheduled_at": "2026-10-28T19:52:00+09:00",
           "registered_at": "2026-10-26",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-31T21:47:00+09:00",
+          "registered_at": "2026-10-29",
+          "views": null
         }
       ]
     },
@@ -5936,6 +5951,11 @@
         {
           "scheduled_at": "2026-10-27T21:47:00+09:00",
           "registered_at": "2026-10-26",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-31T11:08:00+09:00",
+          "registered_at": "2026-10-29",
           "views": null
         }
       ]
@@ -7213,7 +7233,7 @@
         {
           "scheduled_at": "2026-10-25T19:52:00+09:00",
           "registered_at": "2026-10-23",
-          "views": 6065,
+          "views": 10735,
           "posted_at": "2026-10-25T10:59:30.69+00:00"
         }
       ]
@@ -7262,6 +7282,12 @@
         {
           "scheduled_at": "2026-10-28T11:08:00+09:00",
           "registered_at": "2026-10-26",
+          "views": 40,
+          "posted_at": "2026-10-28T02:12:51.587+00:00"
+        },
+        {
+          "scheduled_at": "2026-10-30T21:47:00+09:00",
+          "registered_at": "2026-10-29",
           "views": null
         }
       ]
@@ -7275,6 +7301,11 @@
           "scheduled_at": "2026-10-29T11:08:00+09:00",
           "registered_at": "2026-10-26",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-31T19:52:00+09:00",
+          "registered_at": "2026-10-29",
+          "views": null
         }
       ]
     },
@@ -7287,6 +7318,11 @@
           "scheduled_at": "2026-10-29T16:33:00+09:00",
           "registered_at": "2026-10-26",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T11:08:00+09:00",
+          "registered_at": "2026-10-29",
+          "views": null
         }
       ]
     },
@@ -7298,6 +7334,42 @@
         {
           "scheduled_at": "2026-10-29T19:52:00+09:00",
           "registered_at": "2026-10-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a044ffa0f4": {
+      "text": "別れる時に『ちゃんと話し合いたい』って言って、まともに取り合ってもらえなかった人に言いたいのよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-29",
+      "history": [
+        {
+          "scheduled_at": "2026-10-30T16:33:00+09:00",
+          "registered_at": "2026-10-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9d4e7aefe8": {
+      "text": "男が元カノに執着してるって話、女性はあんまり信じないけどガチなのよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-29",
+      "history": [
+        {
+          "scheduled_at": "2026-10-30T19:52:00+09:00",
+          "registered_at": "2026-10-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9cf10f37e6": {
+      "text": "男が未練ゼロのときって、びっくりするほどはっきりわかる。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-29",
+      "history": [
+        {
+          "scheduled_at": "2026-11-01T19:52:00+09:00",
+          "registered_at": "2026-10-29",
           "views": null
         }
       ]

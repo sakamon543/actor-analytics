@@ -829,6 +829,11 @@
           "scheduled_at": "2026-10-29T11:08:00+09:00",
           "registered_at": "2026-10-26",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-30T16:33:00+09:00",
+          "registered_at": "2026-10-29",
+          "views": null
         }
       ]
     },
@@ -3777,6 +3782,11 @@
           "scheduled_at": "2026-10-14T19:52:00+09:00",
           "registered_at": "2026-10-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-31T21:47:00+09:00",
+          "registered_at": "2026-10-29",
+          "views": null
         }
       ]
     },
@@ -4113,6 +4123,11 @@
           "scheduled_at": "2026-10-27T14:42:00+09:00",
           "registered_at": "2026-10-26",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T11:08:00+09:00",
+          "registered_at": "2026-10-29",
+          "views": null
         }
       ]
     },
@@ -4124,6 +4139,11 @@
         {
           "scheduled_at": "2026-10-27T16:33:00+09:00",
           "registered_at": "2026-10-26",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-30T14:42:00+09:00",
+          "registered_at": "2026-10-29",
           "views": null
         }
       ]
@@ -4149,6 +4169,11 @@
           "scheduled_at": "2026-10-27T21:47:00+09:00",
           "registered_at": "2026-10-26",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-30T19:52:00+09:00",
+          "registered_at": "2026-10-29",
+          "views": null
         }
       ]
     },
@@ -4160,6 +4185,11 @@
         {
           "scheduled_at": "2026-10-28T11:08:00+09:00",
           "registered_at": "2026-10-26",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-10-31T19:52:00+09:00",
+          "registered_at": "2026-10-29",
           "views": null
         }
       ]
@@ -4173,6 +4203,11 @@
           "scheduled_at": "2026-10-28T14:42:00+09:00",
           "registered_at": "2026-10-26",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-10-30T21:47:00+09:00",
+          "registered_at": "2026-10-29",
+          "views": null
         }
       ]
     },
@@ -4184,6 +4219,11 @@
         {
           "scheduled_at": "2026-10-28T19:52:00+09:00",
           "registered_at": "2026-10-26",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T19:52:00+09:00",
+          "registered_at": "2026-10-29",
           "views": null
         }
       ]
@@ -4208,6 +4248,54 @@
         {
           "scheduled_at": "2026-10-29T19:52:00+09:00",
           "registered_at": "2026-10-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_882b53829b": {
+      "text": "男って本気で何も感じてない相手には『もういいや』で済ませるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-29",
+      "history": [
+        {
+          "scheduled_at": "2026-10-31T11:08:00+09:00",
+          "registered_at": "2026-10-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_36d34fe991": {
+      "text": "正直、『冷却期間を置けば男は元カノを忘れる』は100%ありえないよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-29",
+      "history": [
+        {
+          "scheduled_at": "2026-10-31T14:42:00+09:00",
+          "registered_at": "2026-10-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9dc40ea0aa": {
+      "text": "『男は本当に好きなら手放さない』はウソ",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-29",
+      "history": [
+        {
+          "scheduled_at": "2026-11-01T14:42:00+09:00",
+          "registered_at": "2026-10-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4c60d7bb94": {
+      "text": "もう切るしかないよ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-10-29",
+      "history": [
+        {
+          "scheduled_at": "2026-11-01T16:33:00+09:00",
+          "registered_at": "2026-10-29",
           "views": null
         }
       ]
