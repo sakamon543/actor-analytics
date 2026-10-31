@@ -210,8 +210,8 @@
       "first_seen_views": 10160,
       "first_seen_at": "2026-08-17T02:12:55.805+00:00",
       "status": "used",
-      "used_count": 2,
-      "last_used_at": "2026-09-30T09:20:49.982160+09:00",
+      "used_count": 3,
+      "last_used_at": "2026-10-31T09:14:26.773395+09:00",
       "sales_followed": true
     },
     "rcyc_f75f5daf56": {
@@ -256,8 +256,8 @@
       "first_seen_views": 4510,
       "first_seen_at": "2026-08-24T12:51:22.626+00:00",
       "status": "used",
-      "used_count": 2,
-      "last_used_at": "2026-09-30T09:20:49.982160+09:00",
+      "used_count": 3,
+      "last_used_at": "2026-10-31T09:14:26.773395+09:00",
       "sales_followed": true
     },
     "rcyc_4de12c9183": {
@@ -414,7 +414,18 @@
       "used_count": 1,
       "last_used_at": "2026-10-27T09:14:08.563955+09:00",
       "sales_followed": true
+    },
+    "rcyc_2110ac05f2": {
+      "recycle_id": "rcyc_2110ac05f2",
+      "text": "冷却期間って放置のことじゃないんだよな。ここ勘違いしてる人が多すぎる。完全に消えた時点で終わってる。",
+      "thread": [],
+      "first_seen_views": 2166,
+      "first_seen_at": "2026-10-26T07:36:51.074+00:00",
+      "status": "ready",
+      "used_count": 0,
+      "last_used_at": null,
+      "sales_followed": false
     }
   },
-  "updated_at": "2026-10-27T09:14:08.563955+09:00"
+  "updated_at": "2026-10-31T09:14:26.773395+09:00"
 }

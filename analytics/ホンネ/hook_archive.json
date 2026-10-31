@@ -175,6 +175,11 @@
           "scheduled_at": "2026-10-31T21:47:00+09:00",
           "registered_at": "2026-10-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-03T21:47:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
         }
       ]
     },
@@ -407,6 +412,11 @@
         {
           "scheduled_at": "2026-11-01T14:42:00+09:00",
           "registered_at": "2026-10-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-04T14:42:00+09:00",
+          "registered_at": "2026-10-31",
           "views": null
         }
       ]
@@ -887,6 +897,11 @@
           "scheduled_at": "2026-10-31T14:42:00+09:00",
           "registered_at": "2026-10-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-03T14:42:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
         }
       ]
     },
@@ -1136,6 +1151,11 @@
         {
           "scheduled_at": "2026-11-01T21:47:00+09:00",
           "registered_at": "2026-10-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-03T19:52:00+09:00",
+          "registered_at": "2026-10-31",
           "views": null
         }
       ]
@@ -1763,6 +1783,11 @@
           "scheduled_at": "2026-11-02T14:42:00+09:00",
           "registered_at": "2026-10-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-04T21:47:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
         }
       ]
     },
@@ -2009,6 +2034,11 @@
         {
           "scheduled_at": "2026-11-01T11:08:00+09:00",
           "registered_at": "2026-10-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-04T11:08:00+09:00",
+          "registered_at": "2026-10-31",
           "views": null
         }
       ]
@@ -3528,6 +3558,11 @@
         {
           "scheduled_at": "2026-10-31T16:33:00+09:00",
           "registered_at": "2026-10-27",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-03T16:33:00+09:00",
+          "registered_at": "2026-10-31",
           "views": null
         }
       ]
@@ -6596,6 +6631,66 @@
         {
           "scheduled_at": "2026-11-02T19:52:00+09:00",
           "registered_at": "2026-10-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4abd6d085d": {
+      "text": "男の事務的なLINEは、年上女性に興味ないサインじゃない",
+      "structure_label": "常識否定型（行動解釈の否定）",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-04T19:52:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8f7ca1f6a9": {
+      "text": "意外かもだけど、男は『年上の女性に少し間をあけて返信される』と意識し始める生き物。",
+      "structure_label": "男性心理暴露型（意外性＋生き物断言）",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-05T11:08:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f598a3a5cf": {
+      "text": "実は、落ち着いてる年上女性ほど年下男性に本気で惚れられる確率が高い",
+      "structure_label": "反転希望型（確率断言）",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-05T14:42:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_67cf8b0232": {
+      "text": "男は、『気になってる年上の女性』に簡単に雑談できない",
+      "structure_label": "命題型（男の行動不能断言）",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-05T16:33:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e0cc55d5f4": {
+      "text": "男が年上の女性を意識するとき「若さ」より圧倒的に多いのが『焦ってない態度』",
+      "structure_label": "常識否定型（本当の理由の提示）",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-05T19:52:00+09:00",
+          "registered_at": "2026-10-31",
           "views": null
         }
       ]

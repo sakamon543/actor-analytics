@@ -307,6 +307,21 @@
           "scheduled_at": "2026-10-31T11:08:00+09:00",
           "registered_at": "2026-10-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T14:42:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-02T14:42:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-03T14:42:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
         }
       ]
     },
@@ -485,6 +500,11 @@
         {
           "scheduled_at": "2026-10-29T19:52:00+09:00",
           "registered_at": "2026-10-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T21:47:00+09:00",
+          "registered_at": "2026-10-31",
           "views": null
         }
       ]
@@ -723,6 +743,16 @@
         {
           "scheduled_at": "2026-10-31T16:33:00+09:00",
           "registered_at": "2026-10-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T19:52:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-03T11:08:00+09:00",
+          "registered_at": "2026-10-31",
           "views": null
         }
       ]
@@ -1804,6 +1834,11 @@
           "scheduled_at": "2026-10-29T21:47:00+09:00",
           "registered_at": "2026-10-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T16:33:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
         }
       ]
     },
@@ -2866,6 +2901,11 @@
           "scheduled_at": "2026-10-30T11:08:00+09:00",
           "registered_at": "2026-10-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-02T11:08:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
         }
       ]
     },
@@ -3652,6 +3692,54 @@
         {
           "scheduled_at": "2026-10-31T19:52:00+09:00",
           "registered_at": "2026-10-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f9c2b0cbf0": {
+      "text": "同時進行で3人4人と会ってた頃、全員に『今日楽しかった、また会おうね』って送ってました。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-02T19:52:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e83f449e57": {
+      "text": "「嫌われたから連絡が来なくなった」はウソ。嫌ってもない子から順に消してました。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-02T21:47:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4d32a2f555": {
+      "text": "マチアプで100人以上会って、そのほとんどを俺から切りました。最低だと思います。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-03T16:33:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8413471d8b": {
+      "text": "既読だけついて返信が止まっても、そこからまだ残れます。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-03T19:52:00+09:00",
+          "registered_at": "2026-10-31",
           "views": null
         }
       ]

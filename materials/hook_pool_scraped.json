@@ -2904,7 +2904,10 @@
       "likes": 299,
       "source": "https://x.com/pederson287/status/2082807908870533555",
       "source_handle": "pederson287",
-      "collected_at": "2026-08-25"
+      "collected_at": "2026-08-25",
+      "used_by": {
+        "miho": "2026-10-31"
+      }
     },
     {
       "pool_id": "hp_fc35a615ee",
@@ -6668,7 +6671,12 @@
         "かれん": "2026-10-23",
         "あや": "2026-10-29"
       },
-      "results": {}
+      "results": {
+        "あや": {
+          "views": 20,
+          "at": "2026-10-31"
+        }
+      }
     },
     {
       "pool_id": "hp_a968fd168b",
@@ -7047,8 +7055,8 @@
       },
       "results": {
         "miho": {
-          "views": 14,
-          "at": "2026-10-28"
+          "views": 15,
+          "at": "2026-10-31"
         }
       }
     },
@@ -7704,7 +7712,12 @@
       "used_by": {
         "miho": "2026-10-25"
       },
-      "results": {}
+      "results": {
+        "miho": {
+          "views": 1,
+          "at": "2026-10-31"
+        }
+      }
     },
     {
       "pool_id": "hp_375861a3ce",
@@ -8420,7 +8433,10 @@
       "likes": 0,
       "source": "https://x.com/pederson287/status/2078830492057845965",
       "source_handle": "pederson287",
-      "collected_at": "2026-07-31"
+      "collected_at": "2026-07-31",
+      "used_by": {
+        "miho": "2026-10-31"
+      }
     },
     {
       "pool_id": "hp_1d98e1070c",
@@ -9022,7 +9038,10 @@
       "likes": 45,
       "source": "https://x.com/ShannonRoe12187/status/2095441526818324873",
       "source_handle": "ShannonRoe12187",
-      "collected_at": "2026-09-08"
+      "collected_at": "2026-09-08",
+      "used_by": {
+        "miho": "2026-10-31"
+      }
     },
     {
       "pool_id": "hp_c0d92eba36",
@@ -9137,7 +9156,10 @@
       "likes": 26,
       "source": "https://x.com/ShannonRoe12187/status/2081580390545039669",
       "source_handle": "ShannonRoe12187",
-      "collected_at": "2026-08-25"
+      "collected_at": "2026-08-25",
+      "used_by": {
+        "miho": "2026-10-31"
+      }
     },
     {
       "pool_id": "hp_671f64427e",
@@ -9246,7 +9268,10 @@
       "likes": 119,
       "source": "https://x.com/ShannonRoe12187/status/2089916392271409543",
       "source_handle": "ShannonRoe12187",
-      "collected_at": "2026-08-25"
+      "collected_at": "2026-08-25",
+      "used_by": {
+        "miho": "2026-10-31"
+      }
     },
     {
       "pool_id": "hp_291e7696c6",
@@ -29940,5 +29965,5 @@
       "collected_at": "2026-09-14"
     }
   ],
-  "updated_at": "2026-10-31T01:10:25.758643+09:00"
+  "updated_at": "2026-10-31T09:29:26.184435+09:00"
 }

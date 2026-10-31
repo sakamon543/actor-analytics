@@ -1942,6 +1942,11 @@
           "scheduled_at": "2026-10-26T19:52:00+09:00",
           "registered_at": "2026-10-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-02T19:52:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
         }
       ]
     },
@@ -2049,6 +2054,11 @@
           "scheduled_at": "2026-10-26T16:33:00+09:00",
           "registered_at": "2026-10-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T16:33:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
         }
       ]
     },
@@ -2117,6 +2127,11 @@
         {
           "scheduled_at": "2026-10-26T21:47:00+09:00",
           "registered_at": "2026-10-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T19:52:00+09:00",
+          "registered_at": "2026-10-31",
           "views": null
         }
       ]
@@ -2234,6 +2249,11 @@
           "scheduled_at": "2026-10-27T19:52:00+09:00",
           "registered_at": "2026-10-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-03T11:08:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
         }
       ]
     },
@@ -2340,6 +2360,11 @@
         {
           "scheduled_at": "2026-10-26T14:42:00+09:00",
           "registered_at": "2026-10-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T14:42:00+09:00",
+          "registered_at": "2026-10-31",
           "views": null
         }
       ]
@@ -2635,6 +2660,11 @@
         {
           "scheduled_at": "2026-10-28T11:08:00+09:00",
           "registered_at": "2026-10-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-02T11:08:00+09:00",
+          "registered_at": "2026-10-31",
           "views": null
         }
       ]
@@ -3069,6 +3099,11 @@
         {
           "scheduled_at": "2026-10-24T19:52:00+09:00",
           "registered_at": "2026-10-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-02T21:47:00+09:00",
+          "registered_at": "2026-10-31",
           "views": null
         }
       ]
@@ -4102,6 +4137,66 @@
         {
           "scheduled_at": "2026-10-31T19:52:00+09:00",
           "registered_at": "2026-10-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fa6cfeb14a": {
+      "text": "年下の後輩が動かないのは、興味がないからじゃなくて「どうせ相手にされない」と思ってるからです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-01T21:47:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_392b6e5be8": {
+      "text": "後輩から「休みの日って何してるんですか？」って聞かれて、予定だけ答えて終わらせてない？",
+      "structure_label": "常識否定型（読者の具体セリフ名指し）",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-02T14:42:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6089fe8f31": {
+      "text": "後輩から女として見られない理由って「可愛くないから」とか「年だから」みたいな理由じゃないんです。",
+      "structure_label": "常識否定型（失敗理由の否定）",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-03T14:42:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e748725640": {
+      "text": "「年上から動かないと何も始まらない」はウソです。",
+      "structure_label": "常識否定型（通説の断定否定）",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-03T16:33:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f7896c08d3": {
+      "text": "職場の年下後輩を好きになった人へ。バレたらどうしよう、で止まってるなら、職場恋愛を隠して付き合ってる人は83.7%という数字を見てください。",
+      "structure_label": "反転希望型（数字提示）",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-03T19:52:00+09:00",
+          "registered_at": "2026-10-31",
           "views": null
         }
       ]

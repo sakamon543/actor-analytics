@@ -302,6 +302,11 @@
           "scheduled_at": "2026-10-29T16:33:00+09:00",
           "registered_at": "2026-10-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T19:52:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
         }
       ]
     },
@@ -597,6 +602,11 @@
           "scheduled_at": "2026-10-25T11:08:00+09:00",
           "registered_at": "2026-10-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-02T21:47:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
         }
       ]
     },
@@ -730,6 +740,11 @@
         {
           "scheduled_at": "2026-10-23T21:47:00+09:00",
           "registered_at": "2026-10-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-02T14:42:00+09:00",
+          "registered_at": "2026-10-31",
           "views": null
         }
       ]
@@ -887,7 +902,8 @@
         {
           "scheduled_at": "2026-07-28T21:03:00+09:00",
           "registered_at": "2026-07-26",
-          "views": null
+          "views": 250,
+          "posted_at": "2026-10-30T10:58:02.033+00:00"
         },
         {
           "scheduled_at": "2026-10-10T11:08:00+09:00",
@@ -1247,6 +1263,11 @@
           "scheduled_at": "2026-10-24T11:08:00+09:00",
           "registered_at": "2026-10-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-02T11:08:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
         }
       ]
     },
@@ -1572,6 +1593,11 @@
           "scheduled_at": "2026-10-24T14:42:00+09:00",
           "registered_at": "2026-10-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T16:33:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
         }
       ]
     },
@@ -1887,6 +1913,11 @@
         {
           "scheduled_at": "2026-10-30T11:08:00+09:00",
           "registered_at": "2026-10-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-03T14:42:00+09:00",
+          "registered_at": "2026-10-31",
           "views": null
         }
       ]
@@ -2550,6 +2581,11 @@
           "scheduled_at": "2026-09-15T16:33:00+09:00",
           "registered_at": "2026-09-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-03T19:52:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
         }
       ]
     },
@@ -2651,6 +2687,11 @@
         {
           "scheduled_at": "2026-10-29T19:52:00+09:00",
           "registered_at": "2026-10-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T14:42:00+09:00",
+          "registered_at": "2026-10-31",
           "views": null
         }
       ]
@@ -2949,6 +2990,11 @@
           "scheduled_at": "2026-09-30T14:42:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-01T21:47:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
         }
       ]
     },
@@ -3236,7 +3282,7 @@
         {
           "scheduled_at": "2026-10-25T16:33:00+09:00",
           "registered_at": "2026-10-22",
-          "views": 4822,
+          "views": 4849,
           "posted_at": "2026-10-25T07:37:25.847+00:00"
         }
       ]
@@ -3357,6 +3403,42 @@
         {
           "scheduled_at": "2026-10-31T19:52:00+09:00",
           "registered_at": "2026-10-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a2c1029545": {
+      "text": "年下男子の既読スルーは、興味がないサインじゃないんです。むしろ逆で、あなたに惹かれ始めた男ほど、返信の前で止まります。『年上の人にがっつくのはダサい』『重いって思われたくない』って、彼の中で必死にブレーキ踏んでるだけ。既読のまま止まってる画面の向こうで、指は動きたがってます。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-02T19:52:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_545fcb9ca7": {
+      "text": "年下男子が距離を置くとき、「年上すぎた」より圧倒的に多いのが『俺がいなくても平気そうだった』です。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-03T11:08:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6b12fc3494": {
+      "text": "年下男子が『この人じゃなきゃ』って本気になる年上には、共通点があるんです。若さでも、完璧さでも、包容力でもない。むしろ逆で、『ちゃんと甘えられる』ってこと。年下の目に映るのは、何でも一人でできる人じゃなくて、自分を必要としてくれる人です。言いたいこと飲み込んでるあなたほど、遠く見えてます。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-03T16:33:00+09:00",
+          "registered_at": "2026-10-31",
           "views": null
         }
       ]

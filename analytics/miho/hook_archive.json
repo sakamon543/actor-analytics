@@ -368,6 +368,11 @@
           "scheduled_at": "2026-10-31T16:33:00+09:00",
           "registered_at": "2026-10-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-03T16:33:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
         }
       ]
     },
@@ -3181,6 +3186,11 @@
           "scheduled_at": "2026-10-31T19:52:00+09:00",
           "registered_at": "2026-10-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-05T14:42:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
         }
       ]
     },
@@ -3438,6 +3448,11 @@
         {
           "scheduled_at": "2026-11-01T14:42:00+09:00",
           "registered_at": "2026-10-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-04T14:42:00+09:00",
+          "registered_at": "2026-10-31",
           "views": null
         }
       ]
@@ -4328,6 +4343,11 @@
           "scheduled_at": "2026-10-29T19:52:00+09:00",
           "registered_at": "2026-10-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-04T19:52:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
         }
       ]
     },
@@ -4411,6 +4431,102 @@
         {
           "scheduled_at": "2026-11-02T19:52:00+09:00",
           "registered_at": "2026-10-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9479d0f480": {
+      "text": "彼が別れを後悔するには、一度「別れてよかった」と思う時間が必要なんです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-03T14:42:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e95d932821": {
+      "text": "これ復縁したい女性みんな思ってない？",
+      "structure_label": "共感起点型",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-03T19:52:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d685662c4e": {
+      "text": "私は別れてから半年ほどで復縁したんですが、",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-03T21:47:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4749f045e6": {
+      "text": "これ男にしか分からないかもだけど、たぶん本命だからこそ男は別れを決断するんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-04T11:08:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b7596625aa": {
+      "text": "回避型の彼は自己防衛で別れを選ぶから、振った瞬間からもう後悔が始まってるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-04T21:47:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2c168e7c25": {
+      "text": "私は付き合って半年の頃に彼にメンヘラが理由で振られたんだけど、",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-05T11:08:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_108a81c1c1": {
+      "text": "男は、「友達からならやり直せる」とは思っていない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-05T16:33:00+09:00",
+          "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_edcfeef8e8": {
+      "text": "普段から元彼との復縁について発信してます。",
+      "structure_label": "立場明示型",
+      "first_used_at": "2026-10-31",
+      "history": [
+        {
+          "scheduled_at": "2026-11-05T19:52:00+09:00",
+          "registered_at": "2026-10-31",
           "views": null
         }
       ]
