@@ -2271,6 +2271,11 @@
           "scheduled_at": "2026-11-01T16:33:00+09:00",
           "registered_at": "2026-10-29",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-04T11:08:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
         }
       ]
     },
@@ -2862,6 +2867,11 @@
         {
           "scheduled_at": "2026-11-01T14:42:00+09:00",
           "registered_at": "2026-10-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-02T21:47:00+09:00",
+          "registered_at": "2026-11-01",
           "views": null
         }
       ]
@@ -5839,6 +5849,11 @@
           "scheduled_at": "2026-10-31T21:47:00+09:00",
           "registered_at": "2026-10-29",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-03T19:52:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
         }
       ]
     },
@@ -5956,6 +5971,11 @@
         {
           "scheduled_at": "2026-10-31T11:08:00+09:00",
           "registered_at": "2026-10-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-02T16:33:00+09:00",
+          "registered_at": "2026-11-01",
           "views": null
         }
       ]
@@ -7097,6 +7117,11 @@
           "scheduled_at": "2026-10-20T19:52:00+09:00",
           "registered_at": "2026-10-17",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-04T19:52:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
         }
       ]
     },
@@ -7289,6 +7314,11 @@
           "scheduled_at": "2026-10-30T21:47:00+09:00",
           "registered_at": "2026-10-29",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-02T19:52:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
         }
       ]
     },
@@ -7300,11 +7330,17 @@
         {
           "scheduled_at": "2026-10-29T11:08:00+09:00",
           "registered_at": "2026-10-26",
-          "views": null
+          "views": 6206,
+          "posted_at": "2026-10-29T02:13:55.595+00:00"
         },
         {
           "scheduled_at": "2026-10-31T19:52:00+09:00",
           "registered_at": "2026-10-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-03T11:08:00+09:00",
+          "registered_at": "2026-11-01",
           "views": null
         }
       ]
@@ -7322,6 +7358,11 @@
         {
           "scheduled_at": "2026-11-01T11:08:00+09:00",
           "registered_at": "2026-10-29",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-04T14:42:00+09:00",
+          "registered_at": "2026-11-01",
           "views": null
         }
       ]
@@ -7370,6 +7411,30 @@
         {
           "scheduled_at": "2026-11-01T19:52:00+09:00",
           "registered_at": "2026-10-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d3a8596c24": {
+      "text": "男が復縁しない理由の99%は「気持ちがないから」じゃなくて「別れた決断は正しいと思ってるか",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-03T21:47:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c8f3787fbf": {
+      "text": "男が未練ゼロのときって、態度に全部出るからはっきりわかる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-04T16:33:00+09:00",
+          "registered_at": "2026-11-01",
           "views": null
         }
       ]

@@ -990,6 +990,11 @@
           "scheduled_at": "2026-11-02T16:33:00+09:00",
           "registered_at": "2026-10-26",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-05T21:47:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
         }
       ]
     },
@@ -1115,6 +1120,11 @@
         {
           "scheduled_at": "2026-11-02T21:47:00+09:00",
           "registered_at": "2026-10-26",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-06T14:42:00+09:00",
+          "registered_at": "2026-11-01",
           "views": null
         }
       ]
@@ -1520,6 +1530,11 @@
           "scheduled_at": "2026-10-31T14:42:00+09:00",
           "registered_at": "2026-10-23",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-07T14:42:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
         }
       ]
     },
@@ -1709,6 +1724,11 @@
         {
           "scheduled_at": "2026-11-03T19:52:00+09:00",
           "registered_at": "2026-10-26",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-05T16:33:00+09:00",
+          "registered_at": "2026-11-01",
           "views": null
         }
       ]
@@ -4189,6 +4209,102 @@
         {
           "scheduled_at": "2026-11-04T14:42:00+09:00",
           "registered_at": "2026-10-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ddd2ff970f": {
+      "text": "復縁って、ある日突然『進展する』って言われますが復縁婚した私の経験からもその通りだと思います",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-05T14:42:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a81d2442d5": {
+      "text": "復縁したい人に一つだけ言っておきたいんですが、男が別れを決める時、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-05T19:52:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fb1b9cd12e": {
+      "text": "復縁を目指すなら一度完全に離れる覚悟は必要なんだよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-06T11:08:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_69c46a6c60": {
+      "text": "別れて1週間で元彼がマッチングアプリ始めても、",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-06T19:52:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cec91f7554": {
+      "text": "元彼のブロックは『もう無理』のサインじゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-06T21:47:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f89678ce90": {
+      "text": "回避傾向のある元カレの場合、待っているだけだと何も進展しないことが多い。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-07T11:08:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8307d7d4c3": {
+      "text": "男って別れた後に吹っ切れて見えるのは、平静を装ってるだけなんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-07T16:33:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2d20780566": {
+      "text": "復縁できた人って結局諦めずに行動し続けた人なんだよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-07T19:52:00+09:00",
+          "registered_at": "2026-11-01",
           "views": null
         }
       ]

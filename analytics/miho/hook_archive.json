@@ -373,6 +373,11 @@
           "scheduled_at": "2026-11-03T16:33:00+09:00",
           "registered_at": "2026-10-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-06T16:33:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
         }
       ]
     },
@@ -1489,6 +1494,11 @@
         {
           "scheduled_at": "2026-11-01T21:47:00+09:00",
           "registered_at": "2026-10-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-08T19:52:00+09:00",
+          "registered_at": "2026-11-01",
           "views": null
         }
       ]
@@ -3191,6 +3201,11 @@
           "scheduled_at": "2026-11-05T14:42:00+09:00",
           "registered_at": "2026-10-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-07T14:42:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
         }
       ]
     },
@@ -3454,6 +3469,11 @@
           "scheduled_at": "2026-11-04T14:42:00+09:00",
           "registered_at": "2026-10-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-07T21:47:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
         }
       ]
     },
@@ -3614,6 +3634,11 @@
         {
           "scheduled_at": "2026-11-01T11:08:00+09:00",
           "registered_at": "2026-10-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-06T21:47:00+09:00",
+          "registered_at": "2026-11-01",
           "views": null
         }
       ]
@@ -4348,6 +4373,11 @@
           "scheduled_at": "2026-11-04T19:52:00+09:00",
           "registered_at": "2026-10-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-08T16:33:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
         }
       ]
     },
@@ -4383,7 +4413,8 @@
         {
           "scheduled_at": "2026-10-31T21:47:00+09:00",
           "registered_at": "2026-10-28",
-          "views": null
+          "views": 19,
+          "posted_at": "2026-10-31T12:54:19.669+00:00"
         }
       ]
     },
@@ -4527,6 +4558,78 @@
         {
           "scheduled_at": "2026-11-05T19:52:00+09:00",
           "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3570a14501": {
+      "text": "男の人って嫌いだから離れてる訳じゃないんだ、って知ったの。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-06T14:42:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4e102a6aa0": {
+      "text": "振られた側って、ずっと自分が選んでもらう側だと思っちゃうんですよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-06T19:52:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9580be46ff": {
+      "text": "実は別れてから全く連絡が取れない元彼との復縁率って異常に高いです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-07T11:08:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_38144fda5b": {
+      "text": "実際に復縁して気づいたんだけど、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-07T19:52:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5ed480c26d": {
+      "text": "復縁したいなら元彼との連絡は断ち切った方がいいです。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-08T11:08:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_162cf87014": {
+      "text": "回避型は自己防衛で別れを選ぶから、振った瞬間から後悔が始まってるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-08T14:42:00+09:00",
+          "registered_at": "2026-11-01",
           "views": null
         }
       ]

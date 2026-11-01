@@ -834,6 +834,11 @@
           "scheduled_at": "2026-10-30T16:33:00+09:00",
           "registered_at": "2026-10-29",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-02T16:33:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
         }
       ]
     },
@@ -932,6 +937,11 @@
           "scheduled_at": "2026-10-29T14:42:00+09:00",
           "registered_at": "2026-10-26",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-02T21:47:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
         }
       ]
     },
@@ -975,6 +985,11 @@
         {
           "scheduled_at": "2026-10-19T21:47:00+09:00",
           "registered_at": "2026-10-17",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-04T14:42:00+09:00",
+          "registered_at": "2026-11-01",
           "views": null
         }
       ]
@@ -1049,6 +1064,11 @@
         {
           "scheduled_at": "2026-10-18T16:33:00+09:00",
           "registered_at": "2026-10-17",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-03T14:42:00+09:00",
+          "registered_at": "2026-11-01",
           "views": null
         }
       ]
@@ -4086,7 +4106,8 @@
         {
           "scheduled_at": "2026-10-25T19:52:00+09:00",
           "registered_at": "2026-10-23",
-          "views": null
+          "views": 18,
+          "posted_at": "2026-10-25T10:59:51.124+00:00"
         }
       ]
     },
@@ -4185,7 +4206,8 @@
         {
           "scheduled_at": "2026-10-28T11:08:00+09:00",
           "registered_at": "2026-10-26",
-          "views": null
+          "views": 10,
+          "posted_at": "2026-10-28T02:13:12.248+00:00"
         },
         {
           "scheduled_at": "2026-10-31T19:52:00+09:00",
@@ -4236,6 +4258,11 @@
         {
           "scheduled_at": "2026-10-28T21:47:00+09:00",
           "registered_at": "2026-10-26",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-02T14:42:00+09:00",
+          "registered_at": "2026-11-01",
           "views": null
         }
       ]
@@ -4296,6 +4323,90 @@
         {
           "scheduled_at": "2026-11-01T16:33:00+09:00",
           "registered_at": "2026-10-29",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7a894f76d9": {
+      "text": "男って『連絡がない＝忘れられた』じゃなくて、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-02T19:52:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_550cf89d44": {
+      "text": "回避型と復縁するなら好きバレしてていいんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-03T11:08:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2b54b1c4df": {
+      "text": "全復縁したい女性に聞いて欲しいんだけど、不安にならなくても元彼はあなたのことまだ好きだよ。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-03T19:52:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_63d25702f3": {
+      "text": "男にとって『一途に尽くしてくれた元カノ』はガチで特別で、一生忘れられないんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-03T21:47:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_becb70c4d7": {
+      "text": "復縁の確率がほぼ0の絶望的な状況っていうのは基本無いよ。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-04T11:08:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_50a54052db": {
+      "text": "『彼はもう私のことなんて、とっくに忘れてるんだろうな』って思ってる人へ。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-04T16:33:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7b494b850d": {
+      "text": "回避型の『もう無理』は本気の決断じゃなくて、ただの『一時避難』。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-04T19:52:00+09:00",
+          "registered_at": "2026-11-01",
           "views": null
         }
       ]

@@ -322,6 +322,21 @@
           "scheduled_at": "2026-11-03T14:42:00+09:00",
           "registered_at": "2026-10-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-04T14:42:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-05T21:47:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-06T19:52:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
         }
       ]
     },
@@ -505,6 +520,11 @@
         {
           "scheduled_at": "2026-11-01T21:47:00+09:00",
           "registered_at": "2026-10-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-04T16:33:00+09:00",
+          "registered_at": "2026-11-01",
           "views": null
         }
       ]
@@ -753,6 +773,11 @@
         {
           "scheduled_at": "2026-11-03T11:08:00+09:00",
           "registered_at": "2026-10-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-04T19:52:00+09:00",
+          "registered_at": "2026-11-01",
           "views": null
         }
       ]
@@ -2906,6 +2931,11 @@
           "scheduled_at": "2026-11-02T11:08:00+09:00",
           "registered_at": "2026-10-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-04T21:47:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
         }
       ]
     },
@@ -3740,6 +3770,78 @@
         {
           "scheduled_at": "2026-11-03T19:52:00+09:00",
           "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_00496127c3": {
+      "text": "「いい子だった」で切られる子が一番多い。悪いところがないのと、選ばれるのは別。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-05T11:08:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a836ca8322": {
+      "text": "男が二度目をやめるとき「楽しくなかった」より圧倒的に多いのが『全部合わせてくれた』",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-05T14:42:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b224281442": {
+      "text": "俺の経験上、最後まで残るのは「可愛い子」でも「気が合う子」でもなくて「消す理由が無かった子」",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-05T19:52:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b3f90dbfe5": {
+      "text": "「私のどこがダメだったの」の答えは、ほぼ全員「ダメなところはなかった」です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-06T11:08:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_83e69b08cb": {
+      "text": "マチアプ3年、100人以上会って、そのほとんどを俺から切ってきました。消される子の共通点は毎回おなじです。",
+      "structure_label": "当事者告白型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-06T14:42:00+09:00",
+          "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_876c45f896": {
+      "text": "「楽しかった、また会おうね」って送った日の夜に、もう会わないと決めていました。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-01",
+      "history": [
+        {
+          "scheduled_at": "2026-11-06T16:33:00+09:00",
+          "registered_at": "2026-11-01",
           "views": null
         }
       ]
