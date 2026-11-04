@@ -995,6 +995,11 @@
           "scheduled_at": "2026-11-05T21:47:00+09:00",
           "registered_at": "2026-11-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-09T11:08:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -1030,7 +1035,8 @@
         {
           "scheduled_at": "2026-08-03T21:03:00+09:00",
           "registered_at": "2026-08-01",
-          "views": null
+          "views": 34,
+          "posted_at": "2026-11-02T12:52:11.164+00:00"
         },
         {
           "scheduled_at": "2026-08-10T14:42:00+09:00",
@@ -1125,6 +1131,11 @@
         {
           "scheduled_at": "2026-11-06T14:42:00+09:00",
           "registered_at": "2026-11-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-10T11:08:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -1729,6 +1740,11 @@
         {
           "scheduled_at": "2026-11-05T16:33:00+09:00",
           "registered_at": "2026-11-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-08T19:52:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -4305,6 +4321,114 @@
         {
           "scheduled_at": "2026-11-07T19:52:00+09:00",
           "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_13adf9fac1": {
+      "text": "復縁って難しいイメージがありますけど、実際のところ、",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-08T14:42:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_88df9a91a8": {
+      "text": "未読スルーって、既読無視より「もう見たくもないんだ」と感じますよね。",
+      "structure_label": "共感起点型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-08T16:33:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8ca9788beb": {
+      "text": "一方的に別れを告げたり向き合ってくれなかった男性ほど、後から未練たらたらになるよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-08T21:47:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4d2938c009": {
+      "text": "これほんとにそうなんだよね。",
+      "structure_label": "共感起点型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-09T14:42:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2b1ec41857": {
+      "text": "『友達から始めるのが安全』はウソなんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-09T19:52:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_03f71b237b": {
+      "text": "私も別れる時にこれ言われて本当に意味が分からなかったし、嫌いじゃないならまだいけるよね？",
+      "structure_label": "共感起点型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-09T21:47:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e146103e27": {
+      "text": "私の周りに復縁カップル5組いるんだけど、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-10T14:42:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3b37be7620": {
+      "text": "ブロックされても復縁はできる。私がその証拠なんだよね。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-10T16:33:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c28a01e309": {
+      "text": "分かる！",
+      "structure_label": "共感起点型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-10T19:52:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]

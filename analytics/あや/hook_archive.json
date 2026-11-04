@@ -839,6 +839,11 @@
           "scheduled_at": "2026-11-02T16:33:00+09:00",
           "registered_at": "2026-11-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-05T21:47:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -941,6 +946,11 @@
         {
           "scheduled_at": "2026-11-02T21:47:00+09:00",
           "registered_at": "2026-11-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-06T19:52:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -1069,6 +1079,11 @@
         {
           "scheduled_at": "2026-11-03T14:42:00+09:00",
           "registered_at": "2026-11-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-07T16:33:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -2487,6 +2502,11 @@
         {
           "scheduled_at": "2026-08-27T21:47:00+09:00",
           "registered_at": "2026-08-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-07T19:52:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -4264,6 +4284,11 @@
           "scheduled_at": "2026-11-02T14:42:00+09:00",
           "registered_at": "2026-11-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-07T14:42:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -4348,6 +4373,11 @@
           "scheduled_at": "2026-11-03T11:08:00+09:00",
           "registered_at": "2026-11-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-05T14:42:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -4359,6 +4389,11 @@
         {
           "scheduled_at": "2026-11-03T19:52:00+09:00",
           "registered_at": "2026-11-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-06T14:42:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -4407,6 +4442,66 @@
         {
           "scheduled_at": "2026-11-04T19:52:00+09:00",
           "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8f06b1f3bc": {
+      "text": "男って「連絡がない＝忘れられた」じゃなくて、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-05T16:33:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6e11cf03e9": {
+      "text": "「彼はもう私のことなんて、とっくに忘れてるんだろうな」って思ってる人へ。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-05T19:52:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_72d4bd80e8": {
+      "text": "復縁の確率がほぼ0の絶望的な状況っていうのは基本ないんだよね。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-06T11:08:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_06dcc66cfe": {
+      "text": "話したら自分の決断が揺れるのが、自分でも分かってたからです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-06T21:47:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e338c5f062": {
+      "text": "復縁って、ある日突然「進展する」って言われるけど、復縁した私の経験からもその通りだと思う。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-07T11:08:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]

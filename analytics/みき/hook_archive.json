@@ -1947,6 +1947,11 @@
           "scheduled_at": "2026-11-02T19:52:00+09:00",
           "registered_at": "2026-10-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-05T16:33:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -2058,6 +2063,11 @@
         {
           "scheduled_at": "2026-11-01T16:33:00+09:00",
           "registered_at": "2026-10-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-05T19:52:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -2366,6 +2376,11 @@
           "scheduled_at": "2026-11-01T14:42:00+09:00",
           "registered_at": "2026-10-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-05T14:42:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -2639,6 +2654,11 @@
           "scheduled_at": "2026-08-29T21:47:00+09:00",
           "registered_at": "2026-08-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-06T11:08:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -2677,6 +2697,11 @@
         {
           "scheduled_at": "2026-08-30T19:52:00+09:00",
           "registered_at": "2026-08-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-05T21:47:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -3025,6 +3050,11 @@
           "scheduled_at": "2026-10-27T14:42:00+09:00",
           "registered_at": "2026-10-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-07T19:52:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -3309,6 +3339,11 @@
         {
           "scheduled_at": "2026-09-21T11:08:00+09:00",
           "registered_at": "2026-09-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-06T14:42:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -4101,7 +4136,8 @@
         {
           "scheduled_at": "2026-10-31T11:08:00+09:00",
           "registered_at": "2026-10-28",
-          "views": null
+          "views": 19,
+          "posted_at": "2026-10-31T02:11:54.388+00:00"
         }
       ]
     },
@@ -4197,6 +4233,66 @@
         {
           "scheduled_at": "2026-11-03T19:52:00+09:00",
           "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9352f77714": {
+      "text": "後輩の「彼氏いないんですか？」は、世間話じゃなくて最後の確認です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-06T19:52:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ae47d8a6ef": {
+      "text": "2人になりそうな時の「みんなで行きましょう」は、気遣いじゃなくて拒否として届いてます。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-06T21:47:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a011ed5d96": {
+      "text": "「恋愛は動いた方が勝ち」は、年下後輩相手だと逆です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-07T11:08:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f7d89c7ef0": {
+      "text": "年下の男って、年上の先輩を普通に女として見てますからね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-07T14:42:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_46c1db868e": {
+      "text": "年下の後輩は「手が届かない先輩」に簡単には近づけません。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-07T16:33:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]

@@ -537,8 +537,8 @@
       "first_seen_at": "2026-06-13T17:21:54.315994+09:00",
       "source_threads_post_id": "18124947439523921",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-10-04T09:00:07.230453+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-11-04T09:00:38.576639+09:00",
       "last_used_month": null,
       "test_results": [],
       "needs_thread": true
@@ -717,8 +717,8 @@
       "first_seen_at": "2026-06-13T17:22:31.376991+09:00",
       "source_threads_post_id": "18156359410451889",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-10-04T09:00:07.230453+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-11-04T09:00:38.576639+09:00",
       "last_used_month": null,
       "test_results": [],
       "needs_thread": true
@@ -1197,8 +1197,8 @@
       "first_seen_at": "2026-06-13T17:25:08.610659+09:00",
       "source_threads_post_id": "18106571218482403",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-10-04T09:00:07.230453+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-11-04T09:00:38.576639+09:00",
       "last_used_month": null,
       "test_results": [],
       "needs_thread": true
@@ -1392,8 +1392,8 @@
       "first_seen_at": "2026-06-13T17:25:35.560322+09:00",
       "source_threads_post_id": "18080881684610250",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-10-04T09:00:07.230453+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-11-04T09:00:38.576639+09:00",
       "last_used_month": null,
       "test_results": [],
       "needs_thread": true
@@ -1847,8 +1847,8 @@
       "first_seen_at": "2026-06-13T17:27:01.343190+09:00",
       "source_threads_post_id": "18252908512274821",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-10-04T09:00:07.230453+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-11-04T09:00:38.576639+09:00",
       "last_used_month": null,
       "test_results": [],
       "needs_thread": true
@@ -1877,8 +1877,8 @@
       "first_seen_at": "2026-06-13T17:27:02.994712+09:00",
       "source_threads_post_id": "18207116485294991",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-10-04T09:00:07.230453+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-11-04T09:00:38.576639+09:00",
       "last_used_month": null,
       "test_results": [],
       "needs_thread": true
@@ -2237,8 +2237,8 @@
       "first_seen_at": "2026-06-13T17:27:52.065713+09:00",
       "source_threads_post_id": "17936674175809968",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-10-04T09:00:07.230453+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-11-04T09:00:38.576639+09:00",
       "last_used_month": null,
       "test_results": [],
       "needs_thread": true
@@ -2407,8 +2407,8 @@
       "first_seen_at": "2026-06-13T17:28:02.949582+09:00",
       "source_threads_post_id": "17886321222132951",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-10-04T09:00:07.230453+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-11-04T09:00:38.576639+09:00",
       "last_used_month": null,
       "test_results": [],
       "needs_thread": true
@@ -2452,8 +2452,8 @@
       "first_seen_at": "2026-06-13T17:28:05.782545+09:00",
       "source_threads_post_id": "18345694171126985",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-10-04T09:00:07.230453+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-11-04T09:00:38.576639+09:00",
       "last_used_month": null,
       "test_results": [],
       "needs_thread": true
@@ -2522,8 +2522,8 @@
       "first_seen_at": "2026-06-13T17:28:10.282491+09:00",
       "source_threads_post_id": "17893666890097500",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-10-04T09:00:07.230453+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-11-04T09:00:38.576639+09:00",
       "last_used_month": null,
       "test_results": [],
       "needs_thread": true
@@ -2537,8 +2537,8 @@
       "first_seen_at": "2026-06-13T17:28:10.964677+09:00",
       "source_threads_post_id": "18019981286621275",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-10-04T09:00:07.230453+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-11-04T09:00:38.576639+09:00",
       "last_used_month": null,
       "test_results": [],
       "needs_thread": true
@@ -3489,5 +3489,5 @@
       "needs_thread": true
     }
   },
-  "updated_at": "2026-11-03T09:00:20.895887+09:00"
+  "updated_at": "2026-11-04T09:00:38.576639+09:00"
 }

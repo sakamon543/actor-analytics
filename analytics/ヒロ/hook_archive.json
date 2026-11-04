@@ -4324,6 +4324,11 @@
           "scheduled_at": "2026-11-01T21:47:00+09:00",
           "registered_at": "2026-10-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-06T11:08:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -4433,6 +4438,11 @@
           "scheduled_at": "2026-10-26T11:08:00+09:00",
           "registered_at": "2026-10-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-05T19:52:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -4474,6 +4484,11 @@
           "scheduled_at": "2026-11-01T19:52:00+09:00",
           "registered_at": "2026-10-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-05T21:47:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -4490,6 +4505,11 @@
         {
           "scheduled_at": "2026-11-02T11:08:00+09:00",
           "registered_at": "2026-10-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-06T19:52:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -4508,6 +4528,11 @@
           "scheduled_at": "2026-11-02T19:52:00+09:00",
           "registered_at": "2026-10-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-06T21:47:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -4524,6 +4549,11 @@
         {
           "scheduled_at": "2026-11-02T21:47:00+09:00",
           "registered_at": "2026-10-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-07T11:08:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -4542,6 +4572,11 @@
           "scheduled_at": "2026-11-03T11:08:00+09:00",
           "registered_at": "2026-10-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-07T14:42:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -4559,6 +4594,11 @@
           "scheduled_at": "2026-11-03T14:42:00+09:00",
           "registered_at": "2026-10-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-07T16:33:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -4575,6 +4615,11 @@
         {
           "scheduled_at": "2026-11-03T16:33:00+09:00",
           "registered_at": "2026-10-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-07T19:52:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -4599,6 +4644,18 @@
         {
           "scheduled_at": "2026-11-03T19:52:00+09:00",
           "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f3b20200f3": {
+      "text": "男が別れた後に『手放さなきゃよかった』と後悔する女性には共通点があるんですよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-05T16:33:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]

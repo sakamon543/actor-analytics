@@ -54,6 +54,11 @@
           "scheduled_at": "2026-10-25T21:47:00+09:00",
           "registered_at": "2026-10-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-07T19:52:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -1293,6 +1298,11 @@
           "scheduled_at": "2026-11-03T16:33:00+09:00",
           "registered_at": "2026-10-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-06T19:52:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -1487,6 +1497,11 @@
         {
           "scheduled_at": "2026-11-04T11:08:00+09:00",
           "registered_at": "2026-10-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-08T11:08:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -1685,6 +1700,11 @@
         {
           "scheduled_at": "2026-11-04T21:47:00+09:00",
           "registered_at": "2026-10-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-06T21:47:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -2039,6 +2059,11 @@
           "scheduled_at": "2026-11-02T16:33:00+09:00",
           "registered_at": "2026-10-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-07T11:08:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -2115,6 +2140,11 @@
         {
           "scheduled_at": "2026-11-03T19:52:00+09:00",
           "registered_at": "2026-10-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-07T14:42:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -3903,6 +3933,11 @@
         {
           "scheduled_at": "2026-11-03T14:42:00+09:00",
           "registered_at": "2026-10-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-06T16:33:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -5871,6 +5906,11 @@
           "scheduled_at": "2026-10-27T14:42:00+09:00",
           "registered_at": "2026-10-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-08T16:33:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -6094,6 +6134,11 @@
         {
           "scheduled_at": "2026-09-21T19:52:00+09:00",
           "registered_at": "2026-09-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-08T19:52:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -6933,6 +6978,11 @@
           "scheduled_at": "2026-11-01T21:47:00+09:00",
           "registered_at": "2026-10-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-06T14:42:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -7004,6 +7054,30 @@
         {
           "scheduled_at": "2026-11-05T19:52:00+09:00",
           "registered_at": "2026-10-31",
+          "views": null
+        }
+      ]
+    },
+    "fookid_21363b1dd8": {
+      "text": "復縁した彼に「もし私が連絡してなかったらどうしてた？」って聞いたら、「自分から動くことは絶対になかった」って。",
+      "structure_label": "インタビュー暴露型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-07T21:47:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3321d82356": {
+      "text": "「本当に戻りたいなら彼から連絡くるはず」って待ってる人。残念だけど、戻りたくても自分からは動けないのが男なんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-08T14:42:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]

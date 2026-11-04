@@ -378,6 +378,11 @@
           "scheduled_at": "2026-11-06T16:33:00+09:00",
           "registered_at": "2026-11-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-09T16:33:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -2441,6 +2446,11 @@
           "scheduled_at": "2026-10-30T11:08:00+09:00",
           "registered_at": "2026-10-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-10T21:47:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -3474,6 +3484,11 @@
           "scheduled_at": "2026-11-07T21:47:00+09:00",
           "registered_at": "2026-11-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-10T14:42:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -3639,6 +3654,11 @@
         {
           "scheduled_at": "2026-11-06T21:47:00+09:00",
           "registered_at": "2026-11-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-09T21:47:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -4378,6 +4398,11 @@
           "scheduled_at": "2026-11-08T16:33:00+09:00",
           "registered_at": "2026-11-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-11T16:33:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -4571,6 +4596,11 @@
           "scheduled_at": "2026-11-06T14:42:00+09:00",
           "registered_at": "2026-11-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-09T19:52:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -4582,6 +4612,11 @@
         {
           "scheduled_at": "2026-11-06T19:52:00+09:00",
           "registered_at": "2026-11-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-09T14:42:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -4595,6 +4630,11 @@
           "scheduled_at": "2026-11-07T11:08:00+09:00",
           "registered_at": "2026-11-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-10T11:08:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -4606,6 +4646,11 @@
         {
           "scheduled_at": "2026-11-07T19:52:00+09:00",
           "registered_at": "2026-11-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-10T19:52:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -4619,6 +4664,11 @@
           "scheduled_at": "2026-11-08T11:08:00+09:00",
           "registered_at": "2026-11-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-11T11:08:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -4630,6 +4680,30 @@
         {
           "scheduled_at": "2026-11-08T14:42:00+09:00",
           "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_eff0226265": {
+      "text": "回避型の彼が自己防衛で別れを選んだなら、振った瞬間から後悔は始まってます。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-11T14:42:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dec967b38c": {
+      "text": "男は、「返信が来てる＝関係が戻ってる」とは思っていない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-11T19:52:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]

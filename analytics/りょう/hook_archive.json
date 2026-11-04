@@ -337,6 +337,16 @@
           "scheduled_at": "2026-11-06T19:52:00+09:00",
           "registered_at": "2026-11-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-07T14:42:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-09T11:08:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -525,6 +535,11 @@
         {
           "scheduled_at": "2026-11-04T16:33:00+09:00",
           "registered_at": "2026-11-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-07T21:47:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -778,6 +793,16 @@
         {
           "scheduled_at": "2026-11-04T19:52:00+09:00",
           "registered_at": "2026-11-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-07T16:33:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-09T19:52:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -1864,6 +1889,11 @@
           "scheduled_at": "2026-11-01T16:33:00+09:00",
           "registered_at": "2026-10-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-08T11:08:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
         }
       ]
     },
@@ -2475,6 +2505,11 @@
         {
           "scheduled_at": "2026-10-26T11:08:00+09:00",
           "registered_at": "2026-10-24",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-07T19:52:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
@@ -3842,6 +3877,66 @@
         {
           "scheduled_at": "2026-11-06T16:33:00+09:00",
           "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_79c0c9ed6b": {
+      "text": "男は、あなた1人を見て会っているわけじゃないです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-08T14:42:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dff2778998": {
+      "text": "男は一番いい子を選んでいません。違和感が出た子から順に消しているだけです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-08T19:52:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ab95f98b8a": {
+      "text": "「また会おうね」と送った日の夜に、もう次はないと決めてました。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-08T21:47:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_be4dccaaf7": {
+      "text": "「いい子だった」で切られる子が一番多い。欠点がないのと、選ばれるのは別。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-09T14:42:00+09:00",
+          "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ee5295887d": {
+      "text": "好かれようとするほど、男の中では消される順番が上がります。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-04",
+      "history": [
+        {
+          "scheduled_at": "2026-11-09T16:33:00+09:00",
+          "registered_at": "2026-11-04",
           "views": null
         }
       ]
