@@ -2276,6 +2276,11 @@
           "scheduled_at": "2026-11-04T11:08:00+09:00",
           "registered_at": "2026-11-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-09T14:42:00+09:00",
+          "registered_at": "2026-11-06",
+          "views": null
         }
       ]
     },
@@ -2872,6 +2877,11 @@
         {
           "scheduled_at": "2026-11-02T21:47:00+09:00",
           "registered_at": "2026-11-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-08T21:47:00+09:00",
+          "registered_at": "2026-11-06",
           "views": null
         }
       ]
@@ -5854,6 +5864,11 @@
           "scheduled_at": "2026-11-03T19:52:00+09:00",
           "registered_at": "2026-11-01",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-09T11:08:00+09:00",
+          "registered_at": "2026-11-06",
+          "views": null
         }
       ]
     },
@@ -5976,6 +5991,11 @@
         {
           "scheduled_at": "2026-11-02T16:33:00+09:00",
           "registered_at": "2026-11-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-08T19:52:00+09:00",
+          "registered_at": "2026-11-06",
           "views": null
         }
       ]
@@ -7111,7 +7131,8 @@
         {
           "scheduled_at": "2026-10-17T19:52:00+09:00",
           "registered_at": "2026-10-14",
-          "views": null
+          "views": 18,
+          "posted_at": "2026-11-04T10:57:23.362+00:00"
         },
         {
           "scheduled_at": "2026-10-20T19:52:00+09:00",
@@ -7435,6 +7456,78 @@
         {
           "scheduled_at": "2026-11-04T16:33:00+09:00",
           "registered_at": "2026-11-01",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a1fc95d882": {
+      "text": "キャパオーバーになった男は「彼女に頼る」より「別れる」を選びます。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-06",
+      "history": [
+        {
+          "scheduled_at": "2026-11-07T16:33:00+09:00",
+          "registered_at": "2026-11-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6fca926851": {
+      "text": "「男にとって元カノは特別な女性」は120%真実。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-06",
+      "history": [
+        {
+          "scheduled_at": "2026-11-07T19:52:00+09:00",
+          "registered_at": "2026-11-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_35bab7a0cc": {
+      "text": "周りの復縁した男はほぼ全員「彼女から連絡がきたのがきっかけ」って言ってますね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-06",
+      "history": [
+        {
+          "scheduled_at": "2026-11-07T21:47:00+09:00",
+          "registered_at": "2026-11-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4d68c8f840": {
+      "text": "復縁できる女性ってマジで強気マインドですよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-06",
+      "history": [
+        {
+          "scheduled_at": "2026-11-08T11:08:00+09:00",
+          "registered_at": "2026-11-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ed12f23437": {
+      "text": "『モテる女』と『忘れられない女』は、全くの別モノなのよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-06",
+      "history": [
+        {
+          "scheduled_at": "2026-11-09T16:33:00+09:00",
+          "registered_at": "2026-11-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_303dee4225": {
+      "text": "『友達からやり直すのが安全』って常識、嘘です",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-06",
+      "history": [
+        {
+          "scheduled_at": "2026-11-09T19:52:00+09:00",
+          "registered_at": "2026-11-06",
           "views": null
         }
       ]

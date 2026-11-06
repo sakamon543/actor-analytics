@@ -350,8 +350,8 @@
       "first_seen_views": 5086,
       "first_seen_at": "2026-08-30T12:50:59.242+00:00",
       "status": "used",
-      "used_count": 2,
-      "last_used_at": "2026-10-06T09:07:34.371522+09:00",
+      "used_count": 3,
+      "last_used_at": "2026-11-06T09:06:45.552328+09:00",
       "sales_followed": true
     },
     "rcyc_f3f13adf85": {
@@ -385,8 +385,8 @@
       "first_seen_views": 7466,
       "first_seen_at": "2026-09-13T12:51:08.745+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-10-03T09:07:47.045641+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-11-06T09:06:45.552328+09:00",
       "sales_followed": false
     },
     "rcyc_e08909a4ff": {
@@ -427,7 +427,18 @@
       "used_count": 1,
       "last_used_at": "2026-11-01T09:07:59.830754+09:00",
       "sales_followed": false
+    },
+    "rcyc_2d27923824": {
+      "recycle_id": "rcyc_2d27923824",
+      "text": "追わなくなった女が一番強い。ほんとにこれ。ただ、既読つかないスマホを握って『追わない』を必死に我慢してる今のあなたは、強いんじゃなくてただ止まってるだけ。男が動くのは、こっちが我慢した時じゃない。",
+      "thread": [],
+      "first_seen_views": 2348,
+      "first_seen_at": "2026-10-31T02:13:24.051+00:00",
+      "status": "ready",
+      "used_count": 0,
+      "last_used_at": null,
+      "sales_followed": false
     }
   },
-  "updated_at": "2026-11-01T09:07:59.830754+09:00"
+  "updated_at": "2026-11-06T09:06:45.552328+09:00"
 }
