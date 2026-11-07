@@ -59,6 +59,11 @@
           "scheduled_at": "2026-11-07T19:52:00+09:00",
           "registered_at": "2026-11-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-10T11:08:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
         }
       ]
     },
@@ -460,6 +465,11 @@
         {
           "scheduled_at": "2026-11-05T16:33:00+09:00",
           "registered_at": "2026-10-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-10T21:47:00+09:00",
+          "registered_at": "2026-11-07",
           "views": null
         }
       ]
@@ -1303,6 +1313,11 @@
           "scheduled_at": "2026-11-06T19:52:00+09:00",
           "registered_at": "2026-11-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-09T19:52:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
         }
       ]
     },
@@ -1502,6 +1517,11 @@
         {
           "scheduled_at": "2026-11-08T11:08:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-11T14:42:00+09:00",
+          "registered_at": "2026-11-07",
           "views": null
         }
       ]
@@ -2145,6 +2165,11 @@
         {
           "scheduled_at": "2026-11-07T14:42:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-11T19:52:00+09:00",
+          "registered_at": "2026-11-07",
           "views": null
         }
       ]
@@ -3938,6 +3963,11 @@
         {
           "scheduled_at": "2026-11-06T16:33:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-09T16:33:00+09:00",
+          "registered_at": "2026-11-07",
           "views": null
         }
       ]
@@ -6182,6 +6212,11 @@
           "scheduled_at": "2026-09-24T19:52:00+09:00",
           "registered_at": "2026-09-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-09T21:47:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
         }
       ]
     },
@@ -7078,6 +7113,66 @@
         {
           "scheduled_at": "2026-11-08T14:42:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_62a7d0e227": {
+      "text": "男が別れた後に『手放さなきゃよかった』と後悔する女性には共通点があるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-09T14:42:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a1452a6386": {
+      "text": "別れを切り出された夜に、絶対やっちゃいけない行動が1つある。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-10T14:42:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9101f9cc74": {
+      "text": "本当に東京大神宮の縁結び効果やばいかも",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-10T19:52:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_24bb5a3afb": {
+      "text": "男は、「友達から始めれば戻れる」とは思っていない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-11T11:08:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_15cd019881": {
+      "text": "次の休み東京大神宮行くしかない",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-11T16:33:00+09:00",
+          "registered_at": "2026-11-07",
           "views": null
         }
       ]

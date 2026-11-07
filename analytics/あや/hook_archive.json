@@ -844,6 +844,11 @@
           "scheduled_at": "2026-11-05T21:47:00+09:00",
           "registered_at": "2026-11-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-08T19:52:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
         }
       ]
     },
@@ -951,6 +956,11 @@
         {
           "scheduled_at": "2026-11-06T19:52:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-09T14:42:00+09:00",
+          "registered_at": "2026-11-07",
           "views": null
         }
       ]
@@ -4490,7 +4500,8 @@
         {
           "scheduled_at": "2026-11-06T21:47:00+09:00",
           "registered_at": "2026-11-04",
-          "views": null
+          "views": 1,
+          "posted_at": "2026-11-06T12:52:59.701+00:00"
         }
       ]
     },
@@ -4502,6 +4513,126 @@
         {
           "scheduled_at": "2026-11-07T11:08:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_62a7d0e227": {
+      "text": "男が別れた後に『手放さなきゃよかった』と後悔する女性には共通点があるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-08T14:42:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e107cba250": {
+      "text": "男は本気で好きだった女性を忘れることはないんだよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-08T16:33:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_51e661c7e9": {
+      "text": "元彼から『友達ならいいよ』と言われても、そこで友達になりきらない方がいいよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-08T21:47:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2e705031c9": {
+      "text": "男って『自分から振った恋』はずっと引きずるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-09T11:08:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f29a512411": {
+      "text": "回避型との復縁は『彼が惚れた素直な自分』を取り戻すのが近道だよ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-09T19:52:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_60c19351fe": {
+      "text": "男って本命への気持ちが大きくなりすぎたときほど、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-09T21:47:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5735062f96": {
+      "text": "正直、『男が冷却期間中に元カノを忘れる』は100%ないよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-10T11:08:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_94478589b9": {
+      "text": "『距離を置こう』って言われた人へ。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-10T14:42:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8dc87b4f89": {
+      "text": "元彼の沈黙は『気持ちがない証拠』じゃない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-10T16:33:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_97789f9e93": {
+      "text": "思い込む必要はないよ。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-10T19:52:00+09:00",
+          "registered_at": "2026-11-07",
           "views": null
         }
       ]

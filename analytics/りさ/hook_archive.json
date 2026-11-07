@@ -322,6 +322,11 @@
           "scheduled_at": "2026-11-05T19:52:00+09:00",
           "registered_at": "2026-11-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-08T14:42:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
         }
       ]
     },
@@ -622,6 +627,11 @@
           "scheduled_at": "2026-11-02T21:47:00+09:00",
           "registered_at": "2026-10-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-09T19:52:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
         }
       ]
     },
@@ -761,6 +771,16 @@
           "scheduled_at": "2026-11-02T14:42:00+09:00",
           "registered_at": "2026-10-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-08T19:52:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-10T14:42:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
         }
       ]
     },
@@ -831,6 +851,11 @@
         {
           "scheduled_at": "2026-10-24T21:47:00+09:00",
           "registered_at": "2026-10-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-09T14:42:00+09:00",
+          "registered_at": "2026-11-07",
           "views": null
         }
       ]
@@ -1288,6 +1313,11 @@
           "scheduled_at": "2026-11-02T11:08:00+09:00",
           "registered_at": "2026-10-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-08T21:47:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
         }
       ]
     },
@@ -1618,6 +1648,16 @@
           "scheduled_at": "2026-11-01T16:33:00+09:00",
           "registered_at": "2026-10-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-09T11:08:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-10T11:08:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
         }
       ]
     },
@@ -1943,6 +1983,11 @@
         {
           "scheduled_at": "2026-11-06T19:52:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-09T21:47:00+09:00",
+          "registered_at": "2026-11-07",
           "views": null
         }
       ]
@@ -2727,6 +2772,11 @@
         {
           "scheduled_at": "2026-11-05T16:33:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-08T16:33:00+09:00",
+          "registered_at": "2026-11-07",
           "views": null
         }
       ]
@@ -3517,6 +3567,30 @@
         {
           "scheduled_at": "2026-11-07T19:52:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_109f58a96a": {
+      "text": "年下男子の「尊敬してます」は好意の言葉じゃなくて、ただの『線引き』",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-10T16:33:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_298de9bde8": {
+      "text": "7歳下の彼が言ってたけど『年上の余裕は、近づくなの合図に見える』らしい",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-10T19:52:00+09:00",
+          "registered_at": "2026-11-07",
           "views": null
         }
       ]

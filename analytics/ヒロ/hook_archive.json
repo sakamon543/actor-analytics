@@ -522,6 +522,11 @@
           "scheduled_at": "2026-10-22T21:47:00+09:00",
           "registered_at": "2026-10-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-10T19:52:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
         }
       ]
     },
@@ -2697,8 +2702,8 @@
         {
           "scheduled_at": "2026-08-24T21:47:00+09:00",
           "registered_at": "2026-08-22",
-          "views": 4510,
-          "posted_at": "2026-08-24T12:51:22.626+00:00"
+          "views": 4960,
+          "posted_at": "2026-11-02T05:47:23.538+00:00"
         }
       ]
     },
@@ -3840,7 +3845,8 @@
         {
           "scheduled_at": "2026-10-15T19:52:00+09:00",
           "registered_at": "2026-10-12",
-          "views": null
+          "views": 6576,
+          "posted_at": "2026-11-01T05:49:35.775+00:00"
         }
       ]
     },
@@ -4645,6 +4651,11 @@
           "scheduled_at": "2026-11-03T19:52:00+09:00",
           "registered_at": "2026-10-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-08T16:33:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
         }
       ]
     },
@@ -4656,6 +4667,114 @@
         {
           "scheduled_at": "2026-11-05T16:33:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f3320b373c": {
+      "text": "回避型の男にとって『LINEの無視やブロック』って嫌いのサインじゃない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-08T19:52:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_940c1e5e68": {
+      "text": "そっちの記憶が薄れて『一緒にいて楽しかったな』しか残らなくなる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-08T21:47:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c8b98cd138": {
+      "text": "別れる時の心理って、男性は「ただ落ち着きたいだけ」と思って振るけど、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-09T11:08:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ed99c0652f": {
+      "text": "男が回避型の場合、復縁の可能性はマジで高い。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-09T14:42:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a210fb1dd6": {
+      "text": "元彼が別れ際に急に冷たくなったり、一気に距離を置いて黙り込んだ場合、回避型の可能性が高い。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-09T19:52:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fca72d5ae4": {
+      "text": "『冷却期間は3ヶ月』←これは復縁の嘘です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-09T21:47:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8fc4c9e516": {
+      "text": "なんでか復縁できちゃう女の子の特徴",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-10T11:08:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_808c447022": {
+      "text": "男が復縁を意識するのって「元カノはもう俺のこと忘れたかも」と思うとき。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-10T14:42:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_84cf1e6839": {
+      "text": "正直に言うと、男って別れた後も元カノの様子気になって仕方ないんです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-10T16:33:00+09:00",
+          "registered_at": "2026-11-07",
           "views": null
         }
       ]

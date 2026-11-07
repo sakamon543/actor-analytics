@@ -1000,6 +1000,11 @@
           "scheduled_at": "2026-11-09T11:08:00+09:00",
           "registered_at": "2026-11-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-11T19:52:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
         }
       ]
     },
@@ -1136,6 +1141,11 @@
         {
           "scheduled_at": "2026-11-10T11:08:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-12T11:08:00+09:00",
+          "registered_at": "2026-11-07",
           "views": null
         }
       ]
@@ -1545,6 +1555,11 @@
         {
           "scheduled_at": "2026-11-07T14:42:00+09:00",
           "registered_at": "2026-11-01",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-13T11:08:00+09:00",
+          "registered_at": "2026-11-07",
           "views": null
         }
       ]
@@ -4406,6 +4421,11 @@
           "scheduled_at": "2026-11-10T14:42:00+09:00",
           "registered_at": "2026-11-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-12T21:47:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
         }
       ]
     },
@@ -4429,6 +4449,102 @@
         {
           "scheduled_at": "2026-11-10T19:52:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_486b4d2e0d": {
+      "text": "男が別れた後に「手放さなきゃよかった」って後悔する女性には、共通点があるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-11T14:42:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f67bc66ea3": {
+      "text": "元彼からの返信が来るまでの時間、どんどん長くなってませんか。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-11T16:33:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_251903b8c6": {
+      "text": "男って、気持ちが無くなったから別れを決意してるわけじゃないです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-11T21:47:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ae062ac8e0": {
+      "text": "振られたあとに散々話し合いたいって伝えてた私にとっては耳が痛すぎるけど、",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-12T14:42:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1c2867d4b6": {
+      "text": "男が別れを決めるとき「重かった」より圧倒的に多いのが『男としての自信が折れた』なんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-12T19:52:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_852142d2d0": {
+      "text": "自分から振った男性でもこっちの行動次第で「復縁したい」って戻ってきてくれるんだよね。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-13T14:42:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_05ec6f0c76": {
+      "text": "私の彼、今でこそ毎日『一緒に寝よ』って言ってくるんだけど、",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-13T16:33:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6d33610256": {
+      "text": "ブロックされても復縁はできるよ。私がその証拠なんだよね。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-13T19:52:00+09:00",
+          "registered_at": "2026-11-07",
           "views": null
         }
       ]

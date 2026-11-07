@@ -347,6 +347,16 @@
           "scheduled_at": "2026-11-09T11:08:00+09:00",
           "registered_at": "2026-11-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-10T14:42:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-12T19:52:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
         }
       ]
     },
@@ -540,6 +550,11 @@
         {
           "scheduled_at": "2026-11-07T21:47:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-11T11:08:00+09:00",
+          "registered_at": "2026-11-07",
           "views": null
         }
       ]
@@ -803,6 +818,11 @@
         {
           "scheduled_at": "2026-11-09T19:52:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-10T19:52:00+09:00",
+          "registered_at": "2026-11-07",
           "views": null
         }
       ]
@@ -1894,6 +1914,11 @@
           "scheduled_at": "2026-11-08T11:08:00+09:00",
           "registered_at": "2026-11-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-10T16:33:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
         }
       ]
     },
@@ -2510,6 +2535,11 @@
         {
           "scheduled_at": "2026-11-07T19:52:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-11T14:42:00+09:00",
+          "registered_at": "2026-11-07",
           "views": null
         }
       ]
@@ -3937,6 +3967,78 @@
         {
           "scheduled_at": "2026-11-09T16:33:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4f1ccb1659": {
+      "text": "男は、一番いい子を選んでいません。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-10T21:47:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_72a918d809": {
+      "text": "「また会おうね」は、また会う約束じゃないです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-11T19:52:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f786e481bd": {
+      "text": "男が『この子はもう無い』と決めるのは、だいたい帰りの電車の中です。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-11T21:47:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a0881f2b0e": {
+      "text": "悪いところが一個もなかった子から、俺は順番に消してました。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-12T11:08:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7c9b055d32": {
+      "text": "「好かれる努力を足せば残れる」はウソです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-12T14:42:00+09:00",
+          "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_36e7996561": {
+      "text": "あなたが消された理由は、探しても見つからないです。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-07",
+      "history": [
+        {
+          "scheduled_at": "2026-11-12T16:33:00+09:00",
+          "registered_at": "2026-11-07",
           "views": null
         }
       ]
