@@ -434,11 +434,11 @@
       "thread": [],
       "first_seen_views": 2348,
       "first_seen_at": "2026-10-31T02:13:24.051+00:00",
-      "status": "ready",
-      "used_count": 0,
-      "last_used_at": null,
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-11-09T09:07:15.887436+09:00",
       "sales_followed": false
     }
   },
-  "updated_at": "2026-11-06T09:06:45.552328+09:00"
+  "updated_at": "2026-11-09T09:07:15.887436+09:00"
 }

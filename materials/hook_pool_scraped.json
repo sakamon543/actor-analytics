@@ -5279,7 +5279,12 @@
       "used_by": {
         "うみこ": "2026-11-01"
       },
-      "results": {}
+      "results": {
+        "うみこ": {
+          "views": 368,
+          "at": "2026-11-09"
+        }
+      }
     },
     {
       "pool_id": "hp_ed04e83ddd",
@@ -6286,7 +6291,10 @@
       "likes": 49,
       "source": "https://x.com/haru_motokare/status/2102725163011752084",
       "source_handle": "haru_motokare",
-      "collected_at": "2026-09-24"
+      "collected_at": "2026-09-24",
+      "used_by": {
+        "うみこ": "2026-11-09"
+      }
     },
     {
       "pool_id": "hp_ccb511f2b5",
@@ -6345,7 +6353,10 @@
       "likes": 153,
       "source": "https://x.com/haru_motokare/status/2094967294200017296",
       "source_handle": "haru_motokare",
-      "collected_at": "2026-09-06"
+      "collected_at": "2026-09-06",
+      "used_by": {
+        "うみこ": "2026-11-09"
+      }
     },
     {
       "pool_id": "hp_3f05acdc74",
@@ -30243,5 +30254,5 @@
       "collected_at": "2026-09-14"
     }
   ],
-  "updated_at": "2026-11-07T10:05:31.295049+09:00"
+  "updated_at": "2026-11-09T09:07:15.888359+09:00"
 }

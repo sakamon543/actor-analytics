@@ -1145,6 +1145,11 @@
           "scheduled_at": "2026-10-19T19:52:00+09:00",
           "registered_at": "2026-10-17",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-11T21:47:00+09:00",
+          "registered_at": "2026-11-09",
+          "views": null
         }
       ]
     },
@@ -2131,6 +2136,11 @@
           "scheduled_at": "2026-10-26T16:33:00+09:00",
           "registered_at": "2026-10-23",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-12T11:08:00+09:00",
+          "registered_at": "2026-11-09",
+          "views": null
         }
       ]
     },
@@ -2280,6 +2290,11 @@
         {
           "scheduled_at": "2026-11-09T14:42:00+09:00",
           "registered_at": "2026-11-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-12T14:42:00+09:00",
+          "registered_at": "2026-11-09",
           "views": null
         }
       ]
@@ -2882,6 +2897,11 @@
         {
           "scheduled_at": "2026-11-08T21:47:00+09:00",
           "registered_at": "2026-11-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-11T11:08:00+09:00",
+          "registered_at": "2026-11-09",
           "views": null
         }
       ]
@@ -5052,6 +5072,11 @@
           "scheduled_at": "2026-08-02T19:52:00+09:00",
           "registered_at": "2026-07-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-12T19:52:00+09:00",
+          "registered_at": "2026-11-09",
+          "views": null
         }
       ]
     },
@@ -5869,6 +5894,11 @@
           "scheduled_at": "2026-11-09T11:08:00+09:00",
           "registered_at": "2026-11-06",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-11T14:42:00+09:00",
+          "registered_at": "2026-11-09",
+          "views": null
         }
       ]
     },
@@ -5996,6 +6026,11 @@
         {
           "scheduled_at": "2026-11-08T19:52:00+09:00",
           "registered_at": "2026-11-06",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-10T21:47:00+09:00",
+          "registered_at": "2026-11-09",
           "views": null
         }
       ]
@@ -6521,6 +6556,11 @@
         {
           "scheduled_at": "2026-10-22T14:42:00+09:00",
           "registered_at": "2026-10-20",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-11T19:52:00+09:00",
+          "registered_at": "2026-11-09",
           "views": null
         }
       ]
@@ -7137,7 +7177,8 @@
         {
           "scheduled_at": "2026-10-20T19:52:00+09:00",
           "registered_at": "2026-10-17",
-          "views": null
+          "views": 24,
+          "posted_at": "2026-11-04T10:57:23.362+00:00"
         },
         {
           "scheduled_at": "2026-11-04T19:52:00+09:00",
@@ -7528,6 +7569,42 @@
         {
           "scheduled_at": "2026-11-09T19:52:00+09:00",
           "registered_at": "2026-11-06",
+          "views": null
+        }
+      ]
+    },
+    "fookid_746a7751af": {
+      "text": "元彼を一途に愛した女性ほど、復縁したいなら「黙って待つ」のはやめた方がいいです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-09",
+      "history": [
+        {
+          "scheduled_at": "2026-11-10T16:33:00+09:00",
+          "registered_at": "2026-11-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c8a80951f2": {
+      "text": "男は、完全に気持ちが冷めるとちゃんと話し合いをして別れます。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-09",
+      "history": [
+        {
+          "scheduled_at": "2026-11-10T19:52:00+09:00",
+          "registered_at": "2026-11-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ad3528ffda": {
+      "text": "男が未練ゼロのときって、態度ではっきりわかるのよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-09",
+      "history": [
+        {
+          "scheduled_at": "2026-11-12T16:33:00+09:00",
+          "registered_at": "2026-11-09",
           "views": null
         }
       ]
