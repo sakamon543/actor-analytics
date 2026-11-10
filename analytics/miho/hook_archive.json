@@ -388,6 +388,11 @@
           "scheduled_at": "2026-11-12T16:33:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-15T16:33:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
         }
       ]
     },
@@ -2461,6 +2466,11 @@
           "scheduled_at": "2026-11-10T21:47:00+09:00",
           "registered_at": "2026-11-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-16T21:47:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
         }
       ]
     },
@@ -3503,6 +3513,11 @@
         {
           "scheduled_at": "2026-11-10T14:42:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-15T21:47:00+09:00",
+          "registered_at": "2026-11-10",
           "views": null
         }
       ]
@@ -4743,6 +4758,11 @@
           "scheduled_at": "2026-11-12T14:42:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-15T14:42:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
         }
       ]
     },
@@ -4814,6 +4834,102 @@
         {
           "scheduled_at": "2026-11-14T16:33:00+09:00",
           "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b52c0475d1": {
+      "text": "「元彼への執着を手放したら復縁できます」って真逆だよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-15T19:52:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_30be960647": {
+      "text": "彼から別れを切り出された側って「私はもう選ばれなかった」って思うけど、",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-16T11:08:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_51ad170889": {
+      "text": "元彼の冷たい態度は、あなたを嫌いになったサインじゃないんです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-16T14:42:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_98f90112b1": {
+      "text": "男の中では元カノはずっと可愛いままだよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-16T19:52:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_db2ca9109a": {
+      "text": "ずっと仲良しで一度も離れなかった2人だけが「運命の相手」じゃないよ。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-17T11:08:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5b88020afc": {
+      "text": "復縁できる人とできない人の差は、可愛さでもタイミングでもなくて「自分の不安をコントロールできたか」だけなんです。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-17T14:42:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_960963a728": {
+      "text": "これほんっとにそうだと思う！",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-17T16:33:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_58e08cb314": {
+      "text": "元彼の沈黙は、もう気持ちがない証拠じゃないんです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-17T19:52:00+09:00",
+          "registered_at": "2026-11-10",
           "views": null
         }
       ]

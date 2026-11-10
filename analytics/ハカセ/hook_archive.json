@@ -8,7 +8,8 @@
         {
           "scheduled_at": "2026-06-08T11:08:00+09:00",
           "registered_at": "2026-06-07",
-          "views": null
+          "views": 3,
+          "posted_at": "2026-11-07T10:59:07.194+00:00"
         },
         {
           "scheduled_at": "2026-06-09T19:17:00+09:00",
@@ -63,6 +64,11 @@
         {
           "scheduled_at": "2026-11-10T11:08:00+09:00",
           "registered_at": "2026-11-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-14T14:42:00+09:00",
+          "registered_at": "2026-11-10",
           "views": null
         }
       ]
@@ -471,6 +477,11 @@
           "scheduled_at": "2026-11-10T21:47:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-14T11:08:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
         }
       ]
     },
@@ -855,6 +866,11 @@
         {
           "scheduled_at": "2026-11-04T19:52:00+09:00",
           "registered_at": "2026-10-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-12T21:47:00+09:00",
+          "registered_at": "2026-11-10",
           "views": null
         }
       ]
@@ -1318,6 +1334,11 @@
           "scheduled_at": "2026-11-09T19:52:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-12T19:52:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
         }
       ]
     },
@@ -1726,6 +1747,11 @@
           "scheduled_at": "2026-11-06T21:47:00+09:00",
           "registered_at": "2026-11-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-13T11:08:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
         }
       ]
     },
@@ -1969,6 +1995,11 @@
           "scheduled_at": "2026-11-03T21:47:00+09:00",
           "registered_at": "2026-10-31",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-13T19:52:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
         }
       ]
     },
@@ -2170,6 +2201,11 @@
         {
           "scheduled_at": "2026-11-11T19:52:00+09:00",
           "registered_at": "2026-11-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-13T14:42:00+09:00",
+          "registered_at": "2026-11-10",
           "views": null
         }
       ]
@@ -3969,6 +4005,11 @@
           "scheduled_at": "2026-11-09T16:33:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-12T16:33:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
         }
       ]
     },
@@ -4769,6 +4810,11 @@
         {
           "scheduled_at": "2026-09-27T19:52:00+09:00",
           "registered_at": "2026-09-24",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-14T19:52:00+09:00",
+          "registered_at": "2026-11-10",
           "views": null
         }
       ]
@@ -5940,6 +5986,11 @@
         {
           "scheduled_at": "2026-11-08T16:33:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-13T21:47:00+09:00",
+          "registered_at": "2026-11-10",
           "views": null
         }
       ]
@@ -7173,6 +7224,30 @@
         {
           "scheduled_at": "2026-11-11T16:33:00+09:00",
           "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2fd2a153eb": {
+      "text": "男が別れた後に「手放さなきゃよかった」と後悔する女性には共通点があるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-12T14:42:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fa5888590d": {
+      "text": "振った男が「戻りたい」って思うまでの日数、俺が聞いた範囲だと平均55日だったんだよね。",
+      "structure_label": "数字型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-14T16:33:00+09:00",
+          "registered_at": "2026-11-10",
           "views": null
         }
       ]

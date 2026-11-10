@@ -327,6 +327,11 @@
           "scheduled_at": "2026-11-08T14:42:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-11T14:42:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
         }
       ]
     },
@@ -632,6 +637,11 @@
           "scheduled_at": "2026-11-09T19:52:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-12T14:42:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
         }
       ]
     },
@@ -781,6 +791,11 @@
           "scheduled_at": "2026-11-10T14:42:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-11T16:33:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
         }
       ]
     },
@@ -856,6 +871,11 @@
         {
           "scheduled_at": "2026-11-09T14:42:00+09:00",
           "registered_at": "2026-11-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-12T19:52:00+09:00",
+          "registered_at": "2026-11-10",
           "views": null
         }
       ]
@@ -1318,6 +1338,11 @@
           "scheduled_at": "2026-11-08T21:47:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-13T11:08:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
         }
       ]
     },
@@ -1658,6 +1683,11 @@
           "scheduled_at": "2026-11-10T11:08:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-11T21:47:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
         }
       ]
     },
@@ -1988,6 +2018,11 @@
         {
           "scheduled_at": "2026-11-09T21:47:00+09:00",
           "registered_at": "2026-11-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-12T11:08:00+09:00",
+          "registered_at": "2026-11-10",
           "views": null
         }
       ]
@@ -2778,6 +2813,11 @@
           "scheduled_at": "2026-11-08T16:33:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-11T19:52:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
         }
       ]
     },
@@ -2789,6 +2829,11 @@
         {
           "scheduled_at": "2026-09-17T21:47:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-13T19:52:00+09:00",
+          "registered_at": "2026-11-10",
           "views": null
         }
       ]
@@ -3080,6 +3125,11 @@
         {
           "scheduled_at": "2026-11-01T21:47:00+09:00",
           "registered_at": "2026-10-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-13T14:42:00+09:00",
+          "registered_at": "2026-11-10",
           "views": null
         }
       ]
@@ -3591,6 +3641,30 @@
         {
           "scheduled_at": "2026-11-10T19:52:00+09:00",
           "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2c12624bae": {
+      "text": "意外かもだけど、年下男子は『年上に甘えられた瞬間に落ちる』生き物です",
+      "structure_label": "常識否定型（意外かもだけど＋生き物断言）",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-12T21:47:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_23f2a55a47": {
+      "text": "実は、年下の彼の方が年上に本気になる確率はめちゃくちゃ高いんです",
+      "structure_label": "反転希望型（確率断言）",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-13T16:33:00+09:00",
+          "registered_at": "2026-11-10",
           "views": null
         }
       ]

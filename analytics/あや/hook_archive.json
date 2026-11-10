@@ -849,6 +849,11 @@
           "scheduled_at": "2026-11-08T19:52:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-11T16:33:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
         }
       ]
     },
@@ -961,6 +966,11 @@
         {
           "scheduled_at": "2026-11-09T14:42:00+09:00",
           "registered_at": "2026-11-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-12T11:08:00+09:00",
+          "registered_at": "2026-11-10",
           "views": null
         }
       ]
@@ -1094,6 +1104,11 @@
         {
           "scheduled_at": "2026-11-07T16:33:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-12T21:47:00+09:00",
+          "registered_at": "2026-11-10",
           "views": null
         }
       ]
@@ -4538,6 +4553,11 @@
           "scheduled_at": "2026-11-08T16:33:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-11T19:52:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
         }
       ]
     },
@@ -4633,6 +4653,95 @@
         {
           "scheduled_at": "2026-11-10T19:52:00+09:00",
           "registered_at": "2026-11-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-13T19:52:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f4355b54cf": {
+      "text": "回避型との復縁は『彼が惚れた素直な自分』を取り戻すのが近道だよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-11T14:42:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1012b6a3c3": {
+      "text": "「距離を置こう」って言われた人へ。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-11T21:47:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ea28155b82": {
+      "text": "連絡を絶った回避型の男ほど、実はまだ気持ちを引きずってるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-12T14:42:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_53ac6435d0": {
+      "text": "男って「自分から振った恋」はずっと引きずるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-12T19:52:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cc73216b8e": {
+      "text": "元彼から「友達ならいいよ」と言われても、そこで友達になりきらない方がいいよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-13T11:08:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_164732128a": {
+      "text": "男ってさ、本命への気持ちが大きくなりすぎると、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-13T14:42:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ecdd2f2af0": {
+      "text": "復縁の連絡って「何日空けるか」より「何を書かないか」で決まるんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-13T16:33:00+09:00",
+          "registered_at": "2026-11-10",
           "views": null
         }
       ]

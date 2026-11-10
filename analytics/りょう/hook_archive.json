@@ -357,6 +357,11 @@
           "scheduled_at": "2026-11-12T19:52:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-13T14:42:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
         }
       ]
     },
@@ -2541,6 +2546,11 @@
           "scheduled_at": "2026-11-11T14:42:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-14T19:52:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
         }
       ]
     },
@@ -3955,7 +3965,8 @@
         {
           "scheduled_at": "2026-11-09T14:42:00+09:00",
           "registered_at": "2026-11-04",
-          "views": null
+          "views": 2,
+          "posted_at": "2026-11-09T05:48:30.51+00:00"
         }
       ]
     },
@@ -4039,6 +4050,126 @@
         {
           "scheduled_at": "2026-11-12T16:33:00+09:00",
           "registered_at": "2026-11-07",
+          "views": null
+        }
+      ]
+    },
+    "fookid_40dd309de1": {
+      "text": "『また会おうね』と送った帰り道に、もう会わないと決めていました。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-13T16:33:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_49bc24f112": {
+      "text": "『いい子だった』で切られるのが一番多い。悪いところがないのと、選ばれるのは別。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-13T19:52:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2e70f6c61c": {
+      "text": "男の『また会おうね』は、次があるって意味じゃない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-13T21:47:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6cc6895f4a": {
+      "text": "『私のどこがダメだったの』の答えは、『ダメなところはなかった』です。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-14T11:08:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bcb86f1008": {
+      "text": "男は、あなただけを見ていません。同時に3人4人と会って、全員に同じLINEを送っています。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-14T14:42:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_de21322099": {
+      "text": "『いい子だった』で切られる子が一番多い。欠点がないことと、残ることは別。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-14T21:47:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9a6daa7525": {
+      "text": "『また会おうね』と言った日の夜に、もう会わないと決めていました。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-15T11:08:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e18e31a7d5": {
+      "text": "結局、最後まで残るのは『俺に全部合わせてこなかった子』なんです。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-15T14:42:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_278b9388b5": {
+      "text": "『私のどこがダメだったの』の答えは、ほとんどの場合『何もダメじゃなかった』です。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-15T16:33:00+09:00",
+          "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_13df28768d": {
+      "text": "マチアプ3年で100人以上会って、そのほとんどを俺から切りました。今思うと最低だと思います。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-10",
+      "history": [
+        {
+          "scheduled_at": "2026-11-15T19:52:00+09:00",
+          "registered_at": "2026-11-10",
           "views": null
         }
       ]
