@@ -433,6 +433,11 @@
           "scheduled_at": "2026-11-09T21:47:00+09:00",
           "registered_at": "2026-11-08",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-12T21:47:00+09:00",
+          "registered_at": "2026-11-11",
+          "views": null
         }
       ]
     },
@@ -932,6 +937,11 @@
           "scheduled_at": "2026-11-09T14:42:00+09:00",
           "registered_at": "2026-11-08",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-12T14:42:00+09:00",
+          "registered_at": "2026-11-11",
+          "views": null
         }
       ]
     },
@@ -1196,6 +1206,11 @@
         {
           "scheduled_at": "2026-11-09T19:52:00+09:00",
           "registered_at": "2026-11-08",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-13T11:08:00+09:00",
+          "registered_at": "2026-11-11",
           "views": null
         }
       ]
@@ -1838,6 +1853,11 @@
           "scheduled_at": "2026-11-10T21:47:00+09:00",
           "registered_at": "2026-11-08",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-14T16:33:00+09:00",
+          "registered_at": "2026-11-11",
+          "views": null
         }
       ]
     },
@@ -2099,6 +2119,11 @@
         {
           "scheduled_at": "2026-11-10T11:08:00+09:00",
           "registered_at": "2026-11-08",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-13T14:42:00+09:00",
+          "registered_at": "2026-11-11",
           "views": null
         }
       ]
@@ -2478,6 +2503,11 @@
         {
           "scheduled_at": "2026-11-07T11:08:00+09:00",
           "registered_at": "2026-11-05",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-14T11:08:00+09:00",
+          "registered_at": "2026-11-11",
           "views": null
         }
       ]
@@ -3638,6 +3668,11 @@
         {
           "scheduled_at": "2026-11-09T16:33:00+09:00",
           "registered_at": "2026-11-08",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-12T16:33:00+09:00",
+          "registered_at": "2026-11-11",
           "views": null
         }
       ]
@@ -6114,6 +6149,11 @@
           "scheduled_at": "2026-10-15T14:42:00+09:00",
           "registered_at": "2026-10-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-14T14:42:00+09:00",
+          "registered_at": "2026-11-11",
+          "views": null
         }
       ]
     },
@@ -6867,6 +6907,54 @@
         {
           "scheduled_at": "2026-11-11T19:52:00+09:00",
           "registered_at": "2026-11-08",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e7dc4d7f57": {
+      "text": "男は、「毎日話せてる＝意識されてる」とは思っていない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-11",
+      "history": [
+        {
+          "scheduled_at": "2026-11-12T19:52:00+09:00",
+          "registered_at": "2026-11-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9cbeeb022b": {
+      "text": "彼に「最近LINE遅いね、何かあった？」って言わせる構造、男目線だとマジで単純なんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-11",
+      "history": [
+        {
+          "scheduled_at": "2026-11-13T19:52:00+09:00",
+          "registered_at": "2026-11-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b0f3b3b296": {
+      "text": "男の本音を言うと、気を遣われてる間は恋愛として見てない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-11",
+      "history": [
+        {
+          "scheduled_at": "2026-11-13T21:47:00+09:00",
+          "registered_at": "2026-11-11",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9c928905bf": {
+      "text": "実は、年下の男性ほど『年上の余裕』に落ちる確率がめちゃくちゃ高い。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-11",
+      "history": [
+        {
+          "scheduled_at": "2026-11-14T19:52:00+09:00",
+          "registered_at": "2026-11-11",
           "views": null
         }
       ]
