@@ -5665,7 +5665,12 @@
       "used_by": {
         "うみこ": "2026-11-06"
       },
-      "results": {}
+      "results": {
+        "うみこ": {
+          "views": 427,
+          "at": "2026-11-12"
+        }
+      }
     },
     {
       "pool_id": "hp_d075dca7ac",
@@ -6296,7 +6301,13 @@
       "used_by": {
         "うみこ": "2026-11-09"
       },
-      "results": {}
+      "results": {
+        "うみこ": {
+          "views": 20,
+          "at": "2026-11-12",
+          "sale_48h": true
+        }
+      }
     },
     {
       "pool_id": "hp_ccb511f2b5",
@@ -6381,7 +6392,10 @@
       "likes": 141,
       "source": "https://x.com/haru_motokare/status/2087147086601179431",
       "source_handle": "haru_motokare",
-      "collected_at": "2026-09-06"
+      "collected_at": "2026-09-06",
+      "used_by": {
+        "うみこ": "2026-11-12"
+      }
     },
     {
       "pool_id": "hp_900a18600a",
@@ -6516,7 +6530,10 @@
       "likes": 181,
       "source": "https://x.com/haru_motokare/status/2093668234562306398",
       "source_handle": "haru_motokare",
-      "collected_at": "2026-09-06"
+      "collected_at": "2026-09-06",
+      "used_by": {
+        "うみこ": "2026-11-12"
+      }
     },
     {
       "pool_id": "hp_9ccc70c5ad",
@@ -18121,7 +18138,8 @@
       "collected_at": "2026-09-26",
       "used_by": {
         "かれん": "2026-11-10"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_5db07328e3",
@@ -18160,7 +18178,8 @@
       "collected_at": "2026-10-06",
       "used_by": {
         "かれん": "2026-11-10"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_ccc50783fe",
@@ -18190,7 +18209,8 @@
       "collected_at": "2026-09-11",
       "used_by": {
         "かれん": "2026-11-10"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_5324b606ee",
@@ -18329,7 +18349,8 @@
       "collected_at": "2026-09-15",
       "used_by": {
         "かれん": "2026-11-10"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_a3f4de7103",
@@ -18930,7 +18951,8 @@
       "collected_at": "2026-09-19",
       "used_by": {
         "かれん": "2026-11-10"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_cf036f0d9d",
@@ -30337,5 +30359,5 @@
       "collected_at": "2026-09-14"
     }
   ],
-  "updated_at": "2026-11-10T10:01:10.565167+09:00"
+  "updated_at": "2026-11-12T09:08:41.080013+09:00"
 }

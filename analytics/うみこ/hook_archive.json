@@ -2141,6 +2141,11 @@
           "scheduled_at": "2026-11-12T11:08:00+09:00",
           "registered_at": "2026-11-09",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-14T21:47:00+09:00",
+          "registered_at": "2026-11-12",
+          "views": null
         }
       ]
     },
@@ -2295,6 +2300,11 @@
         {
           "scheduled_at": "2026-11-12T14:42:00+09:00",
           "registered_at": "2026-11-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-15T14:42:00+09:00",
+          "registered_at": "2026-11-12",
           "views": null
         }
       ]
@@ -2902,6 +2912,11 @@
         {
           "scheduled_at": "2026-11-11T11:08:00+09:00",
           "registered_at": "2026-11-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-14T14:42:00+09:00",
+          "registered_at": "2026-11-12",
           "views": null
         }
       ]
@@ -5899,6 +5914,11 @@
           "scheduled_at": "2026-11-11T14:42:00+09:00",
           "registered_at": "2026-11-09",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-14T11:08:00+09:00",
+          "registered_at": "2026-11-12",
+          "views": null
         }
       ]
     },
@@ -6031,6 +6051,11 @@
         {
           "scheduled_at": "2026-11-10T21:47:00+09:00",
           "registered_at": "2026-11-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-13T19:52:00+09:00",
+          "registered_at": "2026-11-12",
           "views": null
         }
       ]
@@ -7605,6 +7630,78 @@
         {
           "scheduled_at": "2026-11-12T16:33:00+09:00",
           "registered_at": "2026-11-09",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d526782403": {
+      "text": "男が向き合わずに別れるのは、あなたを本気で好きだった証拠です。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-12",
+      "history": [
+        {
+          "scheduled_at": "2026-11-13T16:33:00+09:00",
+          "registered_at": "2026-11-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a432cb2251": {
+      "text": "男は結局「しつこいくらい自分を好きでいてくれる女性」をマジで忘れられない。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-12",
+      "history": [
+        {
+          "scheduled_at": "2026-11-13T21:47:00+09:00",
+          "registered_at": "2026-11-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d4b24a4e32": {
+      "text": "男が未練ゼロのときって、びっくりするくらいはっきりわかるのよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-12",
+      "history": [
+        {
+          "scheduled_at": "2026-11-14T19:52:00+09:00",
+          "registered_at": "2026-11-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bb92a74d9b": {
+      "text": "「友達からやり直すのが安全」はウソ",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-12",
+      "history": [
+        {
+          "scheduled_at": "2026-11-15T11:08:00+09:00",
+          "registered_at": "2026-11-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b8e9e99dd3": {
+      "text": "男が別れた直後に新しい彼女を作るパターン、あれ元カノを忘れたサインじゃないのよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-12",
+      "history": [
+        {
+          "scheduled_at": "2026-11-15T16:33:00+09:00",
+          "registered_at": "2026-11-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9f7675e318": {
+      "text": "回避型の「別れよう」は本気の決意じゃなくて、ただの一時避難なのよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-12",
+      "history": [
+        {
+          "scheduled_at": "2026-11-15T19:52:00+09:00",
+          "registered_at": "2026-11-12",
           "views": null
         }
       ]
