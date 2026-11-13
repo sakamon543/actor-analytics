@@ -362,6 +362,21 @@
           "scheduled_at": "2026-11-13T14:42:00+09:00",
           "registered_at": "2026-11-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-16T21:47:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-17T19:52:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T19:52:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
         }
       ]
     },
@@ -560,6 +575,11 @@
         {
           "scheduled_at": "2026-11-11T11:08:00+09:00",
           "registered_at": "2026-11-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-17T11:08:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -828,6 +848,11 @@
         {
           "scheduled_at": "2026-11-10T19:52:00+09:00",
           "registered_at": "2026-11-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-16T19:52:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -1923,6 +1948,11 @@
         {
           "scheduled_at": "2026-11-10T16:33:00+09:00",
           "registered_at": "2026-11-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-17T21:47:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -3726,6 +3756,11 @@
           "scheduled_at": "2026-10-26T14:42:00+09:00",
           "registered_at": "2026-10-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-17T14:42:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
         }
       ]
     },
@@ -4026,7 +4061,8 @@
         {
           "scheduled_at": "2026-11-12T11:08:00+09:00",
           "registered_at": "2026-11-07",
-          "views": null
+          "views": 3,
+          "posted_at": "2026-11-12T02:11:04.56+00:00"
         }
       ]
     },
@@ -4170,6 +4206,66 @@
         {
           "scheduled_at": "2026-11-15T19:52:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_011752b3e8": {
+      "text": "「いい子だった」で消されるのが一番多い。嫌なところがないのと、最後まで残るのは別。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-16T14:42:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_253195cb8a": {
+      "text": "男は、「会えてる＝進んでいる」とは思っていない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-16T16:33:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e5e86cd7be": {
+      "text": "男は、あなた一人を見ていません。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-18T11:08:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c598e239e2": {
+      "text": "「私のどこがダメだったの」の答えは、ほとんどの場合「ダメなところはなかった」です。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-18T14:42:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_954ce230d0": {
+      "text": "「また会おうね」と言った日の夜には、もう会わないと決まっていました。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-18T16:33:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]

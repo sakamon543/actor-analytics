@@ -307,6 +307,16 @@
           "scheduled_at": "2026-10-29T16:33:00+09:00",
           "registered_at": "2026-10-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-14T16:33:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-15T21:47:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
         }
       ]
     },
@@ -364,6 +374,11 @@
         {
           "scheduled_at": "2026-10-30T11:08:00+09:00",
           "registered_at": "2026-10-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-15T11:08:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -432,6 +447,11 @@
         {
           "scheduled_at": "2026-10-29T19:52:00+09:00",
           "registered_at": "2026-10-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-14T19:52:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -504,6 +524,11 @@
         {
           "scheduled_at": "2026-10-29T21:47:00+09:00",
           "registered_at": "2026-10-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-14T21:47:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -820,6 +845,11 @@
         {
           "scheduled_at": "2026-10-29T14:42:00+09:00",
           "registered_at": "2026-10-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-14T14:42:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -4490,6 +4520,78 @@
         {
           "scheduled_at": "2026-11-13T19:52:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_afca412e9f": {
+      "text": "「年下は年上を女として見ていない」はウソです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-15T14:42:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b4ad8847c0": {
+      "text": "「彼氏いないんですか？」って後輩に聞かれて「いないですよー」で流してない？私、これ5回連続でやって、危うく全部終わらせかけた側。あれ世間話じゃなくて、「先輩は恋愛対象じゃないですよね？」って向こうが最後の確認しに来てるやつです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-15T19:52:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7285622121": {
+      "text": "年下男性が年上に求めてるのは、若さじゃなくて安心感です。一緒にいて肩の力が抜ける。それだけで十分に強い。「私ももう30だしね」と自分から言うのは、いちばんの武器を自分で消す行為です🌷",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-16T11:08:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_33671d1b47": {
+      "text": "後輩の本音を言うと、誘われている間は告白を考えません。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-16T14:42:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_60cb07102d": {
+      "text": "年下は「どうせ相手にされない」と思ってるから動きません。こっちも同じです。両方が勝手に固まってるだけなんですよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-16T16:33:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1f7842cf37": {
+      "text": "職場の年下後輩を好きになった人へ。バレたらどうしよう、という不安で動けないなら、この数字を見てください。職場恋愛を隠して付き合ってる人は83.7%。ほとんどの人が、周りに知られずに付き合ってます。しかも職場恋愛アリ派は61.8%。周りが思ってるほど、みんな否定的じゃないんです。隠しながら進める方法は、ちゃんとあります☕",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-16T19:52:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]

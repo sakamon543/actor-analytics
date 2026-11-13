@@ -393,6 +393,11 @@
           "scheduled_at": "2026-11-15T16:33:00+09:00",
           "registered_at": "2026-11-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T16:33:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
         }
       ]
     },
@@ -1519,6 +1524,11 @@
         {
           "scheduled_at": "2026-11-12T21:47:00+09:00",
           "registered_at": "2026-11-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-20T14:42:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -3463,7 +3473,8 @@
         {
           "scheduled_at": "2026-10-03T11:08:00+09:00",
           "registered_at": "2026-09-30",
-          "views": null
+          "views": 15,
+          "posted_at": "2026-11-10T05:46:07.531+00:00"
         },
         {
           "scheduled_at": "2026-10-10T11:08:00+09:00",
@@ -3518,6 +3529,11 @@
         {
           "scheduled_at": "2026-11-15T21:47:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-19T14:42:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -3689,6 +3705,11 @@
         {
           "scheduled_at": "2026-11-09T21:47:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T21:47:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -4774,7 +4795,8 @@
         {
           "scheduled_at": "2026-11-12T19:52:00+09:00",
           "registered_at": "2026-11-07",
-          "views": null
+          "views": 1,
+          "posted_at": "2026-11-12T10:55:57.681+00:00"
         }
       ]
     },
@@ -4930,6 +4952,102 @@
         {
           "scheduled_at": "2026-11-17T19:52:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fd7d4dec53": {
+      "text": "「絶対復縁しない」って言う男ほど、あとからあっさり戻ってきます。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-18T14:42:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_36546d896e": {
+      "text": "振られた後って、彼の日常から自分だけ急にいなくなったことがマジでしんどいですよね",
+      "structure_label": "読者現在地型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-18T19:52:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_07c19e7da2": {
+      "text": "元彼にLINEしたら「まだ俺のこと好きなんだ」って余裕に思われるから送らない方がいいって話",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-19T11:08:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ec6b880ee9": {
+      "text": "男って元カノと普通に話せるだけで、意外と満足しちゃうんですよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-19T19:52:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_26026dfd06": {
+      "text": "回避型の彼は自己防衛で別れを選ぶから、振った瞬間からもう後悔が始まってます。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-19T21:47:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8ff5ec716e": {
+      "text": "復縁において好きバレはNGみたいに見るけど別に好きバレしたところで復縁はできます。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-20T11:08:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_88fd25d37c": {
+      "text": "復縁したい方がよく言うやつ。",
+      "structure_label": "読者現在地型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-20T16:33:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_513d5122a7": {
+      "text": "「友達からやり直すのが安全」はウソです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-20T19:52:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]

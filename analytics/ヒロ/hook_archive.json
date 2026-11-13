@@ -4756,7 +4756,8 @@
         {
           "scheduled_at": "2026-11-10T11:08:00+09:00",
           "registered_at": "2026-11-07",
-          "views": null
+          "views": 2215,
+          "posted_at": "2026-11-10T02:12:10.809+00:00"
         }
       ]
     },
@@ -4900,6 +4901,126 @@
         {
           "scheduled_at": "2026-11-13T16:33:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f34286791c": {
+      "text": "「もう復縁は無理かもしれない」って思っても諦めきれないのは、",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-14T16:33:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_42de34dab7": {
+      "text": "本気になった相手ほど、回避型の男は「応えられなかったらどうしよう」って怖くなって自爆的に離れる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-14T19:52:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5b15463bea": {
+      "text": "男性は好意があって避けるより、負い目を感じて距離を取ることの方が多い。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-14T21:47:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_85bd6815d4": {
+      "text": "回避型が逃げてる間の心理って「開放感は一瞬だけど、そのあとずっと後悔」なんですよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-15T11:08:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_aa4568036f": {
+      "text": "振った男が一番厄介なのって『自分で別れを選んだ以上、簡単に撤回できない』こと。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-15T19:52:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0b85195f9a": {
+      "text": "回避型ってほんと正直で、相手の気持ちが見えてるうちは放置するのに「気持ちが離れた」と察した瞬間に動く。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-15T21:47:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dc9d28df8e": {
+      "text": "男って別れたあと『自分をちゃんと愛してくれてた元カノ』を時間差でめちゃくちゃ惜しくなるんですよね。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-16T11:08:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a60115e933": {
+      "text": "男は別れるとき「もう疲れた」とか言うけど、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-16T14:42:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1cb3c6b766": {
+      "text": "男が元カノを避けてるように見える時に考えてることって、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-16T16:33:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d7af8c1529": {
+      "text": "男が「復縁ないかも…」って感じるLINE",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-16T19:52:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]

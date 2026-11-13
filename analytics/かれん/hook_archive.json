@@ -1010,6 +1010,11 @@
           "scheduled_at": "2026-11-14T19:52:00+09:00",
           "registered_at": "2026-11-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T14:42:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
         }
       ]
     },
@@ -1156,6 +1161,11 @@
         {
           "scheduled_at": "2026-11-15T14:42:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-19T14:42:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -1781,6 +1791,11 @@
           "scheduled_at": "2026-11-16T19:52:00+09:00",
           "registered_at": "2026-11-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-17T16:33:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
         }
       ]
     },
@@ -2254,6 +2269,11 @@
         {
           "scheduled_at": "2026-08-18T14:42:00+09:00",
           "registered_at": "2026-08-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-17T21:47:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -4451,6 +4471,11 @@
           "scheduled_at": "2026-11-15T11:08:00+09:00",
           "registered_at": "2026-11-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T11:08:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
         }
       ]
     },
@@ -4626,6 +4651,90 @@
         {
           "scheduled_at": "2026-11-16T16:33:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2fd2a153eb": {
+      "text": "男が別れた後に「手放さなきゃよかった」と後悔する女性には共通点があるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-17T14:42:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5056d64e43": {
+      "text": "元彼に新しい彼女ができたと知った時点で、ほとんどの人がもう終わったと判断します。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-17T19:52:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_269dbad7ca": {
+      "text": "復縁が上手くいく確率って実は元カノ側の行動に依存します。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-18T19:52:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a26e5d8acf": {
+      "text": "復縁した今思うのは、振った側はプライドもあって動けないことが多いから、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-18T21:47:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_eee9e412db": {
+      "text": "復縁できる人とできない人の違いって、可愛さでも送ったLINEの数でもないんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-19T11:08:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0e4056ab57": {
+      "text": "私の彼、今でこそ毎日「一緒に寝よ」って言ってくるんだけど、",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-19T16:33:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_068ed74fac": {
+      "text": "復縁って結局諦めずに行動した人が掴めるんだよね。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-19T19:52:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]

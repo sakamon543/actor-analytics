@@ -194,8 +194,8 @@
       "first_seen_views": 4110,
       "first_seen_at": "2026-10-11T02:15:13.677+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-10-13T09:28:58.012376+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-11-13T09:42:25.341013+09:00",
       "sales_followed": true
     },
     "rcyc_13a52b330a": {
@@ -207,8 +207,8 @@
       "first_seen_views": 2729,
       "first_seen_at": "2026-10-10T10:59:43.705+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-10-13T09:28:58.012376+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-11-13T09:42:25.341013+09:00",
       "sales_followed": true
     },
     "rcyc_d3e0ef18ce": {
@@ -247,5 +247,5 @@
       "sales_followed": false
     }
   },
-  "updated_at": "2026-11-10T09:28:55.139340+09:00"
+  "updated_at": "2026-11-13T09:42:25.341013+09:00"
 }

@@ -6395,7 +6395,8 @@
       "collected_at": "2026-09-06",
       "used_by": {
         "うみこ": "2026-11-12"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_900a18600a",
@@ -6533,7 +6534,8 @@
       "collected_at": "2026-09-06",
       "used_by": {
         "うみこ": "2026-11-12"
-      }
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_9ccc70c5ad",
@@ -13732,7 +13734,11 @@
       "likes": 43,
       "source": "https://x.com/pederson287/status/2089144603505316338",
       "source_handle": "pederson287",
-      "collected_at": "2026-08-25"
+      "collected_at": "2026-08-25",
+      "used_by": {
+        "miho": "2026-11-13"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_558ddaf187",
@@ -13759,7 +13765,11 @@
       "likes": 54,
       "source": "https://x.com/ShannonRoe12187/status/2097297771141476426",
       "source_handle": "ShannonRoe12187",
-      "collected_at": "2026-09-12"
+      "collected_at": "2026-09-12",
+      "used_by": {
+        "miho": "2026-11-13"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_12c4560493",
@@ -13768,7 +13778,11 @@
       "likes": 13,
       "source": "https://x.com/ShannonRoe12187/status/2102958450099749143",
       "source_handle": "ShannonRoe12187",
-      "collected_at": "2026-09-25"
+      "collected_at": "2026-09-25",
+      "used_by": {
+        "miho": "2026-11-13"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_d26798d4dd",
@@ -13777,7 +13791,16 @@
       "likes": 45,
       "source": "https://x.com/ShannonRoe12187/status/2076594507173490691",
       "source_handle": "ShannonRoe12187",
-      "collected_at": "2026-07-31"
+      "collected_at": "2026-07-31",
+      "used_by": {
+        "miho": "2026-11-13"
+      },
+      "results": {
+        "miho": {
+          "views": 1,
+          "at": "2026-11-13"
+        }
+      }
     },
     {
       "pool_id": "hp_73d9116b68",
@@ -14135,7 +14158,11 @@
       "likes": 75,
       "source": "https://x.com/ShannonRoe12187/status/2089197848256823679",
       "source_handle": "ShannonRoe12187",
-      "collected_at": "2026-08-25"
+      "collected_at": "2026-08-25",
+      "used_by": {
+        "miho": "2026-11-13"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_4837970a5f",
@@ -14283,7 +14310,11 @@
       "likes": 38,
       "source": "https://x.com/ShannonRoe12187/status/2090773004913684668",
       "source_handle": "ShannonRoe12187",
-      "collected_at": "2026-08-25"
+      "collected_at": "2026-08-25",
+      "used_by": {
+        "miho": "2026-11-13"
+      },
+      "results": {}
     },
     {
       "pool_id": "hp_478f29dc5c",
@@ -18210,7 +18241,12 @@
       "used_by": {
         "かれん": "2026-11-10"
       },
-      "results": {}
+      "results": {
+        "かれん": {
+          "views": 2,
+          "at": "2026-11-13"
+        }
+      }
     },
     {
       "pool_id": "hp_5324b606ee",
@@ -30359,5 +30395,5 @@
       "collected_at": "2026-09-14"
     }
   ],
-  "updated_at": "2026-11-12T09:08:41.080013+09:00"
+  "updated_at": "2026-11-13T10:06:41.465654+09:00"
 }

@@ -70,6 +70,11 @@
           "scheduled_at": "2026-11-14T14:42:00+09:00",
           "registered_at": "2026-11-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-16T11:08:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
         }
       ]
     },
@@ -198,6 +203,11 @@
           "scheduled_at": "2026-10-30T14:42:00+09:00",
           "registered_at": "2026-10-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-17T14:42:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
         }
       ]
     },
@@ -243,6 +253,11 @@
         {
           "scheduled_at": "2026-06-10T22:48:00+09:00",
           "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-16T21:47:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -481,6 +496,11 @@
         {
           "scheduled_at": "2026-11-14T11:08:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-17T11:08:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -871,6 +891,11 @@
         {
           "scheduled_at": "2026-11-12T21:47:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-16T19:52:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -1339,6 +1364,11 @@
           "scheduled_at": "2026-11-12T19:52:00+09:00",
           "registered_at": "2026-11-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-16T14:42:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
         }
       ]
     },
@@ -1543,6 +1573,11 @@
         {
           "scheduled_at": "2026-11-11T14:42:00+09:00",
           "registered_at": "2026-11-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-15T21:47:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -2114,6 +2149,11 @@
         {
           "scheduled_at": "2026-11-07T11:08:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-15T19:52:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -4009,6 +4049,11 @@
         {
           "scheduled_at": "2026-11-12T16:33:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-15T16:33:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -7177,6 +7222,11 @@
           "scheduled_at": "2026-11-09T14:42:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-15T14:42:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
         }
       ]
     },
@@ -7200,7 +7250,8 @@
         {
           "scheduled_at": "2026-11-10T19:52:00+09:00",
           "registered_at": "2026-11-07",
-          "views": null
+          "views": 37,
+          "posted_at": "2026-11-10T10:57:02.837+00:00"
         }
       ]
     },
@@ -7212,7 +7263,8 @@
         {
           "scheduled_at": "2026-11-11T11:08:00+09:00",
           "registered_at": "2026-11-07",
-          "views": null
+          "views": 2,
+          "posted_at": "2026-11-11T02:13:24.749+00:00"
         }
       ]
     },
@@ -7248,6 +7300,30 @@
         {
           "scheduled_at": "2026-11-14T16:33:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_15f5581d84": {
+      "text": "別れを告げられた夜に、絶対やっちゃいけない行動がひとつある。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-17T16:33:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_71d34b86ca": {
+      "text": "男の既読スルーは、もう終わりのサインじゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-17T19:52:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]

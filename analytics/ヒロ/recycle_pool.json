@@ -293,8 +293,8 @@
       "first_seen_views": 15157,
       "first_seen_at": "2026-09-06T10:57:16.727+00:00",
       "status": "used",
-      "used_count": 2,
-      "last_used_at": "2026-10-12T09:17:12.611276+09:00",
+      "used_count": 3,
+      "last_used_at": "2026-11-13T09:06:49.211595+09:00",
       "sales_followed": true
     },
     "rcyc_8325abbb0b": {
@@ -436,7 +436,18 @@
       "used_count": 1,
       "last_used_at": "2026-11-10T09:05:28.955945+09:00",
       "sales_followed": false
+    },
+    "rcyc_8fc4c9e516": {
+      "recycle_id": "rcyc_8fc4c9e516",
+      "text": "なんでか復縁できちゃう女の子の特徴\n\n可愛いとか若いとかじゃないんです。回避型だった僕から言うと、彼の中で『この子は追ってこない、でも消えてない』になってる子。今まさに既読つかない彼に長文を書いては消してるあなた、順番が逆になってます。",
+      "thread": [],
+      "first_seen_views": 2215,
+      "first_seen_at": "2026-11-10T02:12:10.809+00:00",
+      "status": "used",
+      "used_count": 1,
+      "last_used_at": "2026-11-13T09:06:49.211595+09:00",
+      "sales_followed": false
     }
   },
-  "updated_at": "2026-11-10T09:05:28.955945+09:00"
+  "updated_at": "2026-11-13T09:06:49.211595+09:00"
 }

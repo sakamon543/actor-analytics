@@ -44,6 +44,11 @@
           "scheduled_at": "2026-11-05T21:47:00+09:00",
           "registered_at": "2026-11-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-14T19:52:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
         }
       ]
     },
@@ -152,6 +157,11 @@
         {
           "scheduled_at": "2026-11-06T14:42:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-15T21:47:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -331,6 +341,11 @@
         {
           "scheduled_at": "2026-11-11T14:42:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-14T16:33:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -2024,6 +2039,11 @@
           "scheduled_at": "2026-11-12T11:08:00+09:00",
           "registered_at": "2026-11-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-15T11:08:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
         }
       ]
     },
@@ -2462,6 +2482,11 @@
           "scheduled_at": "2026-09-27T11:08:00+09:00",
           "registered_at": "2026-09-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-16T16:33:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
         }
       ]
     },
@@ -2817,6 +2842,11 @@
         {
           "scheduled_at": "2026-11-11T19:52:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-14T21:47:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -3243,6 +3273,11 @@
           "scheduled_at": "2026-11-07T11:08:00+09:00",
           "registered_at": "2026-11-04",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-16T14:42:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
         }
       ]
     },
@@ -3328,6 +3363,11 @@
           "registered_at": "2026-10-16",
           "views": 193,
           "posted_at": "2026-10-17T12:52:39.395+00:00"
+        },
+        {
+          "scheduled_at": "2026-11-15T19:52:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
         }
       ]
     },
@@ -3665,6 +3705,30 @@
         {
           "scheduled_at": "2026-11-13T16:33:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_81d12fe220": {
+      "text": "年下男子って完璧な大人に恋しないからね",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-16T11:08:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ca739267a8": {
+      "text": "意外かもだけど、年下男子は『年上の弱音にいちばん弱い』生き物",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-16T19:52:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]

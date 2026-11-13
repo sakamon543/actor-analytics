@@ -854,6 +854,11 @@
           "scheduled_at": "2026-11-11T16:33:00+09:00",
           "registered_at": "2026-11-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-14T16:33:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
         }
       ]
     },
@@ -971,6 +976,11 @@
         {
           "scheduled_at": "2026-11-12T11:08:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-15T14:42:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -4594,6 +4604,11 @@
           "scheduled_at": "2026-11-09T19:52:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-16T14:42:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
         }
       ]
     },
@@ -4642,6 +4657,11 @@
           "scheduled_at": "2026-11-10T16:33:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-16T11:08:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
         }
       ]
     },
@@ -4658,6 +4678,11 @@
         {
           "scheduled_at": "2026-11-13T19:52:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-16T19:52:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -4683,6 +4708,11 @@
           "scheduled_at": "2026-11-11T21:47:00+09:00",
           "registered_at": "2026-11-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-14T19:52:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
         }
       ]
     },
@@ -4706,6 +4736,11 @@
         {
           "scheduled_at": "2026-11-12T19:52:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-15T21:47:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
@@ -4742,6 +4777,66 @@
         {
           "scheduled_at": "2026-11-13T16:33:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        }
+      ]
+    },
+    "fookid_486b4d2e0d": {
+      "text": "男が別れた後に「手放さなきゃよかった」って後悔する女性には、共通点があるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-14T14:42:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_58a072fbb2": {
+      "text": "男って、本気で好きだった女性を忘れることはないよ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-14T21:47:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a46faaf087": {
+      "text": "男って、本命への気持ちが大きくなりすぎると",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-15T11:08:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4b7e306908": {
+      "text": "元彼から「友達ならいいよ」って言われても、そこで友達になりきらない方がいいよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-15T19:52:00+09:00",
+          "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b4d11b1f70": {
+      "text": "男にとって『重いくらい一途に尽くしてくれた元カノ』はガチで特別だし、忘れられないんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-13",
+      "history": [
+        {
+          "scheduled_at": "2026-11-16T16:33:00+09:00",
+          "registered_at": "2026-11-13",
           "views": null
         }
       ]
