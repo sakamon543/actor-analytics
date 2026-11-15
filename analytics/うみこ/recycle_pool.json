@@ -426,7 +426,7 @@
       "status": "used",
       "used_count": 1,
       "last_used_at": "2026-11-01T09:07:59.830754+09:00",
-      "sales_followed": false
+      "sales_followed": true
     },
     "rcyc_2d27923824": {
       "recycle_id": "rcyc_2d27923824",
@@ -440,5 +440,5 @@
       "sales_followed": false
     }
   },
-  "updated_at": "2026-11-12T09:08:41.079038+09:00"
+  "updated_at": "2026-11-15T09:00:07.708439+09:00"
 }

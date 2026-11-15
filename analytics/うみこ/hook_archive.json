@@ -1150,6 +1150,11 @@
           "scheduled_at": "2026-11-11T21:47:00+09:00",
           "registered_at": "2026-11-09",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T14:42:00+09:00",
+          "registered_at": "2026-11-15",
+          "views": null
         }
       ]
     },
@@ -2146,6 +2151,11 @@
           "scheduled_at": "2026-11-14T21:47:00+09:00",
           "registered_at": "2026-11-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T19:52:00+09:00",
+          "registered_at": "2026-11-15",
+          "views": null
         }
       ]
     },
@@ -2917,6 +2927,11 @@
         {
           "scheduled_at": "2026-11-14T14:42:00+09:00",
           "registered_at": "2026-11-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-17T14:42:00+09:00",
+          "registered_at": "2026-11-15",
           "views": null
         }
       ]
@@ -5177,6 +5192,11 @@
           "registered_at": "2026-08-03",
           "views": 23286,
           "posted_at": "2026-09-04T05:45:58.748+00:00"
+        },
+        {
+          "scheduled_at": "2026-11-17T21:47:00+09:00",
+          "registered_at": "2026-11-15",
+          "views": null
         }
       ]
     },
@@ -5919,6 +5939,11 @@
           "scheduled_at": "2026-11-14T11:08:00+09:00",
           "registered_at": "2026-11-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-16T21:47:00+09:00",
+          "registered_at": "2026-11-15",
+          "views": null
         }
       ]
     },
@@ -6056,6 +6081,11 @@
         {
           "scheduled_at": "2026-11-13T19:52:00+09:00",
           "registered_at": "2026-11-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-16T19:52:00+09:00",
+          "registered_at": "2026-11-15",
           "views": null
         }
       ]
@@ -6586,6 +6616,11 @@
         {
           "scheduled_at": "2026-11-11T19:52:00+09:00",
           "registered_at": "2026-11-09",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-17T19:52:00+09:00",
+          "registered_at": "2026-11-15",
           "views": null
         }
       ]
@@ -7702,6 +7737,66 @@
         {
           "scheduled_at": "2026-11-15T19:52:00+09:00",
           "registered_at": "2026-11-12",
+          "views": null
+        }
+      ]
+    },
+    "fookid_60fe8d25b8": {
+      "text": "男が元カノに惚れ直すって、体感7〜8割くらいの確率で起こります。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-15",
+      "history": [
+        {
+          "scheduled_at": "2026-11-16T14:42:00+09:00",
+          "registered_at": "2026-11-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_df8ee7c188": {
+      "text": "回避型の男ほど、未練たらたらで引きずる人はいないのよ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-15",
+      "history": [
+        {
+          "scheduled_at": "2026-11-16T16:33:00+09:00",
+          "registered_at": "2026-11-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d91289365b": {
+      "text": "『友達からやり直すのが安全』はウソ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-15",
+      "history": [
+        {
+          "scheduled_at": "2026-11-17T11:08:00+09:00",
+          "registered_at": "2026-11-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0176794387": {
+      "text": "プライドが高い元彼ほど、心の中では戻りたいって思ってるのよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-15",
+      "history": [
+        {
+          "scheduled_at": "2026-11-18T11:08:00+09:00",
+          "registered_at": "2026-11-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bb4c706132": {
+      "text": "男が本当に未練ゼロのときって、態度ではっきりわかるのよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-15",
+      "history": [
+        {
+          "scheduled_at": "2026-11-18T16:33:00+09:00",
+          "registered_at": "2026-11-15",
           "views": null
         }
       ]
