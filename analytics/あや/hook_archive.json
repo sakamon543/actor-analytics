@@ -859,6 +859,11 @@
           "scheduled_at": "2026-11-14T16:33:00+09:00",
           "registered_at": "2026-11-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-19T11:08:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -3089,6 +3094,11 @@
           "scheduled_at": "2026-10-29T16:33:00+09:00",
           "registered_at": "2026-10-26",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-19T14:42:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -3445,6 +3455,11 @@
         {
           "scheduled_at": "2026-09-26T19:52:00+09:00",
           "registered_at": "2026-09-24",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-19T16:33:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]
@@ -4592,6 +4607,11 @@
           "scheduled_at": "2026-11-09T11:08:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-17T19:52:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -4645,6 +4665,11 @@
           "scheduled_at": "2026-11-10T14:42:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T21:47:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -4683,6 +4708,11 @@
         {
           "scheduled_at": "2026-11-16T19:52:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T14:42:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]
@@ -4837,6 +4867,78 @@
         {
           "scheduled_at": "2026-11-16T16:33:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e9e6793c76": {
+      "text": "男が別れた後に『手放さなきゃよかった』って後悔する女性には、共通点があったりする。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-17T14:42:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3addb77695": {
+      "text": "回避型との復縁は『彼が惚れた素直な自分』を取り戻すのが近道だったりする。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-17T16:33:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_214641b71a": {
+      "text": "男って本命への気持ちが大きくなりすぎると、逆に連絡できなくなるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-17T21:47:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ee3902ccb7": {
+      "text": "元彼から『友達ならいいよ』って言われても、そこで友達になりきらない方がいいよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-18T11:08:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_610ccc8828": {
+      "text": "男は本気で好きだった女性を忘れることってないんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-18T19:52:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a57228630c": {
+      "text": "彼にブロックされて終わったと思ってる人へ。ブロックって相手を消すためじゃなくて、自分の気持ちを止めるためにやるものだよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-19T19:52:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]

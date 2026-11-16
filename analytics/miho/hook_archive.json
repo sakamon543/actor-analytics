@@ -398,6 +398,11 @@
           "scheduled_at": "2026-11-18T16:33:00+09:00",
           "registered_at": "2026-11-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-21T16:33:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -3251,6 +3256,11 @@
           "scheduled_at": "2026-11-14T14:42:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-23T19:52:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -3535,6 +3545,11 @@
           "scheduled_at": "2026-11-19T14:42:00+09:00",
           "registered_at": "2026-11-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-23T11:08:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -3710,6 +3725,11 @@
         {
           "scheduled_at": "2026-11-18T21:47:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-22T11:08:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]
@@ -4472,6 +4492,11 @@
           "scheduled_at": "2026-10-30T16:33:00+09:00",
           "registered_at": "2026-10-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-23T14:42:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -5048,6 +5073,90 @@
         {
           "scheduled_at": "2026-11-20T19:52:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b9d94ed731": {
+      "text": "男が復縁しない一番の理由って、元カノを嫌いだからじゃないんですよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-21T14:42:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2ff4d7b966": {
+      "text": "今の冷たさで終わったって決めつけてない。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-21T19:52:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_06bd3803e2": {
+      "text": "復縁したいなら「とりあえず一回会えれば何とかなる」はめちゃ危険です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-21T21:47:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_301146b16c": {
+      "text": "自分から振った手前「今さら俺から行くのもな…」って止まることがある。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T14:42:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8576d32172": {
+      "text": "実は、冷却期間を取らない方が復縁の確率が高いんです",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T19:52:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_224c708a06": {
+      "text": "これ復縁したい女性みんなに知って欲しい！",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T21:47:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b78b9b8587": {
+      "text": "重要。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-23T16:33:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]

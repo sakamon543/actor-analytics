@@ -75,6 +75,11 @@
           "scheduled_at": "2026-11-16T11:08:00+09:00",
           "registered_at": "2026-11-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-19T11:08:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -501,6 +506,11 @@
         {
           "scheduled_at": "2026-11-17T11:08:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-19T19:52:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]
@@ -1369,6 +1379,11 @@
           "scheduled_at": "2026-11-16T14:42:00+09:00",
           "registered_at": "2026-11-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T21:47:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -1578,6 +1593,11 @@
         {
           "scheduled_at": "2026-11-15T21:47:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-20T11:08:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]
@@ -2154,6 +2174,11 @@
         {
           "scheduled_at": "2026-11-15T19:52:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-20T16:33:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]
@@ -4055,6 +4080,11 @@
           "scheduled_at": "2026-11-15T16:33:00+09:00",
           "registered_at": "2026-11-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T16:33:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -5615,6 +5645,11 @@
           "scheduled_at": "2026-09-12T16:33:00+09:00",
           "registered_at": "2026-09-09",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-20T19:52:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -6249,6 +6284,11 @@
           "scheduled_at": "2026-09-30T19:52:00+09:00",
           "registered_at": "2026-09-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-20T14:42:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -6265,6 +6305,11 @@
         {
           "scheduled_at": "2026-11-08T19:52:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-19T14:42:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]
@@ -7000,6 +7045,11 @@
           "scheduled_at": "2026-10-27T16:33:00+09:00",
           "registered_at": "2026-10-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-19T21:47:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -7289,6 +7339,11 @@
           "scheduled_at": "2026-11-12T14:42:00+09:00",
           "registered_at": "2026-11-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T14:42:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -7324,6 +7379,18 @@
         {
           "scheduled_at": "2026-11-17T19:52:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9876316534": {
+      "text": "別れを告げられた夜に、絶対やっちゃいけない行動が1つある。",
+      "structure_label": "NG行動警告型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-18T19:52:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]

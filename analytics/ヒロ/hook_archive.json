@@ -532,6 +532,11 @@
           "scheduled_at": "2026-11-13T19:52:00+09:00",
           "registered_at": "2026-11-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-19T19:52:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -4901,7 +4906,8 @@
         {
           "scheduled_at": "2026-11-13T16:33:00+09:00",
           "registered_at": "2026-11-10",
-          "views": null
+          "views": 24,
+          "posted_at": "2026-11-13T07:37:02.546+00:00"
         }
       ]
     },
@@ -4913,6 +4919,11 @@
         {
           "scheduled_at": "2026-11-14T16:33:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-17T16:33:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]
@@ -4938,6 +4949,11 @@
           "scheduled_at": "2026-11-14T21:47:00+09:00",
           "registered_at": "2026-11-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-17T21:47:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -4961,6 +4977,11 @@
         {
           "scheduled_at": "2026-11-15T19:52:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T14:42:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]
@@ -4998,6 +5019,11 @@
           "scheduled_at": "2026-11-16T14:42:00+09:00",
           "registered_at": "2026-11-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-19T11:08:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -5010,6 +5036,11 @@
           "scheduled_at": "2026-11-16T16:33:00+09:00",
           "registered_at": "2026-11-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-19T14:42:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -5021,6 +5052,59 @@
         {
           "scheduled_at": "2026-11-16T19:52:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-19T16:33:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4b73d22de8": {
+      "text": "本気になった相手ほど、回避型の男は「応えられなかったらどうしよう」って怖くなって自爆的に離",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-17T19:52:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f57baab82f": {
+      "text": "回避型が逃げてる間の心理って「開放感は一瞬だけど、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-18T11:08:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_79997876e7": {
+      "text": "回避型ってほんと正直で、相手の気持ちが見えてるうちは放置するのに「気持ちが離れた」と察した",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-18T19:52:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_470dca7ea2": {
+      "text": "男って別れたあと『自分をちゃんと愛してくれてた元カノ』を時間差でめちゃくちゃ惜しくなるんで",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-18T21:47:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]

@@ -49,6 +49,11 @@
           "scheduled_at": "2026-11-14T19:52:00+09:00",
           "registered_at": "2026-11-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-17T19:52:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -162,6 +167,11 @@
         {
           "scheduled_at": "2026-11-15T21:47:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T19:52:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]
@@ -346,6 +356,11 @@
         {
           "scheduled_at": "2026-11-14T16:33:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-17T16:33:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]
@@ -993,6 +1008,11 @@
         {
           "scheduled_at": "2026-11-06T11:08:00+09:00",
           "registered_at": "2026-11-04",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T14:42:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]
@@ -2044,6 +2064,11 @@
           "scheduled_at": "2026-11-15T11:08:00+09:00",
           "registered_at": "2026-11-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T11:08:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -2848,6 +2873,11 @@
           "scheduled_at": "2026-11-14T21:47:00+09:00",
           "registered_at": "2026-11-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-17T21:47:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -3277,6 +3307,11 @@
         {
           "scheduled_at": "2026-11-16T14:42:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T21:47:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]
@@ -3729,6 +3764,54 @@
         {
           "scheduled_at": "2026-11-16T19:52:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f98da4e4e6": {
+      "text": "年下男子が『この人から離れられない』と沼る年上には、はっきりした共通点があるんです。若さでも、美貌でも、気遣いでもありません。それは、余裕を『見せない』人",
+      "structure_label": "否定列挙型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-19T11:08:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d6d902ef81": {
+      "text": "年下男子は、「相談できる年上」と簡単に恋愛には切り替えられない",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-19T14:42:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9d217b71b2": {
+      "text": "年下男子が年上から離れるとき、「重かった」より圧倒的に多いのが『俺がいなくても平気そう』です",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-19T16:33:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cde9cfd81b": {
+      "text": "年下男子の本音を言うと、頼れる年上には甘えたいと思わないんです",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-19T19:52:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]

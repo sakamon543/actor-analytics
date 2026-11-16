@@ -1015,6 +1015,11 @@
           "scheduled_at": "2026-11-18T14:42:00+09:00",
           "registered_at": "2026-11-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-20T19:52:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -1166,6 +1171,11 @@
         {
           "scheduled_at": "2026-11-19T14:42:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-21T11:08:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]
@@ -1795,6 +1805,11 @@
         {
           "scheduled_at": "2026-11-17T16:33:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-22T11:08:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]
@@ -4476,6 +4491,11 @@
           "scheduled_at": "2026-11-18T11:08:00+09:00",
           "registered_at": "2026-11-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-20T16:33:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -4487,7 +4507,8 @@
         {
           "scheduled_at": "2026-11-10T16:33:00+09:00",
           "registered_at": "2026-11-04",
-          "views": null
+          "views": 15,
+          "posted_at": "2026-11-10T07:36:22.025+00:00"
         }
       ]
     },
@@ -4604,6 +4625,11 @@
           "scheduled_at": "2026-11-13T16:33:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-21T21:47:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -4676,6 +4702,11 @@
           "scheduled_at": "2026-11-17T19:52:00+09:00",
           "registered_at": "2026-11-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-20T14:42:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -4688,6 +4719,11 @@
           "scheduled_at": "2026-11-18T19:52:00+09:00",
           "registered_at": "2026-11-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-21T14:42:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -4699,6 +4735,11 @@
         {
           "scheduled_at": "2026-11-18T21:47:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-20T21:47:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]
@@ -4735,6 +4776,47 @@
         {
           "scheduled_at": "2026-11-19T19:52:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-22T16:33:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_49ea732b8f": {
+      "text": "元彼の既読スルーは、嫌いになったサインじゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-21T19:52:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d27d6ab435": {
+      "text": "復縁できる人とできない人の違いって、可愛さでも我慢した期間の長さでもないんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T14:42:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f2a661e0ed": {
+      "text": "ほんとこれ！",
+      "structure_label": "共感同意型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T19:52:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]

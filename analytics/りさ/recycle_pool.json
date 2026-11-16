@@ -148,8 +148,8 @@
       "first_seen_views": 19927,
       "first_seen_at": "2026-09-11T07:37:34.424+00:00",
       "status": "used",
-      "used_count": 2,
-      "last_used_at": "2026-10-13T09:28:58.012376+09:00",
+      "used_count": 3,
+      "last_used_at": "2026-11-16T09:33:57.484517+09:00",
       "sales_followed": false
     },
     "rcyc_caf5c83f66": {
@@ -247,5 +247,5 @@
       "sales_followed": false
     }
   },
-  "updated_at": "2026-11-13T09:42:25.341013+09:00"
+  "updated_at": "2026-11-16T09:33:57.484517+09:00"
 }

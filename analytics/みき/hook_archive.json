@@ -1992,6 +1992,16 @@
           "scheduled_at": "2026-11-11T16:33:00+09:00",
           "registered_at": "2026-11-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-17T19:52:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-19T14:42:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -2123,6 +2133,16 @@
         {
           "scheduled_at": "2026-11-11T19:52:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-17T16:33:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T21:47:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]
@@ -2461,6 +2481,16 @@
           "scheduled_at": "2026-11-11T14:42:00+09:00",
           "registered_at": "2026-11-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-17T14:42:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-19T19:52:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
         }
       ]
     },
@@ -2770,6 +2800,11 @@
         {
           "scheduled_at": "2026-11-12T14:42:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T14:42:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]
@@ -3308,6 +3343,11 @@
         {
           "scheduled_at": "2026-09-15T11:08:00+09:00",
           "registered_at": "2026-09-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-19T11:08:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]
@@ -4592,6 +4632,54 @@
         {
           "scheduled_at": "2026-11-16T19:52:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        }
+      ]
+    },
+    "fookid_864cca61e8": {
+      "text": "年下後輩相手だと、好きな人ほど自分から誘うのは逆効果です。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-17T21:47:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_475aee63f4": {
+      "text": "年下の後輩は、先輩から動かれてる間は女として見ません。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-18T11:08:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1fa73b7150": {
+      "text": "後輩の「彼氏いないんですか？」に「いないですよー」で返すの、自分で恋愛対象から外す返しです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-18T19:52:00+09:00",
+          "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4650855321": {
+      "text": "年下の後輩ほど、心の中では「どうせ相手にされない」って思ってます。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-16",
+      "history": [
+        {
+          "scheduled_at": "2026-11-19T16:33:00+09:00",
+          "registered_at": "2026-11-16",
           "views": null
         }
       ]
