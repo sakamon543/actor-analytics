@@ -190,6 +190,11 @@
           "scheduled_at": "2026-11-16T11:08:00+09:00",
           "registered_at": "2026-11-14",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-19T14:42:00+09:00",
+          "registered_at": "2026-11-17",
+          "views": null
         }
       ]
     },
@@ -447,6 +452,11 @@
         {
           "scheduled_at": "2026-11-16T14:42:00+09:00",
           "registered_at": "2026-11-14",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T21:47:00+09:00",
+          "registered_at": "2026-11-17",
           "views": null
         }
       ]
@@ -957,6 +967,11 @@
           "scheduled_at": "2026-11-15T14:42:00+09:00",
           "registered_at": "2026-11-14",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T14:42:00+09:00",
+          "registered_at": "2026-11-17",
+          "views": null
         }
       ]
     },
@@ -1226,6 +1241,11 @@
         {
           "scheduled_at": "2026-11-13T11:08:00+09:00",
           "registered_at": "2026-11-11",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T19:52:00+09:00",
+          "registered_at": "2026-11-17",
           "views": null
         }
       ]
@@ -1878,6 +1898,11 @@
           "scheduled_at": "2026-11-16T21:47:00+09:00",
           "registered_at": "2026-11-14",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-20T11:08:00+09:00",
+          "registered_at": "2026-11-17",
+          "views": null
         }
       ]
     },
@@ -2149,6 +2174,11 @@
         {
           "scheduled_at": "2026-11-15T21:47:00+09:00",
           "registered_at": "2026-11-14",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-19T11:08:00+09:00",
+          "registered_at": "2026-11-17",
           "views": null
         }
       ]
@@ -2538,6 +2568,11 @@
         {
           "scheduled_at": "2026-11-15T19:52:00+09:00",
           "registered_at": "2026-11-14",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-19T21:47:00+09:00",
+          "registered_at": "2026-11-17",
           "views": null
         }
       ]
@@ -3708,6 +3743,11 @@
         {
           "scheduled_at": "2026-11-15T16:33:00+09:00",
           "registered_at": "2026-11-14",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-18T16:33:00+09:00",
+          "registered_at": "2026-11-17",
           "views": null
         }
       ]
@@ -7036,6 +7076,54 @@
         {
           "scheduled_at": "2026-11-17T19:52:00+09:00",
           "registered_at": "2026-11-14",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7aa7dea4af": {
+      "text": "俺が知ってる復縁カップルの9割以上は『男が後悔して復縁を申し込んでる』。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-17",
+      "history": [
+        {
+          "scheduled_at": "2026-11-19T19:52:00+09:00",
+          "registered_at": "2026-11-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3be5fc9e3d": {
+      "text": "意外かもだけど、男は『年上の女性に近づかれてからスッと引かれる』と意識し始める生き物。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-17",
+      "history": [
+        {
+          "scheduled_at": "2026-11-20T14:42:00+09:00",
+          "registered_at": "2026-11-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0132d24338": {
+      "text": "実は、年下の男性ほど『落ち着いてる年上』に本気になる確率がめちゃくちゃ高い。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-17",
+      "history": [
+        {
+          "scheduled_at": "2026-11-20T16:33:00+09:00",
+          "registered_at": "2026-11-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_eb4579beb1": {
+      "text": "男は、「一度気になった年上の同僚」を簡単にただの同僚には戻せない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-17",
+      "history": [
+        {
+          "scheduled_at": "2026-11-20T19:52:00+09:00",
+          "registered_at": "2026-11-17",
           "views": null
         }
       ]
