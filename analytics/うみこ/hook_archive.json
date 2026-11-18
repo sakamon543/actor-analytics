@@ -1155,6 +1155,11 @@
           "scheduled_at": "2026-11-18T14:42:00+09:00",
           "registered_at": "2026-11-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-20T14:42:00+09:00",
+          "registered_at": "2026-11-18",
+          "views": null
         }
       ]
     },
@@ -2316,6 +2321,11 @@
           "scheduled_at": "2026-11-15T14:42:00+09:00",
           "registered_at": "2026-11-12",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-20T21:47:00+09:00",
+          "registered_at": "2026-11-18",
+          "views": null
         }
       ]
     },
@@ -2932,6 +2942,11 @@
         {
           "scheduled_at": "2026-11-17T14:42:00+09:00",
           "registered_at": "2026-11-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-19T21:47:00+09:00",
+          "registered_at": "2026-11-18",
           "views": null
         }
       ]
@@ -5101,7 +5116,8 @@
         {
           "scheduled_at": "2026-08-02T19:52:00+09:00",
           "registered_at": "2026-07-31",
-          "views": null
+          "views": 24,
+          "posted_at": "2026-11-12T10:58:07.869+00:00"
         },
         {
           "scheduled_at": "2026-11-12T19:52:00+09:00",
@@ -5196,6 +5212,11 @@
         {
           "scheduled_at": "2026-11-17T21:47:00+09:00",
           "registered_at": "2026-11-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-20T19:52:00+09:00",
+          "registered_at": "2026-11-18",
           "views": null
         }
       ]
@@ -5944,6 +5965,11 @@
           "scheduled_at": "2026-11-16T21:47:00+09:00",
           "registered_at": "2026-11-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-19T19:52:00+09:00",
+          "registered_at": "2026-11-18",
+          "views": null
         }
       ]
     },
@@ -6086,6 +6112,11 @@
         {
           "scheduled_at": "2026-11-16T19:52:00+09:00",
           "registered_at": "2026-11-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-19T16:33:00+09:00",
+          "registered_at": "2026-11-18",
           "views": null
         }
       ]
@@ -6622,6 +6653,11 @@
           "scheduled_at": "2026-11-17T19:52:00+09:00",
           "registered_at": "2026-11-15",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-20T11:08:00+09:00",
+          "registered_at": "2026-11-18",
+          "views": null
         }
       ]
     },
@@ -7099,6 +7135,11 @@
         {
           "scheduled_at": "2026-10-03T19:52:00+09:00",
           "registered_at": "2026-09-30",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-21T16:33:00+09:00",
+          "registered_at": "2026-11-18",
           "views": null
         }
       ]
@@ -7701,7 +7742,8 @@
         {
           "scheduled_at": "2026-11-14T19:52:00+09:00",
           "registered_at": "2026-11-12",
-          "views": null
+          "views": 371,
+          "posted_at": "2026-11-14T10:58:48.373+00:00"
         }
       ]
     },
@@ -7797,6 +7839,54 @@
         {
           "scheduled_at": "2026-11-18T16:33:00+09:00",
           "registered_at": "2026-11-15",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b68702f639": {
+      "text": "男は、好きでも別れる。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-18",
+      "history": [
+        {
+          "scheduled_at": "2026-11-19T14:42:00+09:00",
+          "registered_at": "2026-11-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_558f49a3ea": {
+      "text": "『モテる女』と『沼らせる女』って、全くの別モノなのよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-18",
+      "history": [
+        {
+          "scheduled_at": "2026-11-21T11:08:00+09:00",
+          "registered_at": "2026-11-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cabc559d8d": {
+      "text": "男が未練ゼロのときって、びっくりするくらいはっきりわかる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-18",
+      "history": [
+        {
+          "scheduled_at": "2026-11-21T14:42:00+09:00",
+          "registered_at": "2026-11-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_86ebd131cc": {
+      "text": "『元彼は死んだ』と思えた子ほど復縁に近づくのよ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-18",
+      "history": [
+        {
+          "scheduled_at": "2026-11-21T19:52:00+09:00",
+          "registered_at": "2026-11-18",
           "views": null
         }
       ]
