@@ -218,8 +218,8 @@
       "first_seen_views": 6538,
       "first_seen_at": "2026-10-18T07:42:34.456+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-10-19T09:25:09.326500+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-11-19T09:37:00.240026+09:00",
       "sales_followed": false
     },
     "rcyc_4459979cd7": {
@@ -247,5 +247,5 @@
       "sales_followed": false
     }
   },
-  "updated_at": "2026-11-16T09:33:57.484517+09:00"
+  "updated_at": "2026-11-19T09:37:00.240026+09:00"
 }

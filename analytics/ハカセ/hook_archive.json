@@ -213,6 +213,11 @@
           "scheduled_at": "2026-11-17T14:42:00+09:00",
           "registered_at": "2026-11-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-23T19:52:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
         }
       ]
     },
@@ -907,6 +912,11 @@
           "scheduled_at": "2026-11-16T19:52:00+09:00",
           "registered_at": "2026-11-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-21T21:47:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
         }
       ]
     },
@@ -1384,6 +1394,11 @@
           "scheduled_at": "2026-11-18T21:47:00+09:00",
           "registered_at": "2026-11-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-21T19:52:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
         }
       ]
     },
@@ -1807,6 +1822,11 @@
           "scheduled_at": "2026-11-13T11:08:00+09:00",
           "registered_at": "2026-11-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-22T14:42:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
         }
       ]
     },
@@ -2055,6 +2075,11 @@
           "scheduled_at": "2026-11-13T19:52:00+09:00",
           "registered_at": "2026-11-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-22T21:47:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
         }
       ]
     },
@@ -2179,6 +2204,11 @@
         {
           "scheduled_at": "2026-11-20T16:33:00+09:00",
           "registered_at": "2026-11-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-23T11:08:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]
@@ -4084,6 +4114,11 @@
         {
           "scheduled_at": "2026-11-18T16:33:00+09:00",
           "registered_at": "2026-11-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-21T16:33:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]
@@ -7391,6 +7426,67 @@
         {
           "scheduled_at": "2026-11-18T19:52:00+09:00",
           "registered_at": "2026-11-16",
+          "views": 2,
+          "posted_at": "2026-11-18T10:58:23.742+00:00"
+        }
+      ]
+    },
+    "fookid_0a83e69633": {
+      "text": "男って、好意があって避けるより負い目を感じて距離を取ることの方が多いんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-21T14:42:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bb92a74d9b": {
+      "text": "「友達からやり直すのが安全」はウソ",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T11:08:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_246544fc4b": {
+      "text": "復縁した元彼に「もし彼女から連絡が来てなかったら？」→「自分から動くことは絶対なかった」",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T19:52:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0b056564cc": {
+      "text": "実は、男から振った方が復縁の確率はめちゃくちゃ高い",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-23T14:42:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_34260b22eb": {
+      "text": "振った男が「やっぱり戻りたい」って思うまでの平均、相談データだと55日だったんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-23T16:33:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]

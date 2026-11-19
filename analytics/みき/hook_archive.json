@@ -2491,6 +2491,11 @@
           "scheduled_at": "2026-11-19T19:52:00+09:00",
           "registered_at": "2026-11-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-20T14:42:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
         }
       ]
     },
@@ -2519,6 +2524,11 @@
         {
           "scheduled_at": "2026-10-20T16:33:00+09:00",
           "registered_at": "2026-10-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-20T16:33:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]
@@ -2577,6 +2587,11 @@
         {
           "scheduled_at": "2026-10-20T19:52:00+09:00",
           "registered_at": "2026-10-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-20T19:52:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]
@@ -4632,7 +4647,8 @@
         {
           "scheduled_at": "2026-11-16T19:52:00+09:00",
           "registered_at": "2026-11-13",
-          "views": null
+          "views": 15,
+          "posted_at": "2026-11-16T10:57:34.089+00:00"
         }
       ]
     },
@@ -4680,6 +4696,114 @@
         {
           "scheduled_at": "2026-11-19T16:33:00+09:00",
           "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e05b45c330": {
+      "text": "好きな人ほど自分から誘うべき、って思ってませんか",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-20T21:47:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a44a491711": {
+      "text": "職場恋愛を隠して付き合ってる人は83.7%で、バレる前提で怖がる必要はありません",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-21T11:08:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_eab1f447f6": {
+      "text": "後輩の「彼氏いないんですか？」は、世間話じゃなくて最後の確認です",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-21T14:42:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bfbbc8354f": {
+      "text": "盛り上げた飲み会の翌日に彼がよそよそしくなるのは、嫌われたからじゃありません",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-21T19:52:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c685a75046": {
+      "text": "恋愛は動いた方が勝ち、って思ってませんか",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-21T21:47:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c8ac5c86bc": {
+      "text": "若く見せる努力は、年上のいちばんの武器を自分で消す行為です",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T11:08:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bdfe5664cd": {
+      "text": "4歳下が動かないのは、年上だからじゃなくて「どうせ相手にされない」と思ってるからです",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T14:42:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b2ef66d955": {
+      "text": "「もう30だしね」を自分から言うのは、謙遜じゃなくて自爆です",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T16:33:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b17bc91849": {
+      "text": "「今日こそ誘おう」とスマホを握ってる人ほど、誘わない方が彼は動きます",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T19:52:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]

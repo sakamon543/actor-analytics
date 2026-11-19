@@ -5108,6 +5108,126 @@
           "views": null
         }
       ]
+    },
+    "fookid_b6a3fd051e": {
+      "text": "男が復縁を考えるのは、元カノを手放した自分を許せなくなったとき。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-20T16:33:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3ea00f34a1": {
+      "text": "僕が別れて元カノを思い出して恋しくなりだしたのは『別れて1か月』してからなんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-20T19:52:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cf8cbe52ac": {
+      "text": "男が振っておいて後悔するのって、元カノから連絡が来なくなった時だったりするんですよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-20T21:47:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e72a92610a": {
+      "text": "僕も別れた当時は「彼女への気持ちが冷めたんだ」と思ってました。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-21T11:08:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0e78111057": {
+      "text": "信じられないかもしれないけど、LINEしなくたって男は元カノを忘れない。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-21T19:52:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3a428fc540": {
+      "text": "つまり彼の言葉を表面だけで受け取らないで、その裏にある本音さえ読み違えなければ、",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-21T21:47:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f04e9d6aa4": {
+      "text": "ガチでこれはわかる。",
+      "structure_label": "当事者同調型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T11:08:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c97589bb55": {
+      "text": "僕も『このまま彼女といても幸せにできないかもしれない』という自信のなさと不安で距離を置いた",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T14:42:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e31708e27e": {
+      "text": "僕がそうだったからわかるけど、回避型の男性にとって「別れよう」は決意というより避難。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T16:33:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_122104a396": {
+      "text": "マジな話、別れ際に冷たく振られた場合ほど復縁率高いよ。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T19:52:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
     }
   }
 }

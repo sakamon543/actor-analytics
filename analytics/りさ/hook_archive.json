@@ -362,6 +362,11 @@
           "scheduled_at": "2026-11-17T16:33:00+09:00",
           "registered_at": "2026-11-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-20T16:33:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
         }
       ]
     },
@@ -672,6 +677,11 @@
           "scheduled_at": "2026-11-12T14:42:00+09:00",
           "registered_at": "2026-11-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-22T11:08:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
         }
       ]
     },
@@ -826,6 +836,11 @@
           "scheduled_at": "2026-11-11T16:33:00+09:00",
           "registered_at": "2026-11-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-20T21:47:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
         }
       ]
     },
@@ -906,6 +921,11 @@
         {
           "scheduled_at": "2026-11-12T19:52:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-21T19:52:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]
@@ -1378,6 +1398,11 @@
           "scheduled_at": "2026-11-13T11:08:00+09:00",
           "registered_at": "2026-11-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-21T11:08:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
         }
       ]
     },
@@ -1722,6 +1747,16 @@
         {
           "scheduled_at": "2026-11-11T21:47:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-21T21:47:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-22T14:42:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]
@@ -2068,6 +2103,11 @@
         {
           "scheduled_at": "2026-11-18T11:08:00+09:00",
           "registered_at": "2026-11-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-21T14:42:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]
@@ -2877,6 +2917,11 @@
         {
           "scheduled_at": "2026-11-17T21:47:00+09:00",
           "registered_at": "2026-11-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-20T19:52:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]
@@ -3812,6 +3857,30 @@
         {
           "scheduled_at": "2026-11-19T19:52:00+09:00",
           "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_099daaa460": {
+      "text": "年下男子が年上に本気になるとき、「落ち着いてて素敵」より圧倒的に多いのが『年上なのに甘えてきた』です",
+      "structure_label": "常識否定型（本当の理由の提示）",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T16:33:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cc0e1ba263": {
+      "text": "結局、年下男子に本命扱いされる年上って『彼の前で我慢をやめた人』なんです",
+      "structure_label": "命題型（共通点の断言）",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T19:52:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]

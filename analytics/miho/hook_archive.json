@@ -403,6 +403,11 @@
           "scheduled_at": "2026-11-21T16:33:00+09:00",
           "registered_at": "2026-11-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-24T14:42:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
         }
       ]
     },
@@ -1534,6 +1539,11 @@
         {
           "scheduled_at": "2026-11-20T14:42:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-25T21:47:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]
@@ -3261,6 +3271,11 @@
           "scheduled_at": "2026-11-23T19:52:00+09:00",
           "registered_at": "2026-11-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-26T14:42:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
         }
       ]
     },
@@ -3616,6 +3631,11 @@
           "scheduled_at": "2026-11-01T19:52:00+09:00",
           "registered_at": "2026-10-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-25T14:42:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
         }
       ]
     },
@@ -3730,6 +3750,11 @@
         {
           "scheduled_at": "2026-11-22T11:08:00+09:00",
           "registered_at": "2026-11-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-24T19:52:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]
@@ -4533,7 +4558,8 @@
         {
           "scheduled_at": "2026-11-02T11:08:00+09:00",
           "registered_at": "2026-10-28",
-          "views": null
+          "views": 2,
+          "posted_at": "2026-11-14T10:55:57.606+00:00"
         },
         {
           "scheduled_at": "2026-11-14T19:52:00+09:00",
@@ -5157,6 +5183,90 @@
         {
           "scheduled_at": "2026-11-23T16:33:00+09:00",
           "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_643f975520": {
+      "text": "既読無視とか未読無視って、彼があなたの愛情に慣れきってるから起こっちゃうんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-24T16:33:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_e83ce1c338": {
+      "text": "別れ話を一方的にされた人、むしろ「まだ好きだけど別れた」可能性大あり。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-24T21:47:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4f229777f9": {
+      "text": "復縁で取り戻すべきなのは、『この子を俺が幸せにしたい』という男としての自信なんですよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-25T11:08:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c15da6fb68": {
+      "text": "未読のまま終わったと思ってる人、まだ諦めなくていいです。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-25T19:52:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_195ebebdae": {
+      "text": "付き合ってた時に一度でも溺愛されてたなら復縁の可能性めっちゃあるからね。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-26T11:08:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_23d4a2bc42": {
+      "text": "男性は好意があって避けるより、負い目を感じて距離を取ることの方が多いんです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-26T16:33:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ac47944bd5": {
+      "text": "男は、好きだった相手と友達みたいな関係には戻れないです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-26T19:52:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]

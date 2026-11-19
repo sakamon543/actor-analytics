@@ -392,6 +392,16 @@
           "scheduled_at": "2026-11-20T19:52:00+09:00",
           "registered_at": "2026-11-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-22T14:42:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-24T19:52:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
         }
       ]
     },
@@ -600,6 +610,11 @@
         {
           "scheduled_at": "2026-11-20T11:08:00+09:00",
           "registered_at": "2026-11-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-22T19:52:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]
@@ -878,6 +893,16 @@
         {
           "scheduled_at": "2026-11-19T16:33:00+09:00",
           "registered_at": "2026-11-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-22T16:33:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-24T14:42:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]
@@ -1984,6 +2009,11 @@
           "scheduled_at": "2026-11-21T16:33:00+09:00",
           "registered_at": "2026-11-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-22T21:47:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
         }
       ]
     },
@@ -2620,6 +2650,11 @@
         {
           "scheduled_at": "2026-11-21T11:08:00+09:00",
           "registered_at": "2026-11-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-23T19:52:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]
@@ -4347,6 +4382,66 @@
         {
           "scheduled_at": "2026-11-21T19:52:00+09:00",
           "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2e9212f0ab": {
+      "text": "男は、あなた一人を見て決めていません。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-23T11:08:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_863c5f9136": {
+      "text": "男は一番いい子を選んでるんじゃなくて、違和感が出た子から順に消してるだけ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-23T14:42:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_62b9fbaf44": {
+      "text": "「2回目に誘われたら脈あり」はウソ",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-23T21:47:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c3a53a885f": {
+      "text": "消される子には、毎回おなじ共通点があります。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-24T11:08:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f6c5fad325": {
+      "text": "男の「また会おうね」は、次がある合図じゃない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-24T16:33:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]

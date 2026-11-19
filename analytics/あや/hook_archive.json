@@ -864,6 +864,11 @@
           "scheduled_at": "2026-11-19T11:08:00+09:00",
           "registered_at": "2026-11-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-20T19:52:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
         }
       ]
     },
@@ -986,6 +991,11 @@
         {
           "scheduled_at": "2026-11-15T14:42:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-21T14:42:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]
@@ -3099,6 +3109,11 @@
           "scheduled_at": "2026-11-19T14:42:00+09:00",
           "registered_at": "2026-11-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-22T11:08:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
         }
       ]
     },
@@ -4755,6 +4770,11 @@
           "scheduled_at": "2026-11-12T14:42:00+09:00",
           "registered_at": "2026-11-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-20T16:33:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
         }
       ]
     },
@@ -4939,6 +4959,102 @@
         {
           "scheduled_at": "2026-11-19T19:52:00+09:00",
           "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1b9b36473f": {
+      "text": "元彼の気持ち再燃させたい女子はこれは知っておいた方がいい。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-20T14:42:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d6bcbb5c94": {
+      "text": "信じられないかもしれないけど、既読無視中でも男はLINE来ることを喜んでるんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-20T21:47:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_33169484ff": {
+      "text": "男性は好意があって避けるより、負い目を感じて距離を取ることの方が多いんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-21T11:08:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ade117b5f9": {
+      "text": "『追いすぎて嫌われたんだ』って思ってる人は、ちょっと待ってほしい。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-21T19:52:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f88d2b20cf": {
+      "text": "一度振られても、回避型の男が戻るかどうかは『本音を理解してもらえたか』で決まるんだよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-21T21:47:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_532259b3cf": {
+      "text": "別れて1週間で元彼がマッチングアプリ始めたとしても、",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T14:42:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_528fcbaf1b": {
+      "text": "元彼に他の女がいるかもって思ってる人は、",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T16:33:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dd1c4edfc5": {
+      "text": "男にとって『一途に尽くしてくれた元カノ』はガチで特別だし、そう簡単に忘れられないんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T19:52:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]

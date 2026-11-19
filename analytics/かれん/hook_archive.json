@@ -1020,6 +1020,11 @@
           "scheduled_at": "2026-11-20T19:52:00+09:00",
           "registered_at": "2026-11-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-23T21:47:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
         }
       ]
     },
@@ -1176,6 +1181,11 @@
         {
           "scheduled_at": "2026-11-21T11:08:00+09:00",
           "registered_at": "2026-11-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-24T21:47:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]
@@ -1810,6 +1820,11 @@
         {
           "scheduled_at": "2026-11-22T11:08:00+09:00",
           "registered_at": "2026-11-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-23T16:33:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]
@@ -4496,6 +4511,11 @@
           "scheduled_at": "2026-11-20T16:33:00+09:00",
           "registered_at": "2026-11-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-25T16:33:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
         }
       ]
     },
@@ -4641,6 +4661,11 @@
         {
           "scheduled_at": "2026-11-13T19:52:00+09:00",
           "registered_at": "2026-11-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-24T19:52:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]
@@ -4817,6 +4842,90 @@
         {
           "scheduled_at": "2026-11-22T19:52:00+09:00",
           "registered_at": "2026-11-16",
+          "views": null
+        }
+      ]
+    },
+    "fookid_90271a76ea": {
+      "text": "未読無視から復縁した彼に、「なんで復縁しようと思ったの？",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-23T14:42:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c74964382c": {
+      "text": "元彼にブロックされたあと、別のSNSやSMSから連絡するのは、絶対にやめた方がいいです。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-23T19:52:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d784b9f636": {
+      "text": "復縁したいからって、別れたあと急に“別人”になる必要はないです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-24T11:08:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_31cc6ef3ef": {
+      "text": "男性って好意があって避けるより、負い目を感じて距離を取ることの方が多いんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-24T14:42:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7af7dcbc64": {
+      "text": "今でこそ私の彼は毎日『一緒に寝よ』って言ってくるんだけど、",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-25T11:08:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_2dfae9db98": {
+      "text": "知らない女性多いけど、男は元カノに未練がある時ほど『連絡しない』を選ぶんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-25T14:42:00+09:00",
+          "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1952910ea3": {
+      "text": "『重い女は復縁できない』はウソ",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-19",
+      "history": [
+        {
+          "scheduled_at": "2026-11-25T19:52:00+09:00",
+          "registered_at": "2026-11-19",
           "views": null
         }
       ]
