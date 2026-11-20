@@ -195,6 +195,11 @@
           "scheduled_at": "2026-11-19T14:42:00+09:00",
           "registered_at": "2026-11-17",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-22T19:52:00+09:00",
+          "registered_at": "2026-11-20",
+          "views": null
         }
       ]
     },
@@ -457,6 +462,11 @@
         {
           "scheduled_at": "2026-11-18T21:47:00+09:00",
           "registered_at": "2026-11-17",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-22T14:42:00+09:00",
+          "registered_at": "2026-11-20",
           "views": null
         }
       ]
@@ -971,6 +981,11 @@
         {
           "scheduled_at": "2026-11-18T14:42:00+09:00",
           "registered_at": "2026-11-17",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-21T19:52:00+09:00",
+          "registered_at": "2026-11-20",
           "views": null
         }
       ]
@@ -1903,6 +1918,11 @@
           "scheduled_at": "2026-11-20T11:08:00+09:00",
           "registered_at": "2026-11-17",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-22T11:08:00+09:00",
+          "registered_at": "2026-11-20",
+          "views": null
         }
       ]
     },
@@ -2179,6 +2199,11 @@
         {
           "scheduled_at": "2026-11-19T11:08:00+09:00",
           "registered_at": "2026-11-17",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-21T14:42:00+09:00",
+          "registered_at": "2026-11-20",
           "views": null
         }
       ]
@@ -2573,6 +2598,11 @@
         {
           "scheduled_at": "2026-11-19T21:47:00+09:00",
           "registered_at": "2026-11-17",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-21T21:47:00+09:00",
+          "registered_at": "2026-11-20",
           "views": null
         }
       ]
@@ -3748,6 +3778,11 @@
         {
           "scheduled_at": "2026-11-18T16:33:00+09:00",
           "registered_at": "2026-11-17",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-21T16:33:00+09:00",
+          "registered_at": "2026-11-20",
           "views": null
         }
       ]
@@ -7101,6 +7136,11 @@
           "scheduled_at": "2026-11-20T14:42:00+09:00",
           "registered_at": "2026-11-17",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-23T11:08:00+09:00",
+          "registered_at": "2026-11-20",
+          "views": null
         }
       ]
     },
@@ -7124,6 +7164,54 @@
         {
           "scheduled_at": "2026-11-20T19:52:00+09:00",
           "registered_at": "2026-11-17",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d163512040": {
+      "text": "男の素っ気ない態度は、年上女性に興味がない証拠じゃない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-20",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T21:47:00+09:00",
+          "registered_at": "2026-11-20",
+          "views": null
+        }
+      ]
+    },
+    "fookid_79aef28b62": {
+      "text": "俺が見てきた職場恋愛の9割以上は『男が勝手に気になり出して自分から動いてる』。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-20",
+      "history": [
+        {
+          "scheduled_at": "2026-11-23T14:42:00+09:00",
+          "registered_at": "2026-11-20",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7a19d2859f": {
+      "text": "男は、「職場でよく話す＝意識されてる」とは思っていない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-20",
+      "history": [
+        {
+          "scheduled_at": "2026-11-23T16:33:00+09:00",
+          "registered_at": "2026-11-20",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ac6c90d98b": {
+      "text": "彼の業務連絡だけのLINEは、興味ない証拠じゃない。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-20",
+      "history": [
+        {
+          "scheduled_at": "2026-11-23T19:52:00+09:00",
+          "registered_at": "2026-11-20",
           "views": null
         }
       ]
