@@ -1160,6 +1160,11 @@
           "scheduled_at": "2026-11-20T14:42:00+09:00",
           "registered_at": "2026-11-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-24T14:42:00+09:00",
+          "registered_at": "2026-11-21",
+          "views": null
         }
       ]
     },
@@ -2947,6 +2952,11 @@
         {
           "scheduled_at": "2026-11-19T21:47:00+09:00",
           "registered_at": "2026-11-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-23T11:08:00+09:00",
+          "registered_at": "2026-11-21",
           "views": null
         }
       ]
@@ -5218,6 +5228,11 @@
           "scheduled_at": "2026-11-20T19:52:00+09:00",
           "registered_at": "2026-11-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-24T19:52:00+09:00",
+          "registered_at": "2026-11-21",
+          "views": null
         }
       ]
     },
@@ -5970,6 +5985,11 @@
           "scheduled_at": "2026-11-19T19:52:00+09:00",
           "registered_at": "2026-11-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-22T19:52:00+09:00",
+          "registered_at": "2026-11-21",
+          "views": null
         }
       ]
     },
@@ -6117,6 +6137,11 @@
         {
           "scheduled_at": "2026-11-19T16:33:00+09:00",
           "registered_at": "2026-11-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-22T14:42:00+09:00",
+          "registered_at": "2026-11-21",
           "views": null
         }
       ]
@@ -7141,6 +7166,11 @@
           "scheduled_at": "2026-11-21T16:33:00+09:00",
           "registered_at": "2026-11-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-24T11:08:00+09:00",
+          "registered_at": "2026-11-21",
+          "views": null
         }
       ]
     },
@@ -7887,6 +7917,78 @@
         {
           "scheduled_at": "2026-11-21T19:52:00+09:00",
           "registered_at": "2026-11-18",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8ccb8fb96a": {
+      "text": "男性は好意があって避けるより、負い目を感じて距離を取ることの方が多いのよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-21",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T16:33:00+09:00",
+          "registered_at": "2026-11-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6f59a03cdc": {
+      "text": "元彼の沈黙は『気持ちがない証拠』じゃないのよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-21",
+      "history": [
+        {
+          "scheduled_at": "2026-11-22T21:47:00+09:00",
+          "registered_at": "2026-11-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_98a72f2475": {
+      "text": "「モテる女」と「沼らせる女」って、全くの別モノなのよ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-21",
+      "history": [
+        {
+          "scheduled_at": "2026-11-23T14:42:00+09:00",
+          "registered_at": "2026-11-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0b4e7499e0": {
+      "text": "回避型ほど、別れたあと未練たらたらで引きずる男はいないのよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-21",
+      "history": [
+        {
+          "scheduled_at": "2026-11-23T19:52:00+09:00",
+          "registered_at": "2026-11-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_733acff811": {
+      "text": "男が別れた直後に新しい彼女を作るパターン、女側からすると『私はもう過去』に見えるけど、実は逆なのよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-21",
+      "history": [
+        {
+          "scheduled_at": "2026-11-23T21:47:00+09:00",
+          "registered_at": "2026-11-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3ba7ae1527": {
+      "text": "男が未練ゼロのときって、ほんとにはっきりわかる。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-21",
+      "history": [
+        {
+          "scheduled_at": "2026-11-24T16:33:00+09:00",
+          "registered_at": "2026-11-21",
           "views": null
         }
       ]
