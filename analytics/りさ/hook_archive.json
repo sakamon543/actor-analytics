@@ -367,6 +367,11 @@
           "scheduled_at": "2026-11-20T16:33:00+09:00",
           "registered_at": "2026-11-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-23T16:33:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -682,6 +687,11 @@
           "scheduled_at": "2026-11-22T11:08:00+09:00",
           "registered_at": "2026-11-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-24T19:52:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -840,6 +850,11 @@
         {
           "scheduled_at": "2026-11-20T21:47:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-23T19:52:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]
@@ -1403,6 +1418,11 @@
           "scheduled_at": "2026-11-21T11:08:00+09:00",
           "registered_at": "2026-11-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-24T14:42:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -1758,6 +1778,16 @@
           "scheduled_at": "2026-11-22T14:42:00+09:00",
           "registered_at": "2026-11-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-24T11:08:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-25T11:08:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -2108,6 +2138,11 @@
         {
           "scheduled_at": "2026-11-21T14:42:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-24T21:47:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]
@@ -2922,6 +2957,11 @@
         {
           "scheduled_at": "2026-11-20T19:52:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-23T21:47:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]
@@ -3881,6 +3921,42 @@
         {
           "scheduled_at": "2026-11-22T19:52:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_39bef9df9b": {
+      "text": "年下男子の距離感は、興味がないサインじゃないんです。むしろ逆で、あなたに惹かれ始めた男ほど、一回距離を置きます。『年上にがっつくのはダサい』『重いって思われたくない』って、彼の中で必死にブレーキ踏んでるだけ。冷めた顔の裏で、指は止まったままです。",
+      "structure_label": "常識否定型（サイン否定）",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-25T14:42:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_71e92ba4e9": {
+      "text": "年下男子が離れるとき『年の差がキツい』より圧倒的に多いのが『俺なんて必要ないな』",
+      "structure_label": "男性心理暴露型（本当の理由）",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-25T16:33:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_34318e94c0": {
+      "text": "年下男子は、『年上は余裕があって当たり前』とは思っていない",
+      "structure_label": "命題型（等式否定）",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-25T19:52:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]

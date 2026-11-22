@@ -1025,6 +1025,11 @@
           "scheduled_at": "2026-11-23T21:47:00+09:00",
           "registered_at": "2026-11-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-26T16:33:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -1186,6 +1191,11 @@
         {
           "scheduled_at": "2026-11-24T21:47:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-28T11:08:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]
@@ -1606,6 +1616,11 @@
           "scheduled_at": "2026-11-16T11:08:00+09:00",
           "registered_at": "2026-11-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T14:42:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -1825,6 +1840,11 @@
         {
           "scheduled_at": "2026-11-23T16:33:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-26T21:47:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]
@@ -3559,6 +3579,11 @@
           "scheduled_at": "2026-10-14T11:08:00+09:00",
           "registered_at": "2026-10-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-28T16:33:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -4516,6 +4541,11 @@
           "scheduled_at": "2026-11-25T16:33:00+09:00",
           "registered_at": "2026-11-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T19:52:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -4855,6 +4885,11 @@
           "scheduled_at": "2026-11-23T14:42:00+09:00",
           "registered_at": "2026-11-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-26T19:52:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -4866,6 +4901,11 @@
         {
           "scheduled_at": "2026-11-23T19:52:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T21:47:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]
@@ -4926,6 +4966,54 @@
         {
           "scheduled_at": "2026-11-25T19:52:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_33169484ff": {
+      "text": "男性は好意があって避けるより、負い目を感じて距離を取ることの方が多いんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-26T14:42:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a8e51bec8b": {
+      "text": "復縁したいからって、別れたあと急に『別人』になる必要はないです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-27T11:08:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_68eec537ff": {
+      "text": "今でこそ私の彼は毎日『一緒に寝よ』って言ってくるんだよね。",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-28T14:42:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b8fb1592f1": {
+      "text": "男は、『好きだった相手』と友達からは始められないんだよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-28T19:52:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]

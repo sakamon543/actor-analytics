@@ -218,6 +218,11 @@
           "scheduled_at": "2026-11-23T19:52:00+09:00",
           "registered_at": "2026-11-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-25T21:47:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -917,6 +922,11 @@
           "scheduled_at": "2026-11-21T21:47:00+09:00",
           "registered_at": "2026-11-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-24T21:47:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -1399,6 +1409,11 @@
           "scheduled_at": "2026-11-21T19:52:00+09:00",
           "registered_at": "2026-11-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-24T19:52:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -1614,6 +1629,11 @@
           "scheduled_at": "2026-11-20T11:08:00+09:00",
           "registered_at": "2026-11-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-25T11:08:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -1826,6 +1846,11 @@
         {
           "scheduled_at": "2026-11-22T14:42:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-25T14:42:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]
@@ -2209,6 +2234,11 @@
         {
           "scheduled_at": "2026-11-23T11:08:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-26T11:08:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]
@@ -4120,6 +4150,11 @@
           "scheduled_at": "2026-11-21T16:33:00+09:00",
           "registered_at": "2026-11-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-24T16:33:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -5911,6 +5946,11 @@
           "scheduled_at": "2026-10-30T11:08:00+09:00",
           "registered_at": "2026-10-27",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-26T19:52:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -7337,6 +7377,11 @@
           "registered_at": "2026-11-07",
           "views": 37,
           "posted_at": "2026-11-10T10:57:02.837+00:00"
+        },
+        {
+          "scheduled_at": "2026-11-26T14:42:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -7414,7 +7459,8 @@
         {
           "scheduled_at": "2026-11-17T19:52:00+09:00",
           "registered_at": "2026-11-13",
-          "views": null
+          "views": 13,
+          "posted_at": "2026-11-17T10:56:34.601+00:00"
         }
       ]
     },
@@ -7487,6 +7533,42 @@
         {
           "scheduled_at": "2026-11-23T16:33:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_33169484ff": {
+      "text": "男性は好意があって避けるより、負い目を感じて距離を取ることの方が多いんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-24T14:42:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_34652be4e6": {
+      "text": "元彼の沈黙は、気持ちが無くなった証拠じゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-25T19:52:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_49e72143b4": {
+      "text": "別れを告げられた時の、男の本心を話す。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-26T16:33:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]

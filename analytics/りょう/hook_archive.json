@@ -402,6 +402,21 @@
           "scheduled_at": "2026-11-24T19:52:00+09:00",
           "registered_at": "2026-11-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-25T14:42:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-26T14:42:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T16:33:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -615,6 +630,11 @@
         {
           "scheduled_at": "2026-11-22T19:52:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-25T21:47:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]
@@ -903,6 +923,16 @@
         {
           "scheduled_at": "2026-11-24T14:42:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-25T19:52:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T11:08:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]
@@ -1873,7 +1903,8 @@
         {
           "scheduled_at": "2026-08-12T21:03:00+09:00",
           "registered_at": "2026-08-10",
-          "views": null
+          "views": 16,
+          "posted_at": "2026-11-21T07:37:55.935+00:00"
         },
         {
           "scheduled_at": "2026-08-18T14:42:00+09:00",
@@ -2013,6 +2044,11 @@
         {
           "scheduled_at": "2026-11-22T21:47:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-25T16:33:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]
@@ -2656,6 +2692,11 @@
           "scheduled_at": "2026-11-23T19:52:00+09:00",
           "registered_at": "2026-11-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-26T11:08:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -3088,6 +3129,11 @@
         {
           "scheduled_at": "2026-09-16T16:33:00+09:00",
           "registered_at": "2026-09-15",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-26T19:52:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]
@@ -4442,6 +4488,42 @@
         {
           "scheduled_at": "2026-11-24T16:33:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a44d3e53df": {
+      "text": "嫌なところが一個もない子から、順番に消えていきます。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-26T21:47:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1cef5daa81": {
+      "text": "「2回目に誘われたから大丈夫」はウソ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-27T14:42:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3d556f972f": {
+      "text": "「合わせてくれる子ほど続く」は嘘",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-27T19:52:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]

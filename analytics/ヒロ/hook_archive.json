@@ -5228,6 +5228,126 @@
           "views": null
         }
       ]
+    },
+    "fookid_bdac734fc5": {
+      "text": "振った側の僕から言うと、男が振っておいて後悔するのって、元カノから連絡が来なくなった時なんです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-23T16:33:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d894e7d421": {
+      "text": "結局、彼の言葉を表面だけで受け取らず、その裏にある本音さえ読み違えなければ、",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-23T19:52:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_14f9ccc1ff": {
+      "text": "男ってその場では感情を切って「これでよかった」と思い込む生き物。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-23T21:47:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4698023466": {
+      "text": "「既読無視されたら次いつ送るべきか？」",
+      "structure_label": "具体策提示型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-24T11:08:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b3e31f4a6f": {
+      "text": "復縁したいなら「元彼は死んだ」くらいに思い込む方がいいです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-24T19:52:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a1b98e6ab8": {
+      "text": "回避型と復縁できてる女性は大体これ。",
+      "structure_label": "共通点提示型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-24T21:47:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_de35902b7a": {
+      "text": "男性は、本気で愛した人ほど思い出さないようにします。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-25T11:08:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_98098579e2": {
+      "text": "男はいつまでも子供のような心があるので『好きな相手ほど既読無視してしまう』ことがあります。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-25T14:42:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8cd6a11370": {
+      "text": "多くの男は別れを決めた瞬間よりも“別れたあと”に後悔し始めます。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-25T16:33:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6ee3be5021": {
+      "text": "既読無視ってマジでしんどいけど、回避型の男に関しては、",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-25T19:52:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
     }
   }
 }

@@ -231,8 +231,8 @@
       "first_seen_views": 4742,
       "first_seen_at": "2026-10-21T11:00:15.413+00:00",
       "status": "used",
-      "used_count": 1,
-      "last_used_at": "2026-10-22T09:26:35.521534+09:00",
+      "used_count": 2,
+      "last_used_at": "2026-11-22T09:38:25.846862+09:00",
       "sales_followed": false
     },
     "rcyc_309fb151a1": {
@@ -247,5 +247,5 @@
       "sales_followed": false
     }
   },
-  "updated_at": "2026-11-19T09:37:00.240026+09:00"
+  "updated_at": "2026-11-22T09:38:25.846862+09:00"
 }

@@ -408,6 +408,11 @@
           "scheduled_at": "2026-11-24T14:42:00+09:00",
           "registered_at": "2026-11-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T19:52:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -1544,6 +1549,11 @@
         {
           "scheduled_at": "2026-11-25T21:47:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-29T16:33:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]
@@ -3276,6 +3286,11 @@
           "scheduled_at": "2026-11-26T14:42:00+09:00",
           "registered_at": "2026-11-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-29T11:08:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -3565,6 +3580,11 @@
           "scheduled_at": "2026-11-23T11:08:00+09:00",
           "registered_at": "2026-11-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-28T11:08:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -3635,6 +3655,11 @@
         {
           "scheduled_at": "2026-11-25T14:42:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-28T21:47:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]
@@ -3755,6 +3780,11 @@
         {
           "scheduled_at": "2026-11-24T19:52:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T16:33:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]
@@ -5267,6 +5297,78 @@
         {
           "scheduled_at": "2026-11-26T19:52:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7d7d819886": {
+      "text": "男性って好意があって避けるより、負い目を感じて距離を取ることの方が多いんです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-27T14:42:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1649b16e54": {
+      "text": "「別れて正解だったはずなのに、なんか惜しい」なんです。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-27T21:47:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_408dac841c": {
+      "text": "男ってたとえ本命でも、関係を続ける自信をなくして離れることがある。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-28T14:42:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_dd1554b06f": {
+      "text": "復縁できる人とできない人の差は、可愛さでも縁でもなくて「自分の不安をコントロールできたか」だけなんです。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-28T19:52:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8e3284f996": {
+      "text": "これ言うと叩かれるんだけど、男なんてみんな元カノ好きなんだから1度引くことくらいビビらなく",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-29T14:42:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8291892040": {
+      "text": "彼の冷たいLINEは、あなたを嫌いになったサインじゃないんです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-29T19:52:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]

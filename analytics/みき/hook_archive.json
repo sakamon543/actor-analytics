@@ -2496,6 +2496,16 @@
           "scheduled_at": "2026-11-20T14:42:00+09:00",
           "registered_at": "2026-11-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-23T14:42:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-25T14:42:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -2529,6 +2539,11 @@
         {
           "scheduled_at": "2026-11-20T16:33:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-23T16:33:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]
@@ -2571,6 +2586,11 @@
           "scheduled_at": "2026-10-20T21:47:00+09:00",
           "registered_at": "2026-10-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-24T21:47:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
         }
       ]
     },
@@ -2592,6 +2612,11 @@
         {
           "scheduled_at": "2026-11-20T19:52:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-24T14:42:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]
@@ -2645,6 +2670,11 @@
         {
           "scheduled_at": "2026-10-22T11:08:00+09:00",
           "registered_at": "2026-10-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-23T21:47:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]
@@ -4804,6 +4834,78 @@
         {
           "scheduled_at": "2026-11-22T19:52:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a5d1d2fca7": {
+      "text": "年下の後輩は、「年上だから恋愛対象じゃない」とは思っていない",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-23T19:52:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_fe2f0ca745": {
+      "text": "職場の年下後輩を好きになった人へ。バレたらどうしよう、という不安で動けないなら、この数字を見てください",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-24T11:08:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_67cdbd0b4c": {
+      "text": "休憩中に「彼氏いないんですか？」って聞かれて「いないですよー」で返してない？",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-24T19:52:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_291cd30a95": {
+      "text": "結局、年下から告白される人って『自分から年齢の話をしない人』なんです",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-25T11:08:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4b8d145613": {
+      "text": "年下男性が年上に求めてるのは、若く見えることじゃなくて安心感です",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-25T16:33:00+09:00",
+          "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_d63e51206a": {
+      "text": "職場のランチは大チャンスですけど、2人になりそうな時に「みんなで行きましょう」と言うのは逆効果です",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-22",
+      "history": [
+        {
+          "scheduled_at": "2026-11-25T19:52:00+09:00",
+          "registered_at": "2026-11-22",
           "views": null
         }
       ]
