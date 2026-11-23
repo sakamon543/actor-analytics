@@ -200,6 +200,11 @@
           "scheduled_at": "2026-11-22T19:52:00+09:00",
           "registered_at": "2026-11-20",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-26T14:42:00+09:00",
+          "registered_at": "2026-11-23",
+          "views": null
         }
       ]
     },
@@ -468,6 +473,11 @@
           "scheduled_at": "2026-11-22T14:42:00+09:00",
           "registered_at": "2026-11-20",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-25T11:08:00+09:00",
+          "registered_at": "2026-11-23",
+          "views": null
         }
       ]
     },
@@ -587,6 +597,11 @@
         {
           "scheduled_at": "2026-06-10T14:42:00+09:00",
           "registered_at": "2026-06-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-25T19:52:00+09:00",
+          "registered_at": "2026-11-23",
           "views": null
         }
       ]
@@ -987,6 +1002,11 @@
           "scheduled_at": "2026-11-21T19:52:00+09:00",
           "registered_at": "2026-11-20",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-24T14:42:00+09:00",
+          "registered_at": "2026-11-23",
+          "views": null
         }
       ]
     },
@@ -1261,6 +1281,11 @@
         {
           "scheduled_at": "2026-11-18T19:52:00+09:00",
           "registered_at": "2026-11-17",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-26T16:33:00+09:00",
+          "registered_at": "2026-11-23",
           "views": null
         }
       ]
@@ -1923,6 +1948,11 @@
           "scheduled_at": "2026-11-22T11:08:00+09:00",
           "registered_at": "2026-11-20",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-25T14:42:00+09:00",
+          "registered_at": "2026-11-23",
+          "views": null
         }
       ]
     },
@@ -2204,6 +2234,11 @@
         {
           "scheduled_at": "2026-11-21T14:42:00+09:00",
           "registered_at": "2026-11-20",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-26T11:08:00+09:00",
+          "registered_at": "2026-11-23",
           "views": null
         }
       ]
@@ -2603,6 +2638,11 @@
         {
           "scheduled_at": "2026-11-21T21:47:00+09:00",
           "registered_at": "2026-11-20",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-24T21:47:00+09:00",
+          "registered_at": "2026-11-23",
           "views": null
         }
       ]
@@ -3783,6 +3823,11 @@
         {
           "scheduled_at": "2026-11-21T16:33:00+09:00",
           "registered_at": "2026-11-20",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-24T16:33:00+09:00",
+          "registered_at": "2026-11-23",
           "views": null
         }
       ]
@@ -7212,6 +7257,42 @@
         {
           "scheduled_at": "2026-11-23T19:52:00+09:00",
           "registered_at": "2026-11-20",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4c8910fd84": {
+      "text": "男は、「毎日話しかけてくれる＝好かれてる」とは思っていない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-23",
+      "history": [
+        {
+          "scheduled_at": "2026-11-24T19:52:00+09:00",
+          "registered_at": "2026-11-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_7c88aceec3": {
+      "text": "男の本音を言うと、気を遣われてる間は女として見ない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-23",
+      "history": [
+        {
+          "scheduled_at": "2026-11-25T21:47:00+09:00",
+          "registered_at": "2026-11-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4f10de7db7": {
+      "text": "意外かもだけど、男は『年上の女性に落ち着いて接される』と意識し始める生き物。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-23",
+      "history": [
+        {
+          "scheduled_at": "2026-11-26T19:52:00+09:00",
+          "registered_at": "2026-11-23",
           "views": null
         }
       ]
