@@ -881,6 +881,11 @@
           "scheduled_at": "2026-10-14T16:33:00+09:00",
           "registered_at": "2026-10-11",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T16:33:00+09:00",
+          "registered_at": "2026-11-24",
+          "views": null
         }
       ]
     },
@@ -1164,6 +1169,11 @@
         {
           "scheduled_at": "2026-11-24T14:42:00+09:00",
           "registered_at": "2026-11-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-26T21:47:00+09:00",
+          "registered_at": "2026-11-24",
           "views": null
         }
       ]
@@ -2331,6 +2341,11 @@
           "scheduled_at": "2026-11-20T21:47:00+09:00",
           "registered_at": "2026-11-18",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-26T14:42:00+09:00",
+          "registered_at": "2026-11-24",
+          "views": null
         }
       ]
     },
@@ -2957,6 +2972,11 @@
         {
           "scheduled_at": "2026-11-23T11:08:00+09:00",
           "registered_at": "2026-11-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-25T21:47:00+09:00",
+          "registered_at": "2026-11-24",
           "views": null
         }
       ]
@@ -5990,6 +6010,11 @@
           "scheduled_at": "2026-11-22T19:52:00+09:00",
           "registered_at": "2026-11-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-26T11:08:00+09:00",
+          "registered_at": "2026-11-24",
+          "views": null
         }
       ]
     },
@@ -6142,6 +6167,11 @@
         {
           "scheduled_at": "2026-11-22T14:42:00+09:00",
           "registered_at": "2026-11-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-25T19:52:00+09:00",
+          "registered_at": "2026-11-24",
           "views": null
         }
       ]
@@ -6682,6 +6712,11 @@
         {
           "scheduled_at": "2026-11-20T11:08:00+09:00",
           "registered_at": "2026-11-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-26T19:52:00+09:00",
+          "registered_at": "2026-11-24",
           "views": null
         }
       ]
@@ -7453,6 +7488,11 @@
           "registered_at": "2026-10-23",
           "views": 10735,
           "posted_at": "2026-10-25T10:59:30.69+00:00"
+        },
+        {
+          "scheduled_at": "2026-11-27T11:08:00+09:00",
+          "registered_at": "2026-11-24",
+          "views": null
         }
       ]
     },
@@ -7893,6 +7933,12 @@
         {
           "scheduled_at": "2026-11-21T11:08:00+09:00",
           "registered_at": "2026-11-18",
+          "views": 508,
+          "posted_at": "2026-11-21T02:12:59.511+00:00"
+        },
+        {
+          "scheduled_at": "2026-11-27T14:42:00+09:00",
+          "registered_at": "2026-11-24",
           "views": null
         }
       ]
@@ -7942,6 +7988,11 @@
           "scheduled_at": "2026-11-22T21:47:00+09:00",
           "registered_at": "2026-11-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T19:52:00+09:00",
+          "registered_at": "2026-11-24",
+          "views": null
         }
       ]
     },
@@ -7989,6 +8040,18 @@
         {
           "scheduled_at": "2026-11-24T16:33:00+09:00",
           "registered_at": "2026-11-21",
+          "views": null
+        }
+      ]
+    },
+    "fookid_500fb1dcd9": {
+      "text": "男は好意があって避けるより、負い目を感じて距離を取ることの方が多いのよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-24",
+      "history": [
+        {
+          "scheduled_at": "2026-11-25T16:33:00+09:00",
+          "registered_at": "2026-11-24",
           "views": null
         }
       ]
