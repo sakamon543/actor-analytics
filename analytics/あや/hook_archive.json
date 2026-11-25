@@ -874,6 +874,11 @@
           "scheduled_at": "2026-11-24T11:08:00+09:00",
           "registered_at": "2026-11-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-26T19:52:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -1150,6 +1155,11 @@
           "scheduled_at": "2026-11-12T21:47:00+09:00",
           "registered_at": "2026-11-10",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T14:42:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -1224,6 +1234,11 @@
         {
           "scheduled_at": "2026-10-26T16:33:00+09:00",
           "registered_at": "2026-10-23",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-28T14:42:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]
@@ -4795,6 +4810,11 @@
           "scheduled_at": "2026-11-23T21:47:00+09:00",
           "registered_at": "2026-11-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-26T16:33:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -4997,6 +5017,11 @@
           "scheduled_at": "2026-11-25T19:52:00+09:00",
           "registered_at": "2026-11-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T19:52:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -5089,6 +5114,11 @@
           "scheduled_at": "2026-11-24T14:42:00+09:00",
           "registered_at": "2026-11-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-28T19:52:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -5113,6 +5143,11 @@
           "scheduled_at": "2026-11-23T14:42:00+09:00",
           "registered_at": "2026-11-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T11:08:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -5136,6 +5171,66 @@
         {
           "scheduled_at": "2026-11-25T11:08:00+09:00",
           "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_31cc6ef3ef": {
+      "text": "男性って好意があって避けるより、負い目を感じて距離を取ることの方が多いんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-26T14:42:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b696f7f52c": {
+      "text": "信じられないかもだけど、既読無視中でも男はLINE来ることを喜んでたりする。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-26T21:47:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_95a0cea696": {
+      "text": "ブロックは嫌いになった合図じゃなくて、自分の気持ちを止めるためにやるものだよ。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-27T21:47:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_34d4da9f69": {
+      "text": "一度振られても、回避型の男が戻るかどうかは『本音を理解してもらえたか』で決まったりする。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-28T11:08:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f59d6dcf19": {
+      "text": "別れて1週間で元彼がマッチングアプリ始めてたとしても、",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-28T16:33:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]

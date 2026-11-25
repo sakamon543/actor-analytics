@@ -1049,6 +1049,11 @@
           "scheduled_at": "2026-11-18T14:42:00+09:00",
           "registered_at": "2026-11-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T11:08:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -2963,6 +2968,11 @@
           "scheduled_at": "2026-11-23T21:47:00+09:00",
           "registered_at": "2026-11-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-26T16:33:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -3397,6 +3407,11 @@
         {
           "scheduled_at": "2026-11-18T21:47:00+09:00",
           "registered_at": "2026-11-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T21:47:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]
@@ -3957,6 +3972,90 @@
         {
           "scheduled_at": "2026-11-25T19:52:00+09:00",
           "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9c86097d3b": {
+      "text": "年下男子は、『頼れる年上=恋愛対象』とは思っていない",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-26T19:52:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_adbaa20733": {
+      "text": "年下男子が『この人から離れられない』と沼る年上には、はっきりした共通点があるんです。若さでも、美貌でも、包容力でもありません。それは、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-26T21:47:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1b6efc5122": {
+      "text": "年下男子は、『頼れるお姉さん』から簡単に恋愛には切り替えられない",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-27T19:52:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_92dd5832d1": {
+      "text": "年下男子は、『話を聞いてくれる年上=恋愛対象』とは思っていない",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-28T11:08:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_cb5fa51576": {
+      "text": "『年上は大人の余裕を見せなきゃ』はウソ",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-28T14:42:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ed9df592fe": {
+      "text": "年下相手は弱音見せたもん勝ち←これマジだった",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-28T16:33:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_39793a8159": {
+      "text": "恋愛対象に入れない理由って『若くないから』とか『可愛くないから』みたいな理由じゃないんです",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-28T19:52:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]

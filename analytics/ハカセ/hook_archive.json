@@ -522,6 +522,11 @@
           "scheduled_at": "2026-11-19T19:52:00+09:00",
           "registered_at": "2026-11-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-28T14:42:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -926,6 +931,11 @@
         {
           "scheduled_at": "2026-11-24T21:47:00+09:00",
           "registered_at": "2026-11-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-28T11:08:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]
@@ -1414,6 +1424,11 @@
           "scheduled_at": "2026-11-24T19:52:00+09:00",
           "registered_at": "2026-11-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T19:52:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -1852,6 +1867,11 @@
           "scheduled_at": "2026-11-25T14:42:00+09:00",
           "registered_at": "2026-11-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T21:47:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -2105,6 +2125,11 @@
           "scheduled_at": "2026-11-22T21:47:00+09:00",
           "registered_at": "2026-11-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-29T14:42:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -2331,6 +2356,11 @@
         {
           "scheduled_at": "2026-11-13T14:42:00+09:00",
           "registered_at": "2026-11-10",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-28T21:47:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]
@@ -4154,6 +4184,11 @@
         {
           "scheduled_at": "2026-11-24T16:33:00+09:00",
           "registered_at": "2026-11-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T16:33:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]
@@ -7263,6 +7298,11 @@
           "scheduled_at": "2026-11-02T19:52:00+09:00",
           "registered_at": "2026-10-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-29T19:52:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -7569,6 +7609,54 @@
         {
           "scheduled_at": "2026-11-26T16:33:00+09:00",
           "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ee8a8c4d3c": {
+      "text": "男は好意があって避けるより、負い目を感じて距離を取ることの方が多いんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-27T14:42:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c1d4eabcdd": {
+      "text": "振った男が「やり直したい」って思うまでの平均日数、相談データで55日だったんだよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-28T19:52:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5eacf5602d": {
+      "text": "男の既読スルーは、もう無理だっていうサインじゃない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-29T11:08:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_0499e3dd20": {
+      "text": "男は、『友達から戻るのが一番安全』とは思っていない",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-29T16:33:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]

@@ -417,6 +417,21 @@
           "scheduled_at": "2026-11-27T16:33:00+09:00",
           "registered_at": "2026-11-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-28T14:42:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-29T11:08:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-29T21:47:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -635,6 +650,11 @@
         {
           "scheduled_at": "2026-11-25T21:47:00+09:00",
           "registered_at": "2026-11-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-30T11:08:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]
@@ -933,6 +953,16 @@
         {
           "scheduled_at": "2026-11-27T11:08:00+09:00",
           "registered_at": "2026-11-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-28T19:52:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-29T19:52:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]
@@ -2049,6 +2079,16 @@
         {
           "scheduled_at": "2026-11-25T16:33:00+09:00",
           "registered_at": "2026-11-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-28T21:47:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-30T14:42:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]
@@ -3294,6 +3334,11 @@
           "scheduled_at": "2026-09-24T11:08:00+09:00",
           "registered_at": "2026-09-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-30T19:52:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -3744,6 +3789,11 @@
         {
           "scheduled_at": "2026-10-20T21:47:00+09:00",
           "registered_at": "2026-10-18",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-28T16:33:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]
@@ -4524,6 +4574,30 @@
         {
           "scheduled_at": "2026-11-27T19:52:00+09:00",
           "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a704e4321a": {
+      "text": "「悪いところがなかった子」が、一番多く切られてます。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-29T14:42:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_4fb3d64832": {
+      "text": "男は「一番いい子」を選んでいません。違和感が出た子から消しているだけ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-30T16:33:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]

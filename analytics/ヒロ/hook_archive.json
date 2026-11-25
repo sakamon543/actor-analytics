@@ -5348,6 +5348,126 @@
           "views": null
         }
       ]
+    },
+    "fookid_a6a71f6956": {
+      "text": "回避型の男にとって既読無視は「嫌い」の合図じゃないことがほとんどです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-26T16:33:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_6cc1a632bf": {
+      "text": "「復縁は一度信頼失ったら無理」とか言われるけど、",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-26T19:52:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_06cade5b39": {
+      "text": "折れて戻ってるんですよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-26T21:47:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a3d7d6c2c6": {
+      "text": "回避型の男は、感情の波に弱くてぶつかられるとすぐ心を閉ざす。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-27T11:08:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_b56c3b15a0": {
+      "text": "元彼が回避型か見分ける方法👇",
+      "structure_label": "具体策型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-27T19:52:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5f880d810e": {
+      "text": "男は元カノとの思い出を簡単に消せない。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-27T21:47:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ecc4ab7643": {
+      "text": "回避型の男が別れたあと、元カノに対して内心こう思ってるんですよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-28T11:08:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_928703e6e1": {
+      "text": "回避型の男が復縁したくなる瞬間って、",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-28T14:42:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_33a548b5c5": {
+      "text": "ぶっちゃけるけど、回避型の男が別れを告げる時は「今の自分には無理」が本音なことがほとんど。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-28T16:33:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9721a16197": {
+      "text": "元彼が回避型か見分ける方法",
+      "structure_label": "具体策型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-28T19:52:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
     }
   }
 }

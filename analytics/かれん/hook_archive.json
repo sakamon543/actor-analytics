@@ -1030,6 +1030,11 @@
           "scheduled_at": "2026-11-26T16:33:00+09:00",
           "registered_at": "2026-11-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-30T19:52:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -1196,6 +1201,11 @@
         {
           "scheduled_at": "2026-11-28T11:08:00+09:00",
           "registered_at": "2026-11-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-30T21:47:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]
@@ -1621,6 +1631,11 @@
           "scheduled_at": "2026-11-27T14:42:00+09:00",
           "registered_at": "2026-11-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-01T11:08:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -1845,6 +1860,11 @@
         {
           "scheduled_at": "2026-11-26T21:47:00+09:00",
           "registered_at": "2026-11-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-12-01T14:42:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]
@@ -3081,6 +3101,11 @@
         {
           "scheduled_at": "2026-10-17T16:33:00+09:00",
           "registered_at": "2026-10-12",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-12-01T19:52:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]
@@ -4546,6 +4571,11 @@
           "scheduled_at": "2026-11-27T19:52:00+09:00",
           "registered_at": "2026-11-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-29T16:33:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -4890,6 +4920,11 @@
           "scheduled_at": "2026-11-26T19:52:00+09:00",
           "registered_at": "2026-11-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-29T21:47:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -4907,6 +4942,11 @@
           "scheduled_at": "2026-11-27T21:47:00+09:00",
           "registered_at": "2026-11-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-30T11:08:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -4918,6 +4958,11 @@
         {
           "scheduled_at": "2026-11-24T11:08:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-30T14:42:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]
@@ -4979,6 +5024,11 @@
           "scheduled_at": "2026-11-26T14:42:00+09:00",
           "registered_at": "2026-11-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-29T14:42:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -5014,6 +5064,30 @@
         {
           "scheduled_at": "2026-11-28T19:52:00+09:00",
           "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1a4639862f": {
+      "text": "今でこそ彼は毎日『一緒に寝よ』って言ってくるんだけど、",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-29T19:52:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_930fdb6499": {
+      "text": "ブロックされても復縁はできる。それ、私が証拠なんだよね。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-12-01T16:33:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]

@@ -2002,6 +2002,11 @@
           "scheduled_at": "2026-11-19T14:42:00+09:00",
           "registered_at": "2026-11-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T19:52:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -2144,6 +2149,11 @@
           "scheduled_at": "2026-11-18T21:47:00+09:00",
           "registered_at": "2026-11-16",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-26T16:33:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -2217,6 +2227,11 @@
         {
           "scheduled_at": "2026-11-01T19:52:00+09:00",
           "registered_at": "2026-10-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-28T11:08:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]
@@ -2348,6 +2363,11 @@
         {
           "scheduled_at": "2026-11-08T19:52:00+09:00",
           "registered_at": "2026-11-07",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T11:08:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]
@@ -3304,6 +3324,11 @@
         {
           "scheduled_at": "2026-11-02T21:47:00+09:00",
           "registered_at": "2026-10-31",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T14:42:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]
@@ -4906,6 +4931,90 @@
         {
           "scheduled_at": "2026-11-25T19:52:00+09:00",
           "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_c3340484d4": {
+      "text": "「彼氏いないんですか？」って後輩に聞かれて「いないですよー」で流してない？それ、脈ありの探りを自分で潰してるんですよね。",
+      "structure_label": "常識否定型（読者のNG行動名指し＋本当の意味）",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-26T14:42:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_bd991ff137": {
+      "text": "職場の年下後輩を好きになった人へ。バレたらどうしようという不安で動けないなら、この数字を見てください。職場恋愛を隠して付き合ってる人は83.7%です。",
+      "structure_label": "数字型（躊躇の解消）",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-26T19:52:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_409614c841": {
+      "text": "後輩が敬語を崩さないのは、あなたを女として見てない証拠じゃないです。",
+      "structure_label": "命題型（現象の意味の書き換え）",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-26T21:47:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_257e89d310": {
+      "text": "後輩から「彼氏いないんですか？」って聞かれて「いないですよー」で終わらせてない？あれ、「先輩は恋愛対象ですか」の最後の確認です。",
+      "structure_label": "男性心理暴露型（セリフの本当の意味）",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-27T21:47:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_769d50e6ff": {
+      "text": "年下男性が年上に求めてるのは、若く見える努力じゃなくて一緒にいて肩の力が抜ける時間です。",
+      "structure_label": "命題型（XじゃなくてYの対比断言）",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-28T14:42:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_f97bfd7fdb": {
+      "text": "年下の後輩は、一度「先輩」として見た相手に自分から踏み込めないです。",
+      "structure_label": "男性心理暴露型（できない断言）",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-28T16:33:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_759e317bd4": {
+      "text": "気になる後輩ほど自分から誘うべき、って思ってませんか。年下相手だと誘うのをやめた方が向こうから動き出すんですよね。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-28T19:52:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]

@@ -413,6 +413,11 @@
           "scheduled_at": "2026-11-27T19:52:00+09:00",
           "registered_at": "2026-11-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-30T14:42:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -2890,6 +2895,11 @@
           "registered_at": "2026-09-06",
           "views": 13,
           "posted_at": "2026-09-09T07:39:00.379+00:00"
+        },
+        {
+          "scheduled_at": "2026-12-02T14:42:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -3291,6 +3301,11 @@
           "scheduled_at": "2026-11-29T11:08:00+09:00",
           "registered_at": "2026-11-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-01T11:08:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -3585,6 +3600,11 @@
           "scheduled_at": "2026-11-28T11:08:00+09:00",
           "registered_at": "2026-11-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-01T19:52:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -3660,6 +3680,11 @@
         {
           "scheduled_at": "2026-11-28T21:47:00+09:00",
           "registered_at": "2026-11-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-12-02T11:08:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]
@@ -3785,6 +3810,11 @@
         {
           "scheduled_at": "2026-11-27T16:33:00+09:00",
           "registered_at": "2026-11-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-30T19:52:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]
@@ -5153,7 +5183,8 @@
         {
           "scheduled_at": "2026-11-21T19:52:00+09:00",
           "registered_at": "2026-11-16",
-          "views": null
+          "views": 11,
+          "posted_at": "2026-11-21T10:56:17.477+00:00"
         }
       ]
     },
@@ -5286,6 +5317,11 @@
           "scheduled_at": "2026-11-26T16:33:00+09:00",
           "registered_at": "2026-11-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-30T21:47:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
         }
       ]
     },
@@ -5369,6 +5405,66 @@
         {
           "scheduled_at": "2026-11-29T19:52:00+09:00",
           "registered_at": "2026-11-22",
+          "views": null
+        }
+      ]
+    },
+    "fookid_724072358b": {
+      "text": "元彼に新彼女ができて焦ってる人は大丈夫です。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-11-30T16:33:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5472d24ff3": {
+      "text": "別れ際の彼の冷たさは、あなたを嫌いになったサインじゃないんです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-12-01T14:42:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_de92146486": {
+      "text": "復縁のためには『彼が自分からこっちに近づいてくる状態』を作るのが必須。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-12-01T21:47:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_914c15895f": {
+      "text": "復縁できる人とできない人の差は、可愛さでも運でもなくて「自分の不安をコントロールできたか」だけなんです。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-12-02T16:33:00+09:00",
+          "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_10ce995b50": {
+      "text": "別れて3ヶ月くらい経ったら自分から連絡するようになってた。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-25",
+      "history": [
+        {
+          "scheduled_at": "2026-12-02T19:52:00+09:00",
+          "registered_at": "2026-11-25",
           "views": null
         }
       ]
