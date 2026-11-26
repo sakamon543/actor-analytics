@@ -478,6 +478,11 @@
           "scheduled_at": "2026-11-25T11:08:00+09:00",
           "registered_at": "2026-11-23",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-28T21:47:00+09:00",
+          "registered_at": "2026-11-26",
+          "views": null
         }
       ]
     },
@@ -1007,6 +1012,11 @@
           "scheduled_at": "2026-11-24T14:42:00+09:00",
           "registered_at": "2026-11-23",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T14:42:00+09:00",
+          "registered_at": "2026-11-26",
+          "views": null
         }
       ]
     },
@@ -1286,6 +1296,11 @@
         {
           "scheduled_at": "2026-11-26T16:33:00+09:00",
           "registered_at": "2026-11-23",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-29T14:42:00+09:00",
+          "registered_at": "2026-11-26",
           "views": null
         }
       ]
@@ -1953,6 +1968,11 @@
           "scheduled_at": "2026-11-25T14:42:00+09:00",
           "registered_at": "2026-11-23",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-28T19:52:00+09:00",
+          "registered_at": "2026-11-26",
+          "views": null
         }
       ]
     },
@@ -2239,6 +2259,11 @@
         {
           "scheduled_at": "2026-11-26T11:08:00+09:00",
           "registered_at": "2026-11-23",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T21:47:00+09:00",
+          "registered_at": "2026-11-26",
           "views": null
         }
       ]
@@ -2643,6 +2668,11 @@
         {
           "scheduled_at": "2026-11-24T21:47:00+09:00",
           "registered_at": "2026-11-23",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T19:52:00+09:00",
+          "registered_at": "2026-11-26",
           "views": null
         }
       ]
@@ -3828,6 +3858,11 @@
         {
           "scheduled_at": "2026-11-24T16:33:00+09:00",
           "registered_at": "2026-11-23",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-27T16:33:00+09:00",
+          "registered_at": "2026-11-26",
           "views": null
         }
       ]
@@ -5849,6 +5884,11 @@
           "scheduled_at": "2026-08-27T19:52:00+09:00",
           "registered_at": "2026-08-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-28T14:42:00+09:00",
+          "registered_at": "2026-11-26",
+          "views": null
         }
       ]
     },
@@ -7293,6 +7333,54 @@
         {
           "scheduled_at": "2026-11-26T19:52:00+09:00",
           "registered_at": "2026-11-23",
+          "views": null
+        }
+      ]
+    },
+    "fookid_540b7311a1": {
+      "text": "男が『俺のこと意識してるかも？』と感じる瞬間は、視線の長さだけ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-26",
+      "history": [
+        {
+          "scheduled_at": "2026-11-28T11:08:00+09:00",
+          "registered_at": "2026-11-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3a8f0be01d": {
+      "text": "男の業務連絡だけの態度は、年上女性に興味ないサインじゃない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-26",
+      "history": [
+        {
+          "scheduled_at": "2026-11-29T11:08:00+09:00",
+          "registered_at": "2026-11-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8652c3fd3d": {
+      "text": "男は、気になってる年上の同僚と簡単に雑談できない。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-26",
+      "history": [
+        {
+          "scheduled_at": "2026-11-29T16:33:00+09:00",
+          "registered_at": "2026-11-26",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5040f0e35a": {
+      "text": "男の本音を言うと、丁寧に接してくる年上は『いい人』で止まる。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-26",
+      "history": [
+        {
+          "scheduled_at": "2026-11-29T19:52:00+09:00",
+          "registered_at": "2026-11-26",
           "views": null
         }
       ]
