@@ -1175,6 +1175,11 @@
           "scheduled_at": "2026-11-26T21:47:00+09:00",
           "registered_at": "2026-11-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-29T11:08:00+09:00",
+          "registered_at": "2026-11-27",
+          "views": null
         }
       ]
     },
@@ -2346,6 +2351,11 @@
           "scheduled_at": "2026-11-26T14:42:00+09:00",
           "registered_at": "2026-11-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-30T16:33:00+09:00",
+          "registered_at": "2026-11-27",
+          "views": null
         }
       ]
     },
@@ -2977,6 +2987,11 @@
         {
           "scheduled_at": "2026-11-25T21:47:00+09:00",
           "registered_at": "2026-11-24",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-29T14:42:00+09:00",
+          "registered_at": "2026-11-27",
           "views": null
         }
       ]
@@ -5253,6 +5268,11 @@
           "scheduled_at": "2026-11-24T19:52:00+09:00",
           "registered_at": "2026-11-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-29T21:47:00+09:00",
+          "registered_at": "2026-11-27",
+          "views": null
         }
       ]
     },
@@ -6015,6 +6035,11 @@
           "scheduled_at": "2026-11-26T11:08:00+09:00",
           "registered_at": "2026-11-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-28T16:33:00+09:00",
+          "registered_at": "2026-11-27",
+          "views": null
         }
       ]
     },
@@ -6172,6 +6197,11 @@
         {
           "scheduled_at": "2026-11-25T19:52:00+09:00",
           "registered_at": "2026-11-24",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-28T19:52:00+09:00",
+          "registered_at": "2026-11-27",
           "views": null
         }
       ]
@@ -6718,6 +6748,11 @@
           "scheduled_at": "2026-11-26T19:52:00+09:00",
           "registered_at": "2026-11-24",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-30T11:08:00+09:00",
+          "registered_at": "2026-11-27",
+          "views": null
         }
       ]
     },
@@ -7205,6 +7240,11 @@
         {
           "scheduled_at": "2026-11-24T11:08:00+09:00",
           "registered_at": "2026-11-21",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-30T19:52:00+09:00",
+          "registered_at": "2026-11-27",
           "views": null
         }
       ]
@@ -7976,6 +8016,11 @@
           "scheduled_at": "2026-11-22T16:33:00+09:00",
           "registered_at": "2026-11-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-28T14:42:00+09:00",
+          "registered_at": "2026-11-27",
+          "views": null
         }
       ]
     },
@@ -7992,6 +8037,11 @@
         {
           "scheduled_at": "2026-11-27T19:52:00+09:00",
           "registered_at": "2026-11-24",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-28T21:47:00+09:00",
+          "registered_at": "2026-11-27",
           "views": null
         }
       ]
@@ -8052,6 +8102,30 @@
         {
           "scheduled_at": "2026-11-25T16:33:00+09:00",
           "registered_at": "2026-11-24",
+          "views": null
+        }
+      ]
+    },
+    "fookid_83a20dcee3": {
+      "text": "男が未練ゼロのときって、はっきりわかるのよ。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-27",
+      "history": [
+        {
+          "scheduled_at": "2026-11-29T19:52:00+09:00",
+          "registered_at": "2026-11-27",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3c134ff29c": {
+      "text": "『モテる女』と『沼らせる女』は、復縁においては全くの別モノなのよ。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-27",
+      "history": [
+        {
+          "scheduled_at": "2026-11-30T14:42:00+09:00",
+          "registered_at": "2026-11-27",
           "views": null
         }
       ]
