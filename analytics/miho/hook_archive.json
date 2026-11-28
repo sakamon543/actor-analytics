@@ -418,6 +418,11 @@
           "scheduled_at": "2026-11-30T14:42:00+09:00",
           "registered_at": "2026-11-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-03T19:52:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -1559,6 +1564,11 @@
         {
           "scheduled_at": "2026-11-29T16:33:00+09:00",
           "registered_at": "2026-11-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-12-04T21:47:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]
@@ -3306,6 +3316,11 @@
           "scheduled_at": "2026-12-01T11:08:00+09:00",
           "registered_at": "2026-11-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-04T19:52:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -3493,6 +3508,11 @@
           "scheduled_at": "2026-09-22T21:47:00+09:00",
           "registered_at": "2026-09-21",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-05T14:42:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -3604,6 +3624,11 @@
         {
           "scheduled_at": "2026-12-01T19:52:00+09:00",
           "registered_at": "2026-11-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-12-03T21:47:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]
@@ -5322,6 +5347,11 @@
           "scheduled_at": "2026-11-30T21:47:00+09:00",
           "registered_at": "2026-11-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-05T11:08:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -5418,6 +5448,11 @@
           "scheduled_at": "2026-11-30T16:33:00+09:00",
           "registered_at": "2026-11-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-04T14:42:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -5430,6 +5465,11 @@
           "scheduled_at": "2026-12-01T14:42:00+09:00",
           "registered_at": "2026-11-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-03T16:33:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -5441,6 +5481,11 @@
         {
           "scheduled_at": "2026-12-01T21:47:00+09:00",
           "registered_at": "2026-11-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-12-03T14:42:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]
@@ -5465,6 +5510,35 @@
         {
           "scheduled_at": "2026-12-02T19:52:00+09:00",
           "registered_at": "2026-11-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-12-05T19:52:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ce03a1cd4c": {
+      "text": "復縁できる人とできない人の差は、見た目でも冷却期間の長さでもなくて「自分の不安をコントロールできたか」だけなんです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-28",
+      "history": [
+        {
+          "scheduled_at": "2026-12-04T11:08:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_caefa03577": {
+      "text": "男は『好きだった相手』と簡単に友達みたいな関係には戻れないんです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-28",
+      "history": [
+        {
+          "scheduled_at": "2026-12-05T16:33:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]

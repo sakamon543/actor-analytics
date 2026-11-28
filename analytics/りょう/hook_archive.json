@@ -432,6 +432,16 @@
           "scheduled_at": "2026-11-29T21:47:00+09:00",
           "registered_at": "2026-11-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-01T14:42:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-12-02T21:47:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -656,6 +666,11 @@
           "scheduled_at": "2026-11-30T11:08:00+09:00",
           "registered_at": "2026-11-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-01T19:52:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -703,7 +718,8 @@
         {
           "scheduled_at": "2026-08-02T14:42:00+09:00",
           "registered_at": "2026-08-01",
-          "views": null
+          "views": 22,
+          "posted_at": "2026-11-25T10:57:51.893+00:00"
         },
         {
           "scheduled_at": "2026-08-04T19:17:00+09:00",
@@ -963,6 +979,16 @@
         {
           "scheduled_at": "2026-11-29T19:52:00+09:00",
           "registered_at": "2026-11-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-12-01T16:33:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-12-03T14:42:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]
@@ -2089,6 +2115,11 @@
         {
           "scheduled_at": "2026-11-30T14:42:00+09:00",
           "registered_at": "2026-11-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-12-01T21:47:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]
@@ -4598,6 +4629,78 @@
         {
           "scheduled_at": "2026-11-30T16:33:00+09:00",
           "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_731ae5270a": {
+      "text": "男が「この子はもう無い」と決めてるのは、帰り道です。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-28",
+      "history": [
+        {
+          "scheduled_at": "2026-12-02T11:08:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_5c0ba16027": {
+      "text": "嫌われてないのに消えます。嫌なところが一個もない子から消えてました。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-28",
+      "history": [
+        {
+          "scheduled_at": "2026-12-02T14:42:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_704b72d14e": {
+      "text": "「2回目に誘われた＝脈あり」じゃないです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-28",
+      "history": [
+        {
+          "scheduled_at": "2026-12-02T19:52:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_51ead317ad": {
+      "text": "「私のどこがダメだったの」に答えが出ないのは、ダメなところがなかったからです。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-28",
+      "history": [
+        {
+          "scheduled_at": "2026-12-03T11:08:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_47fd4ad41c": {
+      "text": "男は「一番いい子」を選んでいません。違和感が出た子から消しているだけです。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-28",
+      "history": [
+        {
+          "scheduled_at": "2026-12-03T16:33:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_3f898da4fb": {
+      "text": "全部合わせてくれた子が残るんじゃなくて、全部合わせてくれた子から消えてました。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-28",
+      "history": [
+        {
+          "scheduled_at": "2026-12-03T19:52:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]

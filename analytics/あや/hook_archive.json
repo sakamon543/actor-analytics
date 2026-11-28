@@ -879,6 +879,11 @@
           "scheduled_at": "2026-11-26T19:52:00+09:00",
           "registered_at": "2026-11-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-29T19:52:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -1239,6 +1244,11 @@
         {
           "scheduled_at": "2026-11-28T14:42:00+09:00",
           "registered_at": "2026-11-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-30T21:47:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]
@@ -4815,6 +4825,11 @@
           "scheduled_at": "2026-11-26T16:33:00+09:00",
           "registered_at": "2026-11-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-29T21:47:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -5022,6 +5037,11 @@
           "scheduled_at": "2026-11-27T19:52:00+09:00",
           "registered_at": "2026-11-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-29T14:42:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -5033,6 +5053,11 @@
         {
           "scheduled_at": "2026-11-20T21:47:00+09:00",
           "registered_at": "2026-11-19",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-30T11:08:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]
@@ -5050,6 +5075,11 @@
         {
           "scheduled_at": "2026-11-23T16:33:00+09:00",
           "registered_at": "2026-11-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-29T16:33:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]
@@ -5096,6 +5126,11 @@
         {
           "scheduled_at": "2026-11-25T14:42:00+09:00",
           "registered_at": "2026-11-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-30T19:52:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]
@@ -5220,6 +5255,11 @@
           "scheduled_at": "2026-11-28T11:08:00+09:00",
           "registered_at": "2026-11-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-01T14:42:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -5231,6 +5271,54 @@
         {
           "scheduled_at": "2026-11-28T16:33:00+09:00",
           "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_a9be875ef2": {
+      "text": "「追いすぎて嫌われたんだ…」って思ってる人、一回待ってほしいんだよね。",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-28",
+      "history": [
+        {
+          "scheduled_at": "2026-11-30T14:42:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_1f7a20617e": {
+      "text": "元彼に他の女がいるかもと思ってるなら、",
+      "structure_label": "反転希望型",
+      "first_used_at": "2026-11-28",
+      "history": [
+        {
+          "scheduled_at": "2026-12-01T11:08:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_07e6edea38": {
+      "text": "男にとって『一途に尽くしてくれた元カノ』はガチで特別だから、そんな簡単に上書きされないんだよね。",
+      "structure_label": "男性心理暴露型",
+      "first_used_at": "2026-11-28",
+      "history": [
+        {
+          "scheduled_at": "2026-12-01T16:33:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_8be5786202": {
+      "text": "男は、「友達からやり直せば安全」とは思っていない。",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-28",
+      "history": [
+        {
+          "scheduled_at": "2026-12-01T19:52:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]

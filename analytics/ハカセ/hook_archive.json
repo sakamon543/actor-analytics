@@ -527,6 +527,11 @@
           "scheduled_at": "2026-11-28T14:42:00+09:00",
           "registered_at": "2026-11-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-01T21:47:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -1429,6 +1434,11 @@
           "scheduled_at": "2026-11-27T19:52:00+09:00",
           "registered_at": "2026-11-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-30T19:52:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -1872,6 +1882,11 @@
           "scheduled_at": "2026-11-27T21:47:00+09:00",
           "registered_at": "2026-11-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-30T21:47:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -2130,6 +2145,11 @@
           "scheduled_at": "2026-11-29T14:42:00+09:00",
           "registered_at": "2026-11-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-01T11:08:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -2265,6 +2285,11 @@
           "scheduled_at": "2026-11-26T11:08:00+09:00",
           "registered_at": "2026-11-22",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-01T14:42:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -2361,6 +2386,11 @@
         {
           "scheduled_at": "2026-11-28T21:47:00+09:00",
           "registered_at": "2026-11-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-12-01T19:52:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]
@@ -4189,6 +4219,11 @@
         {
           "scheduled_at": "2026-11-27T16:33:00+09:00",
           "registered_at": "2026-11-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-30T16:33:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]
@@ -6468,6 +6503,11 @@
           "scheduled_at": "2026-11-09T21:47:00+09:00",
           "registered_at": "2026-11-07",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-02T16:33:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -7303,6 +7343,11 @@
           "scheduled_at": "2026-11-29T19:52:00+09:00",
           "registered_at": "2026-11-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-02T11:08:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -7538,6 +7583,11 @@
           "scheduled_at": "2026-11-22T11:08:00+09:00",
           "registered_at": "2026-11-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-02T19:52:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -7585,6 +7635,11 @@
         {
           "scheduled_at": "2026-11-24T14:42:00+09:00",
           "registered_at": "2026-11-22",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-30T14:42:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]
@@ -7657,6 +7712,18 @@
         {
           "scheduled_at": "2026-11-29T16:33:00+09:00",
           "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_9fe68ee330": {
+      "text": "振った男が「戻りたい」って思うまでの平均日数、相談データだと55日なんだよね。",
+      "structure_label": "命題型",
+      "first_used_at": "2026-11-28",
+      "history": [
+        {
+          "scheduled_at": "2026-12-02T14:42:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]

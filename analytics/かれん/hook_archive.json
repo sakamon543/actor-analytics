@@ -1035,6 +1035,11 @@
           "scheduled_at": "2026-11-30T19:52:00+09:00",
           "registered_at": "2026-11-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-02T19:52:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -1206,6 +1211,11 @@
         {
           "scheduled_at": "2026-11-30T21:47:00+09:00",
           "registered_at": "2026-11-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-12-03T14:42:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]
@@ -1636,6 +1646,11 @@
           "scheduled_at": "2026-12-01T11:08:00+09:00",
           "registered_at": "2026-11-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-03T21:47:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -1865,6 +1880,11 @@
         {
           "scheduled_at": "2026-12-01T14:42:00+09:00",
           "registered_at": "2026-11-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-12-02T21:47:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]
@@ -4576,6 +4596,11 @@
           "scheduled_at": "2026-11-29T16:33:00+09:00",
           "registered_at": "2026-11-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-04T11:08:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -4925,6 +4950,11 @@
           "scheduled_at": "2026-11-29T21:47:00+09:00",
           "registered_at": "2026-11-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-03T11:08:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -4947,6 +4977,11 @@
           "scheduled_at": "2026-11-30T11:08:00+09:00",
           "registered_at": "2026-11-25",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-03T19:52:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -4963,6 +4998,11 @@
         {
           "scheduled_at": "2026-11-30T14:42:00+09:00",
           "registered_at": "2026-11-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-12-02T14:42:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]
@@ -5000,6 +5040,11 @@
           "scheduled_at": "2026-11-25T14:42:00+09:00",
           "registered_at": "2026-11-19",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-12-04T14:42:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -5028,6 +5073,11 @@
         {
           "scheduled_at": "2026-11-29T14:42:00+09:00",
           "registered_at": "2026-11-25",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-12-02T16:33:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]
@@ -5088,6 +5138,30 @@
         {
           "scheduled_at": "2026-12-01T16:33:00+09:00",
           "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_463c8ffb72": {
+      "text": "私の彼は今でこそ毎日『一緒に寝よ』って言ってくるんだけど、",
+      "structure_label": "落差ストーリー型",
+      "first_used_at": "2026-11-28",
+      "history": [
+        {
+          "scheduled_at": "2026-12-04T16:33:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_02697155ee": {
+      "text": "「友達からやり直すのが安全」は嘘",
+      "structure_label": "常識否定型",
+      "first_used_at": "2026-11-28",
+      "history": [
+        {
+          "scheduled_at": "2026-12-04T19:52:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]

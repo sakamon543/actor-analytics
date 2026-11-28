@@ -229,6 +229,11 @@
           "scheduled_at": "2026-10-30T21:47:00+09:00",
           "registered_at": "2026-10-28",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-30T14:42:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -317,6 +322,11 @@
           "scheduled_at": "2026-11-15T21:47:00+09:00",
           "registered_at": "2026-11-13",
           "views": null
+        },
+        {
+          "scheduled_at": "2026-11-29T19:52:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
         }
       ]
     },
@@ -379,6 +389,11 @@
         {
           "scheduled_at": "2026-11-15T11:08:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-30T19:52:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]
@@ -452,6 +467,11 @@
         {
           "scheduled_at": "2026-11-14T19:52:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-29T21:47:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]
@@ -529,6 +549,11 @@
         {
           "scheduled_at": "2026-11-14T21:47:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-12-01T14:42:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]
@@ -850,6 +875,11 @@
         {
           "scheduled_at": "2026-11-14T14:42:00+09:00",
           "registered_at": "2026-11-13",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-29T14:42:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]
@@ -2165,6 +2195,11 @@
         {
           "scheduled_at": "2026-08-17T21:47:00+09:00",
           "registered_at": "2026-08-16",
+          "views": null
+        },
+        {
+          "scheduled_at": "2026-11-29T16:33:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]
@@ -5015,6 +5050,66 @@
         {
           "scheduled_at": "2026-11-28T19:52:00+09:00",
           "registered_at": "2026-11-25",
+          "views": null
+        }
+      ]
+    },
+    "fookid_545139c3b4": {
+      "text": "自分から誘わないと何も始まらない、って思ってませんか。4歳下の後輩相手だと、実は「誘うのをやめる」方が早いんですよね。",
+      "structure_label": "反転希望型（常識提示→逆が正解）",
+      "first_used_at": "2026-11-28",
+      "history": [
+        {
+          "scheduled_at": "2026-11-30T11:08:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_924bc0351f": {
+      "text": "「彼氏いないんですか？」を「いないですよー」で流したその一回で、後輩の中では「先輩は恋愛対象じゃない」が確定します。",
+      "structure_label": "常識否定型（具体セリフ名指し・短縮版）",
+      "first_used_at": "2026-11-28",
+      "history": [
+        {
+          "scheduled_at": "2026-11-30T21:47:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_96ec9e0228": {
+      "text": "後輩が動かないとき「興味がない」より圧倒的に多いのが「どうせ相手にされない」です。",
+      "structure_label": "男性心理暴露型（一般理由より本当の理由）",
+      "first_used_at": "2026-11-28",
+      "history": [
+        {
+          "scheduled_at": "2026-12-01T11:08:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_494142093b": {
+      "text": "職場のランチは大チャンスですけど、2人になりそうな時に「みんなで行きましょう」と他の人を巻き込むのは逆効果です。あなたが気を遣ってるつもりのその一言、彼には「距離を置かれた」としか届いてません。",
+      "structure_label": "常識否定型（肯定→逆効果宣言）",
+      "first_used_at": "2026-11-28",
+      "history": [
+        {
+          "scheduled_at": "2026-12-01T16:33:00+09:00",
+          "registered_at": "2026-11-28",
+          "views": null
+        }
+      ]
+    },
+    "fookid_ee8aac9aaf": {
+      "text": "頑張った分だけ距離は近づく、って思ってませんか。年下の後輩相手だと、実は「頑張らない」方がうまくいくんですよね。",
+      "structure_label": "反転希望型（常識提示→逆が正解）",
+      "first_used_at": "2026-11-28",
+      "history": [
+        {
+          "scheduled_at": "2026-12-01T19:52:00+09:00",
+          "registered_at": "2026-11-28",
           "views": null
         }
       ]
